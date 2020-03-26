@@ -1,0 +1,324 @@
+testRun: 12/19/05 @ 10:10 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2004-05 Oxford Campus
+Page: 77 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+HST 699 PA Vascik George S. American Journey:
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+20
+5
+1
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 76.9 19.2 3.8 0.0 0.0
+Course Total HST 699
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+20
+5
+1
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 76.9 19.2 3.8 0.0 0.0
+HST 840A PA Cayton Andrew R. Coll Teaching:US Hst Surveys
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+12
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0
+Course Total HST 840A
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+12
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0
+HST 840B PA Cayton Andrew R. Coll Tchng:Western Civ Surveys
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+12
+1
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 92.3 7.7
+Course Total HST 840B
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+12
+1
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 92.3 7.7
+History Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+15
+21
+29
+22
+8
+8
+5
+3
+2
+1
+0
+0
+2
+3
+0
+0
+6
+0
+0
+0
+3.15
+% 0.8 11.9 16.7 23.0 17.5 6.3 6.3 4.0 2.4 1.6 0.8 0.0 0.0 1.6 2.4 0.0 0.0 4.8 0.0 0.0 0.0
+GR 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+20
+5
+1
+24
+1
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 39.2 9.8 2.0 47.1 2.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

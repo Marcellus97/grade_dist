@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 15:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2000-01 Oxford Campus
+Page: 123 Sections of 10
+SOC Sociology
+Miami Plan
+Honors
+Cross Listing
+SOC 151 OA Flint William C. Social Relations
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+4
+2
+2
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 8.3 0.0 33.3 16.7 16.7 8.3 8.3 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SOC 151
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+4
+2
+2
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 8.3 0.0 33.3 16.7 16.7 8.3 8.3 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 202 MA Jipson Arthur J. Social Deviance
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+6
+3
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.54
+% 0.0 20.0 40.0 20.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SOC 202
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+6
+3
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.54
+% 0.0 20.0 40.0 20.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 352 OA Corbett Sherry L. Criminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+0
+0
+5
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 61.1 0.0 0.0 27.8 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SOC 352
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+0
+0
+5
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 61.1 0.0 0.0 27.8 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 440C OA Corbett Sherry L. Field Experience/Criminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+15
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

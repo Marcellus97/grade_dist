@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 438 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHS 430B A Chase Melissa A. Becoming Health & Phs Teacher
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+14
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 5.6 77.8 11.1 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 430B
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+14
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 5.6 77.8 11.1 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 430C A Freysinger Valeria J. Sport Studies Cap:Prof Exper
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+2
+1
+5
+1
+0
+1
+0
+1
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.41
+% 5.6 5.6 11.1 5.6 27.8 5.6 0.0 5.6 0.0 5.6 16.7 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 430C
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+2
+1
+5
+1
+0
+1
+0
+1
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.41
+% 5.6 5.6 11.1 5.6 27.8 5.6 0.0 5.6 0.0 5.6 16.7 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 430D A Claytor Randal P. Exercise Sci Cap:Prof Exper
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+22
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.91
+% 0.0 95.7 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 430D
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+22
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.91
+% 0.0 95.7 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 453A A Darbyshire Gregg R. Seminar Phs: Sport Marketing
+N
+N
+E4
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+44
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.98
+% 0.0 97.8 0.0 0.0 2.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,307 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Hamilton Campus
+Page: 772 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+COM 135 H N Patrick-Gaines Jennifer L. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+2
+0
+3
+2
+1
+0
+1
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 0.0 40.9 9.1 0.0 13.6 9.1 4.5 0.0 4.5 0.0 0.0 0.0 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 H P Owens Maya J. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+3
+7
+0
+3
+2
+0
+2
+0
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.41
+% 0.0 0.0 4.3 13.0 30.4 0.0 13.0 8.7 0.0 8.7 0.0 0.0 8.7 13.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 135
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+90
+51
+16
+43
+11
+13
+14
+3
+3
+4
+3
+22
+33
+0
+0
+0
+1
+0
+0
+0
+3.07
+% 1.6 28.8 16.3 5.1 13.8 3.5 4.2 4.5 1.0 1.0 1.3 1.0 7.1 10.6 0.0 0.0 0.0 0.3 0.0 0.0 0.0
+COM 136 H A Barnett Jane Intro:Interpersnal Communicatn
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+2
+1
+4
+4
+1
+3
+0
+0
+0
+0
+1
+4
+0
+0
+1
+0
+0
+0
+0
+2.77
+% 4.3 4.3 8.7 4.3 17.4 17.4 4.3 13.0 0.0 0.0 0.0 0.0 4.3 17.4 0.0 0.0 4.3 0.0 0.0 0.0 0.0
+COM 136 H B Barnett Jane Intro:Interpersnal Communicatn
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+0
+3
+2
+2
+4
+1
+1
+0
+1
+0
+0
+2
+4
+0
+0
+1
+0
+0
+0
+0
+2.67
+% 8.7 0.0 13.0 8.7 8.7 17.4 4.3 4.3 0.0 4.3 0.0 0.0 8.7 17.4 0.0 0.0 4.3 0.0 0.0 0.0 0.0
+COM 136 H C Barnett Jane Intro:Interpersnal Communicatn
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+0
+2
+4
+3
+2
+2
+0
+1
+0
+0
+3
+3
+0
+0
+1
+0
+0
+0
+0
+2.57
+% 7.7 11.5 0.0 7.7 15.4 11.5 7.7 7.7 0.0 3.8 0.0 0.0 11.5 11.5 0.0 0.0 3.8 0.0 0.0 0.0 0.0
+COM 136 H D O'Brien Jennifer C. Intro:Interpersnal Communicatn
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+1
+0
+5
+5
+1
+0
+0
+1
+0
+3
+0
+4
+0
+0
+0
+0
+0
+0
+0
+2.46
+% 4.8 0.0 4.8 0.0 23.8 23.8 4.8 0.0 0.0 4.8 0.0 14.3 0.0 19.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,305 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Hamilton Campus
+Page: 837 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MTH 101 H M Edler Heather M. Intro to Elementary Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7
+0
+0
+0
+9
+6
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 31.8 0.0 0.0 0.0 40.9 27.3 0.0 0.0
+MTH 101 H N Shen Liz A. Intro to Elementary Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+23
+6
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.5 0.0 0.0 0.0 74.2 19.4 0.0 0.0
+MTH 101 H O Dimmerling Amy J. Intro to Elementary Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+10
+4
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 22.2 0.0 0.0 0.0 55.6 22.2 0.0 0.0
+MTH 101 H3J Smith Shannon D. Intro to Elementary Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+10
+13
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 17.9 0.0 0.0 0.0 35.7 46.4 0.0 0.0
+Course Total MTH 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+88
+0
+0
+0
+167 130 0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 22.9 0.0 0.0 0.0 43.4 33.8 0.0 0.0
+MTH 102 H A Bach David J. Intermediate Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+0
+0
+4
+5
+1
+1
+6
+2
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.53
+% 12.0 0.0 0.0 16.0 20.0 4.0 4.0 24.0 8.0 0.0 0.0 0.0 8.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 102 H B Bach David J. Intermediate Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2
+1
+3
+2
+2
+3
+0
+3
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.02
+% 0.0 0.0 0.0 10.5 5.3 15.8 10.5 10.5 15.8 0.0 15.8 0.0 5.3 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

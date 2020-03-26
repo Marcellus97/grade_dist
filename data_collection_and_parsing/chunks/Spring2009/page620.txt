@@ -1,0 +1,46 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Middletown Campus
+Page: 617 Sections of 10
+Comp Information Technology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 6
+11
+4
+4
+5
+3
+0
+1
+2
+1
+0
+0
+1
+24
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 9.7 17.7 6.5 6.5 8.1 4.8 0.0 1.6 3.2 1.6 0.0 0.0 1.6 38.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

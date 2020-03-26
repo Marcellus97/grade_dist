@@ -1,0 +1,308 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Oxford Campus
+Page: 190 Sections of 10
+EDP Educational Psychology
+Miami Plan
+Honors
+Cross Listing
+EDP 101 A Watson Thomas S. Psychology Of The Learner
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+43
+1
+5
+8
+0
+0
+5
+0
+0
+2
+0
+2
+3
+0
+0
+0
+2
+1
+0
+0
+3.52
+% 11.1 53.1 1.2 6.2 9.9 0.0 0.0 6.2 0.0 0.0 2.5 0.0 2.5 3.7 0.0 0.0 0.0 2.5 1.2 0.0 0.0
+Course Total EDP 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+43
+1
+5
+8
+0
+0
+5
+0
+0
+2
+0
+2
+3
+0
+0
+0
+2
+1
+0
+0
+3.52
+% 11.1 53.1 1.2 6.2 9.9 0.0 0.0 6.2 0.0 0.0 2.5 0.0 2.5 3.7 0.0 0.0 0.0 2.5 1.2 0.0 0.0
+EDP 201 AA Hostutler Cody A. Human Dvlpmnt&Learng/Ed Envir
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+21
+15
+9
+11
+0
+0
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 1.6 34.4 24.6 14.8 18.0 0.0 0.0 3.3 0.0 1.6 0.0 0.0 1.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 201 AB Stenger Violet A. Human Dvlpmnt&Learng/Ed Envir
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+23
+15
+13
+3
+4
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.61
+% 1.6 37.7 24.6 21.3 4.9 6.6 1.6 0.0 0.0 0.0 0.0 0.0 0.0 1.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 201 AC Hostutler Cody A. Human Dvlpmnt&Learng/Ed Envir
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+22
+17
+7
+9
+1
+0
+3
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.50
+% 1.6 36.1 27.9 11.5 14.8 1.6 0.0 4.9 0.0 0.0 0.0 0.0 1.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 201 AD Stenger Violet A. Human Dvlpmnt&Learng/Ed Envir
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+24
+21
+8
+5
+5
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 0.0 36.9 32.3 12.3 7.7 7.7 1.5 0.0 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 201 AE Bergen Doris Human Dvlpmnt&Learng/Ed Envir
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+11
+6
+4
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 0.0 8.0 44.0 24.0 16.0 0.0 0.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

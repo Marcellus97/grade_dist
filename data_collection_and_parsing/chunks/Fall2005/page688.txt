@@ -1,0 +1,301 @@
+testRun: 01/25/06 @ 12:34 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2005-06 Middletown Campus
+Page: 685 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total PHS 130I
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+9
+2
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 81.8 18.2 0.0 0.0
+PHS 188 M A Haas Derek M. Exercise And Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+0
+0
+0
+2
+1
+2
+3
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.28
+% 11.8 17.6 0.0 0.0 0.0 11.8 5.9 11.8 17.6 5.9 0.0 5.9 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 188
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+0
+0
+0
+2
+1
+2
+3
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.28
+% 11.8 17.6 0.0 0.0 0.0 11.8 5.9 11.8 17.6 5.9 0.0 5.9 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 188L M A Haas Derek M. Exercise And Health Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+2
+0
+0
+5
+1
+0
+2
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 29.4 11.8 0.0 0.0 29.4 5.9 0.0 11.8 0.0 0.0 0.0 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 188L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+2
+0
+0
+5
+1
+0
+2
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 29.4 11.8 0.0 0.0 29.4 5.9 0.0 11.8 0.0 0.0 0.0 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 205 M A McGuire Keith Drugs: A Health Perspective
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+1
+2
+3
+0
+3
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.44
+% 0.0 14.3 0.0 7.1 14.3 21.4 0.0 21.4 0.0 7.1 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 205
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+1
+2
+3
+0
+3
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.44
+% 0.0 14.3 0.0 7.1 14.3 21.4 0.0 21.4 0.0 7.1 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

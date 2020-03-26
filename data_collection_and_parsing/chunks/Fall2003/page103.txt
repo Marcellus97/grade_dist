@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2003-04 Oxford Campus
+Page: 100 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+COM 337 A Obilade Anthony O. Intercultural Communication
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+16
+6
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.88
+% 14.3 57.1 21.4 3.6 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 337
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+16
+6
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.88
+% 14.3 57.1 21.4 3.6 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 338 A Nadler Lawrence B. Communication - Conflict Mgt
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+0
+2
+8
+0
+0
+2
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.19
+% 0.0 44.4 0.0 7.4 29.6 0.0 0.0 7.4 3.7 0.0 3.7 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 338
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+0
+2
+8
+0
+0
+2
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.19
+% 0.0 44.4 0.0 7.4 29.6 0.0 0.0 7.4 3.7 0.0 3.7 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 339 A Shulman Gary M. Intro To Organization Com
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+11
+8
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 0.0 10.0 16.7 36.7 26.7 6.7 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 339
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+11
+8
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 0.0 10.0 16.7 36.7 26.7 6.7 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 353 A Drushel Bruce E. Mass Media Audience Analysis
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+8
+11
+4
+2
+2
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.87
+% 0.0 0.0 6.5 25.8 35.5 12.9 6.5 6.5 0.0 0.0 0.0 0.0 3.2 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

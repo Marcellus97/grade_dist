@@ -1,0 +1,306 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Middletown Campus
+Page: 684 Sections of 10
+EDT Teacher Education
+Miami Plan
+Honors
+Cross Listing
+EDT 002 M B Hayes Marilyn C. College Reading II
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+18
+3
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 81.8 13.6 0.0 0.0
+EDT 002 M3A Foley Jeanne A. College Reading II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7
+0
+0
+0
+12
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 36.8 0.0 0.0 0.0 63.2 0.0 0.0 0.0
+Course Total EDT 002
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+0
+0
+0
+30
+3
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 19.5 0.0 0.0 0.0 73.2 7.3 0.0 0.0
+EDT 110R M A Foley Jeanne A. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+2
+1
+0
+4
+0
+0
+0
+0
+0
+2
+4
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 31.6 0.0 10.5 5.3 0.0 21.1 0.0 0.0 0.0 0.0 0.0 10.5 21.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110R M3A Rieger George T. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 50.0 7.1 7.1 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 21.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110R MRA Rieger George T. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+4
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.65
+% 15.4 38.5 30.8 0.0 0.0 7.7 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110R MRU Dille Mary L. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.55
+% 0.0 45.5 27.3 9.1 9.1 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,241 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2002-03 Middletown Campus
+Page: 170 Sections of 10
+FIN Finance
+Miami Plan
+Honors
+Cross Listing
+FIN 342 MMA Becker Paul A. Legal Environment Of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+1
+5
+7
+3
+3
+1
+0
+1
+0
+0
+1
+2
+2
+0
+0
+0
+0
+0
+2.58
+% 0.0 9.7 6.5 3.2 16.1 22.6 9.7 9.7 3.2 0.0 3.2 0.0 0.0 3.2 6.5 6.5 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 342
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+1
+5
+7
+3
+3
+1
+0
+1
+0
+0
+1
+2
+2
+0
+0
+0
+0
+0
+2.58
+% 0.0 9.7 6.5 3.2 16.1 22.6 9.7 9.7 3.2 0.0 3.2 0.0 0.0 3.2 6.5 6.5 0.0 0.0 0.0 0.0 0.0
+FIN 618 MOA Leonard David C. Financial Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+5
+6
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 27.3 0.0 22.7 27.3 0.0 9.1 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 618
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+5
+6
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 27.3 0.0 22.7 27.3 0.0 9.1 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Finance Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+3
+2
+1
+5
+7
+3
+3
+1
+0
+1
+0
+0
+1
+2
+2
+0
+0
+0
+0
+0
+2.58
+% 0.0 9.7 6.5 3.2 16.1 22.6 9.7 9.7 3.2 0.0 3.2 0.0 0.0 3.2 6.5 6.5 0.0 0.0 0.0 0.0 0.0
+GR 0
+6
+0
+5
+6
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 27.3 0.0 22.7 27.3 0.0 9.1 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

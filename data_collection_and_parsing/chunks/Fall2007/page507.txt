@@ -1,0 +1,304 @@
+testRun: 01/17/08 @ 12:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2007-08 Oxford Campus
+Page: 504 Sections of 10
+POL Political Science
+Miami Plan
+Honors
+Cross Listing
+POL 101 B Vanderbush Walter Politics and National Issues
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+16
+12
+11
+9
+5
+7
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 8.6 22.9 17.1 15.7 12.9 7.1 10.0 4.3 0.0 0.0 0.0 1.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total POL 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+16
+12
+11
+9
+5
+7
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 8.6 22.9 17.1 15.7 12.9 7.1 10.0 4.3 0.0 0.0 0.0 1.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+POL 101H A Marshall Bryan W. Politics and National Issues
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+5
+4
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 15.8 21.1 26.3 21.1 15.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total POL 101H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+5
+4
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 15.8 21.1 26.3 21.1 15.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+POL 102 A Berdieva Dilchoda N. Politics and Global Issues
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+4
+23
+19
+8
+31
+13
+0
+9
+0
+2
+4
+0
+0
+0
+1
+1
+0
+0
+2.35
+% 0.0 4.1 1.6 3.3 18.9 15.6 6.6 25.4 10.7 0.0 7.4 0.0 1.6 3.3 0.0 0.0 0.0 0.8 0.8 0.0 0.0
+POL 102 B Arnold Walter Politics and Global Issues
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+4
+13
+8
+8
+7
+4
+1
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 0.0 5.5 7.3 7.3 23.6 14.5 14.5 12.7 7.3 1.8 0.0 0.0 0.0 5.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total POL 102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+6
+8
+36
+27
+16
+38
+17
+1
+9
+0
+2
+7
+0
+0
+0
+1
+1
+0
+0
+2.46
+% 0.0 4.5 3.4 4.5 20.3 15.3 9.0 21.5 9.6 0.6 5.1 0.0 1.1 4.0 0.0 0.0 0.0 0.6 0.6 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

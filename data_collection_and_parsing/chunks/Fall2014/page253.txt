@@ -1,0 +1,309 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 249 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 111 GC Evans Theresa M. Composition and Rhetoric
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+14
+1
+1
+3
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 0.0 9.1 63.6 4.5 4.5 13.6 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 JB Moats Joshua F. Composition and Rhetoric
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+2
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.75
+% 0.0 81.8 9.1 0.0 0.0 0.0 0.0 4.5 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 JC Partner Bryan A. Composition and Rhetoric
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+8
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 0.0 57.1 38.1 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 JD Xiong Weiwei Composition and Rhetoric
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+20
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.97
+% 0.0 95.2 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 JE Perry Edwin R. Composition and Rhetoric
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+15
+4
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.80
+% 4.5 68.2 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 JF Njiru Henry M. Composition and Rhetoric
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+5
+3
+3
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 0.0 33.3 23.8 14.3 14.3 0.0 4.8 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 JG Streeter Lynne N. Composition and Rhetoric
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+4
+3
+5
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.50
+% 0.0 35.0 20.0 15.0 25.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

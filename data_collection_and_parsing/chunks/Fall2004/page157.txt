@@ -1,0 +1,303 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Oxford Campus
+Page: 154 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDL 684 A Magolda Peter M. Pro Eval & Assessmnt Higher Ed
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.64
+% 0.0 25.0 41.7 33.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDL 684
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.64
+% 0.0 25.0 41.7 33.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 761 QA Terrell Raymond Introduction to Study in EDL
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+7
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+3.95
+% 25.0 43.8 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 18.8 0.0 0.0 0.0 0.0
+Course Total EDL 761
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+7
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+3.95
+% 25.0 43.8 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 18.8 0.0 0.0 0.0 0.0
+EDL 780C QA Quantz Richard A. Adv Sem: Culture & Education
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+3.58
+% 0.0 33.3 13.3 6.7 13.3 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 26.7 0.0 0.0 0.0 0.0
+Course Total EDL 780C
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+3.58
+% 0.0 33.3 13.3 6.7 13.3 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 26.7 0.0 0.0 0.0 0.0
+EDL 780Q QA Quantz Richard A. Intro Qual Research In Eductn
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+1
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+3.51
+% 0.0 27.8 16.7 5.6 22.2 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 22.2 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

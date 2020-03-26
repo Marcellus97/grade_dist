@@ -1,0 +1,310 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 167 Sections of 10
+EDT Teacher Education
+Miami Plan
+Honors
+Cross Listing
+EDT 110 A Bloom Patrick N. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.77
+% 0.0 60.0 6.7 6.7 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110 B Bloom Patrick N. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+0
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 0.0 70.6 0.0 11.8 11.8 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110 C Fan Bingbing Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+5
+5
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+3.39
+% 0.0 43.5 21.7 21.7 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0
+EDT 110 D Haverkos Peter J. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+9
+0
+1
+7
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 18.5 33.3 0.0 3.7 25.9 0.0 0.0 18.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110 E Whetstine Christina R. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+5
+6
+2
+3
+3
+0
+0
+2
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+3.08
+% 17.2 17.2 20.7 6.9 10.3 10.3 0.0 0.0 6.9 0.0 0.0 0.0 0.0 0.0 0.0 10.3 0.0 0.0 0.0 0.0 0.0
+EDT 110 F Whetstine Christina R. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+12
+5
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+2
+0
+0
+0
+0
+3.67
+% 13.8 41.4 17.2 3.4 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.4 3.4 3.4 6.9 0.0 0.0 0.0 0.0
+EDT 110 G Fan Bingbing Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+0
+2
+5
+0
+1
+2
+0
+0
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.83
+% 10.5 15.8 0.0 10.5 26.3 0.0 5.3 10.5 0.0 0.0 15.8 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

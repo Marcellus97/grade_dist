@@ -1,0 +1,302 @@
+testRun: 12/19/05 @ 10:10 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2004-05 Oxford Campus
+Page: 122 Sections of 10
+SPA Speech Pathology & Audiology
+Miami Plan
+Honors
+Cross Listing
+SPA 623 PA Kahn Alice Spch Disordrs-Craniofacial Anm
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+3
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.76
+% 0.0 65.2 13.0 4.3 17.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPA 623
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+3
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.76
+% 0.0 65.2 13.0 4.3 17.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPA 699F PA Weinrich Barbara D. Voice Disorders
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+8
+5
+5
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.33
+% 0.0 8.3 33.3 20.8 20.8 8.3 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0
+Course Total SPA 699F
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+8
+5
+5
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.33
+% 0.0 8.3 33.3 20.8 20.8 8.3 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0
+SPA 750 MA Glaser Mary A. Professional Field Experience
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+17
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 13.6 77.3 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPA 750
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+17
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 13.6 77.3 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Speech Pathology & Audiology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+GR 3
+34
+12
+7
+9
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.68
+% 4.3 49.3 17.4 10.1 13.0 2.9 0.0 1.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.4 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

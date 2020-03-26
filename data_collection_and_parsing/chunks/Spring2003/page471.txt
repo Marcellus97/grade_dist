@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 468 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHS 468 B Cox Ronald H. Phys & Biophys Human Activity
+N
+N
+E6
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+2
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 0.0 9.1 18.2 27.3 18.2 9.1 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 468
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+4
+4
+4
+1
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 0.0 12.5 8.3 16.7 16.7 16.7 4.2 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 468L A Berglund Eric D. Physio of Human Activity Lab
+N
+N
+ET
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.88
+% 0.0 72.7 18.2 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 468L B Wellbery Laura M. Physio of Human Activity Lab
+N
+N
+EP
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.81
+% 0.0 78.6 7.1 7.1 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 468L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+19
+3
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 0.0 76.0 12.0 8.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 472 A Lindsay Peter R. Sport In Schools And Colleges
+N
+N
+AQ
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+2
+9
+4
+1
+2
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.90
+% 0.0 16.0 0.0 8.0 36.0 16.0 4.0 8.0 4.0 4.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 472
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+2
+9
+4
+1
+2
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.90
+% 0.0 16.0 0.0 8.0 36.0 16.0 4.0 8.0 4.0 4.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

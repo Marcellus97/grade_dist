@@ -1,0 +1,257 @@
+testRun: 06/23/14 @ 07:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2013-14 Hamilton Campus
+Page: 746 Sections of 10
+PHL Philosophy
+Miami Plan
+Honors
+Cross Listing
+PHL 131 H A Allen Daniel E. Prob Of Moral & Social Values
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+4
+7
+1
+0
+2
+1
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 0.0 17.4 4.3 17.4 30.4 4.3 0.0 8.7 4.3 0.0 4.3 0.0 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHL 131
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+4
+7
+1
+0
+2
+1
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 0.0 17.4 4.3 17.4 30.4 4.3 0.0 8.7 4.3 0.0 4.3 0.0 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHL 273 H A Allen Daniel E. Formal Logic
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+0
+3
+1
+0
+2
+0
+0
+0
+0
+0
+2
+4
+0
+0
+0
+0
+0
+0
+0
+2.79
+% 12.5 12.5 0.0 18.8 6.3 0.0 12.5 0.0 0.0 0.0 0.0 0.0 12.5 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHL 273 H B Allen Daniel E. Formal Logic
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+2
+3
+0
+2
+1
+1
+2
+0
+0
+0
+4
+4
+0
+0
+0
+0
+0
+0
+0
+2.26
+% 4.8 4.8 9.5 14.3 0.0 9.5 4.8 4.8 9.5 0.0 0.0 0.0 19.0 19.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHL 273
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+3
+2
+6
+1
+2
+3
+1
+2
+0
+0
+0
+6
+8
+0
+0
+0
+0
+0
+0
+0
+2.48
+% 8.1 8.1 5.4 16.2 2.7 5.4 8.1 2.7 5.4 0.0 0.0 0.0 16.2 21.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Philosophy Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 3
+7
+3
+10
+8
+3
+3
+3
+3
+0
+1
+0
+8
+8
+0
+0
+0
+0
+0
+0
+0
+2.60
+% 5.0 11.7 5.0 16.7 13.3 5.0 5.0 5.0 5.0 0.0 1.7 0.0 13.3 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

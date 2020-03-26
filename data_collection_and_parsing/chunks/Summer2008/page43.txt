@@ -1,0 +1,303 @@
+testRun: 12/01/08 @ 14:45 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2007-08 Oxford Campus
+Page: 41 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total EDP 596
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 607W MA Wang Aimin Educational Measurement&Evalua
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.92
+% 0.0 91.7 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDP 607W
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.92
+% 0.0 91.7 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 650B MA Southern William T. Sem In Spec Ed - Team Approach
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+21
+4
+1
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 6.5 67.7 12.9 3.2 3.2 3.2 0.0 0.0 0.0 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 650B MB Southern William T. Sem In Spec Ed - Team Approach
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+18
+5
+3
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 3.3 60.0 16.7 10.0 3.3 3.3 0.0 0.0 0.0 0.0 0.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 650B MC Southern William T. Sem In Spec Ed - Team Approach
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+9
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 4.5 36.4 40.9 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDP 650B
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+47
+18
+5
+3
+2
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 4.8 56.6 21.7 6.0 3.6 2.4 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

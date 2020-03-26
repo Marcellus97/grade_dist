@@ -1,0 +1,310 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Oxford Campus
+Page: 169 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDT 421E C Hanby Donna M. Classroom Management
+N
+N
+3Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+16
+6
+4
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.76
+% 3.4 55.2 20.7 13.8 3.4 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 421E D Knestrict Thomas Classroom Management
+N
+N
+3Z
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+19
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.97
+% 86.4 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDT 421E
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+20
+78
+8
+4
+6
+1
+0
+1
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+3.88
+% 16.7 65.0 6.7 3.3 5.0 0.8 0.0 0.8 0.0 0.0 0.0 0.0 0.0 0.8 0.8 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 421S A Shearer Robert L. Classroom Management
+N
+N
+4A
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+0
+4
+4
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 0.0 61.5 0.0 15.4 15.4 0.0 3.8 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 421S B Humbach Nancy A. Classroom Management
+N
+N
+4B
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+7
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.86
+% 35.3 41.2 11.8 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 421S C Evans Homer S. Classroom Management
+N
+N
+4C
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+4
+1
+5
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.55
+% 20.0 26.7 6.7 33.3 6.7 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDT 421S
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+27
+3
+10
+6
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 15.5 46.6 5.2 17.2 10.3 0.0 1.7 1.7 0.0 0.0 0.0 0.0 1.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

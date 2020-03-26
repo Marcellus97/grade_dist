@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 82 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+COM 135H P Benton Bond H. Intro: Publ Express & Crit Inq
+Y
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 135H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 136 A Shulman Carol H. Intro:Interpersnal Communicatn
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+6
+14
+2
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.03
+% 0.0 3.3 6.7 20.0 46.7 6.7 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.3 0.0 0.0 0.0 0.0
+COM 136 B Shulman Carol H. Intro:Interpersnal Communicatn
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+10
+6
+2
+3
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 0.0 10.0 10.0 33.3 20.0 6.7 10.0 6.7 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 136 C Brickner Aimee R. Intro:Interpersnal Communicatn
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+10
+14
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.76
+% 9.7 32.3 45.2 9.7 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 136 D Wilkin Holley A. Intro:Interpersnal Communicatn
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+3
+8
+5
+4
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 19.4 9.7 25.8 16.1 12.9 6.5 6.5 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 136 E Lowry Dawn M. Intro:Interpersnal Communicatn
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+26
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3.84
+% 0.0 78.8 0.0 0.0 15.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.1 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

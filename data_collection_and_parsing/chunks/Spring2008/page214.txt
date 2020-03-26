@@ -1,0 +1,309 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Oxford Campus
+Page: 211 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 112 OG Ford Grable M. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+5
+4
+9
+1
+0
+1
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 0.0 21.7 17.4 39.1 4.3 0.0 4.3 4.3 4.3 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 OH Beemer Lawrence Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+9
+9
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.57
+% 0.0 17.4 39.1 39.1 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 PA Mendoza Mark S. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+3
+1
+5
+3
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+3.24
+% 0.0 26.1 8.7 13.0 4.3 21.7 13.0 0.0 0.0 0.0 0.0 0.0 0.0 8.7 0.0 0.0 0.0 4.3 0.0 0.0 0.0
+ENG 112 PB Ehritz Andrew A. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+18
+1
+1
+3
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.68
+% 4.0 72.0 4.0 4.0 12.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 RA McKinnon Katherine E. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+16
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.98
+% 25.0 66.7 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 RB Smith Sarah J. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+7
+1
+2
+2
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 0.0 36.4 31.8 4.5 9.1 9.1 0.0 0.0 4.5 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 RC Rees Richard Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+7
+7
+2
+1
+2
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 0.0 8.7 30.4 30.4 8.7 4.3 8.7 4.3 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

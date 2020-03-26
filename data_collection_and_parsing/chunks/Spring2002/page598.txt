@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Middletown Campus
+Page: 595 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BTE 112 M A Kinnaird Jean E. Intro: Human Resource Managmnt
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+1
+4
+2
+4
+2
+1
+0
+3
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.41
+% 0.0 13.0 0.0 4.3 17.4 8.7 17.4 8.7 4.3 0.0 13.0 0.0 4.3 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 112
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+1
+4
+2
+4
+2
+1
+0
+3
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.41
+% 0.0 13.0 0.0 4.3 17.4 8.7 17.4 8.7 4.3 0.0 13.0 0.0 4.3 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 121A MXA Haley Duane E. Keyboarding
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+3.38
+% 0.0 78.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 14.3 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 121A
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+3.38
+% 0.0 78.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 14.3 0.0 0.0 0.0 0.0 0.0
+BTE 121B MYA Haley Duane E. Keyboarding
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.54
+% 0.0 41.2 0.0 0.0 35.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 23.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 121B
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.54
+% 0.0 41.2 0.0 0.0 35.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 23.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 121C MZA Haley Duane E. Keyboarding
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+7
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 0.0 41.2 0.0 5.9 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 41.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,74 @@
+testCOM Communication
+723
+CSA Computer Sci &Systems Analysis
+726
+DSC Decision Sciences
+730
+ECO Economics
+731
+EDL Educational Leadership
+732
+EDP Educational Psychology
+735
+EDT Teacher Education
+736
+ENG English
+740
+ENT Engineering Technology
+752
+FIN Finance
+755
+FRE French
+756
+FST Film Studies
+757
+FSW Family Studies And Social Work
+758
+GEO Geography
+761
+GER German
+762
+GLG Geology
+763
+GTY Gerontology
+765
+HST History
+766
+IDS Interdisciplinary
+770
+LAS Latin American Studies
+771
+MBI Microbiology
+772
+MGT Management
+773
+MIS Management Information Systems
+774
+MKT Marketing
+775
+MTH Mathematics
+776
+MUS Music
+783
+NSG Nursing
+786
+PHL Philosophy
+788
+PHS Phy Edu, Hlth, & Sport Studies
+789
+PHY Physics
+796
+POL Political Science
+798
+PSY Psychology
+800
+SOC Sociology
+802
+SPN Spanish
+803
+STA Statistics
+804
+THE Theatre
+806
+ZOO Zoology
+808

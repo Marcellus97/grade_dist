@@ -1,0 +1,309 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Oxford Campus
+Page: 242 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 112 NO Mitchell Lindsay J. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+11
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.79
+% 0.0 40.9 50.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 RA Balestra Alisa A. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+4
+3
+8
+3
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 4.3 4.3 17.4 13.0 34.8 13.0 0.0 4.3 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 RB Simoneaux Brent A. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+13
+1
+2
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.55
+% 0.0 17.4 56.5 4.3 8.7 4.3 0.0 4.3 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 RC Ponto Jessica J. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+9
+2
+1
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.60
+% 0.0 27.3 40.9 9.1 4.5 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 4.5 0.0 0.0 0.0
+ENG 112 RD Burkey Adam P. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+15
+6
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.88
+% 4.3 65.2 26.1 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 RE Welch Alison M. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+6
+4
+2
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 0.0 18.2 13.6 27.3 18.2 9.1 9.1 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 RF Chang Tan Feng Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+11
+4
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.75
+% 13.6 50.0 18.2 9.1 4.5 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

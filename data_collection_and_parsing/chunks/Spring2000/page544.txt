@@ -1,0 +1,311 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 541 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+WCP 134 A Garrison Andrew Social Systems I
+Y
+N
+N8
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+2
+1
+1
+0
+3
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+2.65
+% 0.0 0.0 15.4 15.4 7.7 7.7 0.0 23.1 15.4 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 7.7 0.0 0.0
+WCP 134 B Metcalf Eugene W. Social Systems I
+Y
+N
+N9
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+2
+2
+4
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 6.7 13.3 13.3 13.3 26.7 20.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+WCP 134 C Garrison Andrew Social Systems I
+Y
+N
+O1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+0
+5
+2
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.83
+% 0.0 7.7 15.4 0.0 38.5 15.4 7.7 0.0 7.7 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+WCP 134 D Wolfe Christopher R. Social Systems I
+Y
+N
+O2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+2
+3
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 16.7 8.3 16.7 25.0 25.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total WCP 134
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+7
+6
+11
+10
+5
+3
+4
+0
+1
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+2.88
+% 0.0 7.5 13.2 11.3 20.8 18.9 9.4 5.7 7.5 0.0 1.9 0.0 0.0 1.9 0.0 0.0 0.0 0.0 1.9 0.0 0.0
+WCP 141 A Harrison-Pepper Sally Interdisciplinary Fine Arts
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+7
+4
+0
+2
+1
+1
+1
+1
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.15
+% 0.0 9.5 33.3 19.0 0.0 9.5 4.8 4.8 4.8 4.8 0.0 0.0 0.0 4.8 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+WCP 141 B Harrison-Pepper Sally Interdisciplinary Fine Arts
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+8
+4
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.56
+% 0.0 28.6 38.1 19.0 4.8 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

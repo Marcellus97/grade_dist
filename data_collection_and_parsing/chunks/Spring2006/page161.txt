@@ -1,0 +1,308 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 158 Sections of 10
+EDP Educational Psychology
+Miami Plan
+Honors
+Cross Listing
+EDP 101 A Bailey Glenn E. Psychology Of The Learner
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+15
+29
+23
+13
+5
+8
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+2
+0
+0
+0
+3.40
+% 3.0 15.0 29.0 23.0 13.0 5.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 1.0 2.0 0.0 0.0 0.0
+Course Total EDP 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+15
+29
+23
+13
+5
+8
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+2
+0
+0
+0
+3.40
+% 3.0 15.0 29.0 23.0 13.0 5.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 1.0 2.0 0.0 0.0 0.0
+EDP 201 A Elie Stephanie Z. Human Dvlpmnt&Learng/Ed Envir
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+17
+1
+4
+3
+1
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.55
+% 6.7 56.7 3.3 13.3 10.0 3.3 0.0 3.3 0.0 0.0 0.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 201 B Elie Stephanie Z. Human Dvlpmnt&Learng/Ed Envir
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+31
+25
+4
+3
+5
+1
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+3.76
+% 42.5 34.2 5.5 4.1 6.8 1.4 1.4 1.4 0.0 0.0 0.0 0.0 1.4 0.0 0.0 0.0 0.0 1.4 0.0 0.0 0.0
+EDP 201 C Thomas Alex Human Dvlpmnt&Learng/Ed Envir
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+11
+7
+10
+6
+6
+3
+2
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.98
+% 0.0 15.5 19.0 12.1 17.2 10.3 10.3 5.2 3.4 3.4 1.7 0.0 1.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 201 D Thomas Alex Human Dvlpmnt&Learng/Ed Envir
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+20
+13
+8
+10
+2
+1
+3
+1
+0
+1
+0
+0
+0
+0
+0
+3
+0
+0
+0
+3.26
+% 0.0 19.5 26.0 16.9 10.4 13.0 2.6 1.3 3.9 1.3 0.0 1.3 0.0 0.0 0.0 0.0 0.0 3.9 0.0 0.0 0.0
+EDP 201 E Bailey Glenn E. Human Dvlpmnt&Learng/Ed Envir
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+19
+17
+16
+20
+6
+0
+0
+1
+0
+0
+0
+1
+0
+0
+1
+1
+0
+0
+0
+3.19
+% 1.1 9.8 20.7 18.5 17.4 21.7 6.5 0.0 0.0 1.1 0.0 0.0 0.0 1.1 0.0 0.0 1.1 1.1 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

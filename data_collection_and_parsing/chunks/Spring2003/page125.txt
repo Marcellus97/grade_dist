@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 122 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+DSC 205 H Sietsema Brenda L. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+13
+1
+4
+9
+1
+1
+5
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.17
+% 11.9 31.0 2.4 9.5 21.4 2.4 2.4 11.9 0.0 2.4 2.4 0.0 0.0 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0
+DSC 205 I Sietsema Brenda L. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+13
+0
+2
+13
+0
+0
+3
+0
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.19
+% 14.6 31.7 0.0 4.9 31.7 0.0 0.0 7.3 0.0 2.4 4.9 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+DSC 205 J Krallman Denise A. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+10
+13
+6
+4
+6
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.67
+% 23.8 31.0 14.3 9.5 14.3 2.4 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0
+DSC 205 K Krehbiel Timothy C. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+4
+4
+6
+9
+7
+0
+0
+0
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.92
+% 4.9 12.2 9.8 9.8 14.6 22.0 17.1 0.0 0.0 0.0 2.4 4.9 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0
+DSC 205 L Sietsema Brenda L. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+13
+0
+3
+11
+0
+1
+4
+1
+0
+2
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+2.97
+% 2.6 33.3 0.0 7.7 28.2 0.0 2.6 10.3 2.6 0.0 5.1 0.0 0.0 2.6 0.0 5.1 0.0 0.0 0.0 0.0 0.0
+DSC 205 M Humphrey Susan N. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+0
+0
+13
+0
+0
+2
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.46
+% 0.0 55.3 0.0 0.0 34.2 0.0 0.0 5.3 0.0 0.0 2.6 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total DSC 205
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+30
+157 24
+28
+124 26
+16
+45
+7
+3
+15
+2
+4
+5
+9
+6
+2
+0
+0
+0
+0
+3.14
+% 6.0 31.2 4.8 5.6 24.7 5.2 3.2 8.9 1.4 0.6 3.0 0.4 0.8 1.0 1.8 1.2 0.4 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

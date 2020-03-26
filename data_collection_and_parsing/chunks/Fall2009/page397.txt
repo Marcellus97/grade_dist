@@ -1,0 +1,307 @@
+testRun: 01/21/10 @ 13:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2009-10 Oxford Campus
+Page: 393 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total KNH 392
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+3
+2
+2
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 0.0 14.3 21.4 21.4 14.3 14.3 0.0 0.0 7.1 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 402 A McDonald Mary G. Critical Refl on Practices
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+0
+5
+2
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 0.0 33.3 11.1 0.0 27.8 11.1 5.6 5.6 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 402 B Spillman Diana M. Critical Refl on Practices
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+15
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.92
+% 10.0 75.0 10.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 402 C Claytor Randal P. Critical Refl on Practices
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+2
+4
+0
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 0.0 57.1 9.5 19.0 0.0 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 402 D Kimiecik John C. Critical Refl on Practices
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.94
+% 0.0 88.2 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 402 E Fennell Reginald Critical Refl on Practices
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+13
+0
+0
+0
+3.48
+% 0.0 0.0 16.7 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 72.2 0.0 0.0 0.0
+KNH 402 F Berg William P. Critical Refl on Practices
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+9
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 0.0 0.0 0.0 90.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

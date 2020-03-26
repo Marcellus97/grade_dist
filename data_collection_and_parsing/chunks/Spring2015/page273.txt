@@ -1,0 +1,303 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Oxford Campus
+Page: 269 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total FIN 301
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+35
+19
+50
+72
+21
+62
+31
+17
+19
+19
+8
+13
+36
+0
+0
+0
+0
+0
+0
+0
+2.56
+% 1.0 8.6 4.7 12.3 17.7 5.2 15.3 7.6 4.2 4.7 4.7 2.0 3.2 8.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 301C A Scanlon William J. Intro to Business Finance
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+8
+2
+4
+1
+0
+2
+5
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 3.2 19.4 25.8 6.5 12.9 3.2 0.0 6.5 16.1 3.2 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 301C
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+8
+2
+4
+1
+0
+2
+5
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 3.2 19.4 25.8 6.5 12.9 3.2 0.0 6.5 16.1 3.2 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 302 A Borokhovich Kenneth A. Intermed Financial Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+5
+8
+5
+4
+5
+2
+2
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 0.0 12.8 12.8 20.5 12.8 10.3 12.8 5.1 5.1 2.6 0.0 0.0 5.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 302 B Thompson Mary E. Intermed Financial Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+0
+0
+18
+0
+0
+14
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 25.6 0.0 0.0 41.9 0.0 0.0 32.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 302 C Biggerstaff Lee E. Intermed Financial Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+1
+3
+10
+10
+5
+3
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 4.8 11.9 2.4 7.1 23.8 23.8 11.9 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 302 D Biggerstaff Lee E. Intermed Financial Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+5
+4
+7
+7
+6
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.98
+% 5.0 10.0 12.5 10.0 17.5 17.5 15.0 10.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

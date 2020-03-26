@@ -1,0 +1,306 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Oxford Campus
+Page: 543 Sections of 10
+THE Theatre
+Miami Plan
+Honors
+Cross Listing
+THE 101 B Lowe Mary L. Intro Theatre: Dramas & Anlys
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+3
+1
+2
+0
+1
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+3.67
+% 0.0 60.7 10.7 3.6 7.1 0.0 3.6 0.0 0.0 0.0 3.6 0.0 0.0 0.0 7.1 0.0 0.0 3.6 0.0 0.0 0.0
+THE 101 C Kurahashi Yuko Intro Theatre: Dramas & Anlys
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+5
+1
+3
+1
+1
+0
+0
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 53.3 16.7 3.3 10.0 3.3 3.3 0.0 0.0 0.0 0.0 3.3 0.0 3.3 3.3 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total THE 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+33
+8
+2
+5
+1
+2
+0
+0
+0
+1
+1
+0
+1
+3
+0
+0
+1
+0
+0
+0
+3.63
+% 0.0 56.9 13.8 3.4 8.6 1.7 3.4 0.0 0.0 0.0 1.7 1.7 0.0 1.7 5.2 0.0 0.0 1.7 0.0 0.0 0.0
+THE 103 A Neuerer Gina C. Intro Theatre:Productn&Perf I
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+37
+0
+1
+5
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+0
+2
+0
+0
+0
+3.74
+% 12.5 66.1 0.0 1.8 8.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.8 1.8 1.8 1.8 0.0 3.6 0.0 0.0 0.0
+Course Total THE 103
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+37
+0
+1
+5
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+0
+2
+0
+0
+0
+3.74
+% 12.5 66.1 0.0 1.8 8.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.8 1.8 1.8 1.8 0.0 3.6 0.0 0.0 0.0
+THE 123 A Willett Chad J. Acting For The Non-Major
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 94.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+THE 123 B Willett Chad J. Acting For The Non-Major
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+19
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+3.86
+% 0.0 82.6 0.0 0.0 4.3 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

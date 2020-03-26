@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Oxford Campus
+Page: 430 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHS 188 A Sliger Jennifer Exercise And Health
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+26
+2
+0
+18
+1
+0
+2
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 1.9 50.0 3.8 0.0 34.6 1.9 0.0 3.8 0.0 0.0 1.9 0.0 0.0 1.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 188 B Kimiecik John C. Exercise And Health
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+5
+7
+12
+6
+0
+3
+4
+0
+0
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+3.01
+% 4.2 12.5 10.4 14.6 25.0 12.5 0.0 6.3 8.3 0.0 0.0 0.0 0.0 4.2 0.0 2.1 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 188
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+32
+7
+7
+30
+7
+0
+5
+4
+0
+1
+0
+0
+3
+0
+1
+0
+0
+0
+0
+0
+3.25
+% 3.0 32.0 7.0 7.0 30.0 7.0 0.0 5.0 4.0 0.0 1.0 0.0 0.0 3.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0
+PHS 188L A Wright Aaron L. Exercise And Health Lab
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+2
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.83
+% 0.0 70.0 10.0 5.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 188L B Wright Aaron L. Exercise And Health Lab
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.92
+% 0.0 90.0 5.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 188L C Wright Aaron L. Exercise And Health Lab
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.93
+% 0.0 85.0 5.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 188L D Tessandori Beth M. Exercise And Health Lab
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+19
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.76
+% 0.0 86.4 4.5 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

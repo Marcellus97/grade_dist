@@ -1,0 +1,358 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 111 Sections of 10
+ECO 202 W Hervani Aref A. Principles Of Macroeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+3
+2
+7
+7
+6
+7
+1
+0
+% 0.0 0.0 8.3 5.6 19.4 19.4 16.7 19.4 2.8 0.0
+ECO 202 X Marron Michael Principles Of Macroeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+3
+3
+7
+7
+7
+2
+6
+2
+% 0.0 4.5 6.8 6.8 15.9 15.9 15.9 4.5 13.6 4.5
+ECO 202 Y Seiver Daniel A. Principles Of Macroeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+5
+4
+1
+4
+3
+2
+2
+3
+2
+3
+% 13.5 10.8 2.7 10.8 8.1 5.4 5.4 8.1 5.4 8.1
+ECO 202 Z Stewart Jeffrey T. Principles Of Macroeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+1
+4
+0
+1
+1
+0
+4
+0
+% 0.0 8.0 4.0 16.0 0.0 4.0 4.0 0.0 16.0 0.0
+ECO 202 AA DeVera Darlene F. Principles Of Macroeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+1
+7
+3
+9
+7
+8
+3
+0
+% 0.0 0.0 2.5 17.5 7.5 22.5 17.5 20.0 7.5 0.0
+ECO 202 AB Platt Glenn J. Principles Of Macroeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+4
+6
+4
+5
+5
+2
+6
+1
+0
+% 0.0 10.3 15.4 10.3 12.8 12.8 5.1 15.4 2.6 0.0
+ECO 202 AC Platt Glenn J. Principles Of Macroeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+2
+8
+4
+9
+3
+1
+5
+4
+1
+% 2.6 5.1 20.5 10.3 23.1 7.7 2.6 12.8 10.3 2.6
+D
+D-
+1
+0
+2.8 0.0
+D
+D-
+1
+1
+2.3 2.3
+D
+D-
+0
+2
+0.0 5.4
+D
+D-
+1
+2
+4.0 8.0
+D
+D-
+1
+0
+2.5 0.0
+D
+D-
+4
+0
+10.3 0.0
+D
+D-
+0
+1
+0.0 2.6
+F
+W
+1
+1
+2.8 2.8
+F
+W
+2
+1
+4.5 2.3
+F
+W
+0
+0
+0.0 0.0
+F
+W
+4
+1
+16.0 4.0
+F
+W
+0
+1
+0.0 2.5
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+4
+2
+10.8 5.4
+WP WF
+1
+2
+4.0 8.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+2
+0
+5.1 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.52
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.41
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.62
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+1
+0
+0
+1.78
+4.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.52
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.76
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.85
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

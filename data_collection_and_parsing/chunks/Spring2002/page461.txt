@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 458 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHS 381L B Overholt Ryan M. Biodynamics/Human Perform Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+12
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.56
+% 11.8 70.6 0.0 5.9 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0
+PHS 381L C Overholt Ryan M. Biodynamics/Human Perform Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.93
+% 0.0 76.9 23.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 381L D Tyberg Lindsey K. Biodynamics/Human Perform Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+3
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.44
+% 6.3 50.0 18.8 6.3 6.3 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0
+PHS 381L E Tyberg Lindsey K. Biodynamics/Human Perform Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+5
+3
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.61
+% 0.0 41.2 29.4 17.6 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 381L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+37
+11
+5
+1
+0
+0
+0
+1
+2
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+3.62
+% 4.8 58.7 17.5 7.9 1.6 0.0 0.0 0.0 1.6 3.2 0.0 0.0 0.0 1.6 0.0 3.2 0.0 0.0 0.0 0.0 0.0
+PHS 383 A Troesch Patricia J. Oper/Admn Aspects/Athltc Trng
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+1
+4
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.72
+% 30.0 10.0 40.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0
+Course Total PHS 383
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+1
+4
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.72
+% 30.0 10.0 40.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

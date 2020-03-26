@@ -1,0 +1,308 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 249 Sections of 10
+FSW Family Studies And Social Work
+Miami Plan
+Honors
+Cross Listing
+FSW 160 A Cerio Andrea M. Fam Relatns:Hstrcl&Cmprtv Anly
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+22
+0
+0
+7
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.65
+% 0.0 71.0 0.0 0.0 22.6 0.0 0.0 6.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 160 B Larson Janelle K. Fam Relatns:Hstrcl&Cmprtv Anly
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+20
+0
+0
+10
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.52
+% 0.0 58.8 0.0 0.0 29.4 0.0 0.0 8.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0
+FSW 160 C Sero Rebecca A. Fam Relatns:Hstrcl&Cmprtv Anly
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+0
+0
+9
+0
+0
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+3.52
+% 0.0 58.1 0.0 0.0 29.0 0.0 0.0 3.2 0.0 0.0 3.2 0.0 0.0 0.0 3.2 0.0 0.0 3.2 0.0 0.0 0.0
+Course Total FSW 160
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+60
+0
+0
+26
+0
+0
+6
+0
+0
+1
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+3.56
+% 0.0 62.5 0.0 0.0 27.1 0.0 0.0 6.3 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 2.1 0.0 0.0 0.0
+FSW 162 A Ulrich Deborah L. Men In Families: Crit Analysis
+Y
+N
+I9
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+2
+2
+3
+4
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 0.0 42.9 9.5 9.5 14.3 19.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 162 B Humphrey Karilynn Men In Families: Crit Analysis
+Y
+N
+J1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+27
+0
+0
+2
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.77
+% 0.0 87.1 0.0 0.0 6.5 0.0 0.0 3.2 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FSW 162
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+36
+2
+2
+5
+4
+0
+1
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.66
+% 0.0 69.2 3.8 3.8 9.6 7.7 0.0 1.9 0.0 0.0 1.9 0.0 0.0 1.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

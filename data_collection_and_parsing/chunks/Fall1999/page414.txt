@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Oxford Campus
+Page: 411 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total PHS 110R
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+9
+7
+4
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+3.42
+% 0.0 21.4 32.1 25.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.6 0.0 3.6 0.0 0.0 0.0 0.0 0.0
+PHS 110S A Sturgeon Nancy F. Social Dance-Men
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+9
+8
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+3.63
+% 21.2 27.3 24.2 15.2 6.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.0 0.0 3.0 0.0 0.0 0.0
+PHS 110S B Sturgeon Nancy F. Social Dance-Men
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+5
+6
+7
+5
+1
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+1
+0
+0
+0
+0
+3.52
+% 10.0 16.7 20.0 23.3 16.7 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.3 3.3 0.0 3.3 0.0 0.0 0.0 0.0
+Course Total PHS 110S
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+10
+14
+14
+12
+7
+1
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+1
+0
+0
+0
+3.58
+% 15.9 22.2 22.2 19.0 11.1 1.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.6 1.6 1.6 1.6 1.6 0.0 0.0 0.0
+PHS 110T A Sturgeon Nancy F. Social Dance-Women
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+11
+6
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+7
+0
+0
+0
+3.76
+% 13.9 30.6 16.7 11.1 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.8 0.0 0.0 0.0 19.4 0.0 0.0 0.0
+PHS 110T B Sturgeon Nancy F. Social Dance-Women
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+11
+9
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+3.73
+% 9.4 34.4 28.1 15.6 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.1 0.0 0.0 3.1 0.0 0.0 0.0 0.0
+Course Total PHS 110T
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+22
+15
+9
+4
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+1
+7
+0
+0
+0
+3.74
+% 11.8 32.4 22.1 13.2 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 1.5 10.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

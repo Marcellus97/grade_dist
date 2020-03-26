@@ -1,0 +1,310 @@
+testRun: 06/30/04 @ 11:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2000-01 Oxford Campus
+Page: 314 Sections of 10
+MGT Management
+Miami Plan
+Honors
+Cross Listing
+MGT 111 A Schloemer Ronald F. Introduction To Business
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+3
+2
+13
+1
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 0.0 39.5 7.9 5.3 34.2 2.6 5.3 2.6 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 111 B Schloemer Ronald F. Introduction To Business
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+3
+1
+18
+1
+1
+3
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 25.0 7.5 2.5 45.0 2.5 2.5 7.5 2.5 2.5 0.0 0.0 0.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 111 C Schloemer Ronald F. Introduction To Business
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+10
+1
+4
+22
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 2.6 25.6 2.6 10.3 56.4 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 111 D Schloemer Ronald F. Introduction To Business
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+4
+3
+18
+2
+1
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+3.12
+% 0.0 17.5 10.0 7.5 45.0 5.0 2.5 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.5 0.0 5.0 0.0 0.0 0.0
+MGT 111 E Coon James L. Introduction To Business
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+1
+11
+0
+2
+3
+0
+0
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+2.97
+% 0.0 15.4 7.7 3.8 42.3 0.0 7.7 11.5 0.0 0.0 3.8 0.0 0.0 3.8 0.0 0.0 0.0 3.8 0.0 0.0 0.0
+MGT 111 F Coon James L. Introduction To Business
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+2
+7
+1
+1
+3
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+3.17
+% 0.0 20.8 12.5 8.3 29.2 4.2 4.2 12.5 0.0 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 4.2 0.0 0.0 0.0
+MGT 111 G Malone John P. Introduction To Business
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+0
+0
+9
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 5.0 25.0 0.0 0.0 45.0 0.0 15.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

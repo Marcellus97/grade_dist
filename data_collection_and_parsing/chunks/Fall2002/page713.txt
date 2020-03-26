@@ -1,0 +1,46 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Middletown Campus
+Page: 710 Sections of 10
+Zoology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 4
+32
+6
+17
+38
+5
+18
+62
+4
+3
+23
+5
+10
+14
+11
+8
+1
+0
+0
+0
+0
+2.35
+% 1.5 12.3 2.3 6.5 14.6 1.9 6.9 23.8 1.5 1.1 8.8 1.9 3.8 5.4 4.2 3.1 0.4 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

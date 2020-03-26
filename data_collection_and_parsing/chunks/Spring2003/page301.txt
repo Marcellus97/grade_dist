@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 298 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+GLG 115L 2 Morisen Krista L. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+2
+3
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.19
+% 0.0 27.8 22.2 11.1 16.7 5.6 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0
+GLG 115L 3 Wright Carrie L. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+3.83
+% 0.0 77.8 0.0 5.6 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 5.6 0.0 0.0 0.0
+GLG 115L 4 Morisen Krista L. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+4
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+3.51
+% 0.0 58.8 23.5 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 5.9 0.0 5.9 0.0 0.0 0.0 0.0 0.0
+GLG 115L 5 Wingate Jennifer R. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+4
+1
+3
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 38.9 22.2 5.6 16.7 5.6 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 115L 6 Mignery Jill M. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+2
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.81
+% 5.6 61.1 11.1 11.1 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0
+GLG 115L 7 Partey Frederick K. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+9
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+3.76
+% 0.0 25.0 56.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.3 6.3 0.0 0.0
+GLG 115L 8 Mutiti Christine M. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+6
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.85
+% 0.0 58.8 35.3 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

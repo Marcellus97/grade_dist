@@ -1,0 +1,292 @@
+testRun: 07/08/13 @ 16:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2012-13 Oxford Campus
+Page: 137 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+COM 459 A Clark Shara M. Capstone Strategic Com & PR
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+5
+3
+3
+2
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 0.0 11.1 27.8 16.7 16.7 11.1 5.6 5.6 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 459
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+5
+3
+3
+2
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 0.0 11.1 27.8 16.7 16.7 11.1 5.6 5.6 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 461 A Becker Ronald P. Gender, Sexuality and Media
+N
+N
+64
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+2
+2
+5
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 6.3 6.3 12.5 12.5 31.3 25.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 461
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+2
+2
+5
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 6.3 6.3 12.5 12.5 31.3 25.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 469 A Brewer William E. Public Relations Practicum
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+17
+5
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.87
+% 7.4 63.0 18.5 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 469
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+17
+5
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.87
+% 7.4 63.0 18.5 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Communication Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 36
+482 397 312 328 196 119 97
+40
+12
+24
+7
+36
+35
+0
+0
+1
+19
+0
+0
+0
+3.19
+% 1.7 22.5 18.5 14.6 15.3 9.2 5.6 4.5 1.9 0.6 1.1 0.3 1.7 1.6 0.0 0.0 0.0 0.9 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

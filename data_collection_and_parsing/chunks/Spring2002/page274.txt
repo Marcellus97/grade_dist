@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 271 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total FSW 365
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+35
+3
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.79
+% 0.0 79.5 6.8 4.5 6.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.3 0.0 0.0 0.0 0.0 0.0
+FSW 381 A Pendergrass Mary Perspectives In Parenting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+15
+13
+6
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 15.9 34.1 29.5 13.6 2.3 2.3 0.0 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 381 B Coconis Michel A. Perspectives In Parenting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+34
+6
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.94
+% 0.0 82.9 14.6 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 381 C Coconis Michel A. Perspectives In Parenting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+41
+7
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.93
+% 0.0 82.0 14.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FSW 381
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+90
+26
+9
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.86
+% 5.2 66.7 19.3 6.7 0.7 0.7 0.0 0.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 395 A Coconis Michel A. Resrch&Evalutn:Soc Work&Family
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+19
+10
+5
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.74
+% 0.0 50.0 26.3 13.2 7.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FSW 395
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+19
+10
+5
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.74
+% 0.0 50.0 26.3 13.2 7.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

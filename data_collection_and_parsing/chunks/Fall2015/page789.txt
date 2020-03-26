@@ -1,0 +1,303 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 785 Sections of 10
+PHY Physics
+Miami Plan
+Honors
+Cross Listing
+PHY 101 H A Widmer Lee C. Physics & Society
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+7
+5
+1
+4
+4
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.30
+% 15.6 21.9 15.6 3.1 12.5 12.5 3.1 6.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.1 0.0 0.0 0.0
+PHY 101 H B Widmer Lee C. Physics & Society
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+3
+1
+4
+5
+2
+0
+6
+0
+0
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+2.62
+% 6.5 12.9 9.7 3.2 12.9 16.1 6.5 0.0 19.4 0.0 0.0 0.0 9.7 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHY 101
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+11
+8
+2
+8
+9
+3
+2
+8
+0
+0
+0
+3
+1
+0
+0
+0
+1
+0
+0
+0
+2.97
+% 11.1 17.5 12.7 3.2 12.7 14.3 4.8 3.2 12.7 0.0 0.0 0.0 4.8 1.6 0.0 0.0 0.0 1.6 0.0 0.0 0.0
+PHY 111 H A Beck Daniel R. Astronomy and Space Physics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+4
+3
+5
+2
+3
+2
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 10.3 6.9 13.8 10.3 17.2 6.9 10.3 6.9 3.4 3.4 3.4 3.4 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHY 111
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+4
+3
+5
+2
+3
+2
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 10.3 6.9 13.8 10.3 17.2 6.9 10.3 6.9 3.4 3.4 3.4 3.4 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 161 H A Ihalawela Chandrasiri A. Physics for Life Sci & Lab I
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+2
+1
+1
+4
+2
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.39
+% 0.0 6.3 6.3 6.3 12.5 6.3 6.3 25.0 12.5 0.0 0.0 0.0 6.3 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 161 H B Ihalawela Chandrasiri A. Physics for Life Sci & Lab I
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+2
+2
+1
+1
+2
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.22
+% 0.0 8.3 0.0 0.0 16.7 16.7 8.3 8.3 16.7 8.3 0.0 0.0 8.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

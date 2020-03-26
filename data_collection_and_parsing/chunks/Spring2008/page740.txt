@@ -1,0 +1,307 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Hamilton Campus
+Page: 737 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 111 H J Gilmer Gary L. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+3
+1
+1
+2
+2
+1
+0
+0
+0
+1
+7
+0
+0
+0
+0
+0
+0
+0
+2.61
+% 0.0 10.0 0.0 15.0 5.0 5.0 10.0 10.0 5.0 0.0 0.0 0.0 5.0 35.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 H K Kulbaga Theresa A. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+3
+3
+3
+0
+5
+1
+1
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.63
+% 0.0 0.0 9.5 14.3 14.3 14.3 0.0 23.8 4.8 4.8 0.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 H L Gilmer Gary L. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+2
+4
+2
+1
+0
+0
+0
+0
+0
+3
+4
+0
+0
+0
+0
+0
+0
+0
+2.41
+% 0.0 0.0 11.1 11.1 22.2 11.1 5.6 0.0 0.0 0.0 0.0 0.0 16.7 22.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 H M Gilmer Gary L. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+2
+1
+0
+3
+0
+0
+1
+0
+2
+7
+0
+0
+0
+0
+0
+0
+0
+2.23
+% 0.0 5.3 5.3 5.3 10.5 5.3 0.0 15.8 0.0 0.0 5.3 0.0 10.5 36.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 H O Day Deborah R. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+0
+1
+1
+0
+1
+1
+1
+1
+0
+7
+4
+0
+0
+0
+0
+0
+0
+0
+1.10
+% 0.0 0.0 5.6 0.0 5.6 5.6 0.0 5.6 5.6 5.6 5.6 0.0 38.9 22.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 H P Tyahur Pamela M. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+0
+2
+1
+2
+0
+2
+0
+1
+1
+6
+1
+0
+0
+0
+0
+0
+0
+0
+1.78
+% 0.0 10.0 10.0 0.0 10.0 5.0 10.0 0.0 10.0 0.0 5.0 5.0 30.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+25
+20
+24
+29
+21
+18
+29
+14
+4
+8
+4
+49
+44
+0
+0
+0
+0
+0
+0
+0
+2.20
+% 0.3 8.6 6.9 8.3 10.0 7.2 6.2 10.0 4.8 1.4 2.8 1.4 16.9 15.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

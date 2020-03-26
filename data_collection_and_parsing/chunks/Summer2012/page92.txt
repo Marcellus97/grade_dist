@@ -1,0 +1,338 @@
+testRun: 09/27/12 @ 10:49 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2011-12 Oxford Campus
+Page: 89 Sections of 10
+KNH 244 UA Smith Dean L. Functional Anatomy
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+0
+4
+1
+4
+4
+3
+2
+1
+0
+0
+0
+% 0.0 20.0 5.0 20.0 20.0 15.0 10.0 5.0 0.0 0.0 0.0
+KNH 244 UB Smith Dean L. Functional Anatomy
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+0
+1
+2
+1
+1
+2
+0
+1
+2
+2
+1
+% 0.0 6.7 13.3 6.7 6.7 13.3 0.0 6.7 13.3 13.3 6.7
+Course Total KNH 244
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+0
+5
+3
+5
+5
+5
+2
+2
+2
+2
+1
+% 0.0 14.3 8.6 14.3 14.3 14.3 5.7 5.7 5.7 5.7 2.9
+KNH 244L UA Smith Dean L. Functional Anatomy Laboratory
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+0
+4
+3
+1
+0
+1
+1
+0
+0
+0
+0
+% 0.0 40.0 30.0 10.0 0.0 10.0 10.0 0.0 0.0 0.0 0.0
+KNH 244L UB Smith Dean L. Functional Anatomy Laboratory
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+0
+7
+1
+0
+0
+0
+1
+0
+0
+0
+0
+% 0.0 70.0 10.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0
+KNH 244L UC Smith Dean L. Functional Anatomy Laboratory
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+0
+5
+0
+4
+0
+1
+1
+2
+1
+1
+0
+% 0.0 31.3 0.0 25.0 0.0 6.3 6.3 12.5 6.3 6.3 0.0
+Course Total KNH 244L
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+0
+16
+4
+5
+0
+2
+3
+2
+1
+1
+0
+% 0.0 44.4 11.1 13.9 0.0 5.6 8.3 5.6 2.8 2.8 0.0
+D-
+F
+W
+0
+1
+0
+0.0 5.0 0.0
+D-
+F
+W
+2
+0
+0
+13.3 0.0 0.0
+D-
+F
+W
+2
+1
+0
+5.7 2.9 0.0
+D-
+F
+W
+0
+0
+0
+0.0 0.0 0.0
+D-
+F
+W
+0
+1
+0
+0.0 10.0 0.0
+D-
+F
+W
+1
+0
+0
+6.3 0.0 0.0
+D-
+F
+W
+1
+1
+0
+2.8 2.8 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.98
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.23
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.66
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.54
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.40
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.87
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.20
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

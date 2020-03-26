@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Oxford Campus
+Page: 346 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MIS 381 F Robb George L. Bus Productn & Prsntn Graphcs
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+6
+6
+9
+6
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.13
+% 3.2 0.0 19.4 19.4 29.0 19.4 6.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 381 G Robb George L. Bus Productn & Prsntn Graphcs
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+1
+2
+16
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 6.3 12.5 3.1 6.3 50.0 21.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 381 H Erdt Terrence Bus Productn & Prsntn Graphcs
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+14
+0
+0
+8
+0
+0
+5
+0
+0
+1
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+3.09
+% 6.1 42.4 0.0 0.0 24.2 0.0 0.0 15.2 0.0 0.0 3.0 0.0 6.1 0.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 381 I Duricy Daniel D. Bus Productn & Prsntn Graphcs
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+3
+12
+2
+2
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.13
+% 0.0 14.8 7.4 11.1 44.4 7.4 7.4 3.7 0.0 0.0 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MIS 381
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+67
+16
+15
+76
+18
+4
+11
+0
+0
+5
+0
+4
+1
+9
+0
+0
+0
+0
+0
+0
+3.21
+% 2.6 28.9 6.9 6.5 32.8 7.8 1.7 4.7 0.0 0.0 2.2 0.0 1.7 0.4 3.9 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 385 A Benamati John H. Mgt Info & Decision Sup Systm
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+2
+10
+4
+3
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 8.3 4.2 8.3 41.7 16.7 12.5 4.2 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 385 B Beatty Robert C. Mgt Info & Decision Sup Systm
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+4
+6
+6
+1
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.83
+% 0.0 4.5 0.0 18.2 27.3 27.3 4.5 9.1 4.5 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

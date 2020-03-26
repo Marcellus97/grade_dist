@@ -1,0 +1,309 @@
+testRun: 01/23/07 @ 09:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2006-07 Oxford Campus
+Page: 365 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MGT 302 B Emerson Patricia A. Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+3
+5
+7
+3
+2
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.79
+% 0.0 6.1 18.2 9.1 15.2 21.2 9.1 6.1 6.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 C Emerson Patricia A. Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+4
+8
+7
+3
+2
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 6.1 15.2 12.1 24.2 21.2 9.1 6.1 0.0 0.0 3.0 0.0 0.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 D Luebbe Richard L. Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+2
+8
+3
+1
+4
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.78
+% 0.0 4.5 4.5 9.1 36.4 13.6 4.5 18.2 4.5 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 E Luebbe Richard L. Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+3
+7
+4
+2
+4
+0
+1
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 3.2 19.4 9.7 22.6 12.9 6.5 12.9 0.0 3.2 0.0 0.0 6.5 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 F Luebbe Richard L. Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+7
+2
+11
+6
+4
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 0.0 3.0 21.2 6.1 33.3 18.2 12.1 3.0 0.0 0.0 0.0 0.0 0.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 G Huang Xiaowen Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+3
+7
+3
+3
+5
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.80
+% 0.0 9.7 12.9 9.7 22.6 9.7 9.7 16.1 3.2 3.2 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 H Huang Xiaowen Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+4
+0
+9
+4
+5
+3
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.83
+% 0.0 17.6 11.8 0.0 26.5 11.8 14.7 8.8 0.0 0.0 5.9 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

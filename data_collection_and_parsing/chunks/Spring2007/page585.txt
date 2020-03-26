@@ -1,0 +1,305 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Oxford Campus
+Page: 582 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ZOO 161 EB Russell Jill M. Principles Of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+8
+0
+2
+2
+0
+0
+3
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 15.0 40.0 0.0 10.0 10.0 0.0 0.0 15.0 0.0 5.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 161 EC Russell Jill M. Principles Of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+13
+0
+0
+4
+0
+0
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.40
+% 4.8 61.9 0.0 0.0 19.0 0.0 0.0 4.8 0.0 4.8 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 161 ED Russell Jill M. Principles Of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+0
+2
+3
+0
+1
+0
+0
+0
+0
+0
+3
+2
+0
+0
+0
+1
+0
+0
+0
+2.87
+% 10.5 26.3 0.0 10.5 15.8 0.0 5.3 0.0 0.0 0.0 0.0 0.0 15.8 10.5 0.0 0.0 0.0 5.3 0.0 0.0 0.0
+ZOO 161 EE Russell Jill M. Principles Of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+0
+2
+4
+0
+1
+1
+0
+0
+2
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 4.8 38.1 0.0 9.5 19.0 0.0 4.8 4.8 0.0 0.0 9.5 0.0 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ZOO 161
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+21
+81
+9
+26
+53
+11
+16
+28
+7
+7
+8
+1
+7
+10
+0
+0
+0
+2
+0
+0
+0
+3.05
+% 7.3 28.2 3.1 9.1 18.5 3.8 5.6 9.8 2.4 2.4 2.8 0.3 2.4 3.5 0.0 0.0 0.0 0.7 0.0 0.0 0.0
+ZOO 161H A Russell Jill M. Human Physiology
+Y
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+8
+0
+0
+2
+0
+0
+1
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 38.1 38.1 0.0 0.0 9.5 0.0 0.0 4.8 0.0 0.0 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ZOO 161H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+8
+0
+0
+2
+0
+0
+1
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 38.1 38.1 0.0 0.0 9.5 0.0 0.0 4.8 0.0 0.0 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

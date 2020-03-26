@@ -1,0 +1,303 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Oxford Campus
+Page: 465 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHS 306 A Bascone-Dalrymple Susan E. Quantity Food Production
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.82
+% 0.0 82.4 0.0 0.0 17.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 306
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.82
+% 0.0 82.4 0.0 0.0 17.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 336A TA Coles Charles Coaching Tech&Tactics:Basketbl
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+13
+12
+2
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+3.89
+% 41.9 38.7 6.5 3.2 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.5 0.0 0.0 0.0 0.0
+Course Total PHS 336A
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+13
+12
+2
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+3.89
+% 41.9 38.7 6.5 3.2 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.5 0.0 0.0 0.0 0.0
+PHS 336C TA Mellus Katie E. Coaching Tech&Tactics:Soccer
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+9
+5
+7
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 0.0 17.9 32.1 17.9 25.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 336C
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+9
+5
+7
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 0.0 17.9 32.1 17.9 25.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 337 A Lindsay Peter R. Coaching Effectiveness I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+3
+4
+6
+2
+3
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+2.99
+% 0.0 7.1 21.4 10.7 14.3 21.4 7.1 10.7 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

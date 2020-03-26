@@ -1,0 +1,93 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Middletown Campus
+Page: 657 Sections of 10
+FST Film Studies
+Miami Plan
+Honors
+Cross Listing
+FST 201 M A Heyda John F. Intermediate French
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+3
+0
+4
+2
+0
+2
+1
+0
+2
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+2.74
+% 0.0 26.1 13.0 0.0 17.4 8.7 0.0 8.7 4.3 0.0 8.7 0.0 4.3 4.3 0.0 4.3 0.0 0.0 0.0 0.0 0.0
+Film Studies Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+6
+3
+0
+4
+2
+0
+2
+1
+0
+2
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+2.74
+% 0.0 26.1 13.0 0.0 17.4 8.7 0.0 8.7 4.3 0.0 8.7 0.0 4.3 4.3 0.0 4.3 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

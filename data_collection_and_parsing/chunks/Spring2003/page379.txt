@@ -1,0 +1,310 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 376 Sections of 10
+MKT Marketing
+Miami Plan
+Honors
+Cross Listing
+MKT 291 A Cox Janice F. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+5
+17
+9
+2
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 7.7 2.6 12.8 43.6 23.1 5.1 2.6 0.0 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 B Smith Brett R. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+6
+15
+9
+5
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 5.0 2.5 15.0 37.5 22.5 12.5 2.5 0.0 0.0 0.0 0.0 0.0 0.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 C Graeff Marcia L. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+8
+14
+13
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.26
+% 0.0 5.0 20.0 35.0 32.5 5.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 D Graeff Marcia L. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+9
+21
+2
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 5.1 7.7 23.1 53.8 5.1 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 E Smith Brett R. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+6
+14
+12
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 2.6 5.1 15.4 35.9 30.8 10.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 F Brandabur Timothy O. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+4
+13
+7
+5
+5
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.78
+% 0.0 2.4 9.8 9.8 31.7 17.1 12.2 12.2 2.4 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 G Smith Brett R. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+2
+10
+11
+9
+5
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.63
+% 0.0 0.0 2.6 5.1 25.6 28.2 23.1 12.8 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

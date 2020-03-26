@@ -1,0 +1,307 @@
+testRun: 01/23/07 @ 09:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2006-07 Oxford Campus
+Page: 18 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+AMS 101 H Yockey Matt A. Intro To American Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+10
+4
+3
+3
+4
+0
+0
+0
+0
+3
+0
+0
+1
+1
+0
+0
+0
+2.75
+% 0.0 5.7 5.7 5.7 28.6 11.4 8.6 8.6 11.4 0.0 0.0 0.0 0.0 8.6 0.0 0.0 2.9 2.9 0.0 0.0 0.0
+AMS 101 I Wiedemann Susanne Intro To American Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+4
+10
+13
+6
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.17
+% 0.0 14.0 9.3 23.3 30.2 14.0 4.7 0.0 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.3 0.0 0.0 0.0 0.0
+AMS 101 J Wiedemann Susanne Intro To American Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+7
+4
+13
+5
+1
+0
+0
+0
+2
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 14.6 17.1 9.8 31.7 12.2 2.4 0.0 0.0 0.0 4.9 0.0 0.0 7.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+AMS 101 K Kinder John M. Intro To American Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+6
+7
+5
+2
+2
+2
+2
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.02
+% 0.0 20.0 17.1 20.0 14.3 5.7 5.7 5.7 5.7 0.0 0.0 0.0 5.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+AMS 101 L Kinder John M. Intro To American Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+8
+6
+10
+5
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 0.0 26.8 19.5 14.6 24.4 12.2 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+AMS 101 M Keller Yvonne Intro To American Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+9
+5
+7
+8
+3
+1
+0
+0
+0
+0
+0
+1
+0
+0
+3
+0
+0
+0
+0
+3.15
+% 0.0 7.5 22.5 12.5 17.5 20.0 7.5 2.5 0.0 0.0 0.0 0.0 0.0 2.5 0.0 0.0 7.5 0.0 0.0 0.0 0.0
+Course Total AMS 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+55
+74
+53
+83
+54
+21
+13
+13
+3
+3
+0
+4
+14
+0
+0
+5
+3
+1
+0
+0
+3.10
+% 0.0 13.8 18.5 13.3 20.8 13.5 5.3 3.3 3.3 0.8 0.8 0.0 1.0 3.5 0.0 0.0 1.3 0.8 0.3 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

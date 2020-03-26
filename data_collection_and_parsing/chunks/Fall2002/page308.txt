@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Oxford Campus
+Page: 305 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+GLG 205 A Cummins R. Hays Evolution And Earth Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+4
+8
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+3.29
+% 0.0 13.6 18.2 18.2 36.4 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 4.5 0.0 0.0 4.5 0.0 0.0 0.0 0.0
+Course Total GLG 205
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+4
+8
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+3.29
+% 0.0 13.6 18.2 18.2 36.4 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 4.5 0.0 0.0 4.5 0.0 0.0 0.0 0.0
+GLG 207L L A Levy Jonathan Water & Society
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+2
+5
+9
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.26
+% 0.0 25.0 7.1 17.9 32.1 10.7 3.6 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GLG 207L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+2
+5
+9
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.26
+% 0.0 25.0 7.1 17.9 32.1 10.7 3.6 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 211 A Rakovan John Chemistry Of Earth Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+2
+0
+2
+0
+2
+2
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.49
+% 9.1 0.0 18.2 0.0 18.2 0.0 18.2 18.2 0.0 0.0 0.0 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GLG 211
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+2
+0
+2
+0
+2
+2
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.49
+% 9.1 0.0 18.2 0.0 18.2 0.0 18.2 18.2 0.0 0.0 0.0 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 244 A Boardman Mark R. Oceanography
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+0
+1
+32
+0
+0
+20
+0
+0
+15
+0
+7
+1
+4
+2
+0
+5
+0
+0
+0
+2.33
+% 0.0 14.7 0.0 1.0 31.4 0.0 0.0 19.6 0.0 0.0 14.7 0.0 6.9 1.0 3.9 2.0 0.0 4.9 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,273 @@
+testRun: 07/07/05 @ 10:09 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2004-05 Oxford Campus
+Page: 393 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total MTH 447
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+1
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+3.71
+% 40.0 10.0 10.0 10.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 10.0 0.0 0.0 0.0 0.0
+MTH 482 A Kullman David E. Great Theorems Of Mathematics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+3
+6
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.40
+% 0.0 18.8 18.8 18.8 37.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 482
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+3
+6
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.40
+% 0.0 18.8 18.8 18.8 37.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 699U A Johnson Iris D. Increasing Proficiency in Math
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+116 16
+10
+13
+2
+0
+1
+0
+0
+1
+0
+1
+35
+15
+3
+1
+1
+0
+0
+0
+3.71
+% 1.4 53.2 7.3 4.6 6.0 0.9 0.0 0.5 0.0 0.0 0.5 0.0 0.5 16.1 6.9 1.4 0.5 0.5 0.0 0.0 0.0
+Course Total MTH 699U
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+116 16
+10
+13
+2
+0
+1
+0
+0
+1
+0
+1
+35
+15
+3
+1
+1
+0
+0
+0
+3.71
+% 1.4 53.2 7.3 4.6 6.0 0.9 0.0 0.5 0.0 0.0 0.5 0.0 0.5 16.1 6.9 1.4 0.5 0.5 0.0 0.0 0.0
+Mathematics Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 44
+235 107 112 276 93
+84
+185 61
+39
+75
+36
+55
+59
+63
+41
+6
+40
+7
+0
+0
+2.62
+% 2.7 14.5 6.6 6.9 17.1 5.7 5.2 11.4 3.8 2.4 4.6 2.2 3.4 3.6 3.9 2.5 0.4 2.5 0.4 0.0 0.0
+GR 3
+116 16
+10
+13
+2
+0
+1
+0
+0
+1
+0
+1
+35
+15
+3
+1
+1
+0
+0
+0
+3.71
+% 1.4 53.2 7.3 4.6 6.0 0.9 0.0 0.5 0.0 0.0 0.5 0.0 0.5 16.1 6.9 1.4 0.5 0.5 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

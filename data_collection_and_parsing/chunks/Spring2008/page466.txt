@@ -1,0 +1,307 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Oxford Campus
+Page: 463 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHS 188 A Claytor Randal P. Exercise And Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+4
+11
+17
+5
+2
+6
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 0.0 21.3 6.6 18.0 27.9 8.2 3.3 9.8 3.3 0.0 0.0 0.0 0.0 1.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 188 B Smith Dean L. Exercise And Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+8
+4
+13
+6
+6
+6
+4
+0
+2
+3
+2
+1
+0
+0
+0
+0
+1
+0
+0
+2.65
+% 0.0 9.7 12.9 6.5 21.0 9.7 9.7 9.7 6.5 0.0 3.2 4.8 3.2 1.6 0.0 0.0 0.0 0.0 1.6 0.0 0.0
+Course Total PHS 188
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+19
+12
+15
+30
+11
+8
+12
+6
+0
+2
+3
+2
+2
+0
+0
+0
+0
+1
+0
+0
+2.89
+% 0.0 15.4 9.8 12.2 24.4 8.9 6.5 9.8 4.9 0.0 1.6 2.4 1.6 1.6 0.0 0.0 0.0 0.0 0.8 0.0 0.0
+PHS 188L B Patil Abhijeet A. Exercise And Health Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+13
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.65
+% 0.0 5.9 76.5 17.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 188L C Izenbaard Nicole R. Exercise And Health Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+5
+0
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.54
+% 0.0 52.9 29.4 0.0 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 188L D Koopman Thomas M. Exercise And Health Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+10
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.98
+% 20.0 66.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 188L E Patil Abhijeet A. Exercise And Health Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+5
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.61
+% 0.0 31.3 31.3 25.0 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

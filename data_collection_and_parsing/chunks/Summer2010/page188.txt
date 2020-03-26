@@ -1,0 +1,134 @@
+testRun: 10/08/10 @ 11:34 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2009-10 Hamilton Campus
+Page: 185 Sections of 10
+ACC Accountancy
+Miami Plan
+Honors
+Cross Listing
+ACC 221 HOA McCafferty Patrick J. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+3
+9
+4
+2
+2
+4
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 6.7 6.7 10.0 30.0 13.3 6.7 6.7 13.3 0.0 0.0 0.0 0.0 3.3 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 221
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+3
+9
+4
+2
+2
+4
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 6.7 6.7 10.0 30.0 13.3 6.7 6.7 13.3 0.0 0.0 0.0 0.0 3.3 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Accountancy Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+2
+3
+9
+4
+2
+2
+4
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 6.7 6.7 10.0 30.0 13.3 6.7 6.7 13.3 0.0 0.0 0.0 0.0 3.3 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

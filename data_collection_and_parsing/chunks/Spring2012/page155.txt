@@ -1,0 +1,309 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Oxford Campus
+Page: 151 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CSE 148 JJ Stahr Michael C. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+6
+2
+2
+4
+0
+3
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 0.0 32.1 21.4 7.1 7.1 14.3 0.0 10.7 0.0 3.6 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 148 KK Stahr Michael C. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+4
+4
+7
+3
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 0.0 33.3 13.3 13.3 23.3 10.0 0.0 3.3 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 148 LL Scoville David J. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+1
+1
+5
+6
+1
+2
+3
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 26.7 3.3 3.3 16.7 20.0 3.3 6.7 10.0 0.0 3.3 3.3 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 148 MM Stahr Michael C. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+7
+3
+3
+3
+2
+1
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.22
+% 0.0 24.1 24.1 10.3 10.3 10.3 6.9 3.4 3.4 0.0 3.4 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 148 NN Beck Michael D. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+3
+3
+4
+0
+1
+4
+1
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 30.0 10.0 10.0 13.3 0.0 3.3 13.3 3.3 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 148 OO Kumar Akhilesh Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+3
+10
+1
+3
+1
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 0.0 10.7 14.3 10.7 35.7 3.6 10.7 3.6 7.1 0.0 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 148 PP Kuykendoll Timothy A. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+1
+7
+2
+2
+5
+2
+0
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.56
+% 0.0 7.4 7.4 3.7 25.9 7.4 7.4 18.5 7.4 0.0 3.7 0.0 3.7 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

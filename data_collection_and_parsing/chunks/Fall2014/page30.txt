@@ -1,0 +1,306 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 26 Sections of 10
+AMS American Studies
+Miami Plan
+Honors
+Cross Listing
+AMS 180Y A Hamlin Kimberly A. Honors Foundation Course
+N
+Y
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+8
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.69
+% 0.0 40.9 36.4 13.6 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total AMS 180Y
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+8
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.69
+% 0.0 40.9 36.4 13.6 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+AMS 205 A Scott Damon Intro to American Cultures
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+7
+13
+7
+4
+2
+1
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 15.6 15.6 28.9 15.6 8.9 4.4 2.2 0.0 0.0 0.0 0.0 0.0 8.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+AMS 205 B Busch Andrew M. Intro to American Cultures
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+5
+5
+15
+5
+2
+2
+0
+0
+2
+1
+1
+1
+0
+0
+0
+2
+0
+0
+0
+2.93
+% 0.0 12.8 10.6 10.6 31.9 10.6 4.3 4.3 0.0 0.0 4.3 2.1 2.1 2.1 0.0 0.0 0.0 4.3 0.0 0.0 0.0
+AMS 205 C Sheumaker Helen D. Intro to American Cultures
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+6
+10
+13
+4
+2
+0
+3
+1
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+3.11
+% 0.0 12.5 12.5 20.8 27.1 8.3 4.2 0.0 6.3 2.1 0.0 0.0 0.0 4.2 0.0 0.0 0.0 2.1 0.0 0.0 0.0
+AMS 205 E Williams Kristen A. Intro to American Cultures
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+2
+2
+7
+1
+2
+3
+1
+2
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.53
+% 6.7 10.0 6.7 6.7 23.3 3.3 6.7 10.0 3.3 6.7 6.7 6.7 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+AMS 205 F Williams Kristen A. Intro to American Cultures
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+3
+3
+5
+1
+1
+4
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 7.1 17.9 10.7 10.7 17.9 3.6 3.6 14.3 10.7 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

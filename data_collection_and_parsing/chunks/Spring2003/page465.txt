@@ -1,0 +1,301 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 462 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total PHS 336B
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+22
+1
+2
+3
+1
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.83
+% 16.2 59.5 2.7 5.4 8.1 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 336C UA Alexander Marvin R. Coaching Tech&Tactics:Soccer
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+16
+9
+1
+4
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 0.0 8.8 47.1 26.5 2.9 11.8 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 336C
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+16
+9
+1
+4
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 0.0 8.8 47.1 26.5 2.9 11.8 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 336D UA Hoeppner Terry Coaching Tech&Tactics:Football
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+7
+4
+3
+1
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 0.0 47.4 18.4 10.5 7.9 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 13.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 336D
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+7
+4
+3
+1
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 0.0 47.4 18.4 10.5 7.9 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 13.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 338 A Weinberg Robert S. Coaching Effectiveness II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+1
+7
+1
+4
+6
+0
+0
+5
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+2.67
+% 0.0 14.3 11.4 2.9 20.0 2.9 11.4 17.1 0.0 0.0 14.3 0.0 0.0 0.0 2.9 0.0 0.0 2.9 0.0 0.0 0.0
+Course Total PHS 338
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+1
+7
+1
+4
+6
+0
+0
+5
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+2.67
+% 0.0 14.3 11.4 2.9 20.0 2.9 11.4 17.1 0.0 0.0 14.3 0.0 0.0 0.0 2.9 0.0 0.0 2.9 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

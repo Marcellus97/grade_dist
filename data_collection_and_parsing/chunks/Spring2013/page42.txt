@@ -1,0 +1,259 @@
+testRun: 07/08/13 @ 16:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2012-13 Oxford Campus
+Page: 38 Sections of 10
+AER Aeronautics
+Miami Plan
+Honors
+Cross Listing
+AER 118 A Schroeder Tom C. Intro To Atmospheric Science
+Y
+N
+AW
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+4
+0
+14
+4
+0
+3
+0
+0
+1
+1
+0
+3
+0
+0
+0
+0
+1
+0
+0
+3.09
+% 0.0 22.5 10.0 0.0 35.0 10.0 0.0 7.5 0.0 0.0 2.5 2.5 0.0 7.5 0.0 0.0 0.0 0.0 2.5 0.0 0.0
+AER 118 B Schroeder Tom C. Intro To Atmospheric Science
+Y
+N
+4G
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+3
+8
+9
+5
+6
+4
+1
+1
+1
+1
+0
+2
+0
+0
+0
+0
+1
+0
+0
+2.80
+% 4.3 4.3 6.5 17.4 19.6 10.9 13.0 8.7 2.2 2.2 2.2 2.2 0.0 4.3 0.0 0.0 0.0 0.0 2.2 0.0 0.0
+Course Total AER 118
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+11
+7
+8
+23
+9
+6
+7
+1
+1
+2
+2
+0
+5
+0
+0
+0
+0
+2
+0
+0
+2.93
+% 2.3 12.8 8.1 9.3 26.7 10.5 7.0 8.1 1.2 1.2 2.3 2.3 0.0 5.8 0.0 0.0 0.0 0.0 2.3 0.0 0.0
+AER 121 VA Schroeder Tom C. Flight Fundamentals
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+0
+1
+2
+2
+4
+2
+0
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.62
+% 5.9 11.8 0.0 5.9 11.8 11.8 23.5 11.8 0.0 5.9 0.0 5.9 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total AER 121
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+0
+1
+2
+2
+4
+2
+0
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.62
+% 5.9 11.8 0.0 5.9 11.8 11.8 23.5 11.8 0.0 5.9 0.0 5.9 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Aeronautics Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 3
+13
+7
+9
+25
+11
+10
+9
+1
+2
+2
+3
+0
+6
+0
+0
+0
+0
+2
+0
+0
+2.88
+% 2.9 12.6 6.8 8.7 24.3 10.7 9.7 8.7 1.0 1.9 1.9 2.9 0.0 5.8 0.0 0.0 0.0 0.0 1.9 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

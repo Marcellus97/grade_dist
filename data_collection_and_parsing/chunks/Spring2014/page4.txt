@@ -1,0 +1,70 @@
+testBWS Black World Studies
+873
+COM Communication
+874
+ECO Economics
+875
+EDL Educational Leadership
+876
+EDP Educational Psychology
+878
+EDT Teacher Education
+879
+ENG English
+880
+FIN Finance
+881
+GLG Geology
+882
+HST History
+883
+KNH Kinesiology And Health
+885
+MGT Management
+886
+MKT Marketing
+887
+MTH Mathematics
+888
+NSG Nursing
+889
+PSY Psychology
+890
+SPA Speech Pathology & Audiology
+891
+SPN Spanish
+892
+WGS Women,Gender&Sexuality Studies
+893
+Luxembourg Campus
+894
+ART Art
+895
+ATH Anthropology
+896
+COM Communication
+897
+ENG English
+898
+FIN Finance
+899
+FRE French
+900
+GER German
+901
+HST History
+902
+ITS International Studies
+903
+LUX Luxembourg
+904
+MGT Management
+905
+MKT Marketing
+906
+MUS Music
+907
+POL Political Science
+908
+SOC Sociology
+909

@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 11:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2000-01 Oxford Campus
+Page: 417 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHS 140F TC Consiglio William J. Softball
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+24
+6
+2
+8
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+3.72
+% 0.0 57.1 14.3 4.8 19.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.4 2.4 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 140F
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+80
+21
+7
+10
+1
+0
+0
+0
+0
+0
+0
+0
+4
+1
+0
+0
+0
+0
+0
+0
+3.81
+% 0.0 64.5 16.9 5.6 8.1 0.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.2 0.8 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 140H UA Nichol Willard J. Ice Hockey
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+33
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 97.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 140H UB Nichol Willard J. Ice Hockey
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+30
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.97
+% 0.0 96.8 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 140H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+63
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.98
+% 0.0 96.9 0.0 0.0 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.5 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 140J TA LaBelle Kimberly A. Soccer
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+14
+9
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 53.8 34.6 7.7 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 140J TB LaBelle Kimberly A. Soccer
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+15
+11
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 55.6 40.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,106 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 495 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total POL 630H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+2
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.39
+% 0.0 13.3 33.3 13.3 20.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0
+Political Science Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 42
+338 332 346 472 252 179 213 61
+13
+29
+13
+28
+20
+34
+14
+2
+29
+1
+0
+0
+2.99
+% 1.7 14.0 13.7 14.3 19.5 10.4 7.4 8.8 2.5 0.5 1.2 0.5 1.2 0.8 1.4 0.6 0.1 1.2 0.0 0.0 0.0
+GR 0
+2
+4
+2
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.37
+% 0.0 14.3 28.6 14.3 21.4 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

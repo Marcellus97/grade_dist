@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 383 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MKT 441 E Young Ellen S. Promotion Management
+N
+N
+NJ
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+7
+17
+6
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.11
+% 0.0 2.7 13.5 18.9 45.9 16.2 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 441 F Young Ellen S. Promotion Management
+N
+N
+NK
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+5
+12
+21
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 0.0 12.2 29.3 51.2 7.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 441
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+12
+27
+42
+91
+31
+7
+14
+5
+0
+1
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+3.01
+% 0.4 5.1 11.5 17.9 38.9 13.2 3.0 6.0 2.1 0.0 0.4 0.0 0.4 0.0 0.4 0.4 0.0 0.0 0.0 0.0 0.0
+MKT 442 A McCarthy Michael S. Advertising/Laws Hall & Assoc
+N
+N
+CE
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+16
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.76
+% 0.0 20.0 80.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 442
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+16
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.76
+% 0.0 20.0 80.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 451 A Lesser Jack A. Marketing Research
+N
+N
+NL
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+6
+5
+7
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.20
+% 0.0 17.2 20.7 17.2 24.1 13.8 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 451
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+6
+5
+7
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.20
+% 0.0 17.2 20.7 17.2 24.1 13.8 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

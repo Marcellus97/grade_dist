@@ -1,0 +1,303 @@
+testRun: 01/20/09 @ 12:44 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2008-09 Oxford Campus
+Page: 309 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+GLG 121 A Hauer Kendall L. Environmental Geology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+35
+10
+19
+45
+10
+13
+24
+1
+1
+5
+0
+3
+3
+0
+0
+0
+4
+2
+0
+0
+2.97
+% 3.3 19.3 5.5 10.5 24.9 5.5 7.2 13.3 0.6 0.6 2.8 0.0 1.7 1.7 0.0 0.0 0.0 2.2 1.1 0.0 0.0
+Course Total GLG 121
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+35
+10
+19
+45
+10
+13
+24
+1
+1
+5
+0
+3
+3
+0
+0
+0
+4
+2
+0
+0
+2.97
+% 3.3 19.3 5.5 10.5 24.9 5.5 7.2 13.3 0.6 0.6 2.8 0.0 1.7 1.7 0.0 0.0 0.0 2.2 1.1 0.0 0.0
+GLG 141 A Holm Paul E. Geology Of US National Parks
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+11
+15
+14
+21
+14
+13
+24
+11
+7
+7
+3
+15
+11
+0
+0
+0
+2
+2
+0
+0
+2.36
+% 1.7 6.4 8.7 8.1 12.1 8.1 7.5 13.9 6.4 4.0 4.0 1.7 8.7 6.4 0.0 0.0 0.0 1.2 1.2 0.0 0.0
+Course Total GLG 141
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+11
+15
+14
+21
+14
+13
+24
+11
+7
+7
+3
+15
+11
+0
+0
+0
+2
+2
+0
+0
+2.36
+% 1.7 6.4 8.7 8.1 12.1 8.1 7.5 13.9 6.4 4.0 4.0 1.7 8.7 6.4 0.0 0.0 0.0 1.2 1.2 0.0 0.0
+GLG 141H A Sikorski Janelle Geology Of US National Parks
+Y
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+5
+2
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 0.0 45.0 25.0 10.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GLG 141H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+5
+2
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 0.0 45.0 25.0 10.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 201 A Rakovan John Mineralogy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+0
+1
+5
+4
+1
+1
+1
+1
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+2.46
+% 0.0 5.6 5.6 0.0 5.6 27.8 22.2 5.6 5.6 5.6 5.6 0.0 0.0 5.6 0.0 0.0 5.6 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

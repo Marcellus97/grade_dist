@@ -1,0 +1,301 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2003-04 Oxford Campus
+Page: 87 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CLS 213 A Rose Peter W. Greek And Roman Comedy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+3
+7
+3
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 0.0 12.5 16.7 12.5 29.2 12.5 8.3 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CLS 213
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+3
+7
+3
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 0.0 12.5 16.7 12.5 29.2 12.5 8.3 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CLS 310E A McCoskey Denise E. Conflict in Greco-Roman Egypt
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+1
+4
+1
+2
+0
+0
+1
+0
+0
+0
+1
+2
+0
+2
+0
+1
+0
+0
+0
+2.89
+% 4.5 27.3 4.5 18.2 4.5 9.1 0.0 0.0 4.5 0.0 0.0 0.0 4.5 9.1 0.0 9.1 0.0 4.5 0.0 0.0 0.0
+Course Total CLS 310E
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+1
+4
+1
+2
+0
+0
+1
+0
+0
+0
+1
+2
+0
+2
+0
+1
+0
+0
+0
+2.89
+% 4.5 27.3 4.5 18.2 4.5 9.1 0.0 0.0 4.5 0.0 0.0 0.0 4.5 9.1 0.0 9.1 0.0 4.5 0.0 0.0 0.0
+CLS 310P A McCoskey Denise E. Travel/Self-Definitn:Antiquity
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.72
+% 0.0 57.1 7.1 14.3 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CLS 310P
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.72
+% 0.0 57.1 7.1 14.3 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0
+Classics Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 7
+99
+87
+86
+59
+26
+7
+7
+4
+1
+1
+0
+4
+11
+6
+5
+1
+5
+2
+0
+0
+3.35
+% 1.7 23.7 20.8 20.6 14.1 6.2 1.7 1.7 1.0 0.2 0.2 0.0 1.0 2.6 1.4 1.2 0.2 1.2 0.5 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

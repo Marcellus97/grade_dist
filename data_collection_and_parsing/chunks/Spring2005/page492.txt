@@ -1,0 +1,306 @@
+testRun: 07/07/05 @ 10:09 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2004-05 Oxford Campus
+Page: 489 Sections of 10
+PSY Psychology
+Miami Plan
+Honors
+Cross Listing
+PSY 111 A Ward Rose M. Introduction To Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+12
+13
+21
+39
+17
+13
+33
+5
+8
+7
+1
+5
+0
+0
+0
+4
+2
+0
+0
+0
+2.61
+% 1.1 6.6 7.1 11.5 21.4 9.3 7.1 18.1 2.7 4.4 3.8 0.5 2.7 0.0 0.0 0.0 2.2 1.1 0.0 0.0 0.0
+PSY 111 B Cooper Anthony J. Introduction To Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+13
+59
+10
+5
+31
+5
+5
+29
+2
+0
+4
+0
+0
+0
+2
+0
+2
+3
+0
+0
+0
+3.22
+% 7.6 34.7 5.9 2.9 18.2 2.9 2.9 17.1 1.2 0.0 2.4 0.0 0.0 0.0 1.2 0.0 1.2 1.8 0.0 0.0 0.0
+PSY 111 C Birchmeier Zachary P. Introduction To Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+9
+20
+17
+10
+20
+6
+4
+0
+2
+0
+2
+1
+6
+16
+2
+0
+0
+0
+2.40
+% 0.0 3.3 2.5 7.4 16.4 13.9 8.2 16.4 4.9 3.3 0.0 1.6 0.0 1.6 0.8 4.9 13.1 1.6 0.0 0.0 0.0
+PSY 111 D Ward John A. Introduction To Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+6
+1
+7
+5
+1
+6
+2
+1
+0
+0
+1
+0
+2
+0
+3
+2
+0
+0
+0
+2.86
+% 2.3 11.6 14.0 2.3 16.3 11.6 2.3 14.0 4.7 2.3 0.0 0.0 2.3 0.0 4.7 0.0 7.0 4.7 0.0 0.0 0.0
+Course Total PSY 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+16
+80
+32
+36
+97
+44
+29
+88
+15
+13
+11
+3
+6
+2
+5
+6
+25
+9
+0
+0
+0
+2.79
+% 3.1 15.5 6.2 7.0 18.8 8.5 5.6 17.0 2.9 2.5 2.1 0.6 1.2 0.4 1.0 1.2 4.8 1.7 0.0 0.0 0.0
+PSY 200C A Thomas Jill C. Eating Disorders
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 94.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 200C
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 94.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

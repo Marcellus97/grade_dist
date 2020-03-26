@@ -1,0 +1,46 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Hamilton Campus
+Page: 881 Sections of 10
+Nursing Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 47
+56
+52
+38
+44
+30
+16
+17
+2
+1
+0
+0
+4
+26
+0
+0
+1
+0
+0
+0
+0
+3.32
+% 14.1 16.8 15.6 11.4 13.2 9.0 4.8 5.1 0.6 0.3 0.0 0.0 1.2 7.8 0.0 0.0 0.3 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

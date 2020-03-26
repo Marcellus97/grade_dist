@@ -1,0 +1,92 @@
+testACC Accountancy
+697
+ART Art
+699
+ATH Anthropology
+704
+BLS Business Legal Studies
+706
+BOT Botany
+707
+BTE Business Technology
+708
+BWS Black World Studies
+715
+CHM Chemistry & Biochemistry
+716
+CIT Comp Information Technology
+718
+CLS Classics
+721
+COM Communication
+722
+CSA Computer Sci &Systems Analysis
+726
+DSC Decision Sciences
+728
+EAS Engineering & App Science
+729
+ECO Economics
+730
+EDL Educational Leadership
+731
+EDP Educational Psychology
+734
+EDT Teacher Education
+736
+ENG English
+739
+ENT Engineering Technology
+748
+FRE French
+750
+FST Film Studies
+751
+FSW Family Studies And Social Work
+752
+GEO Geography
+754
+GER German
+755
+GLG Geology
+756
+HST History
+758
+MBI Microbiology
+763
+MGT Management
+765
+MIS Management Information Systems
+766
+MKT Marketing
+767
+MTH Mathematics
+768
+MUS Music
+775
+NSG Nursing
+777
+PHL Philosophy
+780
+PHS Phy Edu, Hlth, & Sport Studies
+781
+PHY Physics
+788
+POL Political Science
+790
+PSY Psychology
+792
+REL Comparative Religion
+794
+SOC Sociology
+795
+SPN Spanish
+796
+STA Statistics
+797
+THE Theatre
+799
+WMS Women'S Studies
+801
+ZOO Zoology
+802

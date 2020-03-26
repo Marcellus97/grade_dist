@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2003-04 Oxford Campus
+Page: 85 Sections of 10
+CLS Classics
+Miami Plan
+Honors
+Cross Listing
+CLS 101 A Rose Peter W. Greek Civ/Mediterranean Contxt
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+5
+6
+12
+7
+3
+4
+1
+1
+0
+0
+0
+4
+1
+1
+0
+1
+2
+0
+0
+2.84
+% 2.0 2.0 10.0 12.0 24.0 14.0 6.0 8.0 2.0 2.0 0.0 0.0 0.0 8.0 2.0 2.0 0.0 2.0 4.0 0.0 0.0
+Course Total CLS 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+5
+6
+12
+7
+3
+4
+1
+1
+0
+0
+0
+4
+1
+1
+0
+1
+2
+0
+0
+2.84
+% 2.0 2.0 10.0 12.0 24.0 14.0 6.0 8.0 2.0 2.0 0.0 0.0 0.0 8.0 2.0 2.0 0.0 2.0 4.0 0.0 0.0
+CLS 102 A Tuck Steven L. Roman Civilization
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+15
+8
+11
+9
+4
+0
+0
+0
+0
+1
+0
+0
+2
+0
+1
+0
+1
+0
+0
+0
+3.37
+% 1.9 28.3 15.1 20.8 17.0 7.5 0.0 0.0 0.0 0.0 1.9 0.0 0.0 3.8 0.0 1.9 0.0 1.9 0.0 0.0 0.0
+Course Total CLS 102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+15
+8
+11
+9
+4
+0
+0
+0
+0
+1
+0
+0
+2
+0
+1
+0
+1
+0
+0
+0
+3.37
+% 1.9 28.3 15.1 20.8 17.0 7.5 0.0 0.0 0.0 0.0 1.9 0.0 0.0 3.8 0.0 1.9 0.0 1.9 0.0 0.0 0.0
+CLS 121 A de Luce Judith Classical Mythology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+25
+16
+7
+2
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.75
+% 0.0 48.1 30.8 13.5 3.8 1.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CLS 121 B Schur David Classical Mythology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+12
+21
+14
+3
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.32
+% 0.0 5.6 22.2 38.9 25.9 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.9 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CLS 121
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+28
+28
+28
+16
+4
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+3.53
+% 0.0 26.4 26.4 26.4 15.1 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.9 0.9 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

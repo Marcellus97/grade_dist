@@ -1,0 +1,309 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Oxford Campus
+Page: 232 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 112 GA Stoneberg Michael R. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.71
+% 0.0 73.7 10.5 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 GB Mina Lilian W. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+5
+2
+3
+2
+4
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 14.3 23.8 9.5 14.3 9.5 19.0 0.0 0.0 0.0 0.0 0.0 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 JA Weber Robert S. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+12
+6
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.81
+% 4.3 52.2 26.1 8.7 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0
+ENG 112 JB Njiru Henry M. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+7
+2
+1
+4
+2
+1
+1
+0
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 0.0 31.8 9.1 4.5 18.2 9.1 4.5 4.5 0.0 9.1 4.5 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 JC Lowe Tory C. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+16
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.90
+% 20.8 66.7 4.2 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 JD Ford Grable M. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+6
+1
+2
+1
+0
+1
+2
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.79
+% 0.0 18.2 27.3 4.5 9.1 4.5 0.0 4.5 9.1 4.5 4.5 4.5 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 JE Finan Jan M. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+12
+2
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.55
+% 0.0 26.1 52.2 8.7 4.3 4.3 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,301 @@
+testRun: 07/07/05 @ 10:09 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2004-05 Oxford Campus
+Page: 500 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total PSY 351
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+8
+8
+7
+4
+3
+2
+1
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+3.41
+% 5.4 21.6 21.6 18.9 10.8 8.1 5.4 2.7 0.0 0.0 0.0 0.0 0.0 2.7 2.7 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 356 A Simson Peter E. Psychopharmacology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+3
+7
+8
+7
+3
+2
+1
+1
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.83
+% 2.5 10.0 7.5 17.5 20.0 17.5 7.5 5.0 2.5 2.5 5.0 0.0 0.0 0.0 0.0 2.5 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 356
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+3
+7
+8
+7
+3
+2
+1
+1
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.83
+% 2.5 10.0 7.5 17.5 20.0 17.5 7.5 5.0 2.5 2.5 5.0 0.0 0.0 0.0 0.0 2.5 0.0 0.0 0.0 0.0 0.0
+PSY 374 A Allen Gordon A. Psychology/ Language & Thought
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+4
+1
+11
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+3.26
+% 0.0 40.5 10.8 2.7 29.7 5.4 0.0 5.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.4 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 374
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+4
+1
+11
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+3.26
+% 0.0 40.5 10.8 2.7 29.7 5.4 0.0 5.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.4 0.0 0.0 0.0 0.0 0.0
+PSY 375 A Olzak Lynn A. Lab in Perception
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+6
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.33
+% 0.0 8.3 16.7 50.0 16.7 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 375
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+6
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.33
+% 0.0 8.3 16.7 50.0 16.7 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

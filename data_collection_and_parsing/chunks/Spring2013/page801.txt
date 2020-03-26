@@ -1,0 +1,306 @@
+testRun: 07/08/13 @ 16:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2012-13 Hamilton Campus
+Page: 797 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 111 HIS Wilson Dawn A. Composition and Rhetoric
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+3
+4
+0
+1
+0
+1
+0
+0
+0
+3
+5
+0
+0
+0
+0
+0
+0
+0
+2.65
+% 0.0 9.1 13.6 13.6 18.2 0.0 4.5 0.0 4.5 0.0 0.0 0.0 13.6 22.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 111
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+36
+52
+26
+40
+14
+14
+16
+15
+5
+7
+8
+82
+49
+0
+0
+1
+0
+1
+0
+0
+2.21
+% 1.1 9.7 14.1 7.0 10.8 3.8 3.8 4.3 4.1 1.4 1.9 2.2 22.2 13.2 0.0 0.0 0.3 0.0 0.3 0.0 0.0
+ENG 112 H B Arbino Michael W. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+3
+3
+3
+2
+4
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 9.1 9.1 13.6 13.6 13.6 9.1 18.2 0.0 0.0 9.1 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H C Weber Robert S. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+7
+1
+1
+5
+4
+1
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 8.3 29.2 4.2 4.2 20.8 16.7 4.2 0.0 8.3 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H D Patterson Gina R. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+3
+4
+2
+2
+1
+0
+0
+1
+1
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 9.1 13.6 13.6 18.2 9.1 9.1 4.5 0.0 0.0 4.5 4.5 0.0 0.0 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H E Schmidlin Tom J. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+3
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+1
+0
+0
+3.48
+% 45.0 15.0 15.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 10.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0
+ENG 112 H G Johnson Kelli Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+1
+5
+5
+0
+1
+0
+2
+1
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.53
+% 0.0 13.0 4.3 4.3 21.7 21.7 0.0 4.3 0.0 8.7 4.3 0.0 8.7 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

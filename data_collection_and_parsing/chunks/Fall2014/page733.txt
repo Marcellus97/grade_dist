@@ -1,0 +1,306 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Hamilton Campus
+Page: 729 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FSW 261 H E Custer Sharon L. Diverse Fam Across Life Cycle
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+7
+1
+8
+3
+2
+2
+0
+0
+0
+1
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 21.6 18.9 2.7 21.6 8.1 5.4 5.4 0.0 0.0 0.0 2.7 0.0 5.4 8.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 261 H G James Anthony G. Diverse Fam Across Life Cycle
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+4
+1
+2
+2
+1
+0
+2
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.64
+% 0.0 10.5 10.5 21.1 5.3 10.5 10.5 5.3 0.0 10.5 0.0 10.5 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FSW 261
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+11
+10
+18
+5
+7
+5
+1
+1
+2
+1
+2
+4
+4
+0
+0
+0
+0
+0
+0
+0
+3.02
+% 10.1 13.9 12.7 22.8 6.3 8.9 6.3 1.3 1.3 2.5 1.3 2.5 5.1 5.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 281 H A Houlihan Lindsey G. Child Devel:Diverse Families
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+6
+4
+0
+1
+1
+4
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.04
+% 0.0 29.6 22.2 14.8 0.0 3.7 3.7 14.8 3.7 0.0 0.0 0.0 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 281 H B Kuykendoll Megan K. Child Devel:Diverse Families
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+5
+5
+3
+4
+1
+1
+1
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 11.1 18.5 18.5 11.1 14.8 3.7 3.7 3.7 0.0 7.4 0.0 0.0 0.0 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 281 H C Holmes Janet S. Child Devel:Diverse Families
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+4
+4
+3
+2
+1
+3
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 0.0 29.6 14.8 14.8 11.1 7.4 3.7 11.1 0.0 0.0 0.0 0.0 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 281 H D Holmes Janet S. Child Devel:Diverse Families
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+7
+6
+2
+3
+2
+1
+1
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 7.4 25.9 22.2 7.4 11.1 7.4 3.7 3.7 7.4 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

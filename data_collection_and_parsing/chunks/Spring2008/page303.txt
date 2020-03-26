@@ -1,0 +1,261 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Oxford Campus
+Page: 300 Sections of 10
+HBW Hebrew
+Miami Plan
+Honors
+Cross Listing
+HBW 102 A Rachovitsky Rachel Beginning Modern Hebrew
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.67
+% 20.0 20.0 20.0 20.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0
+HBW 102 B Rachovitsky Rachel Beginning Modern Hebrew
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+4
+1
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+3.28
+% 8.3 16.7 33.3 8.3 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0
+Course Total HBW 102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+4
+6
+3
+3
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+3.46
+% 13.6 18.2 27.3 13.6 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0
+HBW 202 A Rachovitsky Rachel Intermediate Modern Hebrew
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+10
+1
+0
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 16.7 55.6 5.6 0.0 16.7 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total HBW 202
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+10
+1
+0
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 16.7 55.6 5.6 0.0 16.7 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Hebrew Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 6
+14
+7
+3
+6
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+3.58
+% 15.0 35.0 17.5 7.5 15.0 0.0 2.5 0.0 0.0 0.0 0.0 0.0 2.5 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

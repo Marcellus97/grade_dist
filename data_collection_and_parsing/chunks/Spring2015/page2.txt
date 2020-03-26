@@ -1,0 +1,124 @@
+testMBI Microbiology
+437
+MGT Management
+444
+MKT Marketing
+457
+MME Mechan & Manufact Engineering
+468
+MTH Mathematics
+480
+MUS Music
+495
+NSC Naval Science
+511
+PHL Philosophy
+514
+PHY Physics
+521
+PLW Pre-Law Studies
+530
+PMD Premedical Studies
+531
+POL Political Science
+532
+POR Portuguese
+544
+PSY Psychology
+545
+REL Religion, Comparative
+561
+RUS Russian
+565
+SJS Social Justice Studies
+567
+SOC Sociology
+569
+SPA Speech Pathology & Audiology
+576
+SPN Spanish
+585
+STA Statistics
+598
+THE Theatre
+606
+WGS Women,Gender&Sexuality Studies
+613
+WST Western Program
+617
+Hamilton Campus
+620
+ACC Accountancy
+621
+AMS American Studies
+622
+ART Art
+623
+ATH Anthropology
+627
+BIO Biology
+630
+BIS Integrative Studies
+636
+BTE Business Technology
+637
+BWS Black World Studies
+644
+CEC Col Of Engineering & Computing
+646
+CHM Chemistry & Biochemistry
+647
+CIT Comp Information Technology
+651
+CJS Criminal Justice Studies
+654
+CLS Classics
+657
+COM Communication
+658
+CRD Civic And Regional Development
+661
+CSE Comp Sci &Software Engineering
+662
+ECO Economics
+664
+EDL Educational Leadership
+666
+EDP Educational Psychology
+668
+EDT Teacher Education
+670
+ENG English
+673
+ENT Engineering Technology
+685
+FRE French
+689
+FST Film Studies
+690
+FSW Family Studies And Social Work
+691
+GEO Geography
+695
+GER German
+697
+GLG Geology
+698
+HST History
+701
+IDS Interdisciplinary
+706
+ITL Italian
+707
+ITS International Studies
+708
+JRN Journalism
+709
+KNH Kinesiology And Health
+710
+LAS Latin American Studies
+718
+MAC Media And Culture
+719
+MBI Microbiology
+720

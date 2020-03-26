@@ -1,0 +1,303 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Oxford Campus
+Page: 596 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total STA 466
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+2
+0
+5
+1
+1
+5
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.54
+% 5.9 0.0 11.8 0.0 29.4 5.9 5.9 29.4 0.0 0.0 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 471 A Groggel David J. Probability & Stats Prblms Sem
+N
+N
+IN
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+7
+3
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0 58.3 25.0 0.0 0.0
+Course Total STA 471
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+7
+3
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0 58.3 25.0 0.0 0.0
+STA 475 A Bailer A. John Data Analysis Practicum
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+4
+1
+2
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 0.0 50.0 22.2 5.6 11.1 0.0 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total STA 475
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+4
+1
+2
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 0.0 50.0 22.2 5.6 11.1 0.0 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 483 A Schaefer Robert L. Analysis Of Forecsting Systems
+N
+N
+SS
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+0
+2
+3
+2
+6
+2
+0
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.13
+% 0.0 0.0 5.0 0.0 10.0 15.0 10.0 30.0 10.0 0.0 10.0 5.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total STA 483
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+0
+2
+3
+2
+6
+2
+0
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.13
+% 0.0 0.0 5.0 0.0 10.0 15.0 10.0 30.0 10.0 0.0 10.0 5.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

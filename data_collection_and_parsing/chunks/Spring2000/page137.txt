@@ -1,0 +1,301 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 134 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total EDP 201M
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+9
+5
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.61
+% 4.3 26.1 39.1 21.7 4.3 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 220 A Catania Charles A. Field Experience In Special Ed
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+18
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+Course Total EDP 220
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+18
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+EDP 230L L A Fraser Rosemary A. Cultural Views Of Childhd/Lux
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+4
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+3.50
+% 0.0 15.4 23.1 30.8 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 23.1 0.0 0.0 0.0
+Course Total EDP 230L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+4
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+3.50
+% 0.0 15.4 23.1 30.8 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 23.1 0.0 0.0 0.0
+EDP 231L L A Fraser Rosemary A. Cultural Views Of Adolesc-Lux
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+3
+3
+6
+3
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.12
+% 3.4 13.8 10.3 10.3 20.7 10.3 10.3 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 13.8 0.0 0.0 0.0
+Course Total EDP 231L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+3
+3
+6
+3
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.12
+% 3.4 13.8 10.3 10.3 20.7 10.3 10.3 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 13.8 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,308 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Voa - West Chester Campus
+Page: 17 Sections of 10
+NSG Nursing
+Miami Plan
+Honors
+Cross Listing
+NSG 216 V A Burger Carolyn M. Clinicl Decsn Making Modls Nsg
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+0
+1
+1
+2
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.60
+% 10.0 0.0 0.0 10.0 10.0 20.0 20.0 20.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+NSG 216 V C Burger Carolyn M. Clinicl Decsn Making Modls Nsg
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+1
+0
+3
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 20.0 10.0 10.0 0.0 30.0 0.0 10.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+NSG 216 V E Burger Carolyn M. Clinicl Decsn Making Modls Nsg
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+0
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.04
+% 0.0 20.0 20.0 20.0 0.0 10.0 0.0 20.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+NSG 216 V G Burger Carolyn M. Clinicl Decsn Making Modls Nsg
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+2
+1
+1
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.86
+% 10.0 0.0 20.0 10.0 10.0 0.0 30.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+NSG 216 V I Burger Carolyn M. Clinicl Decsn Making Modls Nsg
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+2
+2
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 10.0 10.0 20.0 20.0 10.0 10.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+NSG 216 V J Burger Carolyn M. Clinicl Decsn Making Modls Nsg
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1
+2
+0
+1
+5
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.33
+% 0.0 0.0 0.0 10.0 20.0 0.0 10.0 50.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total NSG 216
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+4
+6
+7
+9
+4
+8
+15
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 6.7 6.7 10.0 11.7 15.0 6.7 13.3 25.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

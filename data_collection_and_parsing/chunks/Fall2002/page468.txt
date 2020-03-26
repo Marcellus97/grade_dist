@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Oxford Campus
+Page: 465 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total PHS 206
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+10
+5
+6
+1
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+1
+0
+0
+0
+3.08
+% 0.0 0.0 7.1 35.7 17.9 21.4 3.6 0.0 0.0 0.0 0.0 0.0 0.0 3.6 7.1 0.0 0.0 3.6 0.0 0.0 0.0
+PHS 232 A Johnson Nancy J. Health Issues/Children & Youth
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+22
+6
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.98
+% 73.3 20.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 232 B Lynch Sheree Health Issues/Children & Youth
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+21
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+4.00
+% 24.1 72.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 232 C Johnson Nancy J. Health Issues/Children & Youth
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+17
+12
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.99
+% 56.7 40.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 232
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+46
+39
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.99
+% 51.7 43.8 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.1 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 242 A Zullig Keith J. Personal Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+2
+12
+0
+2
+9
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.59
+% 0.0 6.9 0.0 6.9 41.4 0.0 6.9 31.0 0.0 0.0 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 242 B Sliger Jennifer Personal Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+0
+9
+3
+0
+4
+0
+0
+3
+1
+2
+0
+0
+2
+0
+0
+0
+0
+0
+2.39
+% 0.0 16.1 6.5 0.0 29.0 9.7 0.0 12.9 0.0 0.0 9.7 3.2 6.5 0.0 0.0 6.5 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

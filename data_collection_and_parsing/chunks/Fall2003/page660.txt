@@ -1,0 +1,46 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2003-04 Middletown Campus
+Page: 657 Sections of 10
+History Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+60
+28
+43
+66
+21
+24
+36
+19
+6
+12
+2
+8
+6
+15
+18
+3
+0
+0
+0
+0
+2.69
+% 0.3 16.3 7.6 11.7 17.9 5.7 6.5 9.8 5.2 1.6 3.3 0.5 2.2 1.6 4.1 4.9 0.8 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

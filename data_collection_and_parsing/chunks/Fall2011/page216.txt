@@ -1,0 +1,305 @@
+testRun: 01/27/12 @ 17:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2011-12 Oxford Campus
+Page: 212 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDP 256 C Wasburn-Moses Leah H. Psy/Learners With Exception
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+16
+8
+2
+9
+3
+1
+5
+0
+2
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 4.0 32.0 16.0 4.0 18.0 6.0 2.0 10.0 0.0 4.0 0.0 0.0 2.0 2.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 256 D Southern William T. Psy/Learners With Exception
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+12
+4
+6
+6
+3
+2
+0
+4
+2
+3
+0
+1
+3
+0
+0
+0
+1
+0
+0
+0
+2.95
+% 2.1 25.0 8.3 12.5 12.5 6.3 4.2 0.0 8.3 4.2 6.3 0.0 2.1 6.3 0.0 0.0 0.0 2.1 0.0 0.0 0.0
+Course Total EDP 256
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+50
+31
+14
+34
+12
+10
+15
+7
+8
+7
+2
+3
+7
+0
+0
+0
+2
+0
+0
+0
+3.02
+% 1.5 24.4 15.1 6.8 16.6 5.9 4.9 7.3 3.4 3.9 3.4 1.0 1.5 3.4 0.0 0.0 0.0 1.0 0.0 0.0 0.0
+EDP 256E A Kelly-Elliott Molly Psy/Learners With Exception
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+25
+11
+14
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 0.0 7.0 43.9 19.3 24.6 3.5 0.0 1.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDP 256E
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+25
+11
+14
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 0.0 7.0 43.9 19.3 24.6 3.5 0.0 1.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 272 A Rotuno-Johnson Rosemary Disability Studies
+Y
+N
+KE
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+2
+1
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 18.2 18.2 18.2 9.1 18.2 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 272 B Rotuno-Johnson Rosemary Disability Studies
+Y
+N
+KF
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+3
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.85
+% 54.5 27.3 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2002-03 Oxford Campus
+Page: 102 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MKT 441 OA Taylor Janice E. Promotion Management
+N
+N
+D5
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+1
+21
+0
+3
+9
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 2.3 11.4 2.3 47.7 0.0 6.8 20.5 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 441
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+1
+21
+0
+3
+9
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 2.3 11.4 2.3 47.7 0.0 6.8 20.5 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 471 MA Unger Lynette S. International Marketing
+N
+N
+MK
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+7
+2
+4
+5
+0
+2
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+2.51
+% 0.0 4.0 4.0 4.0 28.0 8.0 16.0 20.0 0.0 8.0 4.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0
+MKT 471 OA Taylor Janice E. International Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+4
+8
+2
+5
+7
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.80
+% 0.0 3.1 12.5 12.5 25.0 6.3 15.6 21.9 0.0 0.0 0.0 0.0 0.0 0.0 3.1 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 471
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+5
+15
+4
+9
+12
+0
+2
+1
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+2.67
+% 0.0 3.5 8.8 8.8 26.3 7.0 15.8 21.1 0.0 3.5 1.8 0.0 0.0 0.0 1.8 0.0 1.8 0.0 0.0 0.0 0.0
+MKT 477 OG Manders Leland Independent Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 18.2 45.5 36.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 477
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 18.2 45.5 36.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

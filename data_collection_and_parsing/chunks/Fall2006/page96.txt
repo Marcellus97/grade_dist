@@ -1,0 +1,309 @@
+testRun: 01/23/07 @ 09:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2006-07 Oxford Campus
+Page: 93 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+COM 146 A German Kathleen M. Media Aesthetics and Design
+N
+N
+CC
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+0
+9
+0
+0
+1
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 10.5 21.1 0.0 47.4 0.0 0.0 5.3 5.3 0.0 0.0 0.0 0.0 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 146 B German Kathleen M. Media Aesthetics and Design
+N
+N
+DC
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+5
+3
+9
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 16.7 20.8 12.5 37.5 4.2 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 146
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+9
+3
+18
+1
+0
+3
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 0.0 14.0 20.9 7.0 41.9 2.3 0.0 7.0 2.3 0.0 0.0 0.0 0.0 4.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 206 A Scott Ronald B. Diversity&Culture in Amer Film
+Y
+N
+WE
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+9
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.94
+% 35.0 45.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 206 B Scott Ronald B. Diversity&Culture in Amer Film
+Y
+N
+GS
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+9
+10
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+3.80
+% 16.7 30.0 33.3 6.7 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 3.3 0.0 0.0 0.0
+Course Total COM 206
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+12
+18
+14
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+3.86
+% 24.0 36.0 28.0 4.0 2.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 2.0 0.0 0.0 0.0
+COM 211 A Beitzel Steven E. Intro To Electronic Media Prod
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+10
+0
+0
+4
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 6.3 62.5 0.0 0.0 25.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

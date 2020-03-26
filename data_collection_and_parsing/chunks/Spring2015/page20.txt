@@ -1,0 +1,303 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Oxford Campus
+Page: 16 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ACE 113 B Yang Eun Chong Reading Writing Acad Contexts
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+2
+3
+0
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 7.1 35.7 14.3 21.4 0.0 7.1 0.0 7.1 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACE 113 C Duffield Ebru D. Reading Writing Acad Contexts
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+0
+3
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 46.2 0.0 23.1 0.0 7.7 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACE 113 D Duffield Ebru D. Reading Writing Acad Contexts
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+2
+1
+1
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 38.5 15.4 7.7 7.7 23.1 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACE 113 F Duffield Ebru D. Reading Writing Acad Contexts
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+1
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.81
+% 46.2 7.7 23.1 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACE 113
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+18
+8
+9
+10
+9
+6
+0
+2
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 27.3 12.1 13.6 15.2 13.6 9.1 0.0 3.0 0.0 3.0 0.0 0.0 0.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACE 310E A Marcus Felice J. American Film
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+1
+2
+4
+4
+1
+0
+1
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 4.8 14.3 4.8 9.5 19.0 19.0 4.8 0.0 4.8 9.5 4.8 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACE 310E
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+1
+2
+4
+4
+1
+0
+1
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 4.8 14.3 4.8 9.5 19.0 19.0 4.8 0.0 4.8 9.5 4.8 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

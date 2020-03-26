@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 233 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 313 B Que Corinthia P. Intro To Technical Writing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+3
+6
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.66
+% 0.0 44.4 16.7 33.3 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 313 C Anderson Paul V. Intro To Technical Writing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+9
+2
+2
+3
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+3.04
+% 0.0 0.0 5.3 47.4 10.5 10.5 15.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 5.3 0.0 0.0 0.0
+ENG 313 D Durack Katherine T. Intro To Technical Writing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+9
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.68
+% 0.0 31.6 47.4 10.5 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 313 E Byrum Sabrina F. Intro To Technical Writing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.96
+% 0.0 94.4 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 313
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+40
+15
+21
+7
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+3.61
+% 0.0 44.0 16.5 23.1 7.7 2.2 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.2 0.0 0.0 1.1 0.0 0.0 0.0
+ENG 315 A Bloch Janel M. Business Writing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+4
+4
+3
+3
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.40
+% 0.0 29.2 16.7 16.7 12.5 12.5 0.0 0.0 4.2 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 4.2 0.0 0.0 0.0
+ENG 315 B Crowder Julie K. Business Writing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+11
+7
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3.58
+% 0.0 12.5 45.8 29.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

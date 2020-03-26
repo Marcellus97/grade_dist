@@ -1,0 +1,306 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Oxford Campus
+Page: 331 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+IMS 356 A Hittle Kye Flash Animation
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+7
+1
+8
+1
+2
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.11
+% 0.0 8.7 30.4 4.3 34.8 4.3 8.7 0.0 0.0 0.0 0.0 0.0 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total IMS 356
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+7
+1
+8
+1
+2
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.11
+% 0.0 8.7 30.4 4.3 34.8 4.3 8.7 0.0 0.0 0.0 0.0 0.0 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IMS 359 A Greenberg Ira Interactive Progr ActionScript
+N
+N
+YF
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 0.0 20.0 60.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total IMS 359
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 0.0 20.0 60.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IMS 410 C Platt Glenn J. Digital Development Methods
+N
+N
+0K
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+1
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 0.0 40.0 10.0 10.0 10.0 20.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total IMS 410
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+1
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 0.0 40.0 10.0 10.0 10.0 20.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IMS 440 A Coyle James R. Interactive Media Study Pract
+N
+N
+VT
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 0.0 81.8 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,305 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 349 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MBI 131 VC Stevenson John R. Community Health Perspectives
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+5
+14
+13
+8
+13
+6
+6
+3
+4
+0
+8
+0
+0
+2
+14
+0
+0
+0
+2.35
+% 0.0 1.0 4.0 5.0 13.9 12.9 7.9 12.9 5.9 5.9 3.0 4.0 0.0 7.9 0.0 0.0 2.0 13.9 0.0 0.0 0.0
+Course Total MBI 131
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+73
+17
+18
+90
+25
+24
+33
+13
+6
+4
+4
+1
+16
+0
+0
+2
+29
+2
+0
+0
+2.96
+% 0.3 20.4 4.7 5.0 25.1 7.0 6.7 9.2 3.6 1.7 1.1 1.1 0.3 4.5 0.0 0.0 0.6 8.1 0.6 0.0 0.0
+MBI 202 A Stevenson John R. General Microbiology II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+0
+0
+0
+2
+2
+0
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.03
+% 0.0 18.2 9.1 0.0 0.0 0.0 18.2 18.2 0.0 9.1 0.0 9.1 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MBI 202 B Stevenson John R. General Microbiology II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+2
+4
+5
+2
+2
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 5.0 5.0 10.0 20.0 25.0 10.0 10.0 5.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MBI 202 C Stevenson John R. General Microbiology II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+2
+3
+3
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.31
+% 13.3 13.3 13.3 20.0 20.0 6.7 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0
+Course Total MBI 202
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+5
+5
+7
+8
+3
+4
+3
+0
+2
+2
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+2.80
+% 6.5 10.9 10.9 15.2 17.4 6.5 8.7 6.5 0.0 4.3 4.3 2.2 4.3 0.0 0.0 0.0 2.2 0.0 0.0 0.0 0.0
+MBI 365 A Cheng Xiao-Wen Molecular Biology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+0
+25
+0
+0
+6
+0
+0
+8
+0
+0
+2
+0
+0
+2
+0
+0
+0
+0
+2.83
+% 0.0 23.2 0.0 0.0 44.6 0.0 0.0 10.7 0.0 0.0 14.3 0.0 0.0 3.6 0.0 0.0 3.6 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,303 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Oxford Campus
+Page: 53 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ARC 408 A Cevik Gulen Interior Design Studio
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+5
+2
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.50
+% 11.8 17.6 29.4 11.8 17.6 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ARC 408
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+5
+2
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.50
+% 11.8 17.6 29.4 11.8 17.6 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ARC 411 A Ping James K. Structures I
+N
+N
+D5
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+6
+3
+2
+1
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 0.0 26.3 31.6 15.8 10.5 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ARC 411
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+6
+3
+2
+1
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 0.0 26.3 31.6 15.8 10.5 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ARC 414 A Bonham Mary B. Environmntl Control Systems II
+N
+N
+D6
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+10
+1
+3
+1
+0
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 4.3 17.4 43.5 4.3 13.0 4.3 0.0 0.0 0.0 4.3 0.0 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ARC 414
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+10
+1
+3
+1
+0
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 4.3 17.4 43.5 4.3 13.0 4.3 0.0 0.0 0.0 4.3 0.0 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ARC 418 A Hinrichs Craig L. Construction Methods
+N
+N
+D7
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+6
+5
+6
+3
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 10.0 13.3 20.0 16.7 20.0 10.0 3.3 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

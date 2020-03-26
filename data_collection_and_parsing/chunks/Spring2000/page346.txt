@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 343 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MKT 291 N Twells Robert W. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+7
+4
+14
+1
+1
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 15.8 18.4 10.5 36.8 2.6 2.6 13.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 O Twells Robert W. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+5
+11
+10
+2
+0
+5
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 15.0 12.5 27.5 25.0 5.0 0.0 12.5 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 P Twells Robert W. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+3
+20
+7
+2
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 5.0 7.5 7.5 50.0 17.5 5.0 2.5 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 T Bolg John R. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+8
+8
+18
+1
+4
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.21
+% 0.0 9.1 18.2 18.2 40.9 2.3 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.3 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 U Bolg John R. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+9
+11
+13
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.32
+% 0.0 11.9 21.4 26.2 31.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 V Philpott Timothy J. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+5
+6
+10
+3
+0
+7
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.12
+% 0.0 17.9 12.8 15.4 25.6 7.7 0.0 17.9 0.0 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 X Weseli Vincent D. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+7
+7
+11
+7
+1
+5
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 0.0 17.9 17.9 28.2 17.9 2.6 12.8 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

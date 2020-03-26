@@ -1,0 +1,307 @@
+testRun: 01/17/08 @ 12:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2007-08 Oxford Campus
+Page: 533 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+REL 101 BB Poirier Lisa J. Varieties Religious Expression
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+3
+0
+3
+1
+1
+1
+0
+1
+1
+2
+5
+0
+0
+0
+0
+0
+0
+0
+2.21
+% 0.0 0.0 10.0 15.0 0.0 15.0 5.0 5.0 5.0 0.0 5.0 5.0 10.0 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+REL 101 BC Poirier Lisa J. Varieties Religious Expression
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+3
+7
+2
+2
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 0.0 18.2 9.1 13.6 31.8 9.1 9.1 0.0 0.0 0.0 4.5 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+REL 101 BD Poirier Lisa J. Varieties Religious Expression
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+2
+4
+3
+5
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+2.55
+% 0.0 5.0 10.0 5.0 10.0 20.0 15.0 25.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0
+REL 101 BE Poirier Lisa J. Varieties Religious Expression
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+4
+4
+0
+2
+3
+2
+1
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.26
+% 0.0 0.0 5.0 20.0 20.0 0.0 10.0 15.0 10.0 5.0 5.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+REL 101 BF Poirier Lisa J. Varieties Religious Expression
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+2
+5
+0
+2
+3
+3
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.50
+% 0.0 5.3 5.3 10.5 26.3 0.0 10.5 15.8 15.8 0.0 0.0 0.0 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total REL 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+16
+25
+41
+19
+22
+25
+15
+6
+5
+1
+12
+8
+0
+0
+2
+2
+0
+0
+0
+2.56
+% 0.0 7.4 7.4 11.6 19.1 8.8 10.2 11.6 7.0 2.8 2.3 0.5 5.6 3.7 0.0 0.0 0.9 0.9 0.0 0.0 0.0
+REL 175 A Hanges James C. Critical Study Biblical Litera
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+9
+8
+3
+5
+4
+1
+5
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.19
+% 5.0 22.5 20.0 7.5 12.5 10.0 2.5 12.5 2.5 2.5 0.0 0.0 0.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

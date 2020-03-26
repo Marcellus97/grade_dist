@@ -1,0 +1,329 @@
+testRun: 01/20/09 @ 12:44 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2008-09 Hamilton Campus
+Page: 840 Sections of 10
+PSY 111 HS2 Uhler Beth D. Introduction To Psychology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+1
+1
+0
+2
+0
+0
+0
+0
+% 10.0 10.0 10.0 0.0 20.0 0.0 0.0 0.0 0.0
+Course Total PSY 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+10
+16
+15
+12
+30
+17
+12
+18
+12
+% 5.0 7.9 7.4 5.9 14.9 8.4 5.9 8.9 5.9
+PSY 231 H A Abraham Michelle M. Developmental Psychology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+3
+1
+3
+7
+3
+3
+1
+1
+% 3.3 10.0 3.3 10.0 23.3 10.0 10.0 3.3 3.3
+Course Total PSY 231
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+3
+1
+3
+7
+3
+3
+1
+1
+% 3.3 10.0 3.3 10.0 23.3 10.0 10.0 3.3 3.3
+PSY 293 H A Hahn Susan E. Intro:Psychological Statistics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+2
+0
+1
+3
+5
+2
+2
+0
+% 0.0 12.5 0.0 6.3 18.8 31.3 12.5 12.5 0.0
+Course Total PSY 293
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+2
+0
+1
+3
+5
+2
+2
+0
+% 0.0 12.5 0.0 6.3 18.8 31.3 12.5 12.5 0.0
+Psychology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+UG 11
+21
+16
+16
+40
+25
+17
+21
+13
+% 4.4 8.5 6.5 6.5 16.1 10.1 6.9 8.5 5.2
+D+ D
+D-
+F
+W
+WP WF
+1
+1
+1
+1
+1
+0
+0
+10.0 10.0 10.0 10.0 10.0 0.0 0.0
+D+ D
+D-
+F
+W
+WP WF
+6
+9
+10
+25
+10
+0
+0
+3.0 4.5 5.0 12.4 5.0 0.0 0.0
+D+ D
+D-
+F
+W
+WP WF
+2
+0
+0
+2
+3
+0
+0
+6.7 0.0 0.0 6.7 10.0 0.0 0.0
+D+ D
+D-
+F
+W
+WP WF
+2
+0
+0
+2
+3
+0
+0
+6.7 0.0 0.0 6.7 10.0 0.0 0.0
+D+ D
+D-
+F
+W
+WP WF
+0
+0
+0
+1
+0
+0
+0
+0.0 0.0 0.0 6.3 0.0 0.0 0.0
+D+ D
+D-
+F
+W
+WP WF
+0
+0
+0
+1
+0
+0
+0
+0.0 0.0 0.0 6.3 0.0 0.0 0.0
+D+ D
+D-
+F
+W
+WP WF
+8
+9
+10
+28
+13
+0
+0
+3.2 3.6 4.0 11.3 5.2 0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.30
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.31
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.66
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.66
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.65
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.65
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.37
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

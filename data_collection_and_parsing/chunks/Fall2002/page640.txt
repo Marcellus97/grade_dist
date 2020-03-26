@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Middletown Campus
+Page: 637 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDL 110 MTC Watkins Linda S. The University And The Student
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+11
+1
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 91.7 8.3 0.0 0.0
+EDL 110 MTD Davis Tracy L. The University And The Student
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+13
+2
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 86.7 13.3 0.0 0.0
+EDL 110 MUB Davis Tracy L. The University And The Student
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+7
+3
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 8.3 0.0 0.0 58.3 25.0 0.0 0.0
+Course Total EDL 110
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+2
+0
+0
+50
+11
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 3.0 0.0 0.0 75.8 16.7 0.0 0.0
+EDL 171 MUA Watkins Linda S. Learning Through Service
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+7
+0
+0
+0
+0
+0
+0
+0
+2.34
+% 0.0 16.7 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 16.7 58.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDL 171
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+7
+0
+0
+0
+0
+0
+0
+0
+2.34
+% 0.0 16.7 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 16.7 58.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 204 M A Sanders Alvin E. Sociocultural Studies In Educ
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+3
+1
+3
+0
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.53
+% 5.0 45.0 15.0 5.0 15.0 0.0 0.0 5.0 5.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

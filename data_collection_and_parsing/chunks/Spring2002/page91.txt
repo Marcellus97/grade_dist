@@ -1,0 +1,308 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 88 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total COM 257
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+8
+4
+2
+1
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 22.7 36.4 18.2 9.1 4.5 0.0 0.0 0.0 0.0 4.5 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 258 A Long Robert D. Copywriting:Electronic Media
+N
+N
+TT
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+3
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.45
+% 0.0 26.7 20.0 20.0 26.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 258 B Russo Patricia Copywriting:Electronic Media
+N
+N
+TS
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 0.0 45.5 27.3 9.1 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 258 C Long Robert D. Copywriting:Electronic Media
+N
+N
+TR
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+5
+8
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 5.6 11.1 27.8 44.4 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 258
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+8
+9
+14
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 0.0 22.7 18.2 20.5 31.8 2.3 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 262 A Metzler Maribeth S. Intro To Quantative Research
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+1
+4
+7
+6
+2
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 3.2 19.4 3.2 12.9 22.6 19.4 6.5 6.5 3.2 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 262 B Metzler Maribeth S. Intro To Quantative Research
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+5
+3
+4
+4
+1
+1
+2
+1
+1
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+2.82
+% 3.3 13.3 16.7 10.0 13.3 13.3 3.3 3.3 6.7 3.3 3.3 3.3 0.0 3.3 0.0 3.3 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,64 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 549 Sections of 10
+Spanish Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 19
+145 191 182 211 123 86
+83
+50
+17
+29
+15
+26
+52
+0
+0
+0
+2
+0
+0
+0
+2.92
+% 1.5 11.8 15.5 14.8 17.1 10.0 7.0 6.7 4.1 1.4 2.4 1.2 2.1 4.2 0.0 0.0 0.0 0.2 0.0 0.0 0.0
+GR 6
+17
+13
+5
+3
+2
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+3
+0
+0
+0
+0
+3.69
+% 11.5 32.7 25.0 9.6 5.8 3.8 1.9 0.0 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 5.8 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

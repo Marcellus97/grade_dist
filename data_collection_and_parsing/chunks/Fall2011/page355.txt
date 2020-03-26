@@ -1,0 +1,306 @@
+testRun: 01/27/12 @ 17:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2011-12 Oxford Campus
+Page: 351 Sections of 10
+GTY Gerontology
+Miami Plan
+Honors
+Cross Listing
+GTY 154 A Pan Xi Aging In American Society
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+6
+2
+1
+5
+5
+1
+1
+3
+3
+1
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.36
+% 0.0 8.8 17.6 5.9 2.9 14.7 14.7 2.9 2.9 8.8 8.8 2.9 8.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GTY 154 B Rivera-Hernandez Maricruz Aging In American Society
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+7
+4
+9
+3
+7
+1
+3
+1
+1
+0
+1
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 4.5 15.9 9.1 20.5 6.8 15.9 2.3 6.8 2.3 2.3 0.0 2.3 4.5 6.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GTY 154 C Chahal Jasleen K. Aging In American Society
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+2
+2
+4
+2
+1
+1
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 0.0 34.8 8.7 8.7 17.4 8.7 4.3 4.3 0.0 4.3 0.0 0.0 0.0 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GTY 154 D Cummins Phyllis A. Aging In American Society
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+15
+10
+5
+2
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 20.5 34.1 22.7 11.4 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GTY 154 E Fenster Emily A. Aging In American Society
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+4
+4
+5
+9
+6
+4
+1
+2
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 9.3 9.3 9.3 11.6 20.9 14.0 9.3 2.3 4.7 2.3 0.0 4.7 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GTY 154 F Brown Pamela S. Aging In American Society
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+32
+9
+0
+1
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.87
+% 71.1 20.0 0.0 2.2 2.2 0.0 2.2 0.0 2.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GTY 154
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+47
+46
+26
+24
+20
+22
+12
+6
+5
+6
+3
+4
+6
+6
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 20.2 19.7 11.2 10.3 8.6 9.4 5.2 2.6 2.1 2.6 1.3 1.7 2.6 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

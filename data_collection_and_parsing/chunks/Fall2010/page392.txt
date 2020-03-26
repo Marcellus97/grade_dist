@@ -1,0 +1,303 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Oxford Campus
+Page: 388 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+JRN 318 C Daumeyer Robert N. Advanced Storytelling in Journ
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+5
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 5.9 41.2 29.4 17.6 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total JRN 318
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+13
+16
+7
+2
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.65
+% 2.4 31.0 38.1 16.7 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+JRN 340 B Newberry Patricia G. Internship
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+11
+0
+0
+0
+4.00
+% 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 91.7 0.0 0.0 0.0
+Course Total JRN 340
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+11
+0
+0
+0
+4.00
+% 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 91.7 0.0 0.0 0.0
+JRN 350 A Blair Annie-Laurie Specialized Journalism
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+1
+5
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+3.43
+% 0.0 27.8 16.7 5.6 27.8 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 5.6 0.0 0.0 0.0 0.0
+JRN 350 B O'Brien Keith M. Specialized Journalism
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+3
+4
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 0.0 47.1 17.6 23.5 0.0 0.0 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total JRN 350
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+6
+5
+5
+2
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+3.50
+% 0.0 37.1 17.1 14.3 14.3 5.7 2.9 2.9 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 2.9 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

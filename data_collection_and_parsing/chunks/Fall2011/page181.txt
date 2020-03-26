@@ -1,0 +1,303 @@
+testRun: 01/27/12 @ 17:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2011-12 Oxford Campus
+Page: 177 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ECE 287 B Jamieson Peter A. Digital Systems Design
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+1
+1
+1
+0
+2
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.04
+% 0.0 15.4 15.4 15.4 7.7 7.7 7.7 0.0 15.4 0.0 0.0 0.0 0.0 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 287 C Jamieson Peter A. Digital Systems Design
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+2
+3
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.42
+% 13.3 13.3 13.3 20.0 40.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECE 287
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+8
+10
+8
+1
+1
+0
+3
+1
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 9.1 11.4 18.2 22.7 18.2 2.3 2.3 0.0 6.8 2.3 0.0 0.0 0.0 6.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 304 A Garmatyuk Dmitriy Electronics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+4
+1
+4
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.11
+% 7.1 7.1 28.6 7.1 28.6 14.3 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 304 B Garmatyuk Dmitriy Electronics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+2
+4
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.22
+% 0.0 21.4 14.3 14.3 28.6 14.3 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECE 304
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+6
+3
+8
+4
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 3.6 14.3 21.4 10.7 28.6 14.3 0.0 0.0 3.6 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 306 A Ucci Donald R. Signals and Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+2
+0
+2
+1
+0
+0
+3
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 28.6 14.3 0.0 14.3 7.1 0.0 0.0 21.4 0.0 0.0 0.0 0.0 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

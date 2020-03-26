@@ -1,0 +1,300 @@
+testRun: 06/23/14 @ 07:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2013-14 Middletown Campus
+Page: 856 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PSY 221 M A Dietz Beth L. Social Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+2
+2
+4
+0
+0
+0
+0
+0
+0
+4
+2
+0
+0
+0
+0
+0
+0
+0
+2.64
+% 0.0 14.3 19.0 9.5 9.5 19.0 0.0 0.0 0.0 0.0 0.0 0.0 19.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 221
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+2
+2
+4
+0
+0
+0
+0
+0
+0
+4
+2
+0
+0
+0
+0
+0
+0
+0
+2.64
+% 0.0 14.3 19.0 9.5 9.5 19.0 0.0 0.0 0.0 0.0 0.0 0.0 19.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 231 M A Higgins Barbara A. Developmental Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+4
+6
+3
+1
+1
+0
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.54
+% 21.7 17.4 26.1 13.0 4.3 4.3 0.0 8.7 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 231 M B Higgins Barbara A. Developmental Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+3
+1
+0
+1
+1
+2
+3
+2
+0
+0
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 19.0 14.3 4.8 0.0 4.8 4.8 9.5 14.3 9.5 0.0 0.0 4.8 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 231
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+7
+7
+3
+2
+2
+2
+5
+2
+0
+0
+1
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 20.5 15.9 15.9 6.8 4.5 4.5 4.5 11.4 4.5 0.0 0.0 2.3 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 242 M A Wickline Virginia B. Abnormal Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+2
+3
+3
+2
+3
+0
+1
+1
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 0.0 16.0 12.0 8.0 12.0 12.0 8.0 12.0 0.0 4.0 4.0 0.0 0.0 12.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 242
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+2
+3
+3
+2
+3
+0
+1
+1
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 0.0 16.0 12.0 8.0 12.0 12.0 8.0 12.0 0.0 4.0 4.0 0.0 0.0 12.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

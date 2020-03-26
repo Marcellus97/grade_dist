@@ -1,0 +1,302 @@
+testRun: 02/07/05 @ 11:26 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2003-04 Middletown Campus
+Page: 171 Sections of 10
+NSG Nursing
+Miami Plan
+Honors
+Cross Listing
+NSG 103 MPA Carson Anne R. Intro-Calc Medication Dosage
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+10
+5
+2
+4
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.68
+% 20.7 34.5 17.2 6.9 13.8 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total NSG 103
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+10
+5
+2
+4
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.68
+% 20.7 34.5 17.2 6.9 13.8 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+NSG 202 MMA Workman Donna P. Intermediate Clinical NSG Prac
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+1
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.54
+% 41.7 8.3 41.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0
+Course Total NSG 202
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+1
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.54
+% 41.7 8.3 41.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0
+NSG 492 MMA Fopma-Loy Joan Individuals W/ Behav/Emot Dist
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+4
+8
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 7.1 0.0 28.6 57.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total NSG 492
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+4
+8
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 7.1 0.0 28.6 57.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Nursing Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 11
+12
+10
+6
+12
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+3.51
+% 20.0 21.8 18.2 10.9 21.8 1.8 0.0 1.8 0.0 0.0 0.0 0.0 0.0 1.8 0.0 1.8 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

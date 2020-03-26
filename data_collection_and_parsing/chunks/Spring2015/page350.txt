@@ -1,0 +1,308 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Oxford Campus
+Page: 346 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+IMS 419 B Coyle James R. Digital Branding
+N
+N
+SF
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+3
+2
+4
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 11.8 29.4 17.6 11.8 23.5 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IMS 419 C Tudor Brian C. Digital Branding
+N
+N
+HO
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.53
+% 8.3 58.3 16.7 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total IMS 419
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+15
+7
+5
+7
+0
+0
+0
+1
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 7.3 36.6 17.1 12.2 17.1 0.0 0.0 0.0 2.4 0.0 0.0 0.0 2.4 4.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IMS 424 A Porter James E. Ethics and Digital Media
+N
+N
+NC
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+2
+3
+1
+0
+0
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 0.0 10.0 0.0 20.0 30.0 10.0 0.0 0.0 10.0 0.0 0.0 0.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total IMS 424
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+2
+3
+1
+0
+0
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 0.0 10.0 0.0 20.0 30.0 10.0 0.0 0.0 10.0 0.0 0.0 0.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IMS 440 A Black Robert W. Interactive Media Studies Prac
+N
+N
+D3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 5.3 57.9 36.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IMS 440 B Tudor Brian C. Interactive Media Studies Prac
+N
+N
+MS
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+8
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.87
+% 26.7 53.3 13.3 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

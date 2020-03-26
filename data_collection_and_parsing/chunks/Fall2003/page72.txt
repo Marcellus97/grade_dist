@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2003-04 Oxford Campus
+Page: 69 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total BUS 371
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+16
+19
+28
+21
+4
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 1.0 4.2 16.7 19.8 29.2 21.9 4.2 1.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 371L L A Stengelhofen Theo Internatnl Business-Luxembourg
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+9
+6
+4
+13
+3
+8
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.80
+% 0.0 4.2 18.8 12.5 8.3 27.1 6.3 16.7 2.1 0.0 2.1 2.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BUS 371L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+9
+6
+4
+13
+3
+8
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.80
+% 0.0 4.2 18.8 12.5 8.3 27.1 6.3 16.7 2.1 0.0 2.1 2.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 461H A Broida Michael S. Integrtn Business Fundamentals
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+14
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.92
+% 10.0 70.0 15.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BUS 461H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+14
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.92
+% 10.0 70.0 15.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 467 A Manders Leland Entrepreneurship: New Ventures
+N
+N
+MJ
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+7
+1
+16
+5
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 14.3 20.0 2.9 45.7 14.3 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 467 B Manders Leland Entrepreneurship: New Ventures
+N
+N
+MJ
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+3
+5
+16
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.30
+% 0.0 20.6 8.8 14.7 47.1 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

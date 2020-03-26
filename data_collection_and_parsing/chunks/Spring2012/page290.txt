@@ -1,0 +1,306 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Oxford Campus
+Page: 286 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FIN 302 A Campbell Timothy C. Intermed Financial Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+13
+1
+2
+9
+2
+3
+4
+0
+0
+3
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 4.9 31.7 2.4 4.9 22.0 4.9 7.3 9.8 0.0 0.0 7.3 0.0 0.0 4.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 302 B Campbell Timothy C. Intermed Financial Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+10
+2
+2
+12
+0
+1
+1
+0
+0
+5
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.87
+% 2.6 25.6 5.1 5.1 30.8 0.0 2.6 2.6 0.0 0.0 12.8 0.0 5.1 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 302 C Borokhovich Kenneth A. Intermed Financial Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+8
+6
+7
+4
+7
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 7.5 20.0 15.0 17.5 10.0 17.5 7.5 2.5 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 302 D Borokhovich Kenneth A. Intermed Financial Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+15
+8
+2
+3
+3
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 2.6 12.8 38.5 20.5 5.1 7.7 7.7 0.0 2.6 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 302 E Brunarski Kelly R. Intermed Financial Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+6
+3
+4
+10
+4
+2
+3
+0
+1
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 7.5 15.0 7.5 10.0 25.0 10.0 5.0 7.5 0.0 2.5 2.5 0.0 2.5 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 302
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+33
+19
+29
+46
+12
+16
+14
+1
+3
+10
+0
+3
+7
+0
+0
+0
+0
+0
+0
+0
+2.98
+% 3.0 16.6 9.5 14.6 23.1 6.0 8.0 7.0 0.5 1.5 5.0 0.0 1.5 3.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 303 A Shull David M. Prin. of Finance with Excel
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+36
+2
+4
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 0.0 83.7 4.7 9.3 0.0 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

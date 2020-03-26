@@ -1,0 +1,304 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 6 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ACC 221 DD Killy Elizabeth M. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+7
+2
+3
+3
+2
+4
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 0.0 10.0 13.3 23.3 6.7 10.0 10.0 6.7 13.3 0.0 0.0 3.3 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 221 DE Killy Elizabeth M. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+5
+2
+4
+3
+3
+2
+0
+0
+0
+1
+5
+0
+0
+0
+0
+0
+0
+0
+2.72
+% 0.0 10.3 3.4 17.2 6.9 13.8 10.3 10.3 6.9 0.0 0.0 0.0 3.4 17.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 221 DF Killy Elizabeth M. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+4
+3
+2
+4
+3
+2
+0
+0
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.59
+% 0.0 10.3 10.3 13.8 10.3 6.9 13.8 10.3 6.9 0.0 0.0 3.4 6.9 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 221
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+101 76
+116 67
+86
+65
+49
+37
+21
+11
+11
+21
+39
+0
+0
+0
+0
+0
+0
+0
+2.82
+% 1.1 14.3 10.7 16.4 9.5 12.1 9.2 6.9 5.2 3.0 1.6 1.6 3.0 5.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 222 A Collins Ronald G. Intro To Managerial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+5
+6
+9
+5
+2
+4
+3
+1
+1
+1
+4
+6
+0
+0
+0
+0
+0
+0
+0
+2.78
+% 0.0 20.3 8.5 10.2 15.3 8.5 3.4 6.8 5.1 1.7 1.7 1.7 6.8 10.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 222 B Collins Ronald G. Intro To Managerial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+20
+20
+22
+19
+19
+13
+19
+9
+7
+4
+1
+2
+13
+0
+0
+2
+0
+0
+0
+0
+2.80
+% 1.2 11.6 11.6 12.8 11.0 11.0 7.6 11.0 5.2 4.1 2.3 0.6 1.2 7.6 0.0 0.0 1.2 0.0 0.0 0.0 0.0
+ACC 222 C Collins Ronald G. Intro To Managerial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+23
+19
+26
+17
+12
+14
+11
+8
+3
+9
+3
+9
+13
+0
+0
+3
+0
+0
+0
+0
+2.71
+% 1.2 13.4 11.0 15.1 9.9 7.0 8.1 6.4 4.7 1.7 5.2 1.7 5.2 7.6 0.0 0.0 1.7 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

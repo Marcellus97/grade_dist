@@ -1,0 +1,303 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Hamilton Campus
+Page: 809 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENT 311 H A Speckert Robert E. Process Cntrol Intrface Design
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+6
+0
+0
+5
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 0.0 17.6 0.0 0.0 35.3 0.0 0.0 29.4 0.0 0.0 0.0 0.0 5.9 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENT 311
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+6
+0
+0
+5
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 0.0 17.6 0.0 0.0 35.3 0.0 0.0 29.4 0.0 0.0 0.0 0.0 5.9 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENT 401 H A Lessing Scott W. Computzd Inst&Feedback Control
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+9
+0
+0
+4
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.53
+% 0.0 15.8 0.0 0.0 47.4 0.0 0.0 21.1 0.0 0.0 5.3 0.0 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENT 401
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+9
+0
+0
+4
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.53
+% 0.0 15.8 0.0 0.0 47.4 0.0 0.0 21.1 0.0 0.0 5.3 0.0 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENT 402 H A Adams Charles R. Industrial Automation Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+1
+0
+4
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 0.0 16.7 27.8 5.6 0.0 22.2 11.1 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENT 402
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+1
+0
+4
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 0.0 16.7 27.8 5.6 0.0 22.2 11.1 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENT 407 H A Bal Mert Modern Manufacturing Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+2
+1
+5
+2
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 22.2 11.1 11.1 5.6 27.8 11.1 0.0 0.0 0.0 0.0 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,304 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 322 Sections of 10
+GLG Geology
+Miami Plan
+Honors
+Cross Listing
+GLG 111 A Rech Jason A. The Dynamic Earth
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+19
+30
+13
+37
+7
+4
+14
+2
+0
+3
+2
+0
+3
+0
+0
+0
+1
+1
+0
+0
+3.10
+% 0.7 13.9 21.9 9.5 27.0 5.1 2.9 10.2 1.5 0.0 2.2 1.5 0.0 2.2 0.0 0.0 0.0 0.7 0.7 0.0 0.0
+GLG 111 B Sikorski Janelle The Dynamic Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+27
+37
+12
+7
+11
+4
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+3.46
+% 1.9 26.0 35.6 11.5 6.7 10.6 3.8 1.9 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0
+GLG 111 C Mignery Jill M. The Dynamic Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+24
+20
+16
+29
+8
+12
+1
+8
+2
+1
+1
+1
+10
+0
+0
+0
+2
+1
+0
+0
+3.10
+% 2.2 17.3 14.4 11.5 20.9 5.8 8.6 0.7 5.8 1.4 0.7 0.7 0.7 7.2 0.0 0.0 0.0 1.4 0.7 0.0 0.0
+GLG 111 D Dupont Todd The Dynamic Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+35
+24
+26
+17
+7
+5
+5
+1
+0
+0
+1
+0
+0
+0
+0
+5
+1
+0
+0
+3.13
+% 0.7 7.9 25.2 17.3 18.7 12.2 5.0 3.6 3.6 0.7 0.0 0.0 0.7 0.0 0.0 0.0 0.0 3.6 0.7 0.0 0.0
+GLG 111 E Mignery Jill M. The Dynamic Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+17
+28
+15
+30
+15
+5
+13
+0
+2
+1
+1
+4
+3
+0
+0
+0
+2
+0
+0
+0
+3.03
+% 2.2 12.2 20.1 10.8 21.6 10.8 3.6 9.4 0.0 1.4 0.7 0.7 2.9 2.2 0.0 0.0 0.0 1.4 0.0 0.0 0.0
+Course Total GLG 111
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+10
+98
+150 80
+129 58
+32
+35
+15
+5
+5
+4
+7
+16
+0
+0
+0
+11
+3
+0
+0
+3.15
+% 1.5 14.9 22.8 12.2 19.6 8.8 4.9 5.3 2.3 0.8 0.8 0.6 1.1 2.4 0.0 0.0 0.0 1.7 0.5 0.0 0.0
+GLG 115L 1 Richmond Bryan J. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+7
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.78
+% 0.0 50.0 35.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

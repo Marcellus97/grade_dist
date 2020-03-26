@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 80 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+COM 135 Q Pettitt Lisa M. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+11
+4
+3
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.30
+% 0.0 11.5 42.3 15.4 11.5 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0
+COM 135 R Hall Ryan P. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+4
+2
+8
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 0.0 25.0 16.7 8.3 33.3 8.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 S Chao Cristin E. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+8
+5
+5
+1
+2
+0
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 7.7 30.8 19.2 19.2 3.8 7.7 0.0 3.8 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 T Byrom Kelly M. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+6
+5
+4
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 0.0 15.4 7.7 23.1 19.2 15.4 15.4 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 U Pettitt Lisa M. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+8
+2
+9
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 15.4 30.8 7.7 34.6 7.7 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 V Tierman Christina L. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+4
+9
+3
+0
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+3.05
+% 0.0 4.2 16.7 16.7 37.5 12.5 0.0 0.0 0.0 0.0 0.0 0.0 4.2 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 W Wilkerson Kristi L. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+4
+9
+2
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.46
+% 7.7 23.1 15.4 34.6 7.7 7.7 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

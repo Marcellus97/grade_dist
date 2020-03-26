@@ -1,0 +1,304 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Oxford Campus
+Page: 472 Sections of 10
+NSC Naval Science
+Miami Plan
+Honors
+Cross Listing
+NSC 110 A Livermore David A. Leadership Practicum
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+1
+0
+6
+0
+0
+6
+0
+0
+0
+0
+4
+1
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 47.1 2.9 0.0 17.6 0.0 0.0 17.6 0.0 0.0 0.0 0.0 11.8 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total NSC 110
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+1
+0
+6
+0
+0
+6
+0
+0
+0
+0
+4
+1
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 47.1 2.9 0.0 17.6 0.0 0.0 17.6 0.0 0.0 0.0 0.0 11.8 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+NSC 201 A Bond Daniel B. Naval Mission Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+3
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.60
+% 10.0 20.0 30.0 30.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total NSC 201
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+3
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.60
+% 10.0 20.0 30.0 30.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+NSC 202 A Livermore David A. Seapowr & Maritime Affairs Sem
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+10
+6
+3
+2
+1
+1
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 7.1 35.7 21.4 10.7 7.1 3.6 3.6 7.1 0.0 0.0 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+NSC 202 B Livermore David A. Seapowr & Maritime Affairs Sem
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+10
+4
+1
+3
+1
+1
+3
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.42
+% 21.9 31.3 12.5 3.1 9.4 3.1 3.1 9.4 0.0 0.0 0.0 0.0 3.1 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total NSC 202
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+20
+10
+4
+5
+2
+2
+5
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 15.0 33.3 16.7 6.7 8.3 3.3 3.3 8.3 0.0 0.0 0.0 0.0 1.7 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

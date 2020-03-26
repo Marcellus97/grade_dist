@@ -1,0 +1,303 @@
+testRun: 07/08/13 @ 16:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2012-13 Oxford Campus
+Page: 111 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CHM 145M C Danielson Neil D. College Chemistry Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+0
+0
+8
+1
+1
+5
+2
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.78
+% 4.3 13.0 0.0 0.0 34.8 4.3 4.3 21.7 8.7 0.0 0.0 0.0 0.0 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 145M
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+0
+1
+19
+1
+2
+13
+2
+1
+2
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 1.8 16.4 0.0 1.8 34.5 1.8 3.6 23.6 3.6 1.8 3.6 0.0 0.0 7.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 242 A Erb Meredith Organic Chemistry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+6
+12
+5
+7
+3
+9
+8
+4
+4
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 0.0 17.6 8.1 16.2 6.8 9.5 4.1 12.2 10.8 5.4 5.4 0.0 0.0 4.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 242 B Erb Meredith Organic Chemistry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+25
+12
+16
+15
+8
+11
+10
+11
+6
+6
+5
+4
+9
+0
+0
+0
+0
+0
+0
+0
+2.70
+% 1.4 17.9 8.6 11.4 10.7 5.7 7.9 7.1 7.9 4.3 4.3 3.6 2.9 6.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 242
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+38
+18
+28
+20
+15
+14
+19
+19
+10
+10
+5
+4
+12
+0
+0
+0
+0
+0
+0
+0
+2.72
+% 0.9 17.8 8.4 13.1 9.3 7.0 6.5 8.9 8.9 4.7 4.7 2.3 1.9 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 245 A Novak Michael Organic Chemistry Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+0
+34
+0
+0
+33
+0
+0
+4
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.60
+% 0.0 14.9 0.0 0.0 39.1 0.0 0.0 37.9 0.0 0.0 4.6 0.0 2.3 1.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 245 B Novak Michael Organic Chemistry Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+0
+0
+31
+0
+0
+17
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 19.4 0.0 0.0 50.0 0.0 0.0 27.4 0.0 0.0 1.6 0.0 0.0 1.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

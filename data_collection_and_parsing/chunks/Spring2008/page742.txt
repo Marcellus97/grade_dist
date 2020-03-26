@@ -1,0 +1,338 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Hamilton Campus
+Page: 739 Sections of 10
+ENG 112 H I Claussen Elizabeth K. Composition & Literature
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+3
+10
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+% 14.3 47.6 4.8 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H J Johnson Kelli Composition & Literature
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+4
+2
+2
+6
+0
+0
+4
+0
+0
+0
+1
+% 0.0 19.0 9.5 9.5 28.6 0.0 0.0 19.0 0.0 0.0 0.0 4.8
+ENG 112 H K Royer Diana A. Composition & Literature
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+6
+7
+1
+2
+3
+1
+0
+1
+0
+0
+0
+% 0.0 26.1 30.4 4.3 8.7 13.0 4.3 0.0 4.3 0.0 0.0 0.0
+ENG 112 H M Krafft John M. Composition & Literature
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+0
+0
+0
+1
+1
+0
+2
+2
+2
+3
+0
+% 0.0 0.0 0.0 0.0 7.1 7.1 0.0 14.3 14.3 14.3 21.4 0.0
+ENG 112 H N Royer Diana A. Composition & Literature
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+1
+2
+3
+2
+1
+6
+1
+2
+0
+0
+0
+0
+% 4.5 9.1 13.6 9.1 4.5 27.3 4.5 9.1 0.0 0.0 0.0 0.0
+ENG 112 H O Karnes Christy D. Composition & Literature
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+2
+6
+0
+1
+0
+1
+0
+0
+0
+1
+0
+1
+% 13.3 40.0 0.0 6.7 0.0 6.7 0.0 0.0 0.0 6.7 0.0 6.7
+ENG 112 H P Krafft John M. Composition & Literature
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+0
+1
+0
+1
+2
+0
+0
+1
+0
+0
+0
+% 0.0 0.0 5.6 0.0 5.6 11.1 0.0 0.0 5.6 0.0 0.0 0.0
+F
+W
+WP WF
+2
+0
+0
+0
+9.5 0.0 0.0 0.0
+F
+W
+WP WF
+2
+0
+0
+0
+9.5 0.0 0.0 0.0
+F
+W
+WP WF
+2
+0
+0
+0
+8.7 0.0 0.0 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 14.3 0.0 0.0
+F
+W
+3
+1
+13.6 4.5
+WP WF
+0
+0
+0.0 0.0
+F
+W
+WP WF
+1
+2
+0
+0
+6.7 13.3 0.0 0.0
+F
+W
+WP WF
+6
+6
+0
+0
+33.3 33.3 0.0 0.0
+Miami Plan
+Y
+I
+X
+3
+0
+14.3 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+1
+0
+7.1 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+1
+0
+5.6 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.43
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.70
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.10
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.70
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.63
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.08
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.25
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

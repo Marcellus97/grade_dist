@@ -1,0 +1,306 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 587 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ZOO 305
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+25
+7
+11
+38
+3
+5
+16
+1
+0
+4
+0
+2
+7
+0
+0
+0
+0
+0
+0
+0
+2.98
+% 0.0 21.0 5.9 9.2 31.9 2.5 4.2 13.4 0.8 0.0 3.4 0.0 1.7 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 312 A Crist Thomas O. Invertebrate Zoology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+0
+5
+1
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 0.0 25.0 15.0 0.0 25.0 5.0 20.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ZOO 312
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+0
+5
+1
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 0.0 25.0 15.0 0.0 25.0 5.0 20.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 342 A Wilson Kenneth G. Genetics
+N
+N
+65
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+13
+4
+6
+32
+0
+0
+7
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 1.6 20.3 6.3 9.4 50.0 0.0 0.0 10.9 1.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 342 B Wilson Kenneth G. Genetics
+N
+N
+V7
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+8
+6
+9
+0
+0
+11
+0
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+3.10
+% 0.0 17.8 17.8 13.3 20.0 0.0 0.0 24.4 0.0 0.0 0.0 0.0 0.0 4.4 0.0 0.0 2.2 0.0 0.0 0.0 0.0
+Course Total ZOO 342
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+21
+12
+12
+41
+0
+0
+18
+1
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+3.14
+% 0.9 19.3 11.0 11.0 37.6 0.0 0.0 16.5 0.9 0.0 0.0 0.0 0.0 1.8 0.0 0.0 0.9 0.0 0.0 0.0 0.0
+ZOO 351 A Schussler Elisabeth Environ Ed: Focus On Natrl Hst
+N
+N
+LP
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+2
+1
+7
+0
+0
+1
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 0.0 50.0 7.7 3.8 26.9 0.0 0.0 3.8 0.0 0.0 3.8 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

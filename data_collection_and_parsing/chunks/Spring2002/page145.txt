@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 142 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDL 318E A Cardenas Elizabeth J. Teacher Ldrshp:Early Childhood
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+7
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.76
+% 21.1 26.3 36.8 10.5 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 318E B Cardenas Elizabeth J. Teacher Ldrshp:Early Childhood
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+4
+11
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.79
+% 15.8 21.1 57.9 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 318E C Bowers Neil T. Teacher Ldrshp:Early Childhood
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+12
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 57.1 42.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 318E D Moorhead Mary H. Teacher Ldrshp:Early Childhood
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+8
+0
+5
+2
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 10.5 42.1 0.0 26.3 10.5 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 318E E Hoffmann Therese M. Teacher Ldrshp:Early Childhood
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+7
+4
+1
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.41
+% 15.8 36.8 21.1 5.3 0.0 5.3 0.0 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0
+EDL 318E F Howell Deborah L. Teacher Ldrshp:Early Childhood
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+3
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.65
+% 0.0 57.1 21.4 7.1 7.1 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDL 318E
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+24
+41
+25
+10
+4
+1
+0
+3
+1
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+3.71
+% 21.6 36.9 22.5 9.0 3.6 0.9 0.0 2.7 0.9 0.0 0.0 0.0 0.0 0.9 0.0 0.9 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,302 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Oxford Campus
+Page: 319 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total HST 224
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+7
+2
+1
+6
+3
+0
+0
+0
+1
+0
+0
+0
+3
+0
+0
+0
+4
+0
+0
+0
+3.37
+% 6.9 24.1 6.9 3.4 20.7 10.3 0.0 0.0 0.0 3.4 0.0 0.0 0.0 10.3 0.0 0.0 0.0 13.8 0.0 0.0 0.0
+HST 235 A Kenworthy Scott Religion in Russian History
+N
+N
+LT
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 16.7 16.7 16.7 33.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total HST 235
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 16.7 16.7 16.7 33.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0
+HST 250E A Wolcott David B. America In Film 1940s-1960s
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+6
+8
+4
+4
+3
+0
+1
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 0.0 12.1 18.2 24.2 12.1 12.1 9.1 0.0 3.0 0.0 3.0 0.0 0.0 6.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total HST 250E
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+6
+8
+4
+4
+3
+0
+1
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 0.0 12.1 18.2 24.2 12.1 12.1 9.1 0.0 3.0 0.0 3.0 0.0 0.0 6.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 296 A Fahey David M. World History Since 1945
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+19
+9
+6
+3
+2
+0
+0
+0
+0
+0
+0
+0
+2
+1
+1
+1
+0
+0
+0
+3.38
+% 0.0 13.7 37.3 17.6 11.8 5.9 3.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.9 2.0 2.0 2.0 0.0 0.0 0.0
+Course Total HST 296
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+19
+9
+6
+3
+2
+0
+0
+0
+0
+0
+0
+0
+2
+1
+1
+1
+0
+0
+0
+3.38
+% 0.0 13.7 37.3 17.6 11.8 5.9 3.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.9 2.0 2.0 2.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

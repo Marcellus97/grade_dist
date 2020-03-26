@@ -1,0 +1,308 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Oxford Campus
+Page: 135 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CPB 313 B Safari-Qariq Mehdi Fluid Mechanics
+N
+N
+4E
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+4
+3
+0
+0
+1
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 8.3 0.0 33.3 25.0 0.0 0.0 8.3 0.0 16.7 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CPB 313
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+4
+3
+0
+0
+1
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 8.3 0.0 33.3 25.0 0.0 0.0 8.3 0.0 16.7 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CPB 314 A Coffin Douglas W. Engineering Thermodynamics
+N
+N
+2N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+3
+5
+2
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 0.0 27.3 9.1 13.6 22.7 9.1 0.0 13.6 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CPB 314 B Yousefi Moshirabad Azizeh Engineering Thermodynamics
+N
+N
+2S
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+4
+1
+5
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 5.6 22.2 22.2 5.6 27.8 5.6 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CPB 314 C Caraballo Edgar J. Engineering Thermodynamics
+N
+N
+R1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+1
+2
+2
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 0.0 30.8 7.7 7.7 15.4 15.4 7.7 0.0 0.0 7.7 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CPB 314 D Paluch Andrew S. Engineering Thermodynamics
+N
+N
+AR
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+1
+4
+3
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 0.0 5.9 35.3 5.9 23.5 17.6 0.0 5.9 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CPB 314
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+15
+13
+6
+16
+8
+2
+5
+0
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 1.4 21.4 18.6 8.6 22.9 11.4 2.9 7.1 0.0 1.4 2.9 0.0 0.0 1.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,346 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Middletown Campus
+Page: 620 Sections of 10
+ENT Engineering Technology
+ENT 135 M A Young David W. Computer-Aided Drafting
+A+ A
+A-
+B+
+B
+B-
+C+ C
+3
+0
+2
+3
+3
+1
+0
+1
+% 21.4 0.0 14.3 21.4 21.4 7.1 0.0 7.1
+ENT 135 M B Birch John F. Computer-Aided Drafting
+A+ A
+A-
+B+
+B
+B-
+C+ C
+0
+1
+0
+0
+7
+0
+0
+0
+% 0.0 6.7 0.0 0.0 46.7 0.0 0.0 0.0
+Course Total ENT 135
+A+ A
+A-
+B+
+B
+B-
+C+ C
+3
+1
+2
+3
+10
+1
+0
+1
+% 10.3 3.4 6.9 10.3 34.5 3.4 0.0 3.4
+ENT 151 M A Young David W. Engineering Materials
+A+ A
+A-
+B+
+B
+B-
+C+ C
+1
+4
+0
+0
+1
+0
+0
+1
+% 9.1 36.4 0.0 0.0 9.1 0.0 0.0 9.1
+Course Total ENT 151
+A+ A
+A-
+B+
+B
+B-
+C+ C
+1
+4
+0
+0
+1
+0
+0
+1
+% 9.1 36.4 0.0 0.0 9.1 0.0 0.0 9.1
+ENT 191 M B Kissner Thomas J. Intro-Electrical Engineering
+A+ A
+A-
+B+
+B
+B-
+C+ C
+2
+3
+1
+0
+2
+1
+0
+0
+% 18.2 27.3 9.1 0.0 18.2 9.1 0.0 0.0
+Course Total ENT 191
+A+ A
+A-
+B+
+B
+B-
+C+ C
+2
+3
+1
+0
+2
+1
+0
+0
+% 18.2 27.3 9.1 0.0 18.2 9.1 0.0 0.0
+C-
+D+
+0
+0
+0.0 0.0
+C-
+D+
+0
+0
+0.0 0.0
+C-
+D+
+0
+0
+0.0 0.0
+C-
+D+
+0
+0
+0.0 0.0
+C-
+D+
+0
+0
+0.0 0.0
+C-
+D+
+2
+0
+18.2 0.0
+C-
+D+
+2
+0
+18.2 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+2
+0
+13.3 0.0
+D
+D-
+2
+0
+6.9 0.0
+D
+D-
+2
+0
+18.2 0.0
+D
+D-
+2
+0
+18.2 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+F
+W
+0
+1
+0.0 7.1
+F
+W
+2
+1
+13.3 6.7
+F
+W
+2
+2
+6.9 6.9
+F
+W
+0
+1
+0.0 9.1
+F
+W
+0
+1
+0.0 9.1
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+Miami Plan
+N
+WP WF I
+X
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+N
+WP WF I
+X
+0
+2
+0
+0
+0.0 13.3 0.0 0.0
+WP WF I
+X
+0
+2
+0
+0
+0.0 6.9 0.0 0.0
+N
+WP WF I
+X
+0
+1
+0
+0
+0.0 9.1 0.0 0.0
+WP WF I
+X
+0
+1
+0
+0
+0.0 9.1 0.0 0.0
+N
+WP WF I
+X
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+WP WF I
+X
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.31
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.93
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.59
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.70
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.70
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.25
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.25
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

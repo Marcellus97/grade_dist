@@ -1,0 +1,306 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Oxford Campus
+Page: 176 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ECO 202 D Hart William R. Principles Of Macroeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+2
+2
+0
+2
+12
+1
+0
+5
+0
+3
+7
+0
+0
+0
+0
+0
+0
+0
+2.11
+% 0.0 10.3 2.6 5.1 5.1 0.0 5.1 30.8 2.6 0.0 12.8 0.0 7.7 17.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 202 E Sungu Burak Principles Of Macroeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+14
+4
+8
+9
+4
+5
+8
+4
+3
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.70
+% 1.4 8.7 20.3 5.8 11.6 13.0 5.8 7.2 11.6 5.8 4.3 2.9 0.0 1.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 202 F Davis George K. Principles Of Macroeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+5
+8
+33
+13
+8
+25
+12
+8
+0
+5
+1
+7
+0
+0
+0
+0
+0
+0
+0
+2.60
+% 0.0 12.6 3.5 5.6 23.1 9.1 5.6 17.5 8.4 5.6 0.0 3.5 0.7 4.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 202 G Sungu Burak Principles Of Macroeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+11
+6
+6
+11
+1
+11
+4
+3
+4
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.66
+% 1.4 10.1 15.9 8.7 8.7 15.9 1.4 15.9 5.8 4.3 5.8 2.9 1.4 1.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 202
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+45
+34
+32
+68
+40
+26
+73
+30
+18
+21
+9
+17
+32
+0
+0
+0
+0
+0
+0
+0
+2.50
+% 0.4 10.1 7.6 7.2 15.2 8.9 5.8 16.3 6.7 4.0 4.7 2.0 3.8 7.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 301 A Sungu Burak Money And Banking
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+7
+5
+11
+11
+7
+3
+9
+4
+2
+4
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 5.8 10.1 7.2 15.9 15.9 10.1 4.3 13.0 5.8 2.9 5.8 1.4 1.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 301 B Raynold Prosper Money And Banking
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+4
+9
+12
+4
+6
+14
+7
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.64
+% 0.0 10.4 6.0 13.4 17.9 6.0 9.0 20.9 10.4 3.0 1.5 0.0 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

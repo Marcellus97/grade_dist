@@ -1,0 +1,306 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 30 Sections of 10
+ART Art
+Miami Plan
+Honors
+Cross Listing
+ART 111 A Thompson Nicole M. Visual Fundamentals
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+1
+4
+1
+0
+1
+0
+1
+0
+0
+0
+1
+2
+0
+0
+0
+1
+0
+0
+3.13
+% 0.0 17.6 11.8 5.9 23.5 5.9 0.0 5.9 0.0 5.9 0.0 0.0 0.0 5.9 11.8 0.0 0.0 0.0 5.9 0.0 0.0
+Course Total ART 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+1
+4
+1
+0
+1
+0
+1
+0
+0
+0
+1
+2
+0
+0
+0
+1
+0
+0
+3.13
+% 0.0 17.6 11.8 5.9 23.5 5.9 0.0 5.9 0.0 5.9 0.0 0.0 0.0 5.9 11.8 0.0 0.0 0.0 5.9 0.0 0.0
+ART 121 A Rench Micah Drawing I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+4
+7
+1
+3
+3
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.42
+% 16.0 16.0 28.0 4.0 12.0 12.0 0.0 4.0 4.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ART 121
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+4
+7
+1
+3
+3
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.42
+% 16.0 16.0 28.0 4.0 12.0 12.0 0.0 4.0 4.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 122 A Saulnier Dana Drawing II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+5
+3
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 0.0 12.5 18.8 31.3 18.8 6.3 6.3 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 122 B Bavaro John D. Drawing II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+7
+6
+6
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.17
+% 0.0 13.8 24.1 20.7 20.7 6.9 10.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0
+ART 122 D Ziebarth Steven P. Drawing II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+7
+7
+2
+7
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.15
+% 0.0 10.7 25.0 25.0 7.1 25.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

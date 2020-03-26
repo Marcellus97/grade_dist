@@ -1,0 +1,301 @@
+testRun: 09/11/15 @ 08:38 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Term, 2014-15 Oxford Campus
+Page: 99 Sections of 10
+POL Political Science
+Miami Plan
+Honors
+Cross Listing
+POL 241 ZA Toll Benjamin T. American Political System
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+3
+2
+3
+2
+1
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.04
+% 0.0 21.1 10.5 15.8 10.5 15.8 10.5 5.3 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0
+Course Total POL 241
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+3
+2
+3
+2
+1
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.04
+% 0.0 21.1 10.5 15.8 10.5 15.8 10.5 5.3 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0
+POL 307 XA Morris Mark H. Public Opinion Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+3
+0
+1
+0
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.34
+% 0.0 47.1 17.6 0.0 5.9 0.0 5.9 5.9 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0
+Course Total POL 307
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+3
+0
+1
+0
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.34
+% 0.0 47.1 17.6 0.0 5.9 0.0 5.9 5.9 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0
+POL 343 TA Barilleaux Ryan J. American Presidency
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+1
+1
+2
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 15.4 30.8 7.7 7.7 15.4 15.4 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total POL 343
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+1
+1
+2
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 15.4 30.8 7.7 7.7 15.4 15.4 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+POL 426 A Kleiman Howard M. Inside Washington
+N
+N
+BL
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.97
+% 0.0 90.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

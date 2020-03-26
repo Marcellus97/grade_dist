@@ -1,0 +1,305 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Oxford Campus
+Page: 274 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+GEO 271 A Nim Carl J. Humans & Natural Resources
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+0
+0
+10
+0
+0
+6
+0
+0
+1
+0
+1
+1
+0
+0
+0
+2
+0
+0
+0
+3.26
+% 0.0 50.0 0.0 0.0 23.8 0.0 0.0 14.3 0.0 0.0 2.4 0.0 2.4 2.4 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+Course Total GEO 271
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+0
+0
+10
+0
+0
+6
+0
+0
+1
+0
+1
+1
+0
+0
+0
+2
+0
+0
+0
+3.26
+% 0.0 50.0 0.0 0.0 23.8 0.0 0.0 14.3 0.0 0.0 2.4 0.0 2.4 2.4 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+GEO 275 A Renwick William H. Prin of Environmental Science
+N
+N
+1C
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+0
+0
+3
+1
+0
+4
+0
+0
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.25
+% 7.7 0.0 0.0 0.0 23.1 7.7 0.0 30.8 0.0 0.0 7.7 0.0 7.7 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GEO 275
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+0
+0
+3
+1
+0
+4
+0
+0
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.25
+% 7.7 0.0 0.0 0.0 23.1 7.7 0.0 30.8 0.0 0.0 7.7 0.0 7.7 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GEO 311 A Dahlman Carl T. Geography Of Western Europe
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+6
+10
+15
+4
+3
+4
+2
+3
+0
+0
+2
+1
+0
+0
+0
+3
+0
+0
+0
+2.92
+% 6.5 8.1 9.7 16.1 24.2 6.5 4.8 6.5 3.2 4.8 0.0 0.0 3.2 1.6 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+Course Total GEO 311
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+6
+10
+15
+4
+3
+4
+2
+3
+0
+0
+2
+1
+0
+0
+0
+3
+0
+0
+0
+2.92
+% 6.5 8.1 9.7 16.1 24.2 6.5 4.8 6.5 3.2 4.8 0.0 0.0 3.2 1.6 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+GEO 405 A Howard David J. Caribbean in Global Context
+N
+N
+XZ
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+8
+8
+8
+2
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 0.0 3.4 27.6 27.6 27.6 6.9 3.4 0.0 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

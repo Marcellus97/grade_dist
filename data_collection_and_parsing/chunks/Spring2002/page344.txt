@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 341 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MBI 464 A Bridge Eileen Human Viruses
+N
+N
+Y7
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+3
+7
+5
+10
+7
+8
+6
+7
+5
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.55
+% 4.6 4.6 10.8 7.7 15.4 10.8 12.3 9.2 10.8 7.7 1.5 1.5 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MBI 464
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+3
+7
+5
+10
+7
+8
+6
+7
+5
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.55
+% 4.6 4.6 10.8 7.7 15.4 10.8 12.3 9.2 10.8 7.7 1.5 1.5 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MBI 465 TA Janssen Gary R. Genetics Lab
+N
+N
+Y8
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 0.0 14.3 14.3 14.3 57.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MBI 465
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 0.0 14.3 14.3 14.3 57.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MBI 490C A Duran Mete M. Undergrad Seminar Capstone
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+6
+2
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.79
+% 33.3 40.0 13.3 0.0 0.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MBI 490C C Duran Mete M. Undergrad Seminar Capstone
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+4
+3
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.76
+% 25.0 33.3 25.0 8.3 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MBI 490C
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+10
+5
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.77
+% 29.6 37.0 18.5 3.7 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

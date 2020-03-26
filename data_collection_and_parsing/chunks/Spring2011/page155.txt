@@ -1,0 +1,301 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Oxford Campus
+Page: 151 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CSE 278
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+1
+1
+2
+1
+1
+2
+0
+0
+3
+1
+0
+7
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 20.8 4.2 4.2 8.3 4.2 4.2 8.3 0.0 0.0 12.5 4.2 0.0 29.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 283 A Bachmann Eric R. Data Communications & Network
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+1
+1
+5
+3
+3
+0
+1
+1
+0
+3
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.53
+% 12.5 4.2 4.2 20.8 12.5 12.5 0.0 4.2 4.2 0.0 12.5 4.2 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSE 283
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+1
+1
+5
+3
+3
+0
+1
+1
+0
+3
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.53
+% 12.5 4.2 4.2 20.8 12.5 12.5 0.0 4.2 4.2 0.0 12.5 4.2 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 311 A Gannod Gerald C. Software Architecture & Design
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+1
+5
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 7.1 14.3 21.4 7.1 35.7 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSE 311
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+1
+5
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 7.1 14.3 21.4 7.1 35.7 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 322 A Kiper James D. Software Requirements
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+5
+5
+3
+1
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 9.1 9.1 22.7 22.7 13.6 4.5 4.5 9.1 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSE 322
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+5
+5
+3
+1
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 9.1 9.1 22.7 22.7 13.6 4.5 4.5 9.1 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

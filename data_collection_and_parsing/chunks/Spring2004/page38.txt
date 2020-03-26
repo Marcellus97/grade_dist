@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Oxford Campus
+Page: 35 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ART 122 E Latimer Jared Drawing II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+6
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.90
+% 30.8 46.2 15.4 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ART 122
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+15
+11
+9
+16
+1
+0
+2
+0
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 9.5 23.8 17.5 14.3 25.4 1.6 0.0 3.2 0.0 1.6 1.6 0.0 0.0 1.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 147 XA Zimmerman Donna R. Beginning Art Photography
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.82
+% 26.7 33.3 13.3 6.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 147 XB Hewitt Sarah E. Beginning Art Photography
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 16.7 75.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 147 XC Weaver Daniel P. Beginning Art Photography
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+7
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 23.1 53.8 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 147 YA Zimmerman Donna R. Beginning Art Photography
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+4
+2
+0
+0
+0
+0
+0
+0
+3.84
+% 12.5 37.5 6.3 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 25.0 12.5 0.0 0.0 0.0 0.0 0.0 0.0
+ART 147 YB Hewitt Sarah E. Beginning Art Photography
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 83.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

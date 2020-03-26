@@ -1,0 +1,307 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Hamilton Campus
+Page: 759 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+HST 112 HEA Lerman Hilary J. Survey Of American History
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+1
+4
+4
+1
+0
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 12.5 6.3 6.3 25.0 25.0 6.3 0.0 6.3 0.0 6.3 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 112 HLA Morton Jack D. Survey Of American History
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+0
+3
+1
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+2
+0
+0
+0
+2.64
+% 0.0 9.1 18.2 0.0 27.3 9.1 0.0 0.0 0.0 0.0 0.0 9.1 9.1 0.0 0.0 0.0 0.0 18.2 0.0 0.0 0.0
+Course Total HST 112
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+30
+11
+12
+37
+15
+12
+31
+8
+4
+22
+5
+40
+25
+0
+0
+2
+3
+1
+0
+0
+2.16
+% 1.1 11.5 4.2 4.6 14.2 5.7 4.6 11.9 3.1 1.5 8.4 1.9 15.3 9.6 0.0 0.0 0.8 1.1 0.4 0.0 0.0
+HST 122 H A Vascik George S. Western Civilization
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+8
+1
+4
+4
+1
+0
+1
+1
+1
+1
+9
+4
+0
+0
+1
+1
+0
+0
+0
+2.25
+% 0.0 9.8 19.5 2.4 9.8 9.8 2.4 0.0 2.4 2.4 2.4 2.4 22.0 9.8 0.0 0.0 2.4 2.4 0.0 0.0 0.0
+HST 122 H B Nordstrom John M. Western Civilization
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+7
+6
+2
+8
+0
+0
+6
+0
+0
+1
+0
+3
+3
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 7.7 17.9 15.4 5.1 20.5 0.0 0.0 15.4 0.0 0.0 2.6 0.0 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 122 H C Moyer Johanna B. Western Civilization
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+4
+5
+5
+2
+2
+0
+0
+0
+0
+8
+2
+0
+0
+3
+0
+0
+0
+0
+2.39
+% 0.0 10.3 10.3 10.3 12.8 12.8 5.1 5.1 0.0 0.0 0.0 0.0 20.5 5.1 0.0 0.0 7.7 0.0 0.0 0.0 0.0
+HST 122 H D Moyer Johanna B. Western Civilization
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+6
+1
+3
+2
+1
+2
+0
+0
+1
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+2.56
+% 4.5 0.0 27.3 4.5 13.6 9.1 4.5 9.1 0.0 0.0 4.5 0.0 13.6 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

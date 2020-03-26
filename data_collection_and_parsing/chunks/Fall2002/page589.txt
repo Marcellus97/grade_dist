@@ -1,0 +1,308 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Oxford Campus
+Page: 586 Sections of 10
+WMS Women'S Studies
+Miami Plan
+Honors
+Cross Listing
+WMS 130 TA Raney Nicole L. Women in Math, Science & Engrg
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+17
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 94.4 0.0 0.0 0.0
+Course Total WMS 130
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+17
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 94.4 0.0 0.0 0.0
+WMS 201 A Donahue Dorothy Intro To Womens Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+5
+4
+5
+1
+1
+3
+0
+1
+1
+0
+0
+0
+1
+0
+3
+0
+0
+0
+2.77
+% 0.0 12.5 9.4 15.6 12.5 15.6 3.1 3.1 9.4 0.0 3.1 3.1 0.0 0.0 0.0 3.1 0.0 9.4 0.0 0.0 0.0
+WMS 201 B Beck Andrea L. Intro To Womens Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+8
+15
+7
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 0.0 8.8 23.5 44.1 20.6 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+WMS 201 C Hartig Andrea S. Intro To Womens Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+16
+4
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3.63
+% 0.0 28.6 45.7 11.4 2.9 2.9 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.7 0.0 0.0 0.0
+WMS 201 D Pavithra Narayanan E. Intro To Womens Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+29
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+1
+2
+1
+0
+0
+0
+0
+0
+0
+3.79
+% 2.8 80.6 0.0 0.0 0.0 2.8 2.8 0.0 0.0 0.0 0.0 0.0 2.8 5.6 2.8 0.0 0.0 0.0 0.0 0.0 0.0
+WMS 201 E Pavithra Narayanan E. Intro To Womens Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+34
+0
+1
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.87
+% 0.0 89.5 0.0 2.6 2.6 2.6 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

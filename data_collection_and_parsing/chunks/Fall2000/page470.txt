@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 11:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2000-01 Oxford Campus
+Page: 467 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total PPS 414
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+7
+0
+0
+4
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 0.0 14.3 0.0 0.0 50.0 0.0 0.0 28.6 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PPS 425 A Scott William E. Surface&Colloid Sci/Papermakng
+N
+N
+7B
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+5
+0
+0
+3
+0
+0
+4
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+2.47
+% 0.0 16.7 0.0 0.0 27.8 0.0 0.0 16.7 0.0 0.0 22.2 0.0 0.0 5.6 11.1 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PPS 425
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+5
+0
+0
+3
+0
+0
+4
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+2.47
+% 0.0 16.7 0.0 0.0 27.8 0.0 0.0 16.7 0.0 0.0 22.2 0.0 0.0 5.6 11.1 0.0 0.0 0.0 0.0 0.0 0.0
+PPS 461 A Herbet A. J. Coating Technology
+N
+N
+3K
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+4
+8
+2
+3
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 0.0 0.0 20.0 40.0 10.0 15.0 10.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PPS 461 B Herbet A. J. Coating Technology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+5
+5
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 18.8 0.0 31.3 31.3 6.3 6.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PPS 461
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+9
+13
+3
+4
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 8.3 0.0 25.0 36.1 8.3 11.1 8.3 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PPS 471 A Peterson Robert C. Senior Design Project I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.76
+% 16.7 25.0 41.7 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

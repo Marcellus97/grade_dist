@@ -1,0 +1,309 @@
+testRun: 11/24/14 @ 09:11 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Term, 2013-14 Oxford Campus
+Page: 10 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BIO 654 A Myers Christopher A. Foundations of Inquiry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+12
+5
+2
+1
+1
+0
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.55
+% 7.7 46.2 19.2 7.7 3.8 3.8 0.0 3.8 0.0 0.0 0.0 0.0 3.8 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 654 B Myers Christopher A. Foundations of Inquiry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+11
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+3.98
+% 17.6 64.7 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 5.9 0.0 0.0 0.0 0.0
+BIO 654 C Myers Christopher A. Foundations of Inquiry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+4
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.81
+% 27.3 36.4 18.2 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 654 D Myers Christopher A. Foundations of Inquiry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+12
+10
+1
+4
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.79
+% 41.4 34.5 3.4 13.8 3.4 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 654 E Myers Christopher A. Foundations of Inquiry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+2
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.75
+% 0.0 64.3 14.3 0.0 7.1 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 654 F Myers Christopher A. Foundations of Inquiry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+23
+8
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.81
+% 0.0 67.6 23.5 0.0 2.9 2.9 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 654 G Myers Christopher A. Foundations of Inquiry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+7
+1
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 28.6 33.3 4.8 9.5 9.5 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

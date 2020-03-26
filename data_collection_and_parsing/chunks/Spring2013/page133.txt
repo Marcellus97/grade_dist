@@ -1,0 +1,304 @@
+testRun: 07/08/13 @ 16:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2012-13 Oxford Campus
+Page: 129 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+COM 206 A Rios Hugo Diversity&Culture in Amer Film
+Y
+N
+DO
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+14
+6
+0
+0
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 14.8 51.9 22.2 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 206
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+14
+6
+0
+0
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 14.8 51.9 22.2 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 211 A Ribbler Samuel M. Intro to Video Production
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+16
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.70
+% 0.0 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 211 B Conkwright Kathy Intro to Video Production
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.79
+% 6.3 56.3 0.0 6.3 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 18.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 211 C Conkwright Kathy Intro to Video Production
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+7
+0
+2
+1
+0
+1
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.46
+% 12.5 43.8 0.0 12.5 6.3 0.0 6.3 12.5 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 211 D Hinton Robin B. Intro to Video Production
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 211
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+30
+16
+3
+3
+0
+1
+2
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 4.8 48.4 25.8 4.8 4.8 0.0 1.6 3.2 0.0 0.0 0.0 0.0 0.0 6.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

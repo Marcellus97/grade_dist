@@ -1,0 +1,304 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Oxford Campus
+Page: 286 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+GLG 115L 22 Hinterberger Thomas W. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+3
+5
+1
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 0.0 10.5 31.6 15.8 26.3 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 115L 23 Oner Zeynep Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+2
+2
+1
+4
+3
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 22.2 11.1 11.1 5.6 22.2 16.7 5.6 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 115L 24 Schmidt Gregory R. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+2
+0
+0
+2
+0
+0
+0
+1
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.76
+% 10.0 10.0 20.0 0.0 0.0 20.0 0.0 0.0 0.0 10.0 0.0 0.0 10.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GLG 115L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+23
+97
+108 68
+45
+19
+12
+10
+7
+2
+1
+1
+7
+11
+0
+0
+0
+15
+1
+0
+0
+3.39
+% 5.4 22.7 25.3 15.9 10.5 4.4 2.8 2.3 1.6 0.5 0.2 0.2 1.6 2.6 0.0 0.0 0.0 3.5 0.2 0.0 0.0
+GLG 121 A Kilroy Kathryn C. Environmental Geology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+9
+17
+11
+28
+34
+15
+12
+6
+5
+2
+4
+8
+8
+0
+0
+0
+6
+2
+0
+0
+2.65
+% 4.0 5.2 9.8 6.3 16.1 19.5 8.6 6.9 3.4 2.9 1.1 2.3 4.6 4.6 0.0 0.0 0.0 3.4 1.1 0.0 0.0
+GLG 121 B Brudzinski Michael R. Environmental Geology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+9
+17
+16
+12
+10
+8
+3
+5
+0
+2
+0
+1
+0
+0
+0
+0
+4
+0
+0
+0
+3.04
+% 3.3 10.0 18.9 17.8 13.3 11.1 8.9 3.3 5.6 0.0 2.2 0.0 1.1 0.0 0.0 0.0 0.0 4.4 0.0 0.0 0.0
+Course Total GLG 121
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+10
+18
+34
+27
+40
+44
+23
+15
+11
+5
+4
+4
+9
+8
+0
+0
+0
+10
+2
+0
+0
+2.79
+% 3.8 6.8 12.9 10.2 15.2 16.7 8.7 5.7 4.2 1.9 1.5 1.5 3.4 3.0 0.0 0.0 0.0 3.8 0.8 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

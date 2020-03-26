@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Oxford Campus
+Page: 121 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CSA 471
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+1
+7
+2
+1
+2
+3
+0
+3
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 11.1 11.1 3.7 25.9 7.4 3.7 7.4 11.1 0.0 11.1 0.0 3.7 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 472 A Kiper James D. Software Engineering
+N
+N
+IP
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+4
+0
+9
+1
+2
+2
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.93
+% 4.3 4.3 17.4 0.0 39.1 4.3 8.7 8.7 8.7 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSA 472
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+4
+0
+9
+1
+2
+2
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.93
+% 4.3 4.3 17.4 0.0 39.1 4.3 8.7 8.7 8.7 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 474 A Sobel Ann E. Compiler Design
+N
+N
+HQ
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+0
+2
+1
+0
+1
+2
+0
+1
+0
+0
+0
+4
+1
+0
+0
+0
+0
+0
+2.25
+% 0.0 0.0 14.3 0.0 14.3 7.1 0.0 7.1 14.3 0.0 7.1 0.0 0.0 0.0 28.6 7.1 0.0 0.0 0.0 0.0 0.0
+Course Total CSA 474
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+0
+2
+1
+0
+1
+2
+0
+1
+0
+0
+0
+4
+1
+0
+0
+0
+0
+0
+2.25
+% 0.0 0.0 14.3 0.0 14.3 7.1 0.0 7.1 14.3 0.0 7.1 0.0 0.0 0.0 28.6 7.1 0.0 0.0 0.0 0.0 0.0
+CSA 475 A Schaber Thomas C. Software Systems Project
+N
+N
+ZI
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+4
+0
+3
+3
+12
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 14.8 14.8 0.0 11.1 11.1 44.4 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 475 B Kiper James D. Software Systems Project
+N
+N
+JH
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+3
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.50
+% 0.0 54.5 27.3 0.0 0.0 0.0 0.0 0.0 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

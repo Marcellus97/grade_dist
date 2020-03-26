@@ -1,0 +1,340 @@
+testRun: 01/17/08 @ 12:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2007-08 Oxford Campus
+Page: 86 Sections of 10
+CHM 141 E Sarquis Jerry L. College Chemistry
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+2
+14
+8
+6
+18
+9
+16
+12
+7
+3
+% 1.6 11.0 6.3 4.7 14.2 7.1 12.6 9.4 5.5 2.4
+Course Total CHM 141
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+3
+80
+23
+16
+169 17
+28
+167 19
+8
+% 0.4 10.7 3.1 2.1 22.7 2.3 3.8 22.4 2.6 1.1
+CHM 141H A Sommer Andre J. Col Chemistry - Honors
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+7
+0
+0
+14
+0
+0
+5
+0
+0
+% 0.0 23.3 0.0 0.0 46.7 0.0 0.0 16.7 0.0 0.0
+Course Total CHM 141H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+7
+0
+0
+14
+0
+0
+5
+0
+0
+% 0.0 23.3 0.0 0.0 46.7 0.0 0.0 16.7 0.0 0.0
+CHM 141R A Bretz Stacey L. College Chemistry
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+2
+2
+1
+0
+1
+2
+3
+1
+1
+% 5.6 11.1 11.1 5.6 0.0 5.6 11.1 16.7 5.6 5.6
+CHM 141R B Bretz Stacey L. College Chemistry
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+0
+1
+2
+2
+1
+3
+2
+1
+% 0.0 10.0 0.0 5.0 10.0 10.0 5.0 15.0 10.0 5.0
+CHM 141R C Bretz Stacey L. College Chemistry
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+0
+2
+3
+4
+1
+1
+4
+0
+% 0.0 5.0 0.0 10.0 15.0 20.0 5.0 5.0 20.0 0.0
+D
+D-
+F
+W
+WP WF
+6
+6
+9
+9
+0
+0
+4.7 4.7 7.1 7.1 0.0 0.0
+D
+D-
+F
+W
+WP WF
+67
+9
+69
+68
+0
+0
+9.0 1.2 9.3 9.1 0.0 0.0
+D
+D-
+F
+W
+WP WF
+0
+0
+0
+4
+0
+0
+0.0 0.0 0.0 13.3 0.0 0.0
+D
+D-
+F
+W
+WP WF
+0
+0
+0
+4
+0
+0
+0.0 0.0 0.0 13.3 0.0 0.0
+D
+D-
+F
+W
+WP WF
+0
+2
+1
+1
+0
+0
+0.0 11.1 5.6 5.6 0.0 0.0
+D
+D-
+3
+1
+15.0 5.0
+F
+W
+2
+0
+10.0 0.0
+WP WF
+0
+0
+0.0 0.0
+D
+D-
+F
+W
+WP WF
+0
+1
+1
+2
+0
+0
+0.0 5.0 5.0 10.0 0.0 0.0
+Miami Plan
+Y
+I
+X
+2
+0
+1.6 0.0
+I
+X
+2
+0
+0.3 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.40
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.28
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.08
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.08
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.38
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.97
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.34
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

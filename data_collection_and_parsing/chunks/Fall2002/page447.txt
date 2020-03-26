@@ -1,0 +1,306 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Oxford Campus
+Page: 444 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHS 120C C Paule Amanda L. Individual Exercise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+9
+2
+2
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.76
+% 34.6 34.6 7.7 7.7 11.5 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 120C D Aufenanger Sharyn J. Individual Exercise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+3
+1
+1
+2
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+3.53
+% 0.0 56.5 0.0 13.0 4.3 4.3 8.7 4.3 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 4.3 0.0 0.0 0.0
+PHS 120C E Paule Amanda L. Individual Exercise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+8
+5
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.76
+% 30.8 30.8 19.2 3.8 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 120C F Aufenanger Sharyn J. Individual Exercise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+20
+3
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+3.72
+% 0.0 71.4 10.7 0.0 3.6 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.6 3.6 3.6 0.0 0.0 0.0 0.0 0.0
+PHS 120C TA Aufenanger Sharyn J. Individual Exercise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+12
+13
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 44.4 48.1 0.0 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 120C UA Paule Amanda L. Individual Exercise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+12
+2
+0
+4
+0
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.68
+% 22.2 44.4 7.4 0.0 14.8 0.0 3.7 3.7 0.0 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 120C
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+35
+120 12
+9
+14
+4
+3
+3
+0
+0
+0
+0
+0
+3
+2
+1
+0
+1
+0
+0
+0
+3.78
+% 16.9 58.0 5.8 4.3 6.8 1.9 1.4 1.4 0.0 0.0 0.0 0.0 0.0 1.4 1.0 0.5 0.0 0.5 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

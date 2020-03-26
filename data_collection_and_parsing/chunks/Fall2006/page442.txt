@@ -1,0 +1,302 @@
+testRun: 01/23/07 @ 09:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2006-07 Oxford Campus
+Page: 439 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total PHL 375
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+3
+1
+4
+4
+2
+2
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 4.2 20.8 12.5 4.2 16.7 16.7 8.3 8.3 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHL 380B A Momeyer Richard W. What is the Best Life?
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+2
+4
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 0.0 36.8 10.5 21.1 10.5 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 15.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHL 380B
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+2
+4
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 0.0 36.8 10.5 21.1 10.5 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 15.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHL 404 A Massie Pascal What Is Philosophy?
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+4
+2
+1
+1
+1
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 0.0 9.5 23.8 19.0 9.5 4.8 4.8 4.8 0.0 0.0 0.0 0.0 0.0 23.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHL 404
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+4
+2
+1
+1
+1
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 0.0 9.5 23.8 19.0 9.5 4.8 4.8 4.8 0.0 0.0 0.0 0.0 0.0 23.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHL 410O A Pohlhaus Gaile Agency, Identity&Soc Position
+N
+N
+S7
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+4
+3
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+3.08
+% 0.0 23.1 0.0 30.8 23.1 7.7 0.0 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0
+Course Total PHL 410O
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+4
+3
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+3.08
+% 0.0 23.1 0.0 30.8 23.1 7.7 0.0 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

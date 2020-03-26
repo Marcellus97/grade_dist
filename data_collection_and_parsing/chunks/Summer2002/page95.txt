@@ -1,0 +1,302 @@
+testRun: 06/30/04 @ 16:03 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2001-02 Oxford Campus
+Page: 93 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total MIS 381
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+4
+4
+0
+3
+5
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.66
+% 0.0 4.8 4.8 19.0 19.0 0.0 14.3 23.8 9.5 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 385 OA Yen Chi Chung David Mgt Info & Decision Sup Systm
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+3
+6
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 0.0 6.7 0.0 20.0 40.0 6.7 26.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MIS 385
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+3
+6
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 0.0 6.7 0.0 20.0 40.0 6.7 26.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 387 MA Young Larry D. IS Analysis and Design
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+0
+5
+6
+4
+2
+1
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 4.0 4.0 0.0 20.0 24.0 16.0 8.0 4.0 8.0 12.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MIS 387
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+0
+5
+6
+4
+2
+1
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 4.0 4.0 0.0 20.0 24.0 16.0 8.0 4.0 8.0 12.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 399K MA Sullivan Dennis H. SBA Intl Program:Pacific Rim
+N
+N
+ZB
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+13
+8
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 0.0 10.7 7.1 46.4 28.6 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MIS 399K
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+13
+8
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 0.0 10.7 7.1 46.4 28.6 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

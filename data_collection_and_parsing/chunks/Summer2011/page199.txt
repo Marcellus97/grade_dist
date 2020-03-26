@@ -1,0 +1,303 @@
+testRun: 01/09/12 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Semester, 2010-11 Hamilton Campus
+Page: 196 Sections of 10
+COM Communication
+Miami Plan
+Honors
+Cross Listing
+COM 135 HTA Shulman Carol H. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+5
+2
+0
+2
+3
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.72
+% 0.0 6.3 6.3 31.3 12.5 0.0 12.5 18.8 0.0 0.0 0.0 0.0 6.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 HTB Shulman Carol H. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+2
+7
+2
+1
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 5.9 11.8 11.8 41.2 11.8 5.9 0.0 5.9 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 HUA Olivas Adolf Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+2
+3
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.65
+% 0.0 52.9 11.8 17.6 11.8 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 135
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+5
+10
+11
+3
+3
+3
+1
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 0.0 22.0 10.0 20.0 22.0 6.0 6.0 6.0 2.0 0.0 0.0 0.0 4.0 2.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 136 HTA Smith Marcia B. Intro:Interpersnal Communicatn
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+3
+1
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.54
+% 27.3 27.3 9.1 9.1 0.0 9.1 0.0 0.0 9.1 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 136
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+3
+1
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.54
+% 27.3 27.3 9.1 9.1 0.0 9.1 0.0 0.0 9.1 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 143 HTB Suhr Hiesun C. Intro To Mass Communication
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+4
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 20.0 10.0 40.0 0.0 20.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

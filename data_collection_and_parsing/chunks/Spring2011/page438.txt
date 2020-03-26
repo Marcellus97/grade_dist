@@ -1,0 +1,309 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Oxford Campus
+Page: 434 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MGT 302 C Ashenbaum Bryan Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+0
+1
+24
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 0.0 22.5 0.0 2.5 60.0 0.0 0.0 15.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 D Beauchamp Alpacino B. Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+18
+0
+0
+12
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.64
+% 0.0 15.4 0.0 0.0 46.2 0.0 0.0 30.8 0.0 0.0 2.6 0.0 5.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 E Beauchamp Alpacino B. Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+19
+0
+0
+10
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 25.0 0.0 0.0 47.5 0.0 0.0 25.0 0.0 0.0 0.0 0.0 0.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 F Ashenbaum Bryan Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+0
+23
+0
+1
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.26
+% 0.0 32.5 0.0 0.0 57.5 0.0 2.5 5.0 0.0 0.0 0.0 0.0 0.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 G Ashenbaum Bryan Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+20
+0
+0
+13
+0
+0
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.33
+% 0.0 50.0 0.0 0.0 32.5 0.0 0.0 17.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 H Beauchamp Alpacino B. Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+23
+0
+0
+7
+0
+0
+2
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.79
+% 0.0 15.0 0.0 0.0 57.5 0.0 0.0 17.5 0.0 0.0 5.0 0.0 2.5 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 I Beauchamp Alpacino B. Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+19
+0
+0
+12
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.70
+% 0.0 14.6 0.0 0.0 46.3 0.0 0.0 29.3 0.0 0.0 7.3 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

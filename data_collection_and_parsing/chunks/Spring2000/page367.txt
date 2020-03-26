@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 364 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MTH 218 A Kullman David E. Geometry/Elementary Teachers
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+0
+3
+10
+0
+1
+2
+0
+1
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+3.02
+% 3.7 22.2 0.0 11.1 37.0 0.0 3.7 7.4 0.0 3.7 0.0 0.0 0.0 3.7 3.7 3.7 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 218
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+0
+3
+10
+0
+1
+2
+0
+1
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+3.02
+% 3.7 22.2 0.0 11.1 37.0 0.0 3.7 7.4 0.0 3.7 0.0 0.0 0.0 3.7 3.7 3.7 0.0 0.0 0.0 0.0 0.0
+MTH 222 A Pritikin Daniel Introduction To Linear Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+1
+15
+0
+1
+6
+0
+0
+1
+0
+0
+2
+1
+3
+0
+0
+0
+0
+0
+2.56
+% 0.0 8.8 2.9 2.9 44.1 0.0 2.9 17.6 0.0 0.0 2.9 0.0 0.0 5.9 2.9 8.8 0.0 0.0 0.0 0.0 0.0
+MTH 222 C Hammoudi Lakhdar Introduction To Linear Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+1
+5
+0
+4
+7
+0
+0
+0
+0
+0
+9
+3
+2
+0
+0
+0
+0
+0
+2.43
+% 0.0 8.8 0.0 2.9 14.7 0.0 11.8 20.6 0.0 0.0 0.0 0.0 0.0 26.5 8.8 5.9 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 222
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+1
+2
+20
+0
+5
+13
+0
+0
+1
+0
+0
+11
+4
+5
+0
+0
+0
+0
+0
+2.51
+% 0.0 8.8 1.5 2.9 29.4 0.0 7.4 19.1 0.0 0.0 1.5 0.0 0.0 16.2 5.9 7.4 0.0 0.0 0.0 0.0 0.0
+MTH 231 A Ward Douglas E. Elements Of Discrete Math
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+5
+4
+2
+5
+2
+3
+3
+4
+1
+0
+1
+4
+1
+1
+0
+1
+0
+0
+0
+2.59
+% 0.0 11.9 11.9 9.5 4.8 11.9 4.8 7.1 7.1 9.5 2.4 0.0 2.4 9.5 2.4 2.4 0.0 2.4 0.0 0.0 0.0
+MTH 231 B Davenport Dennis E. Elements Of Discrete Math
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+3
+4
+5
+2
+12
+0
+0
+3
+2
+1
+1
+2
+0
+0
+1
+0
+0
+0
+2.43
+% 0.0 2.3 14.0 7.0 9.3 11.6 4.7 27.9 0.0 0.0 7.0 4.7 2.3 2.3 4.7 0.0 0.0 2.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

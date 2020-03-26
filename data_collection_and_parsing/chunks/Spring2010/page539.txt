@@ -1,0 +1,309 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Oxford Campus
+Page: 535 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PSY 111 CE Wessels Peter M. Introduction To Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+0
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+3.19
+% 0.0 27.3 18.2 0.0 9.1 0.0 9.1 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 18.2 0.0 0.0 0.0 0.0
+PSY 111 CG Wessels Peter M. Introduction To Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+1
+1
+2
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 27.3 18.2 9.1 9.1 18.2 0.0 0.0 0.0 0.0 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 111 CH Wessels Peter M. Introduction To Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 41.7 33.3 0.0 0.0 8.3 0.0 8.3 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 111 CI Wessels Peter M. Introduction To Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+2
+0
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+2.88
+% 0.0 18.2 0.0 18.2 0.0 9.1 18.2 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 18.2 0.0 0.0 0.0 0.0
+PSY 111 CJ Wessels Peter M. Introduction To Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+2
+2
+1
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+2.86
+% 0.0 18.2 0.0 18.2 18.2 9.1 9.1 9.1 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0
+PSY 111 DB Mark Leonard S. Introduction To Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+3.76
+% 0.0 60.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 30.0 0.0 0.0 0.0 0.0
+PSY 111 DC Mark Leonard S. Introduction To Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+1
+1
+0
+1
+0
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.66
+% 0.0 18.2 18.2 9.1 9.1 0.0 9.1 0.0 9.1 18.2 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,351 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Hamilton Campus
+Page: 719 Sections of 10
+BOT Botany
+BOT 131 H A Smyser Cheryl A. Plants Humanity & Environment
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+12
+0
+0
+15
+0
+0
+3
+0
+% 0.0 30.8 0.0 0.0 38.5 0.0 0.0 7.7 0.0
+BOT 131 HLA Thomas Brenton W. Plants Humanity & Environment
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+9
+0
+0
+3
+0
+0
+1
+0
+% 0.0 64.3 0.0 0.0 21.4 0.0 0.0 7.1 0.0
+Course Total BOT 131
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+21
+0
+0
+18
+0
+0
+4
+0
+% 0.0 39.6 0.0 0.0 34.0 0.0 0.0 7.5 0.0
+BOT 171 H A Gladish Daniel K. Ecology Of North America
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+1
+2
+3
+5
+2
+1
+2
+3
+% 3.2 3.2 6.5 9.7 16.1 6.5 3.2 6.5 9.7
+Course Total BOT 171
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+1
+2
+3
+5
+2
+1
+2
+3
+% 3.2 3.2 6.5 9.7 16.1 6.5 3.2 6.5 9.7
+BOT 191 H A Gladish Daniel K. General Botany
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+0
+1
+1
+0
+5
+1
+0
+2
+% 0.0 0.0 4.5 4.5 0.0 22.7 4.5 0.0 9.1
+BOT 191 H B Gladish Daniel K. General Botany
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+2
+0
+2
+0
+1
+0
+2
+1
+% 0.0 11.1 0.0 11.1 0.0 5.6 0.0 11.1 5.6
+D+ D
+0
+2
+0.0 5.1
+D+ D
+0
+0
+0.0 0.0
+D+ D
+0
+2
+0.0 3.8
+D+ D
+0
+1
+0.0 3.2
+D+ D
+0
+1
+0.0 3.2
+D+ D
+1
+0
+4.5 0.0
+D+ D
+2
+0
+11.1 0.0
+D-
+F
+0
+1
+0.0 2.6
+D-
+F
+0
+0
+0.0 0.0
+D-
+F
+0
+1
+0.0 1.9
+D-
+F
+0
+1
+0.0 3.2
+D-
+F
+0
+1
+0.0 3.2
+D-
+F
+2
+2
+9.1 9.1
+D-
+F
+3
+1
+16.7 5.6
+W
+WP WF
+3
+0
+2
+7.7 0.0 5.1
+W
+WP WF
+1
+0
+0
+7.1 0.0 0.0
+W
+WP WF
+4
+0
+2
+7.5 0.0 3.8
+W
+WP WF
+2
+2
+3
+6.5 6.5 9.7
+W
+WP WF
+2
+2
+3
+6.5 6.5 9.7
+W
+WP WF
+2
+4
+1
+9.1 18.2 4.5
+W
+WP WF
+3
+0
+0
+16.7 0.0 0.0
+Miami Plan
+Y
+I
+X
+0
+1
+0.0 2.6
+Y
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+1
+0.0 1.9
+Y
+I
+X
+2
+0
+6.5 0.0
+I
+X
+2
+0
+6.5 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+1
+0
+5.6 0.0
+Honors
+Cross Listing
+N
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+Avg GPA
+0
+2.89
+0.0
+A7
+S
+Avg GPA
+0
+3.62
+0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.08
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.32
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.32
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.81
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.98
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,62 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 14 Sections of 10
+Accountancy Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 16
+385 167 223 638 192 204 273 81
+44
+77
+11
+11
+60
+86
+9
+2
+2
+0
+0
+0
+2.87
+% 0.6 15.5 6.7 9.0 25.7 7.7 8.2 11.0 3.3 1.8 3.1 0.4 0.4 2.4 3.5 0.4 0.1 0.1 0.0 0.0 0.0
+GR 0
+37
+30
+6
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 0.0 45.7 37.0 7.4 9.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

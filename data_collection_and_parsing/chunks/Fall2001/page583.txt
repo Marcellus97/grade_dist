@@ -1,0 +1,316 @@
+testRun: 06/30/04 @ 15:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2001-02 Oxford Campus
+Page: 580 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ZOO 115 EB Meikle Douglas Biolog Concepts: Ecol Evol Gen
+Y
+N
+M5
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+1
+0
+0
+4
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.55
+% 0.0 36.4 0.0 0.0 9.1 0.0 0.0 36.4 0.0 0.0 9.1 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 115 EC Meikle Douglas Biolog Concepts: Ecol Evol Gen
+Y
+N
+M6
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+4
+0
+0
+4
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.36
+% 0.0 9.1 0.0 0.0 36.4 0.0 0.0 36.4 0.0 0.0 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 115 EE Meikle Douglas Biolog Concepts: Ecol Evol Gen
+Y
+N
+M8
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+1
+0
+0
+6
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.18
+% 0.0 16.7 0.0 0.0 8.3 0.0 0.0 50.0 0.0 0.0 8.3 0.0 8.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 115 EF Meikle Douglas Biolog Concepts: Ecol Evol Gen
+Y
+N
+M9
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+3
+0
+0
+5
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.22
+% 0.0 0.0 0.0 0.0 30.0 0.0 0.0 50.0 0.0 0.0 10.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 115 EG Meikle Douglas Biolog Concepts: Ecol Evol Gen
+Y
+N
+N1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+2
+0
+0
+6
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1.90
+% 0.0 0.0 0.0 0.0 18.2 0.0 0.0 54.5 0.0 0.0 9.1 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 115 EH Meikle Douglas Biolog Concepts: Ecol Evol Gen
+Y
+N
+N2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+4
+0
+0
+3
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.11
+% 0.0 0.0 0.0 0.0 40.0 0.0 0.0 30.0 0.0 0.0 10.0 0.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 115 EI Meikle Douglas Biolog Concepts: Ecol Evol Gen
+Y
+N
+N3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+1
+0
+0
+5
+0
+0
+2
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+1.90
+% 0.0 9.1 0.0 0.0 9.1 0.0 0.0 45.5 0.0 0.0 18.2 0.0 9.1 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,306 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Oxford Campus
+Page: 215 Sections of 10
+EDT Teacher Education
+Miami Plan
+Honors
+Cross Listing
+EDT 110 C Carrubba-Whetstine Christina R. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+7
+3
+0
+1
+2
+0
+0
+0
+0
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 15.0 35.0 15.0 0.0 5.0 10.0 0.0 0.0 0.0 0.0 0.0 5.0 5.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110 D Carrubba-Whetstine Christina R. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+1
+0
+0
+2
+3
+2
+1
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.98
+% 29.4 5.9 0.0 0.0 11.8 17.6 11.8 5.9 0.0 0.0 0.0 0.0 5.9 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110 F Carrubba-Whetstine Christina R. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+2
+0
+2
+3
+1
+2
+1
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 5.3 21.1 10.5 0.0 10.5 15.8 5.3 10.5 5.3 0.0 0.0 0.0 0.0 15.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110 G Carrubba-Whetstine Christina R. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+3
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+3.32
+% 20.0 25.0 15.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110 J Carrubba-Whetstine Christina R. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+4
+0
+3
+0
+0
+1
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 18.8 12.5 25.0 0.0 18.8 0.0 0.0 6.3 6.3 0.0 6.3 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDT 110
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+13
+20
+10
+6
+7
+11
+3
+3
+2
+1
+0
+2
+4
+10
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 14.1 21.7 10.9 6.5 7.6 12.0 3.3 3.3 2.2 1.1 0.0 2.2 4.3 10.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 182 A Perry Bruce E. Physical Science
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+2
+1
+2
+3
+3
+2
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+2.45
+% 0.0 5.6 5.6 11.1 5.6 11.1 16.7 16.7 11.1 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

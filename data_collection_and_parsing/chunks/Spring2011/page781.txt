@@ -1,0 +1,289 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Hamilton Campus
+Page: 777 Sections of 10
+Course Total CSE 163
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+2
+5
+1
+10
+2
+1
+0
+1
+% 2.9 5.7 14.3 2.9 28.6 5.7 2.9 0.0 2.9
+CSE 174 H A Jarvis Ernest G. Fundmntls-Progrming&Prob Solvg
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+3
+2
+3
+1
+1
+1
+0
+3
+0
+% 13.0 8.7 13.0 4.3 4.3 4.3 0.0 13.0 0.0
+Course Total CSE 174
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+3
+2
+3
+1
+1
+1
+0
+3
+0
+% 13.0 8.7 13.0 4.3 4.3 4.3 0.0 13.0 0.0
+CSE 271 H A Cantonwine Paul F. Object-Oriented Programming
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+2
+2
+1
+0
+1
+1
+1
+1
+% 0.0 13.3 13.3 6.7 0.0 6.7 6.7 6.7 6.7
+Course Total CSE 271
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+2
+2
+1
+0
+1
+1
+1
+1
+% 0.0 13.3 13.3 6.7 0.0 6.7 6.7 6.7 6.7
+Comp Sci &Software Engineering Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+UG 12
+29
+15
+14
+28
+15
+10
+13
+5
+% 5.0 12.1 6.3 5.8 11.7 6.3 4.2 5.4 2.1
+D+ D
+D-
+2
+2
+1
+5.7 5.7 2.9
+D+ D
+D-
+0
+0
+1
+0.0 0.0 4.3
+D+ D
+D-
+0
+0
+1
+0.0 0.0 4.3
+D+ D
+D-
+2
+2
+0
+13.3 13.3 0.0
+D+ D
+D-
+2
+2
+0
+13.3 13.3 0.0
+D+ D
+D-
+10
+14
+4
+4.2 5.8 1.7
+F
+W
+5
+2
+14.3 5.7
+WP WF
+0
+0
+0.0 0.0
+F
+W
+WP WF
+4
+4
+0
+0
+17.4 17.4 0.0 0.0
+F
+W
+WP WF
+4
+4
+0
+0
+17.4 17.4 0.0 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 13.3 0.0 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 13.3 0.0 0.0
+F
+W
+WP WF
+21
+49
+0
+0
+8.8 20.4 0.0 0.0
+Miami Plan
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+1
+0.0 0.4
+Honors
+Cross Listing
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.38
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.46
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.46
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.46
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.46
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.51
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

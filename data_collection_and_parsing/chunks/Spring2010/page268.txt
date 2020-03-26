@@ -1,0 +1,304 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Oxford Campus
+Page: 264 Sections of 10
+ENV Environmental Science
+Miami Plan
+Honors
+Cross Listing
+ENV 211 A Boardman Mark R. Energy Policy
+N
+N
+YI
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+4
+6
+3
+2
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.02
+% 0.0 5.0 10.0 20.0 30.0 15.0 10.0 5.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENV 211
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+4
+6
+3
+2
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.02
+% 0.0 5.0 10.0 20.0 30.0 15.0 10.0 5.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENV 275 A Gorchov David L. Prin of Environmental Science
+N
+N
+1C
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+0
+4
+5
+4
+1
+2
+3
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 8.0 12.0 0.0 16.0 20.0 16.0 4.0 8.0 12.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENV 275
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+0
+4
+5
+4
+1
+2
+3
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 8.0 12.0 0.0 16.0 20.0 16.0 4.0 8.0 12.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENV 474 A Greenberg Adolph M. Environmental Practice
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.80
+% 30.0 65.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENV 474
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.80
+% 30.0 65.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Environmental Science Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 8
+17
+2
+8
+11
+7
+3
+3
+3
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 12.3 26.2 3.1 12.3 16.9 10.8 4.6 4.6 4.6 0.0 0.0 0.0 1.5 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

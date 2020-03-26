@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Oxford Campus
+Page: 568 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ZOO 201 C Norris Steven M. Comparative Anatmy:Vertebrates
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+21
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 30.3 0.0 0.0 63.6 0.0 0.0 6.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ZOO 201
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+26
+0
+0
+58
+0
+0
+12
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 26.5 0.0 0.0 59.2 0.0 0.0 12.2 0.0 0.0 0.0 0.0 0.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 202 A Del Rio-Tsonis Katia Patterns In Development
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+2
+5
+1
+2
+3
+1
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.13
+% 4.8 19.0 9.5 23.8 4.8 9.5 14.3 4.8 0.0 4.8 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 202 B Del Rio-Tsonis Katia Patterns In Development
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+2
+6
+0
+3
+2
+2
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 4.8 4.8 9.5 28.6 0.0 14.3 9.5 9.5 0.0 9.5 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 202 E Mozingo Nancy Patterns In Development
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+13
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 16.7 0.0 0.0 72.2 0.0 0.0 5.6 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 202 F Mozingo Nancy Patterns In Development
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+0
+7
+0
+0
+5
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 33.3 0.0 0.0 33.3 0.0 0.0 23.8 0.0 0.0 0.0 0.0 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 202 G Fernandes Joyce J. Patterns In Development
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+2
+2
+6
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 0.0 36.8 10.5 10.5 31.6 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

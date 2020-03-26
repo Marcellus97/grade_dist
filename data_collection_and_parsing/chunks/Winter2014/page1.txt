@@ -1,0 +1,121 @@
+testGTraabdlee DofisCtroinbtuetniotsn
+Oxford Campus
+1
+ACC Accountancy
+1
+AMS American Studies
+3
+BIO Biology
+4
+BLS Business Legal Studies
+5
+BUS Business Analysis
+7
+BWS Black World Studies
+9
+CHM Chemistry & Biochemistry
+10
+CLS Classics
+11
+COM Communication
+12
+CPE Chemical & Paper Engineering
+16
+CSE Comp Sci &Software Engineering
+18
+EAS Engineering & App Science
+19
+ECE Electrical & Computer Engineer
+20
+ECO Economics
+21
+EDL Educational Leadership
+23
+EDP Educational Psychology
+25
+EDT Teacher Education
+27
+ENG English
+28
+ESP Entrepreneurship
+29
+FIN Finance
+31
+FSW Family Studies And Social Work
+34
+GEO Geography
+35
+GLG Geology
+36
+IDS Interdisciplinary
+37
+IMS Interactive Media Studies
+38
+ISA Information Systems& Analytics
+39
+ITS International Studies
+40
+JRN Journalism
+41
+KNH Kinesiology And Health
+43
+MGT Management
+47
+MKT Marketing
+50
+MME Mechan & Manufact Engineering
+53
+PHL Philosophy
+54
+POL Political Science
+55
+PSY Psychology
+56
+REL Religion, Comparative
+58
+SOC Sociology
+59
+SPA Speech Pathology & Audiology
+60
+SPN Spanish
+61
+STA Statistics
+63
+THE Theatre
+64
+Hamilton Campus
+65
+ART Art
+66
+BTE Business Technology
+67
+FSW Family Studies And Social Work
+69
+GLG Geology
+70
+HST History
+71
+SOC Sociology
+72
+Middletown Campus
+73
+ART Art
+74
+ATH Anthropology
+75
+BIO Biology
+76
+CHM Chemistry & Biochemistry
+77
+CLS Classics
+78
+EDT Teacher Education
+79
+HST History
+80
+PSY Psychology
+81
+SOC Sociology
+82
+Voa - West Chester Campus
+83

@@ -1,0 +1,48 @@
+testGLG Geology
+856
+HST History
+857
+IDS Interdisciplinary
+861
+ITL Italian
+862
+JRN Journalism
+863
+KNH Kinesiology And Health
+864
+MBI Microbiology
+876
+MGT Management
+879
+MIS Management Information Systems
+880
+MKT Marketing
+881
+MTH Mathematics
+882
+MUS Music
+893
+NSG Nursing
+895
+PHL Philosophy
+900
+PHY Physics
+901
+POL Political Science
+904
+PSY Psychology
+906
+REL Religion, Comparative
+908
+SOC Sociology
+909
+SPN Spanish
+911
+STA Statistics
+913
+THE Theatre
+914
+WGS Women,Gender&Sexuality Studies
+916
+ZOO Zoology
+918

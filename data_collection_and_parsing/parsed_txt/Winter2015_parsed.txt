@@ -1,0 +1,23654 @@
+GTraabdlee DofisCtroinbtuetniotsn
+Oxford Campus
+1
+ACC Accountancy
+1
+AMS American Studies
+4
+ARC Architecture & Interior Design
+5
+ART Art
+6
+ATH Anthropology
+8
+BIO Biology
+9
+BLS Business Legal Studies
+11
+BUS Business Analysis
+13
+BWS Black World Studies
+16
+CEC Col Of Engineering & Computing
+17
+CHM Chemistry & Biochemistry
+18
+CLS Classics
+19
+COM Communication
+20
+CPB Chem, Paper & Biomed Engineer
+23
+CSE Comp Sci &Software Engineering
+24
+ECE Electrical & Computer Engineer
+26
+ECO Economics
+27
+EDL Educational Leadership
+29
+EDP Educational Psychology
+30
+EDT Teacher Education
+32
+ENG English
+33
+ESP Entrepreneurship
+35
+FIN Finance
+36
+FRE French
+39
+FST Film Studies
+40
+FSW Family Studies And Social Work
+41
+GEO Geography
+42
+GER German
+44
+GLG Geology
+45
+GTY Gerontology
+46
+HST History
+47
+IDS Interdisciplinary
+48
+IMS Interactive Media Studies
+49
+ISA Information Systems& Analytics
+50
+ITS International Studies
+52
+JRN Journalism
+53
+KNH Kinesiology And Health
+55
+LAS Latin American Studies
+60
+MAC Media And Culture
+61
+MBI Microbiology
+62
+MGT Management
+63
+MKT Marketing
+66
+MME Mechan & Manufact Engineering
+69
+MUS Music
+70
+PHL Philosophy
+71
+POL Political Science
+72
+PSY Psychology
+74
+REL Religion, Comparative
+76
+SJS Social Justice Studies
+77
+SOC Sociology
+78
+SPA Speech Pathology & Audiology
+79
+SPN Spanish
+80
+STA Statistics
+82
+THE Theatre
+83
+Hamilton Campus
+84
+ART Art
+85
+ATH Anthropology
+86
+BTE Business Technology
+87
+CJS Criminal Justice Studies
+89
+CSE Comp Sci &Software Engineering
+90
+ECO Economics
+91
+ENG English
+92
+FST Film Studies
+93
+FSW Family Studies And Social Work
+94
+GLG Geology
+95
+HST History
+96
+KNH Kinesiology And Health
+98
+MAC Media And Culture
+99
+NSG Nursing
+100
+SOC Sociology
+101
+Middletown Campus
+102
+ART Art
+103
+ATH Anthropology
+104
+BIO Biology
+105
+CHM Chemistry & Biochemistry
+106
+CLS Classics
+107
+ENG English
+108
+HST History
+109
+PSY Psychology
+110
+SOC Sociology
+111
+SPN Spanish
+112
+Voa - West Chester Campus
+113
+EDL Educational Leadership
+114
+EDP Educational Psychology
+115
+NSG Nursing
+116
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 1 Sections of 10
+ACC Accountancy
+Miami Plan
+Honors
+Cross Listing
+ACC 221 A Killy Elizabeth M. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+3
+5
+2
+4
+2
+1
+2
+0
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.80
+% 3.8 7.7 11.5 19.2 7.7 15.4 7.7 3.8 7.7 0.0 0.0 3.8 3.8 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 221 B Killy Elizabeth M. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+3
+2
+3
+4
+2
+3
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.72
+% 0.0 19.2 7.7 11.5 7.7 11.5 15.4 7.7 11.5 0.0 3.8 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 221
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+5
+8
+4
+7
+6
+3
+5
+0
+1
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.76
+% 1.9 13.5 9.6 15.4 7.7 13.5 11.5 5.8 9.6 0.0 1.9 1.9 3.8 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 222 A Collins Ronald G. Intro To Managerial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+3
+4
+3
+3
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.26
+% 0.0 34.6 11.5 15.4 11.5 11.5 3.8 7.7 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 222 B Moser William J. Intro To Managerial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+1
+0
+8
+0
+2
+10
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.72
+% 3.4 17.2 3.4 0.0 27.6 0.0 6.9 34.5 3.4 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 222
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+14
+4
+4
+11
+3
+3
+12
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.98
+% 1.8 25.5 7.3 7.3 20.0 5.5 5.5 21.8 1.8 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 333 A Heitger Dan L. Managerial Cost Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+3
+3
+5
+2
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 29.2 12.5 12.5 20.8 8.3 8.3 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 2 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ACC 333
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+3
+3
+5
+2
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 29.2 12.5 12.5 20.8 8.3 8.3 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 361 A Stoel Michael D. Modeling Bus Proc in AIS
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+3
+4
+4
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 5.0 15.0 15.0 20.0 20.0 5.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 361
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+3
+4
+4
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 5.0 15.0 15.0 20.0 20.0 5.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 371 A Rubin Marc A. Accounting and Tax Policy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+9
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 11.8 52.9 35.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 371
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+9
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 11.8 52.9 35.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 399G A Farrell Anne M. FSB Ecuador
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 0.0 36.4 45.5 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 399G
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 0.0 36.4 45.5 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 3 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ACC 453 A Reffett Andrew B. Financial Statement Auditing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+8
+3
+4
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 0.0 29.2 33.3 12.5 16.7 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 453
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+8
+3
+4
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 0.0 29.2 33.3 12.5 16.7 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 468 A Eighme Jan E. Government and NFP Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+3
+2
+5
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 0.0 45.8 12.5 8.3 20.8 4.2 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 468
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+3
+2
+5
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 0.0 45.8 12.5 8.3 20.8 4.2 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 490A A Grenier Jonathan H. Fraud Examination
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+7
+3
+9
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 0.0 33.3 14.3 42.9 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 490A
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+7
+3
+9
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 0.0 33.3 14.3 42.9 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Accountancy Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+53
+47
+34
+42
+20
+14
+21
+7
+0
+3
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 0.8 21.4 19.0 13.7 16.9 8.1 5.6 8.5 2.8 0.0 1.2 0.4 0.8 0.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 4 Sections of 10
+AMS American Studies
+Miami Plan
+Honors
+Cross Listing
+AMS 205 A Murphy Brian M. Intro to American Cultures
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 50.0 7.1 14.3 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 21.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total AMS 205
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 50.0 7.1 14.3 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 21.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+AMS 299A A Godeanu-Kenworthy Oana Americans in Berlin
+N
+N
+R3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 0.0 27.3 36.4 18.2 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total AMS 299A
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 0.0 27.3 36.4 18.2 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+American Studies Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+10
+5
+4
+2
+0
+0
+1
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+3.19
+% 0.0 40.0 20.0 16.0 8.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 12.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 5 Sections of 10
+ARC Architecture & Interior Design
+Miami Plan
+Honors
+Cross Listing
+ARC 107 A Fellows Diane Global Design
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.97
+% 0.0 90.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ARC 107
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.97
+% 0.0 90.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Architecture & Interior Design Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+9
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.97
+% 0.0 90.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 6 Sections of 10
+ART Art
+Miami Plan
+Honors
+Cross Listing
+ART 187 A Jensen Mark H. Hst Of West Art/Prehis-Gothic
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+5
+0
+3
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.45
+% 10.5 15.8 26.3 0.0 15.8 0.0 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 21.1 0.0 0.0 0.0
+Course Total ART 187
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+5
+0
+3
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.45
+% 10.5 15.8 26.3 0.0 15.8 0.0 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 21.1 0.0 0.0 0.0
+ART 188 A Cordes Tate Lauren Hst Of West Art/Renais-Modern
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+5
+2
+5
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 0.0 40.0 20.0 8.0 20.0 0.0 4.0 4.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ART 188
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+5
+2
+5
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 0.0 40.0 20.0 8.0 20.0 0.0 4.0 4.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 299A A Featherstone Tracy E. Visual Art Study Tour India
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ART 299A
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 499R A Stevens Ron Photo, Consrv & Cult. Bahama
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 7 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ART 499R
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Art Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+38
+10
+2
+8
+0
+2
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+4
+0
+0
+0
+3.63
+% 2.9 55.1 14.5 2.9 11.6 0.0 2.9 2.9 0.0 0.0 0.0 0.0 1.4 0.0 0.0 0.0 0.0 5.8 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 8 Sections of 10
+ATH Anthropology
+Miami Plan
+Honors
+Cross Listing
+ATH 175 A Peterson Mark A. Peoples Of The World
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+6
+6
+4
+0
+1
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 16.7 25.0 25.0 16.7 0.0 4.2 4.2 0.0 4.2 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ATH 175
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+6
+6
+4
+0
+1
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 16.7 25.0 25.0 16.7 0.0 4.2 4.2 0.0 4.2 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Anthropology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+4
+6
+6
+4
+0
+1
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 16.7 25.0 25.0 16.7 0.0 4.2 4.2 0.0 4.2 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 9 Sections of 10
+BIO Biology
+Miami Plan
+Honors
+Cross Listing
+BIO 105 A Solomon Nancy G. Dog and Cat Behavior
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.77
+% 0.0 70.0 10.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BIO 105
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.77
+% 0.0 70.0 10.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 121 A Oswald Kenneth J. Environmental Biology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+10
+3
+6
+6
+0
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3
+0
+0
+0
+3.33
+% 0.0 13.9 27.8 8.3 16.7 16.7 0.0 2.8 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 8.3 0.0 0.0 0.0
+Course Total BIO 121
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+10
+3
+6
+6
+0
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3
+0
+0
+0
+3.33
+% 0.0 13.9 27.8 8.3 16.7 16.7 0.0 2.8 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 8.3 0.0 0.0 0.0
+BIO 203 A Haynes Tracy Intro to Cell Biology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+0
+3
+6
+0
+2
+3
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 4.3 30.4 0.0 13.0 26.1 0.0 8.7 13.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BIO 203
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+0
+3
+6
+0
+2
+3
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 4.3 30.4 0.0 13.0 26.1 0.0 8.7 13.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 400 A Pennock David G. Capstone: Contemporary Issues
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 0.0 80.0 5.0 0.0 15.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 10 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total BIO 400
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 0.0 80.0 5.0 0.0 15.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Biology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+35
+12
+6
+17
+6
+2
+4
+0
+0
+0
+0
+1
+2
+0
+0
+0
+3
+0
+0
+0
+3.43
+% 1.1 39.3 13.5 6.7 19.1 6.7 2.2 4.5 0.0 0.0 0.0 0.0 1.1 2.2 0.0 0.0 0.0 3.4 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 11 Sections of 10
+BLS Business Legal Studies
+Miami Plan
+Honors
+Cross Listing
+BLS 342 A Becker Paul A. Legal Environment of Business
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+2
+1
+3
+5
+2
+5
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 8.0 16.0 8.0 4.0 12.0 20.0 8.0 20.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BLS 342 B Powell Laura A. Legal Environment of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+31
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BLS 342
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+35
+2
+1
+3
+5
+2
+5
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 3.6 62.5 3.6 1.8 5.4 8.9 3.6 8.9 0.0 1.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BLS 464 A Herron Daniel J. International Business Law
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+34
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.97
+% 0.0 97.1 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BLS 464
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+34
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.97
+% 0.0 97.1 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BLS 465 A Meyers Karen D. Ethics, Law, & Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+13
+4
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.91
+% 28.0 52.0 16.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BLS 465
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+13
+4
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.91
+% 28.0 52.0 16.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 12 Sections of 10
+Business Legal Studies Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 9
+82
+6
+1
+5
+5
+2
+5
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 7.8 70.7 5.2 0.9 4.3 4.3 1.7 4.3 0.0 0.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 13 Sections of 10
+BUS Business Analysis
+Miami Plan
+Honors
+Cross Listing
+BUS 102 A Reitz Brad D. Writing for Bus.DecisionMaking
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+8
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.69
+% 0.0 36.8 42.1 10.5 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BUS 102
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+8
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.69
+% 0.0 36.8 42.1 10.5 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 299A A Kinghorn Janice R. FSB Southeast Asia
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+11
+2
+1
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.53
+% 0.0 25.0 45.8 8.3 4.2 12.5 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BUS 299A
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+11
+2
+1
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.53
+% 0.0 25.0 45.8 8.3 4.2 12.5 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 351 A Powell Laura A. Government, Law and Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+5
+1
+6
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.22
+% 5.3 10.5 26.3 5.3 31.6 10.5 5.3 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BUS 351
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+5
+1
+6
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.22
+% 5.3 10.5 26.3 5.3 31.6 10.5 5.3 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 352 A Manzo Rocco A. Investing in Human Capital
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+1
+2
+3
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 8.3 16.7 8.3 16.7 25.0 0.0 0.0 0.0 16.7 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 14 Sections of 10
+Course Total BUS 352
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+1
+2
+1
+2
+3
+0
+0
+0
+2
+0
+0
+1
+0
+0
+% 8.3 16.7 8.3 16.7 25.0 0.0 0.0 0.0 16.7 0.0 0.0 8.3 0.0 0.0
+BUS 354 A Chappell David S. Financial Capital
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+1
+0
+0
+1
+0
+0
+0
+3
+0
+1
+1
+2
+1
+0
+% 10.0 0.0 0.0 10.0 0.0 0.0 0.0 30.0 0.0 10.0 10.0 20.0 10.0 0.0
+Course Total BUS 354
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+1
+0
+0
+1
+0
+0
+0
+3
+0
+1
+1
+2
+1
+0
+% 10.0 0.0 0.0 10.0 0.0 0.0 0.0 30.0 0.0 10.0 10.0 20.0 10.0 0.0
+BUS 373 A Lee Sooun International Business inFocus
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+0
+6
+11
+2
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+% 0.0 25.0 45.8 8.3 4.2 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 373 B Shrider David G. International Business inFocus
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+0
+14
+4
+2
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+% 0.0 56.0 16.0 8.0 12.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0
+Course Total BUS 373
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+0
+20
+15
+4
+4
+4
+0
+0
+1
+0
+0
+0
+0
+0
+% 0.0 40.8 30.6 8.2 8.2 8.2 0.0 0.0 2.0 0.0 0.0 0.0 0.0 0.0
+BUS 420B A Luzadis Rebecca A. FSB Int'l Studies:Argentina
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+0
+15
+3
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+% 0.0 60.0 12.0 28.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+1
+0
+4.0 0.0
+I
+X
+1
+0
+2.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.95
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.70
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.70
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.55
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.67
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.61
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.77
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 15 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total BUS 420B
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+3
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.77
+% 0.0 60.0 12.0 28.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 420D A Greenlee Timothy B. FSB Int'l Studies:Australia
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+8
+3
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.65
+% 0.0 40.0 32.0 12.0 12.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 420D B Ashenbaum Bryan FSB Int'l Studies:Australia
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+6
+5
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.77
+% 0.0 55.6 22.2 18.5 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BUS 420D
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+25
+14
+8
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.71
+% 0.0 48.1 26.9 15.4 7.7 1.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Business Analysis Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 3
+77
+57
+27
+20
+10
+2
+3
+4
+1
+1
+3
+1
+0
+0
+0
+1
+0
+0
+0
+0
+3.49
+% 1.4 36.7 27.1 12.9 9.5 4.8 1.0 1.4 1.9 0.5 0.5 1.4 0.5 0.0 0.0 0.0 0.5 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 16 Sections of 10
+BWS Black World Studies
+Miami Plan
+Honors
+Cross Listing
+BWS 181 A Coates Rodney D. Civil Rights&Social Movements
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+24
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 92.3 0.0 0.0 0.0
+Course Total BWS 181
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+24
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 92.3 0.0 0.0 0.0
+Black World Studies Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+24
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 92.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 17 Sections of 10
+CEC Col Of Engineering & Computing
+Miami Plan
+Honors
+Cross Listing
+CEC 101 A Setlock Robert J. Computing, Engineering &Societ
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+6
+0
+0
+3
+0
+1
+3
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 15.8 31.6 0.0 0.0 15.8 0.0 5.3 15.8 0.0 0.0 10.5 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CEC 101
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+6
+0
+0
+3
+0
+1
+3
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 15.8 31.6 0.0 0.0 15.8 0.0 5.3 15.8 0.0 0.0 10.5 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Col Of Engineering & Computing Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 3
+6
+0
+0
+3
+0
+1
+3
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 15.8 31.6 0.0 0.0 15.8 0.0 5.3 15.8 0.0 0.0 10.5 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 18 Sections of 10
+CHM Chemistry & Biochemistry
+Miami Plan
+Honors
+Cross Listing
+CHM 111L A Hershberger Susan A. Chemistry Mod Soc Laboratory
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.81
+% 0.0 72.7 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 9.1 0.0 0.0 0.0
+Course Total CHM 111L
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.81
+% 0.0 72.7 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 9.1 0.0 0.0 0.0
+CHM 201 A Marine Susan S. Chemistry in Art
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 201
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 202 A Marshall Janet Chemistry of Food
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 202
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Chemistry & Biochemistry Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+34
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.95
+% 0.0 91.9 0.0 0.0 0.0 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0 2.7 0.0 0.0 0.0 2.7 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 19 Sections of 10
+CLS Classics
+Miami Plan
+Honors
+Cross Listing
+CLS 121 A McCoskey Denise E. Classical Mythology
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+3
+4
+2
+2
+1
+1
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 4.8 23.8 14.3 19.0 9.5 9.5 4.8 4.8 0.0 4.8 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CLS 121
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+3
+4
+2
+2
+1
+1
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 4.8 23.8 14.3 19.0 9.5 9.5 4.8 4.8 0.0 4.8 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CLS 299A A Rush Emily M. Discovering Greece
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+7
+3
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 0.0 13.3 46.7 20.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CLS 299A
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+7
+3
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 0.0 13.3 46.7 20.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Classics Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+7
+10
+7
+5
+2
+1
+1
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 2.8 19.4 27.8 19.4 13.9 5.6 2.8 2.8 0.0 2.8 0.0 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 20 Sections of 10
+COM Communication
+Miami Plan
+Honors
+Cross Listing
+COM 135 A Behnke Daniel G. Intro: Publ Express & Crit Inq
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+4
+0
+1
+3
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.64
+% 0.0 50.0 22.2 0.0 5.6 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 B Patrick-Gaines Jennifer L. Intro: Publ Express & Crit Inq
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 C Behnke Daniel G. Intro: Publ Express & Crit Inq
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+4
+1
+2
+2
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 0.0 38.9 22.2 5.6 11.1 11.1 0.0 0.0 5.6 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 135
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+34
+8
+1
+3
+5
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.71
+% 0.0 63.0 14.8 1.9 5.6 9.3 0.0 0.0 1.9 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 239 B McKittrick Christe L. Theories of Communication
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+1
+2
+1
+1
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 20.0 20.0 6.7 13.3 6.7 6.7 20.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 239
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+1
+2
+1
+1
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 20.0 20.0 6.7 13.3 6.7 6.7 20.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 339 A Shulman Gary M. Intro To Organization Com
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+7
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 0.0 12.5 18.8 43.8 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 21 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total COM 339
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+7
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 0.0 12.5 18.8 43.8 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 4502 A Clark Shara M. Social Media Strategies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+4
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 0.0 7.7 38.5 30.8 15.4 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 4502
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+4
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 0.0 7.7 38.5 30.8 15.4 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 450H A Siff Stephen Health Communication
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.45
+% 0.0 9.1 45.5 9.1 18.2 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0
+Course Total COM 450H
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.45
+% 0.0 9.1 45.5 9.1 18.2 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0
+COM 450O A Shaw Christina M. Sex, Gender and Communication
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+1
+3
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 21.4 28.6 7.1 21.4 7.1 0.0 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 450O
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+1
+3
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 21.4 28.6 7.1 21.4 7.1 0.0 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 22 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+COM 499N A Kleiman Howard M. Inside Hollywood
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 499N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Communication Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+60
+28
+15
+16
+8
+2
+4
+2
+0
+0
+1
+0
+2
+0
+0
+1
+0
+0
+0
+0
+3.53
+% 0.0 43.2 20.1 10.8 11.5 5.8 1.4 2.9 1.4 0.0 0.0 0.7 0.0 1.4 0.0 0.0 0.7 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 23 Sections of 10
+CPB Chem, Paper & Biomed Engineer
+Miami Plan
+Honors
+Cross Listing
+CPB 341 A Lalvani Shashi B. Engineering Economics
+N
+N
+A6
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+2
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 0.0 27.3 18.2 18.2 9.1 9.1 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CPB 341
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+2
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 0.0 27.3 18.2 18.2 9.1 9.1 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CPB 451 A Almquist Catherine Unit Operations Laboratory II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+7
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.26
+% 0.0 13.3 13.3 13.3 46.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CPB 451
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+7
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.26
+% 0.0 13.3 13.3 13.3 46.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Chem, Paper & Biomed Engineer Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+5
+4
+4
+8
+2
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 0.0 19.2 15.4 15.4 30.8 7.7 3.8 3.8 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 24 Sections of 10
+CSE Comp Sci &Software Engineering
+Miami Plan
+Honors
+Cross Listing
+CSE 253A A Zmuda Michael A. Intro to Python
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+3
+0
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 8.3 33.3 25.0 0.0 8.3 0.0 8.3 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSE 253A
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+3
+0
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 8.3 33.3 25.0 0.0 8.3 0.0 8.3 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 253O A Kiper James D. Intro to Objective-C
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 0.0 40.0 30.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSE 253O
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 0.0 40.0 30.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 271 A Stahr Michael C. Object-Oriented Programming
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+3
+3
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 0.0 33.3 0.0 25.0 25.0 0.0 0.0 8.3 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSE 271
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+3
+3
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 0.0 33.3 0.0 25.0 25.0 0.0 0.0 8.3 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 274 A Karro John E. Data Abstractions & Structures
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+9
+4
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.76
+% 10.5 47.4 21.1 15.8 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 25 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CSE 274
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+9
+4
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.76
+% 10.5 47.4 21.1 15.8 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Comp Sci &Software Engineering Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 3
+21
+10
+8
+4
+1
+1
+3
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 5.7 39.6 18.9 15.1 7.5 1.9 1.9 5.7 0.0 0.0 0.0 1.9 0.0 1.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 26 Sections of 10
+ECE Electrical & Computer Engineer
+Miami Plan
+Honors
+Cross Listing
+ECE 205 A Khan Tareq H. Electric Circuit Analysis - I
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+4
+1
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.40
+% 16.7 8.3 33.3 8.3 16.7 8.3 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECE 205
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+4
+1
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.40
+% 16.7 8.3 33.3 8.3 16.7 8.3 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 302 B Zhou Qihou MATLAB? and Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+4
+3
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 35.7 28.6 21.4 0.0 0.0 0.0 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECE 302
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+4
+3
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 35.7 28.6 21.4 0.0 0.0 0.0 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Electrical & Computer Engineer Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 7
+5
+7
+1
+2
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.55
+% 26.9 19.2 26.9 3.8 7.7 3.8 3.8 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 27 Sections of 10
+ECO Economics
+Miami Plan
+Honors
+Cross Listing
+ECO 201 A Elliott Steven R. Principles Of Microeconomics
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+6
+5
+4
+3
+6
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 9.7 3.2 19.4 16.1 12.9 9.7 19.4 3.2 6.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 201
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+6
+5
+4
+3
+6
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 9.7 3.2 19.4 16.1 12.9 9.7 19.4 3.2 6.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 202 A Davis George K. Principles Of Macroeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+4
+8
+8
+2
+9
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 8.1 5.4 10.8 21.6 21.6 5.4 24.3 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 202
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+4
+8
+8
+2
+9
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 8.1 5.4 10.8 21.6 21.6 5.4 24.3 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 301 A Raynold Prosper Money And Banking
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+1
+8
+1
+1
+6
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 17.4 4.3 4.3 34.8 4.3 4.3 26.1 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 301
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+1
+8
+1
+1
+6
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 17.4 4.3 4.3 34.8 4.3 4.3 26.1 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 320F A McBride Mark E. Experimental Economics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+2
+10
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 5.0 30.0 10.0 50.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 28 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ECO 320F
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+2
+10
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 5.0 30.0 10.0 50.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 420G A Fletcher Deborah Consulting Economics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+4
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.66
+% 0.0 37.5 25.0 37.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 420G
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+4
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.66
+% 0.0 37.5 25.0 37.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Economics Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+17
+14
+19
+31
+13
+6
+22
+2
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 0.0 13.4 11.0 15.0 24.4 10.2 4.7 17.3 1.6 1.6 0.0 0.0 0.0 0.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 29 Sections of 10
+EDL Educational Leadership
+Miami Plan
+Honors
+Cross Listing
+EDL 333 A Evans Michael P. Media, Youth & Urban Education
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+6
+3
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 35.3 35.3 17.6 5.9 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDL 333
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+6
+3
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 35.3 35.3 17.6 5.9 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Educational Leadership Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+6
+6
+3
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 35.3 35.3 17.6 5.9 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 30 Sections of 10
+EDP Educational Psychology
+Miami Plan
+Honors
+Cross Listing
+EDP 279 A Dickey Michele D. Tech + Media Lit and Learning
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+30
+3
+1
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+3.89
+% 76.9 7.7 2.6 0.0 0.0 2.6 0.0 0.0 2.6 0.0 0.0 0.0 0.0 5.1 0.0 0.0 2.6 0.0 0.0 0.0 0.0
+Course Total EDP 279
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+30
+3
+1
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+3.89
+% 76.9 7.7 2.6 0.0 0.0 2.6 0.0 0.0 2.6 0.0 0.0 0.0 0.0 5.1 0.0 0.0 2.6 0.0 0.0 0.0 0.0
+EDP 444 A Kelly-Elliott Molly Tchng Soc&Aff Skill To Chd/Yth
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+0
+1
+4
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.71
+% 0.0 72.7 0.0 4.5 18.2 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDP 444
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+0
+1
+4
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.71
+% 0.0 72.7 0.0 4.5 18.2 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 494 A Watt Sarah J. Assessment/Eval Except Lrners
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+10
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.93
+% 21.4 71.4 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDP 494
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+10
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.93
+% 21.4 71.4 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 496 A Johnson Ashley E. Behav Intervtn:Thry/Princ/Tech
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+20
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 31 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total EDP 496
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+20
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 641 A Dickey Michele D. Principles of Visual Literacy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+17
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+4.00
+% 89.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0
+Course Total EDP 641
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+17
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+4.00
+% 89.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0
+Educational Psychology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 33
+49
+1
+1
+5
+1
+1
+0
+1
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+3.88
+% 34.7 51.6 1.1 1.1 5.3 1.1 1.1 0.0 1.1 0.0 0.0 0.0 0.0 2.1 0.0 0.0 1.1 0.0 0.0 0.0 0.0
+GR 17
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+4.00
+% 89.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 32 Sections of 10
+EDT Teacher Education
+Miami Plan
+Honors
+Cross Listing
+EDT 202 A Lee Lena Global Childhood Education
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+8
+3
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.74
+% 11.8 47.1 17.6 5.9 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0
+Course Total EDT 202
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+8
+3
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.74
+% 11.8 47.1 17.6 5.9 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0
+EDT 221 B Ducher Jeannie M. TELLs: Culture & SLA
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+10
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.94
+% 7.1 71.4 21.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDT 221
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+10
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.94
+% 7.1 71.4 21.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 422 A Heuberger Rose Barbara Studies In Educational Issues
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+3
+6
+3
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 5.6 5.6 5.6 16.7 33.3 16.7 11.1 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDT 422
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+3
+6
+3
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 5.6 5.6 5.6 16.7 33.3 16.7 11.1 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Teacher Education Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 3
+19
+7
+2
+3
+8
+3
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.45
+% 6.1 38.8 14.3 4.1 6.1 16.3 6.1 4.1 0.0 0.0 0.0 0.0 0.0 2.0 0.0 0.0 0.0 2.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 33 Sections of 10
+ENG English
+Miami Plan
+Honors
+Cross Listing
+ENG 163 A Johnson Kathleen N. Literature And Travel
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+7
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.81
+% 0.0 50.0 38.9 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 163
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+7
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.81
+% 0.0 50.0 38.9 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 310D A Fioretti Daniele Writing in Italy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+13
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.98
+% 6.7 86.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 310D
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+13
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.98
+% 6.7 86.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 310E A Alexander Phill M. Rhetoric & Digital Identity
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.75
+% 0.0 83.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 310E
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.75
+% 0.0 83.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 410X A Palozzi Vincent J. Language, Culture, and DNA
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 0.0 75.0 12.5 6.3 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 34 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ENG 410X
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 0.0 75.0 12.5 6.3 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 420 A Goodman Eric K. Adv Creat Wrtng:Fiction Wrkshp
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.70
+% 0.0 45.5 27.3 18.2 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 420
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.70
+% 0.0 45.5 27.3 18.2 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+English Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+54
+13
+5
+1
+1
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.82
+% 1.3 69.2 16.7 6.4 1.3 1.3 0.0 0.0 0.0 0.0 0.0 0.0 1.3 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 35 Sections of 10
+ESP Entrepreneurship
+Miami Plan
+Honors
+Cross Listing
+ESP 399G A Smith Brett R. FSB Ecuador
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 0.0 36.4 45.5 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ESP 399G
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 0.0 36.4 45.5 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ESP 461 A Friedman Jim Small/Emerging Enterprise Cons
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+2
+3
+3
+1
+3
+2
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 4.3 21.7 8.7 13.0 13.0 4.3 13.0 8.7 8.7 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ESP 461
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+2
+3
+3
+1
+3
+2
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 4.3 21.7 8.7 13.0 13.0 4.3 13.0 8.7 8.7 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Entrepreneurship Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+9
+7
+5
+3
+1
+3
+2
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.22
+% 2.9 26.5 20.6 14.7 8.8 2.9 8.8 5.9 5.9 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 36 Sections of 10
+FIN Finance
+Miami Plan
+Honors
+Cross Listing
+FIN 301 A Wyatt Steve B. Intro To Business Finance
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+3
+5
+8
+8
+3
+4
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 5.0 10.0 7.5 12.5 20.0 20.0 7.5 10.0 0.0 5.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 301 B Nixon Terry D. Intro To Business Finance
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+11
+2
+3
+8
+4
+1
+6
+4
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 4.7 25.6 4.7 7.0 18.6 9.3 2.3 14.0 9.3 2.3 0.0 0.0 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 301 C Adelman Saul W. Intro To Business Finance
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+2
+9
+1
+1
+4
+3
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 15.2 12.1 6.1 27.3 3.0 3.0 12.1 9.1 3.0 3.0 6.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 301
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+20
+9
+10
+25
+13
+5
+14
+7
+4
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.87
+% 3.4 17.2 7.8 8.6 21.6 11.2 4.3 12.1 6.0 3.4 1.7 1.7 0.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 302 A Borokhovich Kenneth A. Intermed Financial Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+2
+0
+2
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 28.6 21.4 14.3 0.0 14.3 7.1 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 302
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+2
+0
+2
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 28.6 21.4 14.3 0.0 14.3 7.1 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 303 A Shull David M. Financial Modeling with Excel
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+5
+6
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.71
+% 0.0 50.0 17.9 21.4 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 37 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total FIN 303
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+5
+6
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.71
+% 0.0 50.0 17.9 21.4 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 331 A Marshall David W. Real Estate Principles
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+4
+5
+4
+6
+3
+2
+1
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 5.6 16.7 11.1 13.9 11.1 16.7 8.3 5.6 2.8 0.0 0.0 2.8 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 331
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+4
+5
+4
+6
+3
+2
+1
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 5.6 16.7 11.1 13.9 11.1 16.7 8.3 5.6 2.8 0.0 0.0 2.8 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 401 A Boulton Thomas J. Prin Of Investmnt&Securty Mkts
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+1
+2
+3
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 20.0 13.3 6.7 13.3 20.0 0.0 13.3 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 401
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+1
+2
+3
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 20.0 13.3 6.7 13.3 20.0 0.0 13.3 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 417 A Shrider David G. International Business Finance
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+2
+1
+8
+2
+1
+1
+3
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.06
+% 8.0 16.0 8.0 4.0 32.0 8.0 4.0 4.0 12.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0
+Course Total FIN 417
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+2
+1
+8
+2
+1
+1
+3
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.06
+% 8.0 16.0 8.0 4.0 32.0 8.0 4.0 4.0 12.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 38 Sections of 10
+Finance Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 8
+51
+25
+25
+41
+26
+10
+21
+13
+4
+2
+3
+1
+3
+0
+0
+1
+0
+0
+0
+0
+3.05
+% 3.4 21.8 10.7 10.7 17.5 11.1 4.3 9.0 5.6 1.7 0.9 1.3 0.4 1.3 0.0 0.0 0.4 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 39 Sections of 10
+FRE French
+Miami Plan
+Honors
+Cross Listing
+FRE 131 A Hodges Elisabeth D. Masterpieces Fre Lit Translatn
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+6
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.82
+% 0.0 55.6 33.3 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FRE 131
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+6
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.82
+% 0.0 55.6 33.3 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FRE 202 A Klosowska Anna M. Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+2
+1
+0
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 0.0 10.0 20.0 10.0 20.0 10.0 0.0 10.0 0.0 0.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FRE 202
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+2
+1
+0
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 0.0 10.0 20.0 10.0 20.0 10.0 0.0 10.0 0.0 0.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+French Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+11
+8
+3
+2
+1
+0
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 0.0 39.3 28.6 10.7 7.1 3.6 0.0 3.6 0.0 0.0 3.6 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 40 Sections of 10
+FST Film Studies
+Miami Plan
+Honors
+Cross Listing
+FST 206 A Davis Helen L. Diversity&Culture in Amer Film
+Y
+N
+FM
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 0.0 38.5 30.8 23.1 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FST 206
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 0.0 38.5 30.8 23.1 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FST 350 A Drushel Bruce E. Topics In Film
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+3
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 0.0 53.8 23.1 7.7 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FST 350
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+3
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 0.0 53.8 23.1 7.7 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Film Studies Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+12
+7
+4
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.70
+% 0.0 46.2 26.9 15.4 11.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 41 Sections of 10
+FSW Family Studies And Social Work
+Miami Plan
+Honors
+Cross Listing
+FSW 261 A Custer Sharon L. Diverse Fam Across Life Cycle
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+10
+5
+5
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+3.84
+% 40.0 20.0 20.0 0.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 12.0 0.0 0.0 0.0
+Course Total FSW 261
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+10
+5
+5
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+3.84
+% 40.0 20.0 20.0 0.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 12.0 0.0 0.0 0.0
+FSW 481 A Houlihan Lindsey G. Adolescnt Dev Diverse Families
+N
+N
+YT
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+18
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.68
+% 0.0 9.5 85.7 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FSW 481
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+18
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.68
+% 0.0 9.5 85.7 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Family Studies And Social Work Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 10
+7
+23
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+3.76
+% 21.7 15.2 50.0 0.0 4.3 2.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.5 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 42 Sections of 10
+GEO Geography
+Miami Plan
+Honors
+Cross Listing
+GEO 101 A England Marcia R. Global Forces, Local Diversity
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+5
+3
+2
+0
+2
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.20
+% 4.2 29.2 20.8 12.5 8.3 0.0 8.3 0.0 0.0 0.0 8.3 4.2 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0
+Course Total GEO 101
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+5
+3
+2
+0
+2
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.20
+% 4.2 29.2 20.8 12.5 8.3 0.0 8.3 0.0 0.0 0.0 8.3 4.2 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0
+GEO 122 A Henry Mary C. Geographic Environments
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+7
+4
+9
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.20
+% 0.0 7.7 26.9 15.4 34.6 0.0 0.0 11.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0
+Course Total GEO 122
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+7
+4
+9
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.20
+% 0.0 7.7 26.9 15.4 34.6 0.0 0.0 11.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0
+GEO 412 A Cummins R. Hays Tropical Ecosystems:Costa Rica
+N
+N
+R1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+5
+3
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 0.0 0.0 45.5 27.3 18.2 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GEO 412
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+5
+3
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 0.0 0.0 45.5 27.3 18.2 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GEO 499X A Cummins R. Hays Sustainability in Costa Rica
+N
+N
+A9
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+17
+4
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.54
+% 0.0 6.9 58.6 13.8 17.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 43 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total GEO 499X
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+17
+4
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.54
+% 0.0 6.9 58.6 13.8 17.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0 0.0
+Geography Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+11
+34
+14
+18
+1
+2
+3
+0
+0
+2
+1
+0
+0
+0
+0
+1
+2
+0
+0
+0
+3.33
+% 1.1 12.2 37.8 15.6 20.0 1.1 2.2 3.3 0.0 0.0 2.2 1.1 0.0 0.0 0.0 0.0 1.1 2.2 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 44 Sections of 10
+GER German
+Miami Plan
+Honors
+Cross Listing
+GER 232 A Ivanova Mariana Z. Holocaust: GER Lit Hst & Film
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+6
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 5.9 52.9 35.3 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GER 232
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+6
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 5.9 52.9 35.3 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+German Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+9
+6
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 5.9 52.9 35.3 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 45 Sections of 10
+GLG Geology
+Miami Plan
+Honors
+Cross Listing
+GLG 121 A Brudzinski Michael R. Environmental Geology
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+5
+9
+8
+7
+5
+3
+3
+1
+1
+0
+0
+2
+0
+0
+0
+6
+1
+0
+0
+2.89
+% 0.0 8.9 8.9 16.1 14.3 12.5 8.9 5.4 5.4 1.8 1.8 0.0 0.0 3.6 0.0 0.0 0.0 10.7 1.8 0.0 0.0
+Course Total GLG 121
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+5
+9
+8
+7
+5
+3
+3
+1
+1
+0
+0
+2
+0
+0
+0
+6
+1
+0
+0
+2.89
+% 0.0 8.9 8.9 16.1 14.3 12.5 8.9 5.4 5.4 1.8 1.8 0.0 0.0 3.6 0.0 0.0 0.0 10.7 1.8 0.0 0.0
+GLG 412 A Cummins R. Hays Tropical Ecosystems:Costa Rica
+N
+N
+2R
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+7
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 0.0 9.1 63.6 9.1 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GLG 412
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+7
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 0.0 9.1 63.6 9.1 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Geology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+6
+12
+10
+10
+7
+5
+3
+3
+1
+1
+0
+0
+2
+0
+0
+0
+6
+1
+0
+0
+3.02
+% 0.0 9.0 17.9 14.9 14.9 10.4 7.5 4.5 4.5 1.5 1.5 0.0 0.0 3.0 0.0 0.0 0.0 9.0 1.5 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 46 Sections of 10
+GTY Gerontology
+Miami Plan
+Honors
+Cross Listing
+GTY 260 A Bulanda Jennifer R. Global Aging
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+9
+5
+2
+5
+1
+1
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.33
+% 7.1 32.1 17.9 7.1 17.9 3.6 3.6 7.1 0.0 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GTY 260 B Bulanda Jennifer R. Global Aging
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+14
+1
+2
+2
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.60
+% 12.0 56.0 4.0 8.0 8.0 4.0 0.0 0.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GTY 260
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+23
+6
+4
+7
+2
+1
+2
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.45
+% 9.4 43.4 11.3 7.5 13.2 3.8 1.9 3.8 1.9 1.9 0.0 0.0 1.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GTY 299A A de Medeiros Kathryn B. Aging in Thailand
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+16
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+Course Total GTY 299A
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+16
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+Gerontology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 5
+23
+6
+4
+7
+2
+1
+2
+1
+1
+0
+0
+1
+0
+0
+0
+0
+16
+0
+0
+0
+3.45
+% 7.2 33.3 8.7 5.8 10.1 2.9 1.4 2.9 1.4 1.4 0.0 0.0 1.4 0.0 0.0 0.0 0.0 23.2 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 47 Sections of 10
+HST History
+Miami Plan
+Honors
+Cross Listing
+HST 330G A Norris Stephen M. The Great War at 100
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+5
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.68
+% 0.0 33.3 41.7 16.7 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total HST 330G
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+5
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.68
+% 0.0 33.3 41.7 16.7 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 350D A Sheumaker Helen D. Investigations in MU History
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 0.0 15.4 38.5 30.8 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total HST 350D
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 0.0 15.4 38.5 30.8 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+History Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+6
+10
+6
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 24.0 40.0 24.0 12.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 48 Sections of 10
+IDS Interdisciplinary
+Miami Plan
+Honors
+Cross Listing
+IDS 199D A Gaskins Adrian T. Civil and Human Rights: What
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.64
+% 0.0 30.8 30.8 38.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total IDS 199D
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.64
+% 0.0 30.8 30.8 38.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IDS 299B A Fioretti Daniele Italian Cinematic Contrasts
+N
+N
+CG
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+4.00
+% 18.2 72.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0
+Course Total IDS 299B
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+4.00
+% 18.2 72.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0
+Interdisciplinary Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+12
+4
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.80
+% 8.3 50.0 16.7 20.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 49 Sections of 10
+IMS Interactive Media Studies
+Miami Plan
+Honors
+Cross Listing
+IMS 222 A Kuhn Arthur R. Web and Interaction Design
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.53
+% 0.0 30.0 40.0 0.0 10.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0
+Course Total IMS 222
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.53
+% 0.0 30.0 40.0 0.0 10.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0
+IMS 254 A Kuhn Arthur R. Design Principles Applied
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.79
+% 0.0 28.6 64.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total IMS 254
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.79
+% 0.0 28.6 64.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IMS 419 A Coyle James R. Digital Branding
+N
+N
+MI
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+1
+2
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 15.4 30.8 7.7 15.4 30.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total IMS 419
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+1
+2
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 15.4 30.8 7.7 15.4 30.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Interactive Media Studies Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+11
+14
+2
+5
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+3.64
+% 5.4 29.7 37.8 5.4 13.5 0.0 0.0 2.7 0.0 0.0 0.0 0.0 0.0 2.7 0.0 0.0 2.7 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 50 Sections of 10
+ISA Information Systems& Analytics
+Miami Plan
+Honors
+Cross Listing
+ISA 203 A Schur Patrick J. Supplementary Bus Statistics
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+1
+5
+2
+1
+3
+2
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+2.79
+% 0.0 14.3 0.0 4.8 23.8 9.5 4.8 14.3 9.5 0.0 0.0 0.0 0.0 19.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ISA 203
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+1
+5
+2
+1
+3
+2
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+2.79
+% 0.0 14.3 0.0 4.8 23.8 9.5 4.8 14.3 9.5 0.0 0.0 0.0 0.0 19.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 235 A Strouble Dennis IT & Intelligent Enterprise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+1
+5
+1
+4
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 4.8 28.6 4.8 23.8 4.8 19.0 4.8 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ISA 235
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+1
+5
+1
+4
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 4.8 28.6 4.8 23.8 4.8 19.0 4.8 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 245 A Havelka Douglas Database Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+0
+2
+8
+1
+0
+6
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 4.2 16.7 0.0 8.3 33.3 4.2 0.0 25.0 4.2 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ISA 245
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+0
+2
+8
+1
+0
+6
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 4.2 16.7 0.0 8.3 33.3 4.2 0.0 25.0 4.2 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 303 A Ozdemir Zafer D. Enterprise Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+4
+1
+5
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 0.0 22.7 18.2 18.2 4.5 22.7 4.5 4.5 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 51 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ISA 303
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+4
+1
+5
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 0.0 22.7 18.2 18.2 4.5 22.7 4.5 4.5 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Information Systems& Analytics Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+18
+5
+12
+15
+12
+3
+12
+3
+0
+1
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+3.04
+% 2.3 20.5 5.7 13.6 17.0 13.6 3.4 13.6 3.4 0.0 1.1 0.0 0.0 5.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 52 Sections of 10
+ITS International Studies
+Miami Plan
+Honors
+Cross Listing
+ITS 201 A Toops Stanley W. Intro To International Studies
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+7
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 0.0 29.4 41.2 5.9 11.8 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ITS 201 B Otto Jonathan J. Intro To International Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+2
+2
+1
+0
+1
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 18.8 31.3 12.5 12.5 6.3 0.0 6.3 0.0 0.0 0.0 6.3 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ITS 201
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+12
+3
+4
+3
+0
+1
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 0.0 24.2 36.4 9.1 12.1 9.1 0.0 3.0 0.0 0.0 0.0 3.0 0.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ITS 299A A Albarran Juan Carlos L. Cuba in Transition
+N
+N
+CH
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 0.0 40.0 40.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ITS 299A
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 0.0 40.0 40.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+International Studies Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+12
+16
+5
+4
+3
+0
+1
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 0.0 27.9 37.2 11.6 9.3 7.0 0.0 2.3 0.0 0.0 0.0 2.3 0.0 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 53 Sections of 10
+JRN Journalism
+Miami Plan
+Honors
+Cross Listing
+JRN 101 A Heckler Cheryl Introduction to Journalism
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 0.0 78.6 7.1 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+JRN 101 B Tobin James E. Introduction to Journalism
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+1
+1
+4
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 0.0 40.0 6.7 6.7 26.7 0.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total JRN 101
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+2
+1
+6
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.54
+% 0.0 58.6 6.9 3.4 20.7 0.0 0.0 10.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+JRN 350 A Sampson Joseph A. Specialized Journalism
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+5
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.81
+% 0.0 60.0 33.3 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total JRN 350
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+5
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.81
+% 0.0 60.0 33.3 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+JRN 350B A Newberry Patricia G. NYC Media
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+11
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.96
+% 12.5 68.8 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0
+Course Total JRN 350B
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+11
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.96
+% 12.5 68.8 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 54 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+JRN 350P A Bellman Sacha D. Photojournalism
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+3
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.42
+% 0.0 7.7 38.5 23.1 30.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total JRN 350P
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+3
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.42
+% 0.0 7.7 38.5 23.1 30.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+JRN 412 A Siff Stephen Public Affairs Reporting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+3
+2
+1
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 15.4 15.4 23.1 15.4 7.7 0.0 15.4 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total JRN 412
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+3
+2
+1
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 15.4 15.4 23.1 15.4 7.7 0.0 15.4 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Journalism Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+40
+16
+7
+12
+2
+0
+5
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.56
+% 2.3 46.5 18.6 8.1 14.0 2.3 0.0 5.8 0.0 0.0 1.2 0.0 0.0 0.0 0.0 0.0 1.2 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 55 Sections of 10
+KNH Kinesiology And Health
+Miami Plan
+Honors
+Cross Listing
+KNH 120G A Cox Ronald H. Weight Training
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+16
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 94.1 0.0 0.0 0.0
+Course Total KNH 120G
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+16
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 94.1 0.0 0.0 0.0
+KNH 188 A Scherzinger Lamia Physical Activity and Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+1
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.81
+% 0.0 70.0 5.0 15.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 188
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+1
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.81
+% 0.0 70.0 5.0 15.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 209 A Troesch Patricia J. Medical Terminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.91
+% 0.0 70.6 29.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 209 B Alessio Helaine Medical Terminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+1
+7
+0
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.26
+% 0.0 21.1 21.1 5.3 36.8 0.0 5.3 0.0 0.0 5.3 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 209 C Malay Nancy J. Medical Terminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+4
+2
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 7.1 28.6 28.6 14.3 0.0 14.3 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 56 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+KNH 209 D Parkinson Nancy S. Medical Terminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+4
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.79
+% 0.0 65.0 20.0 0.0 15.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 209 E Miller Mary E. Medical Terminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+3
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.75
+% 0.0 68.4 15.8 0.0 0.0 15.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 209 F Sliger Jennifer Medical Terminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+2
+1
+6
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 0.0 47.4 10.5 5.3 31.6 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 209 G Brooks Eric K. Medical Terminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+2
+1
+1
+3
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 0.0 55.0 10.0 5.0 5.0 15.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 209 H Davie Emily E. Medical Terminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+7
+6
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 0.0 16.7 38.9 33.3 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 209 I Timmerman Kyle L. Medical Terminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+1
+3
+1
+1
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.20
+% 0.0 29.4 17.6 5.9 17.6 5.9 5.9 17.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 209
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+71
+34
+14
+23
+8
+4
+3
+0
+3
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 0.0 43.6 20.9 8.6 14.1 4.9 2.5 1.8 0.0 1.8 0.0 0.0 1.2 0.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 57 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+KNH 212 B Fudge Shane Sport Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+4
+3
+0
+1
+0
+0
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 0.0 25.0 6.3 25.0 18.8 0.0 6.3 0.0 0.0 6.3 6.3 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 212
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+4
+3
+0
+1
+0
+0
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 0.0 25.0 6.3 25.0 18.8 0.0 6.3 0.0 0.0 6.3 6.3 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 276 A Edwards Jennifer L. The Meaning of Leisure
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+2
+4
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.66
+% 0.0 58.8 0.0 11.8 23.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 276
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+2
+4
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.66
+% 0.0 58.8 0.0 11.8 23.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 329 A Kimiecik John C. Psych Perspectives on Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+3
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.79
+% 0.0 65.0 15.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 329
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+3
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.79
+% 0.0 65.0 15.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 338 A Chase Melissa A. Psychosocial Aspects Coaching
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 0.0 94.7 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 58 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total KNH 338
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 0.0 94.7 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 375 A Weinberg Robert S. Psych Persp. in Sport&Exerc.
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+0
+1
+5
+0
+0
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 14.3 14.3 0.0 7.1 35.7 0.0 0.0 7.1 14.3 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 375
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+0
+1
+5
+0
+0
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 14.3 14.3 0.0 7.1 35.7 0.0 0.0 7.1 14.3 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 378 A O'Neil Sean S. Sport, Power and Inequality
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+9
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.40
+% 0.0 14.3 64.3 7.1 0.0 0.0 0.0 0.0 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 378
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+9
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.40
+% 0.0 14.3 64.3 7.1 0.0 0.0 0.0 0.0 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 402 A Horn Thelma S. Critical Refl on Practices
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+3
+2
+2
+2
+0
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 40.9 13.6 9.1 9.1 9.1 0.0 4.5 4.5 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 402 B Walsh Mark S. Critical Refl on Practices
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 59 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total KNH 402
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+30
+3
+2
+2
+2
+0
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.61
+% 0.0 69.8 7.0 4.7 4.7 4.7 0.0 2.3 2.3 2.3 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 416 A Katz Matthew J. Sport Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+3
+3
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 0.0 11.8 35.3 17.6 17.6 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 416
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+3
+3
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 0.0 11.8 35.3 17.6 17.6 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 473 A Vealey Robin S. Children and Youth in Sports
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+4
+2
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 5.0 55.0 20.0 10.0 0.0 5.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 473
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+4
+2
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 5.0 55.0 20.0 10.0 0.0 5.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Kinesiology And Health Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 3
+177 61
+34
+43
+13
+6
+5
+4
+7
+2
+1
+2
+6
+0
+0
+0
+16
+0
+0
+0
+3.53
+% 0.8 46.6 16.1 8.9 11.3 3.4 1.6 1.3 1.1 1.8 0.5 0.3 0.5 1.6 0.0 0.0 0.0 4.2 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 60 Sections of 10
+LAS Latin American Studies
+Miami Plan
+Honors
+Cross Listing
+LAS 208 A Ianes Raul Introduction to Latin America
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+13
+1
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.80
+% 17.4 56.5 4.3 13.0 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total LAS 208
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+13
+1
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.80
+% 17.4 56.5 4.3 13.0 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+LAS 299A A Albarran Juan Carlos L. Cuba in Transition
+N
+N
+CH
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+7
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.56
+% 0.0 8.3 58.3 8.3 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0
+Course Total LAS 299A
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+7
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.56
+% 0.0 8.3 58.3 8.3 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0
+Latin American Studies Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 4
+14
+8
+4
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.72
+% 11.4 40.0 22.9 11.4 8.6 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 61 Sections of 10
+MAC Media And Culture
+Miami Plan
+Honors
+Cross Listing
+MAC 258 A Long Robert D. Copywriting:Electronic Media
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+3
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 10.0 10.0 30.0 40.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MAC 258
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+3
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 10.0 10.0 30.0 40.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Media And Culture Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+1
+1
+3
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 10.0 10.0 30.0 40.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 62 Sections of 10
+MBI Microbiology
+Miami Plan
+Honors
+Cross Listing
+MBI 131 A Abshire Kelly Z. Community Health Perspectives
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+13
+9
+4
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.70
+% 5.6 36.1 25.0 11.1 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 11.1 0.0 0.0 0.0
+Course Total MBI 131
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+13
+9
+4
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.70
+% 5.6 36.1 25.0 11.1 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 11.1 0.0 0.0 0.0
+Microbiology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+13
+9
+4
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.70
+% 5.6 36.1 25.0 11.1 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 11.1 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 63 Sections of 10
+MGT Management
+Miami Plan
+Honors
+Cross Listing
+MGT 111 A Finch Byron J. Introduction To Business
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+3
+4
+2
+4
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 0.0 51.6 9.7 12.9 6.5 12.9 0.0 0.0 3.2 0.0 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 111
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+3
+4
+2
+4
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 0.0 51.6 9.7 12.9 6.5 12.9 0.0 0.0 3.2 0.0 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 291 A Gerhardt Megan M. Intro to Management&Leadership
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+6
+1
+5
+1
+0
+4
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 24.0 24.0 4.0 20.0 4.0 0.0 16.0 0.0 0.0 0.0 4.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 291 B Hogan John T. Intro to Management&Leadership
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+8
+5
+2
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 0.0 16.7 33.3 20.8 8.3 4.2 8.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 291 C Wesolowski Mark A. Intro to Management&Leadership
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+6
+8
+3
+1
+1
+2
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 22.6 19.4 25.8 9.7 3.2 3.2 6.5 3.2 0.0 3.2 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 291 D Gerhardt Megan M. Intro to Management&Leadership
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+1
+6
+3
+3
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 4.2 25.0 4.2 25.0 12.5 12.5 12.5 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 291
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+26
+15
+16
+6
+6
+11
+2
+0
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 17.3 25.0 14.4 15.4 5.8 5.8 10.6 1.9 0.0 1.0 1.9 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 64 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MGT 299B A Schwarz Joshua L. FSB Int'l Studies:Argentina
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+1
+0
+5
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.62
+% 0.0 68.0 4.0 0.0 20.0 0.0 0.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 299B
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+1
+0
+5
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.62
+% 0.0 68.0 4.0 0.0 20.0 0.0 0.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 A Huang Xiaowen Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+6
+1
+0
+3
+2
+4
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 13.6 27.3 4.5 0.0 13.6 9.1 18.2 9.1 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 B Salzarulo Peter A. Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+5
+2
+8
+4
+2
+1
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 24.2 15.2 6.1 24.2 12.1 6.1 3.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 C Jin Yao Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+12
+0
+0
+8
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 22.2 0.0 0.0 44.4 0.0 0.0 29.6 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 D Ashenbaum Bryan Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+4
+5
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.20
+% 0.0 20.0 10.0 20.0 25.0 15.0 5.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 E Leishman Brent Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+7
+5
+9
+2
+2
+2
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 6.3 21.9 15.6 28.1 6.3 6.3 6.3 6.3 0.0 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 65 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MGT 302 F Huang Xiaowen Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+0
+5
+3
+3
+3
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.49
+% 0.0 4.5 9.1 0.0 22.7 13.6 13.6 13.6 13.6 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 302
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+27
+17
+11
+42
+14
+12
+17
+8
+1
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 1.9 17.3 10.9 7.1 26.9 9.0 7.7 10.9 5.1 0.6 1.9 0.0 0.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 303 A Schwarz Joshua L. Human Resource Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+0
+0
+7
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 0.0 60.0 0.0 0.0 28.0 0.0 0.0 8.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 303
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+0
+0
+7
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 0.0 60.0 0.0 0.0 28.0 0.0 0.0 8.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 490 A Newman William E. Contemporary Issues
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 0.0 64.0 36.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 490
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 0.0 64.0 36.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Management Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 3
+109 56
+30
+72
+24
+18
+31
+12
+1
+5
+2
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.20
+% 0.8 29.8 15.3 8.2 19.7 6.6 4.9 8.5 3.3 0.3 1.4 0.5 0.3 0.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 66 Sections of 10
+MKT Marketing
+Miami Plan
+Honors
+Cross Listing
+MKT 291 A Oakenfull Gillian W. Principles of Marketing
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+7
+3
+6
+2
+0
+2
+1
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 0.0 7.4 25.9 11.1 22.2 7.4 0.0 7.4 3.7 0.0 0.0 7.4 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 B Koons Helen J. Principles of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+8
+10
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 0.0 11.5 30.8 38.5 11.5 3.8 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 C Hoffer Donald F. Principles of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+8
+4
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 0.0 34.5 27.6 13.8 17.2 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 291
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+23
+17
+14
+5
+1
+2
+1
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 18.3 28.0 20.7 17.1 6.1 1.2 2.4 1.2 0.0 0.0 2.4 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 292 A Oakenfull Gillian W. Careers in Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+Course Total MKT 292
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+MKT 325 A Norris Donald G. Consumer Behavior
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+4
+3
+10
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 0.0 25.9 14.8 11.1 37.0 3.7 0.0 3.7 0.0 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 67 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total MKT 325
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+4
+3
+10
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 0.0 25.9 14.8 11.1 37.0 3.7 0.0 3.7 0.0 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 399A A Coleman Debbie M. Services Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+12
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.61
+% 0.0 11.1 66.7 16.7 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 399A
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+12
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.61
+% 0.0 11.1 66.7 16.7 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 405 A Lindsay Patrick J. Creating Customer Value
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+13
+12
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.54
+% 0.0 7.4 48.1 44.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 405
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+13
+12
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.54
+% 0.0 7.4 48.1 44.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 419 A Coyle James R. Digital Branding
+N
+N
+MI
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+1
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.31
+% 0.0 27.3 18.2 9.1 9.1 18.2 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0
+Course Total MKT 419
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+1
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.31
+% 0.0 27.3 18.2 9.1 9.1 18.2 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 68 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MKT 435 A DelVecchio Devon S. Branding and IMC
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+7
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.68
+% 0.0 18.2 63.6 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 435
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+7
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.68
+% 0.0 18.2 63.6 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 495 A Greenlee Timothy B. Strategy Works
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+7
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.80
+% 0.0 60.0 28.0 4.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 495
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+7
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.80
+% 0.0 60.0 28.0 4.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Marketing Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+46
+68
+39
+26
+10
+1
+4
+1
+0
+0
+2
+2
+1
+0
+0
+1
+21
+0
+0
+0
+3.43
+% 0.0 20.7 30.6 17.6 11.7 4.5 0.5 1.8 0.5 0.0 0.0 0.9 0.9 0.5 0.0 0.0 0.5 9.5 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 69 Sections of 10
+MME Mechan & Manufact Engineering
+Miami Plan
+Honors
+Cross Listing
+MME 211 A Schoenbaechler Steven M. Static Modeling/Mech Systems
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+2
+3
+2
+1
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 45.5 9.1 13.6 9.1 4.5 4.5 0.0 4.5 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MME 211
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+2
+3
+2
+1
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 45.5 9.1 13.6 9.1 4.5 4.5 0.0 4.5 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MME 311 A Koo Jeong-Hoi Dynamic Modeling/Mech Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+3
+5
+3
+0
+1
+1
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 0.0 9.1 9.1 13.6 22.7 13.6 0.0 4.5 4.5 0.0 0.0 0.0 0.0 22.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MME 311
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+3
+5
+3
+0
+1
+1
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 0.0 9.1 9.1 13.6 22.7 13.6 0.0 4.5 4.5 0.0 0.0 0.0 0.0 22.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MME 341 A Lalvani Shashi B. Engineering Economics
+N
+N
+A6
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+3
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 0.0 50.0 25.0 0.0 8.3 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MME 341
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+3
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 0.0 50.0 25.0 0.0 8.3 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Mechan & Manufact Engineering Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+18
+7
+6
+8
+6
+1
+1
+2
+2
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 32.1 12.5 10.7 14.3 10.7 1.8 1.8 3.6 3.6 0.0 0.0 0.0 8.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 70 Sections of 10
+MUS Music
+Miami Plan
+Honors
+Cross Listing
+MUS 189 A Hoover Elizabeth A. Great Ideas In Western Music
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+26
+5
+0
+0
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.76
+% 2.7 70.3 13.5 0.0 0.0 5.4 2.7 0.0 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.7 0.0 0.0 0.0
+Course Total MUS 189
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+26
+5
+0
+0
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.76
+% 2.7 70.3 13.5 0.0 0.0 5.4 2.7 0.0 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.7 0.0 0.0 0.0
+Music Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+26
+5
+0
+0
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.76
+% 2.7 70.3 13.5 0.0 0.0 5.4 2.7 0.0 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.7 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 71 Sections of 10
+PHL Philosophy
+Miami Plan
+Honors
+Cross Listing
+PHL 105 A Fennen Keith G. Theories Of Human Nature
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+6
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.39
+% 0.0 5.9 29.4 35.3 23.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0
+Course Total PHL 105
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+6
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.39
+% 0.0 5.9 29.4 35.3 23.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0
+Philosophy Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+1
+5
+6
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.39
+% 0.0 5.9 29.4 35.3 23.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 72 Sections of 10
+POL Political Science
+Miami Plan
+Honors
+Cross Listing
+POL 101 A Barilleaux Ryan J. Politics and National Issues
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+8
+2
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.63
+% 9.1 27.3 36.4 9.1 9.1 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0
+Course Total POL 101
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+8
+2
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.63
+% 9.1 27.3 36.4 9.1 9.1 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0
+POL 102 A Saine Abdoulaye Politics and Global Issues
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+3
+8
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.61
+% 0.0 39.1 13.0 34.8 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total POL 102
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+3
+8
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.61
+% 0.0 39.1 13.0 34.8 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+POL 161 A Russo Philip A. The Challenge of Public Leader
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+34
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+Course Total POL 161
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+34
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+POL 307 A Morris Mark H. Public Opinion Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+3
+4
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 0.0 60.0 12.0 16.0 8.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 73 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+POL 307 B Toll Benjamin T. Public Opinion Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+14
+4
+0
+1
+1
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.62
+% 4.3 60.9 17.4 0.0 4.3 4.3 0.0 4.3 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total POL 307
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+29
+7
+4
+3
+2
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 2.1 60.4 14.6 8.3 6.3 4.2 0.0 2.1 0.0 0.0 0.0 2.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+POL 461 A Russo Philip A. Public Leadership & Public Aff
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total POL 461
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Political Science Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 3
+54
+18
+14
+7
+2
+0
+2
+0
+0
+0
+1
+0
+1
+0
+0
+0
+35
+0
+0
+0
+3.68
+% 2.2 39.4 13.1 10.2 5.1 1.5 0.0 1.5 0.0 0.0 0.0 0.7 0.0 0.7 0.0 0.0 0.0 25.5 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 74 Sections of 10
+PSY Psychology
+Miami Plan
+Honors
+Cross Listing
+PSY 221 A Dietz Beth L. Social Psychology
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+2
+1
+3
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 6.7 40.0 13.3 6.7 20.0 6.7 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 221
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+2
+1
+3
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 6.7 40.0 13.3 6.7 20.0 6.7 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 231 A Spangler Brooke R. Developmental Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+5
+3
+2
+1
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 0.0 39.1 21.7 13.0 8.7 4.3 0.0 4.3 0.0 0.0 0.0 0.0 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 231
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+5
+3
+2
+1
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 0.0 39.1 21.7 13.0 8.7 4.3 0.0 4.3 0.0 0.0 0.0 0.0 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 271 A Hall Carrie E. Cognitive Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+1
+0
+0
+0
+4.00
+% 25.0 50.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 18.8 0.0 0.0 0.0 6.3 0.0 0.0 0.0
+Course Total PSY 271
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+1
+0
+0
+0
+4.00
+% 25.0 50.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 18.8 0.0 0.0 0.0 6.3 0.0 0.0 0.0
+PSY 345 A Spangler Brooke R. Chld Psychopth&Dvlpmntl Dsblty
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+6
+4
+6
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 4.8 9.5 28.6 19.0 28.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 75 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total PSY 345
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+6
+4
+6
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 4.8 9.5 28.6 19.0 28.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 430 A Hall Carrie E. Sem:Developmental Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+10
+0
+0
+0
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 23.5 58.8 0.0 0.0 0.0 5.9 0.0 0.0 0.0 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 430
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+10
+0
+0
+0
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 23.5 58.8 0.0 0.0 0.0 5.9 0.0 0.0 0.0 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Psychology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 10
+35
+13
+8
+11
+3
+0
+2
+0
+1
+1
+0
+2
+5
+0
+0
+0
+1
+0
+0
+0
+3.51
+% 10.9 38.0 14.1 8.7 12.0 3.3 0.0 2.2 0.0 1.1 1.1 0.0 2.2 5.4 0.0 0.0 0.0 1.1 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 76 Sections of 10
+REL Religion, Comparative
+Miami Plan
+Honors
+Cross Listing
+REL 101 A Scarborough Daniel Introduction to Religion
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+7
+8
+3
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.69
+% 13.0 30.4 34.8 13.0 0.0 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total REL 101
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+7
+8
+3
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.69
+% 13.0 30.4 34.8 13.0 0.0 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Religion, Comparative Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 3
+7
+8
+3
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.69
+% 13.0 30.4 34.8 13.0 0.0 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 77 Sections of 10
+SJS Social Justice Studies
+Miami Plan
+Honors
+Cross Listing
+SJS 499F A Freidline Mark Social Justice in Fiji
+N
+N
+C6
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0 0.0
+Course Total SJS 499F
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0 0.0
+Social Justice Studies Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 78 Sections of 10
+SOC Sociology
+Miami Plan
+Honors
+Cross Listing
+SOC 221 A Bulanda Ronald E. Human Sexuality
+N
+N
+A5
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+3
+0
+2
+2
+1
+0
+2
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 20.0 20.0 0.0 13.3 13.3 6.7 0.0 13.3 0.0 0.0 6.7 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SOC 221
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+3
+0
+2
+2
+1
+0
+2
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 20.0 20.0 0.0 13.3 13.3 6.7 0.0 13.3 0.0 0.0 6.7 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Sociology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 3
+3
+0
+2
+2
+1
+0
+2
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 20.0 20.0 0.0 13.3 13.3 6.7 0.0 13.3 0.0 0.0 6.7 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 79 Sections of 10
+SPA Speech Pathology & Audiology
+Miami Plan
+Honors
+Cross Listing
+SPA 223 A Hahn Albert C. Theories Of Lang Development
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.91
+% 0.0 84.2 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPA 223
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.91
+% 0.0 84.2 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPA 650 A Scarborough Donna R. Normal Deglutition
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+23
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 3.7 85.2 7.4 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPA 650
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+23
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 3.7 85.2 7.4 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Speech Pathology & Audiology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+16
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.91
+% 0.0 84.2 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GR 1
+23
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 3.7 85.2 7.4 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 80 Sections of 10
+SPN Spanish
+Miami Plan
+Honors
+Cross Listing
+SPN 202 A Ironstrack Tamise R. Second Year Spanish
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+2
+4
+1
+3
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 0.0 25.0 10.0 10.0 20.0 5.0 15.0 15.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 202 B Harper Heather M. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+3
+3
+4
+2
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 10.0 15.0 15.0 15.0 20.0 10.0 5.0 0.0 0.0 0.0 0.0 5.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 202 C Motta David F. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+2
+3
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 0.0 16.7 25.0 16.7 25.0 8.3 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPN 202
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+10
+8
+7
+11
+4
+4
+4
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 3.8 19.2 15.4 13.5 21.2 7.7 7.7 7.7 0.0 0.0 0.0 1.9 1.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 316 A Diaz Burgos Ana Maria Intermediate Spanish Comp
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+16
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 5.9 94.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPN 316
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+16
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 5.9 94.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 342 A Hegarty Kerry T. Advancd Conversational Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 81 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total SPN 342
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Spanish Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 3
+43
+8
+7
+11
+4
+4
+4
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 3.5 50.0 9.3 8.1 12.8 4.7 4.7 4.7 0.0 0.0 0.0 1.2 1.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 82 Sections of 10
+STA Statistics
+Miami Plan
+Honors
+Cross Listing
+STA 301 A Davis Robert B. Applied Statistics
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+7
+1
+4
+2
+1
+2
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 9.1 31.8 4.5 18.2 9.1 4.5 9.1 0.0 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 301 B Dunn Charles L. Applied Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+1
+7
+0
+0
+2
+0
+1
+2
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.44
+% 0.0 19.0 4.8 4.8 33.3 0.0 0.0 9.5 0.0 4.8 9.5 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total STA 301
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+11
+2
+5
+9
+1
+2
+2
+3
+1
+2
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 4.7 25.6 4.7 11.6 20.9 2.3 4.7 4.7 7.0 2.3 4.7 0.0 7.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Statistics Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+11
+2
+5
+9
+1
+2
+2
+3
+1
+2
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 4.7 25.6 4.7 11.6 20.9 2.3 4.7 4.7 7.0 2.3 4.7 0.0 7.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 83 Sections of 10
+THE Theatre
+Miami Plan
+Honors
+Cross Listing
+THE 123 A Henke Saffron A. Acting for Non-Majors
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+7
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.65
+% 0.0 45.0 35.0 5.0 0.0 10.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total THE 123
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+7
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.65
+% 0.0 45.0 35.0 5.0 0.0 10.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+THE 205 A Mortimore Melanie G. Costume Construction Lab.
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+8
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 0.0 31.3 50.0 6.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total THE 205
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+8
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 0.0 31.3 50.0 6.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+THE 253 A Mortimore Melanie G. Costume Fundamentals
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+8
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 0.0 31.3 50.0 6.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total THE 253
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+8
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 0.0 31.3 50.0 6.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Theatre Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+19
+23
+3
+2
+2
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.69
+% 0.0 36.5 44.2 5.8 3.8 3.8 1.9 0.0 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Hamilton Campus
+Page: 84 Sections of 10
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Hamilton Campus
+Page: 85 Sections of 10
+ART Art
+Miami Plan
+Honors
+Cross Listing
+ART 181 H A Metz Laura M. Concepts In Art
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 0.0 66.7 8.3 8.3 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ART 181
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 0.0 66.7 8.3 8.3 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Art Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+8
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 0.0 66.7 8.3 8.3 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Hamilton Campus
+Page: 86 Sections of 10
+ATH Anthropology
+Miami Plan
+Honors
+Cross Listing
+ATH 175 H A Nelson Erika D. Peoples Of The World
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 0.0 27.3 27.3 9.1 36.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ATH 175
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 0.0 27.3 27.3 9.1 36.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Anthropology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+3
+3
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 0.0 27.3 27.3 9.1 36.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Hamilton Campus
+Page: 87 Sections of 10
+BTE Business Technology
+Miami Plan
+Honors
+Cross Listing
+BTE 106 H A Parmer Lucinda Intro to Business&the Economy
+N
+N
+R6
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+5
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.68
+% 52.9 29.4 0.0 0.0 0.0 0.0 11.8 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 106
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+5
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.68
+% 52.9 29.4 0.0 0.0 0.0 0.0 11.8 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 111 H A Kovach Mary J. Introduction to Management I
+N
+N
+R5
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+1
+3
+3
+0
+1
+4
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 10.5 21.1 5.3 15.8 15.8 0.0 5.3 21.1 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 111
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+1
+3
+3
+0
+1
+4
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 10.5 21.1 5.3 15.8 15.8 0.0 5.3 21.1 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 181 H A Bantz Orville L. Computers And Business
+N
+N
+CA
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+0
+3
+1
+0
+0
+1
+1
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 23.5 23.5 0.0 17.6 5.9 0.0 0.0 5.9 5.9 5.9 0.0 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 181
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+0
+3
+1
+0
+0
+1
+1
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 23.5 23.5 0.0 17.6 5.9 0.0 0.0 5.9 5.9 5.9 0.0 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 224 H A Turner Marquita L. Medical Terminology
+N
+N
+C1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+2
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.23
+% 0.0 36.4 9.1 18.2 9.1 0.0 0.0 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Hamilton Campus
+Page: 88 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total BTE 224
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+2
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.23
+% 0.0 36.4 9.1 18.2 9.1 0.0 0.0 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0
+Business Technology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 9
+15
+9
+3
+7
+4
+2
+2
+6
+2
+1
+0
+2
+1
+0
+0
+1
+0
+0
+0
+0
+3.12
+% 14.1 23.4 14.1 4.7 10.9 6.3 3.1 3.1 9.4 3.1 1.6 0.0 3.1 1.6 0.0 0.0 1.6 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Hamilton Campus
+Page: 89 Sections of 10
+CJS Criminal Justice Studies
+Miami Plan
+Honors
+Cross Listing
+CJS 470E H A Gomez Jill R. Hispanic Community Relations
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+3
+1
+0
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 0.0 25.0 16.7 25.0 8.3 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CJS 470E
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+3
+1
+0
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 0.0 25.0 16.7 25.0 8.3 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Criminal Justice Studies Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+3
+2
+3
+1
+0
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 0.0 25.0 16.7 25.0 8.3 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Hamilton Campus
+Page: 90 Sections of 10
+CSE Comp Sci &Software Engineering
+Miami Plan
+Honors
+Cross Listing
+CSE 151 H A Murphy Marianne C. Computers, Comp Sci & Society
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+0
+1
+6
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.49
+% 4.8 42.9 0.0 4.8 28.6 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+Course Total CSE 151
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+0
+1
+6
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.49
+% 4.8 42.9 0.0 4.8 28.6 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+Comp Sci &Software Engineering Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+9
+0
+1
+6
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.49
+% 4.8 42.9 0.0 4.8 28.6 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Hamilton Campus
+Page: 91 Sections of 10
+ECO Economics
+Miami Plan
+Honors
+Cross Listing
+ECO 201 H A Misirlioglu Selcuk Principles Of Microeconomics
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+6
+5
+2
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 0.0 34.6 23.1 19.2 7.7 0.0 0.0 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 201
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+6
+5
+2
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 0.0 34.6 23.1 19.2 7.7 0.0 0.0 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Economics Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+9
+6
+5
+2
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 0.0 34.6 23.1 19.2 7.7 0.0 0.0 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Hamilton Campus
+Page: 92 Sections of 10
+ENG English
+Miami Plan
+Honors
+Cross Listing
+ENG 215 H A Allen Sheri L. Workplace Writing
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+7
+5
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.71
+% 10.0 35.0 25.0 10.0 5.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 215 H B Madani Ana Workplace Writing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+11
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.95
+% 16.7 61.1 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0
+Course Total ENG 215
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+18
+8
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+3.83
+% 13.2 47.4 21.1 5.3 2.6 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 2.6 0.0 0.0 0.0 0.0
+English Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 5
+18
+8
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+3.83
+% 13.2 47.4 21.1 5.3 2.6 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 2.6 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Hamilton Campus
+Page: 93 Sections of 10
+FST Film Studies
+Miami Plan
+Honors
+Cross Listing
+FST 206 H B Ehritz Andrew A. Diversity&Culture in Amer Film
+Y
+N
+B6
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.86
+% 0.0 54.5 45.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FST 206
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.86
+% 0.0 54.5 45.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Film Studies Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+6
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.86
+% 0.0 54.5 45.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Hamilton Campus
+Page: 94 Sections of 10
+FSW Family Studies And Social Work
+Miami Plan
+Honors
+Cross Listing
+FSW 261 H A James Anthony G. Diverse Fam Across Life Cycle
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+5
+2
+3
+2
+0
+1
+3
+0
+0
+0
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 12.5 20.8 8.3 12.5 8.3 0.0 4.2 12.5 0.0 0.0 0.0 0.0 12.5 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 261 H B Custer Sharon L. Diverse Fam Across Life Cycle
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+4
+3
+3
+3
+2
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.51
+% 22.7 18.2 13.6 13.6 13.6 9.1 4.5 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FSW 261
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+9
+5
+6
+5
+2
+2
+3
+0
+0
+0
+0
+3
+3
+0
+0
+0
+0
+0
+0
+0
+3.19
+% 17.4 19.6 10.9 13.0 10.9 4.3 4.3 6.5 0.0 0.0 0.0 0.0 6.5 6.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 481 H A James Anthony G. Adolescnt Dev Diverse Families
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+3
+2
+7
+3
+3
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.02
+% 7.7 11.5 11.5 7.7 26.9 11.5 11.5 3.8 3.8 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FSW 481
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+3
+2
+7
+3
+3
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.02
+% 7.7 11.5 11.5 7.7 26.9 11.5 11.5 3.8 3.8 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Family Studies And Social Work Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 10
+12
+8
+8
+12
+5
+5
+4
+1
+0
+1
+0
+3
+3
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 13.9 16.7 11.1 11.1 16.7 6.9 6.9 5.6 1.4 0.0 1.4 0.0 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Hamilton Campus
+Page: 95 Sections of 10
+GLG Geology
+Miami Plan
+Honors
+Cross Listing
+GLG 115L H A Elkin Robert R. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 9.1 72.7 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GLG 115L
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 9.1 72.7 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Geology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+8
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 9.1 72.7 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Hamilton Campus
+Page: 96 Sections of 10
+HST History
+Miami Plan
+Honors
+Cross Listing
+HST 112 H A Moyer Johanna B. Survey Of American History
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+5
+3
+5
+0
+3
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 0.0 22.7 0.0 22.7 13.6 22.7 0.0 13.6 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total HST 112
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+5
+3
+5
+0
+3
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 0.0 22.7 0.0 22.7 13.6 22.7 0.0 13.6 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 197 H A Moyer Johanna B. World History to 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+3
+3
+1
+0
+1
+0
+0
+0
+1
+1
+3
+0
+0
+1
+1
+0
+0
+0
+2.96
+% 0.0 14.3 14.3 14.3 14.3 4.8 0.0 4.8 0.0 0.0 0.0 4.8 4.8 14.3 0.0 0.0 4.8 4.8 0.0 0.0 0.0
+Course Total HST 197
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+3
+3
+1
+0
+1
+0
+0
+0
+1
+1
+3
+0
+0
+1
+1
+0
+0
+0
+2.96
+% 0.0 14.3 14.3 14.3 14.3 4.8 0.0 4.8 0.0 0.0 0.0 4.8 4.8 14.3 0.0 0.0 4.8 4.8 0.0 0.0 0.0
+HST 198 H A Johnson Martin P. World History Since 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+3
+8
+4
+0
+0
+1
+0
+1
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.17
+% 4.2 12.5 12.5 33.3 16.7 0.0 0.0 4.2 0.0 4.2 4.2 0.0 0.0 4.2 0.0 0.0 0.0 4.2 0.0 0.0 0.0
+HST 198 H B Johnson Martin P. World History Since 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+6
+6
+1
+4
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.33
+% 0.0 20.0 24.0 24.0 4.0 16.0 0.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0
+Course Total HST 198
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+9
+14
+5
+4
+0
+3
+0
+1
+1
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+3.25
+% 2.0 16.3 18.4 28.6 10.2 8.2 0.0 6.1 0.0 2.0 2.0 0.0 0.0 2.0 0.0 0.0 0.0 4.1 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Hamilton Campus
+Page: 97 Sections of 10
+History Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+16
+12
+22
+11
+10
+0
+7
+0
+1
+1
+1
+1
+5
+0
+0
+1
+3
+0
+0
+0
+3.16
+% 1.1 17.4 13.0 23.9 12.0 10.9 0.0 7.6 0.0 1.1 1.1 1.1 1.1 5.4 0.0 0.0 1.1 3.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Hamilton Campus
+Page: 98 Sections of 10
+KNH Kinesiology And Health
+Miami Plan
+Honors
+Cross Listing
+KNH 245 H A Wetzel Richard D. Health Issues for Children
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+13
+3
+2
+0
+1
+0
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.70
+% 8.3 54.2 12.5 8.3 0.0 4.2 0.0 0.0 0.0 0.0 4.2 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 245
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+13
+3
+2
+0
+1
+0
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.70
+% 8.3 54.2 12.5 8.3 0.0 4.2 0.0 0.0 0.0 0.0 4.2 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Kinesiology And Health Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+13
+3
+2
+0
+1
+0
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.70
+% 8.3 54.2 12.5 8.3 0.0 4.2 0.0 0.0 0.0 0.0 4.2 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Hamilton Campus
+Page: 99 Sections of 10
+MAC Media And Culture
+Miami Plan
+Honors
+Cross Listing
+MAC 325 H A Suhr Hiesun C. Social Media Cultures
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+2
+9
+3
+2
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 5.0 5.0 10.0 45.0 15.0 10.0 5.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MAC 325
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+2
+9
+3
+2
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 5.0 5.0 10.0 45.0 15.0 10.0 5.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Media And Culture Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+1
+1
+2
+9
+3
+2
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 5.0 5.0 10.0 45.0 15.0 10.0 5.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Hamilton Campus
+Page: 100 Sections of 10
+NSG Nursing
+Miami Plan
+Honors
+Cross Listing
+NSG 380S H A Haubrich Kathleen L. Grief & Mourning:Global Persp
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+4
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.87
+% 45.5 36.4 0.0 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total NSG 380S
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+4
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.87
+% 45.5 36.4 0.0 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Nursing Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 5
+4
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.87
+% 45.5 36.4 0.0 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Hamilton Campus
+Page: 101 Sections of 10
+SOC Sociology
+Miami Plan
+Honors
+Cross Listing
+SOC 153 H A Miller Byron A. Sociology in a Global Context
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+10
+3
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.70
+% 21.7 43.5 13.0 0.0 4.3 4.3 8.7 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 153 H B Carter Jennifer Sociology in a Global Context
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+7
+5
+0
+2
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 16.0 16.0 28.0 20.0 0.0 8.0 8.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SOC 153
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+14
+7
+7
+6
+1
+4
+2
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.45
+% 10.4 29.2 14.6 14.6 12.5 2.1 8.3 4.2 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Sociology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 5
+14
+7
+7
+6
+1
+4
+2
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.45
+% 10.4 29.2 14.6 14.6 12.5 2.1 8.3 4.2 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Middletown Campus
+Page: 102 Sections of 10
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Middletown Campus
+Page: 103 Sections of 10
+ART Art
+Miami Plan
+Honors
+Cross Listing
+ART 181 M A Hieber Michael R. Concepts In Art
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+14
+4
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.75
+% 4.3 60.9 17.4 0.0 4.3 4.3 0.0 4.3 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ART 181
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+14
+4
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.75
+% 4.3 60.9 17.4 0.0 4.3 4.3 0.0 4.3 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 256 M A Au Bernard A. Design, Perception & Audience
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+7
+4
+2
+0
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 0.0 23.8 33.3 19.0 9.5 0.0 0.0 4.8 4.8 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ART 256
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+7
+4
+2
+0
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 0.0 23.8 33.3 19.0 9.5 0.0 0.0 4.8 4.8 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Art Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+19
+11
+4
+3
+1
+0
+2
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.60
+% 2.3 43.2 25.0 9.1 6.8 2.3 0.0 4.5 2.3 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Middletown Campus
+Page: 104 Sections of 10
+ATH Anthropology
+Miami Plan
+Honors
+Cross Listing
+ATH 175 M A Schaefer John P. Peoples Of The World
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+5
+2
+3
+1
+2
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 33.3 20.8 8.3 12.5 4.2 8.3 0.0 8.3 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ATH 175
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+5
+2
+3
+1
+2
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 33.3 20.8 8.3 12.5 4.2 8.3 0.0 8.3 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Anthropology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+8
+5
+2
+3
+1
+2
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 33.3 20.8 8.3 12.5 4.2 8.3 0.0 8.3 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Middletown Campus
+Page: 105 Sections of 10
+BIO Biology
+Miami Plan
+Honors
+Cross Listing
+BIO 121 M A Cady Alan B. Environmental Biology
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+0
+3
+0
+0
+3
+0
+0
+0
+0
+1
+3
+0
+0
+0
+2
+0
+0
+0
+3.11
+% 0.0 23.8 19.0 0.0 14.3 0.0 0.0 14.3 0.0 0.0 0.0 0.0 4.8 14.3 0.0 0.0 0.0 9.5 0.0 0.0 0.0
+Course Total BIO 121
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+0
+3
+0
+0
+3
+0
+0
+0
+0
+1
+3
+0
+0
+0
+2
+0
+0
+0
+3.11
+% 0.0 23.8 19.0 0.0 14.3 0.0 0.0 14.3 0.0 0.0 0.0 0.0 4.8 14.3 0.0 0.0 0.0 9.5 0.0 0.0 0.0
+BIO 232 M A Harding Paul A. Human Heredity
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+9
+5
+5
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 0.0 0.0 42.9 23.8 23.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BIO 232
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+9
+5
+5
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 0.0 0.0 42.9 23.8 23.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Biology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+5
+13
+5
+8
+0
+1
+3
+0
+0
+0
+0
+1
+4
+0
+0
+0
+2
+0
+0
+0
+3.25
+% 0.0 11.9 31.0 11.9 19.0 0.0 2.4 7.1 0.0 0.0 0.0 0.0 2.4 9.5 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Middletown Campus
+Page: 106 Sections of 10
+CHM Chemistry & Biochemistry
+Miami Plan
+Honors
+Cross Listing
+CHM 109 M A Vail Howard P. Chemistry Fundamentals
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+2
+1
+0
+0
+3
+0
+0
+0
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+3.16
+% 0.0 28.6 0.0 14.3 7.1 0.0 0.0 21.4 0.0 0.0 0.0 0.0 0.0 21.4 0.0 0.0 7.1 0.0 0.0 0.0 0.0
+Course Total CHM 109
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+2
+1
+0
+0
+3
+0
+0
+0
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+3.16
+% 0.0 28.6 0.0 14.3 7.1 0.0 0.0 21.4 0.0 0.0 0.0 0.0 0.0 21.4 0.0 0.0 7.1 0.0 0.0 0.0 0.0
+Chemistry & Biochemistry Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+4
+0
+2
+1
+0
+0
+3
+0
+0
+0
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+3.16
+% 0.0 28.6 0.0 14.3 7.1 0.0 0.0 21.4 0.0 0.0 0.0 0.0 0.0 21.4 0.0 0.0 7.1 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Middletown Campus
+Page: 107 Sections of 10
+CLS Classics
+Miami Plan
+Honors
+Cross Listing
+CLS 121 M A Alexander Starla J. Classical Mythology
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.92
+% 0.0 92.3 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CLS 121
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.92
+% 0.0 92.3 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Classics Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+12
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.92
+% 0.0 92.3 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Middletown Campus
+Page: 108 Sections of 10
+ENG English
+Miami Plan
+Honors
+Cross Listing
+ENG 226 M A Melbye Eric Intro/Creat Wrt:Sht Fctn&Poet
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+9
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 15.8 47.4 10.5 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.5 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 226
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+9
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 15.8 47.4 10.5 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.5 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+English Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 3
+9
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 15.8 47.4 10.5 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.5 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Middletown Campus
+Page: 109 Sections of 10
+HST History
+Miami Plan
+Honors
+Cross Listing
+HST 111 M A Neumann Caryn E. Survey Of American History
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+5
+1
+5
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+3.51
+% 14.3 23.8 4.8 23.8 9.5 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 14.3 0.0 0.0 0.0
+HST 111 M B Neumann Caryn E. Survey Of American History
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+13
+2
+1
+1
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 8.3 8.3 54.2 8.3 4.2 4.2 0.0 4.2 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total HST 111
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+7
+14
+7
+3
+2
+1
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+3
+0
+0
+0
+3.37
+% 11.1 15.6 31.1 15.6 6.7 4.4 2.2 2.2 0.0 0.0 0.0 0.0 4.4 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0
+HST 197 M A Robinson Marsha R. World History to 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+5
+3
+1
+5
+1
+0
+1
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 9.1 4.5 22.7 13.6 4.5 22.7 4.5 0.0 4.5 0.0 0.0 0.0 4.5 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total HST 197
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+5
+3
+1
+5
+1
+0
+1
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 9.1 4.5 22.7 13.6 4.5 22.7 4.5 0.0 4.5 0.0 0.0 0.0 4.5 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+History Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 7
+8
+19
+10
+4
+7
+2
+1
+1
+0
+0
+0
+3
+2
+0
+0
+0
+3
+0
+0
+0
+3.27
+% 10.4 11.9 28.4 14.9 6.0 10.4 3.0 1.5 1.5 0.0 0.0 0.0 4.5 3.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Middletown Campus
+Page: 110 Sections of 10
+PSY Psychology
+Miami Plan
+Honors
+Cross Listing
+PSY 221 M A Dietz Beth L. Social Psychology
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+5
+1
+1
+4
+1
+0
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 5.3 15.8 26.3 5.3 5.3 21.1 5.3 0.0 0.0 0.0 0.0 5.3 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 221
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+5
+1
+1
+4
+1
+0
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 5.3 15.8 26.3 5.3 5.3 21.1 5.3 0.0 0.0 0.0 0.0 5.3 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Psychology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+3
+5
+1
+1
+4
+1
+0
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 5.3 15.8 26.3 5.3 5.3 21.1 5.3 0.0 0.0 0.0 0.0 5.3 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Middletown Campus
+Page: 111 Sections of 10
+SOC Sociology
+Miami Plan
+Honors
+Cross Listing
+SOC 203 M A Petonito Gina Sociology Of Gender
+N
+N
+C8
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+2
+2
+1
+2
+1
+2
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 5.6 27.8 11.1 11.1 5.6 11.1 5.6 11.1 0.0 0.0 0.0 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SOC 203
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+2
+2
+1
+2
+1
+2
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 5.6 27.8 11.1 11.1 5.6 11.1 5.6 11.1 0.0 0.0 0.0 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Sociology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+5
+2
+2
+1
+2
+1
+2
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 5.6 27.8 11.1 11.1 5.6 11.1 5.6 11.1 0.0 0.0 0.0 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Middletown Campus
+Page: 112 Sections of 10
+SPN Spanish
+Miami Plan
+Honors
+Cross Listing
+SPN 202 M A Henson Leah M. Second Year Spanish
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+2
+2
+3
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 0.0 11.8 29.4 11.8 11.8 17.6 11.8 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 202 M B Henson Leah M. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+4
+3
+2
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.98
+% 0.0 5.0 20.0 20.0 15.0 10.0 20.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPN 202
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+9
+6
+5
+5
+6
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 0.0 8.1 24.3 16.2 13.5 13.5 16.2 5.4 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Spanish Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+3
+9
+6
+5
+5
+6
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 0.0 8.1 24.3 16.2 13.5 13.5 16.2 5.4 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Voa - West Chester Campus
+Page: 113 Sections of 10
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Voa - West Chester Campus
+Page: 114 Sections of 10
+EDL Educational Leadership
+Miami Plan
+Honors
+Cross Listing
+EDL 721 V A Moorhead Mary H. Pupil Personnel Services
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+12
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 7.7 92.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDL 721
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+12
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 7.7 92.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Educational Leadership Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+GR 1
+12
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 7.7 92.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Voa - West Chester Campus
+Page: 115 Sections of 10
+EDP Educational Psychology
+Miami Plan
+Honors
+Cross Listing
+EDP 571 V A Wasburn-Moses Leah H. Literacy Seminar: Clinical
+N
+N
+NK
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+12
+6
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.89
+% 50.0 25.0 12.5 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0
+EDP 571 V B Wasburn-Moses Leah H. Literacy Seminar: Clinical
+N
+N
+B3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+3
+3
+1
+1
+1
+0
+0
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.11
+% 23.5 17.6 17.6 5.9 5.9 5.9 0.0 0.0 11.8 5.9 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDP 571
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+16
+9
+6
+2
+2
+1
+0
+0
+2
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+3.56
+% 39.0 22.0 14.6 4.9 4.9 2.4 0.0 0.0 4.9 2.4 0.0 0.0 2.4 0.0 0.0 0.0 2.4 0.0 0.0 0.0 0.0
+EDP 650A V A Catania Charles A. Trends/Issues in Measurement
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+17
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.96
+% 24.0 68.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 650A V B Schroer Joseph E. Trends/Issues in Measurement
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+12
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 13.3 80.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDP 650A
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+29
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.96
+% 20.0 72.5 2.5 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Educational Psychology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+GR 24
+38
+7
+4
+2
+1
+0
+0
+2
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+3.76
+% 29.6 46.9 8.6 4.9 2.5 1.2 0.0 0.0 2.5 1.2 0.0 0.0 1.2 0.0 0.0 0.0 1.2 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
+Run: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Voa - West Chester Campus
+Page: 116 Sections of 10
+NSG Nursing
+Miami Plan
+Honors
+Cross Listing
+NSG 305 V A Stricklin Suzanne M. Culture Perspectives in Health
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+11
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.86
+% 78.6 7.1 7.1 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total NSG 305
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+11
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.86
+% 78.6 7.1 7.1 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Nursing Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 11
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.86
+% 78.6 7.1 7.1 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

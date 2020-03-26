@@ -1,0 +1,308 @@
+testRun: 07/07/05 @ 10:09 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2004-05 Oxford Campus
+Page: 179 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total EDT 421M
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+55
+2
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.94
+% 0.0 91.7 3.3 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 422 A Perry Bruce E. Studies In Educational Issues
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.88
+% 0.0 72.7 18.2 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 422 J Brooks Douglas M. Studies In Educational Issues
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+38
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.87
+% 0.0 92.7 2.4 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDT 422
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+46
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.87
+% 0.0 88.5 5.8 1.9 1.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 423 A Sacco Margaret T. Lit & Other Media For Adolscnt
+N
+N
+R7
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+12
+4
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 18.2 54.5 18.2 0.0 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 423 B Dales Brenda L. Lit & Other Media For Adolscnt
+N
+N
+MM
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+1
+0
+0
+0
+0
+3.72
+% 0.0 65.2 17.4 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 4.3 0.0 0.0 4.3 0.0 0.0 0.0 0.0
+EDT 423 C Sacco Margaret T. Lit & Other Media For Adolscnt
+N
+N
+UT
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+15
+4
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.86
+% 65.2 17.4 0.0 4.3 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

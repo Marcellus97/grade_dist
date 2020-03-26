@@ -1,0 +1,306 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Oxford Campus
+Page: 224 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 111 B Woodard Jonnetta Composition and Rhetoric
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.79
+% 0.0 87.5 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 C Woodard Jonnetta Composition and Rhetoric
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+3
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.80
+% 0.0 59.1 13.6 13.6 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 D Cannon Nicole M. Composition and Rhetoric
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+11
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.83
+% 0.0 47.8 47.8 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 111
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+49
+20
+8
+9
+0
+1
+1
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.69
+% 1.1 53.3 21.7 8.7 9.8 0.0 1.1 1.1 0.0 0.0 0.0 0.0 1.1 2.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 AA Burdine Corey M. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+6
+4
+1
+1
+1
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 0.0 30.4 26.1 17.4 4.3 4.3 4.3 0.0 4.3 0.0 0.0 0.0 0.0 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 AB Fackler Evan T. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+4
+3
+2
+0
+0
+2
+1
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 4.8 23.8 19.0 14.3 9.5 0.0 0.0 9.5 4.8 4.8 0.0 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 AC Jones Joshua B. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+1
+4
+1
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 0.0 50.0 4.5 18.2 4.5 22.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

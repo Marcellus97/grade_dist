@@ -1,0 +1,312 @@
+testRun: 01/21/10 @ 13:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2009-10 Oxford Campus
+Page: 74 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BUS 101 EA Rollins Robert R. Fdtns Business Decision Making
+N
+N
+IM
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+3
+3
+4
+6
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.66
+% 0.0 4.8 4.8 14.3 14.3 19.0 28.6 9.5 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 101 EB Rollins Robert R. Fdtns Business Decision Making
+N
+N
+IM
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+6
+3
+4
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 0.0 4.5 22.7 27.3 13.6 18.2 9.1 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 101 EC Rollins Robert R. Fdtns Business Decision Making
+N
+N
+IM
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+3
+7
+4
+3
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 13.0 4.3 13.0 30.4 17.4 13.0 4.3 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 101 ED Rollins Robert R. Fdtns Business Decision Making
+N
+N
+IM
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+2
+4
+4
+2
+4
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 4.5 9.1 9.1 18.2 18.2 9.1 18.2 4.5 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 101 EE Rollins Robert R. Fdtns Business Decision Making
+N
+N
+IM
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+6
+4
+2
+3
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 10.0 0.0 30.0 20.0 10.0 15.0 15.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 101 EF Rollins Robert R. Fdtns Business Decision Making
+N
+N
+IM
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+1
+2
+1
+2
+3
+4
+2
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.45
+% 4.5 13.6 4.5 9.1 4.5 9.1 13.6 18.2 9.1 0.0 4.5 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BUS 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+41
+64
+88
+105 88
+76
+57
+33
+12
+5
+5
+7
+2
+0
+0
+1
+0
+0
+0
+0
+2.79
+% 1.4 6.9 10.8 14.9 17.7 14.9 12.8 9.6 5.6 2.0 0.8 0.8 1.2 0.3 0.0 0.0 0.2 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

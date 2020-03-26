@@ -1,0 +1,299 @@
+testRun: 10/08/10 @ 11:34 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2009-10 Oxford Campus
+Page: 123 Sections of 10
+Course Total POL 352
+A+ A
+A-
+B+
+B
+B-
+C+ C
+1
+1
+0
+1
+1
+2
+0
+0
+% 10.0 10.0 0.0 10.0 10.0 20.0 0.0 0.0
+POL 426W MA Forren John P. Inside Washington
+A+ A
+A-
+B+
+B
+B-
+C+ C
+0
+12
+0
+0
+0
+0
+0
+0
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total POL 426W
+A+ A
+A-
+B+
+B
+B-
+C+ C
+0
+12
+0
+0
+0
+0
+0
+0
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0
+POL 471 MA Saine Abdoulaye The International Systems
+A+ A
+A-
+B+
+B
+B-
+C+ C
+0
+6
+2
+1
+1
+1
+0
+0
+% 0.0 40.0 13.3 6.7 6.7 6.7 0.0 0.0
+Course Total POL 471
+A+ A
+A-
+B+
+B
+B-
+C+ C
+0
+6
+2
+1
+1
+1
+0
+0
+% 0.0 40.0 13.3 6.7 6.7 6.7 0.0 0.0
+Political Science Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+UG 3
+24
+9
+8
+4
+8
+5
+6
+% 3.8 30.8 11.5 10.3 5.1 10.3 6.4 7.7
+C-
+D+
+1
+0
+10.0 0.0
+C-
+D+
+0
+0
+0.0 0.0
+C-
+D+
+0
+0
+0.0 0.0
+C-
+D+
+1
+0
+6.7 0.0
+C-
+D+
+1
+0
+6.7 0.0
+C-
+D+
+2
+0
+2.6 0.0
+D
+D-
+1
+0
+10.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+2
+0
+13.3 0.0
+D
+D-
+2
+0
+13.3 0.0
+D
+D-
+4
+0
+5.1 0.0
+F
+W
+WP WF
+1
+1
+0
+0
+10.0 10.0 0.0 0.0
+F
+W
+WP WF
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+F
+W
+WP WF
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+F
+W
+WP WF
+1
+0
+0
+0
+6.7 0.0 0.0 0.0
+F
+W
+WP WF
+1
+0
+0
+0
+6.7 0.0 0.0 0.0
+F
+W
+WP WF
+3
+2
+0
+0
+3.8 2.6 0.0 0.0
+Miami Plan
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+0 0.0
+SW
+S
+0 0.0
+Avg GPA 2.49
+Avg GPA 4.00
+Y
+P
+S
+Avg GPA
+0
+0
+0
+4.00
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.94
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.94
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.06
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

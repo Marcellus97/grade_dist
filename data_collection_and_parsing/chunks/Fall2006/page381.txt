@@ -1,0 +1,301 @@
+testRun: 01/23/07 @ 09:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2006-07 Oxford Campus
+Page: 378 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total MIS 303
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+7
+2
+11
+5
+5
+6
+4
+0
+0
+0
+1
+9
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 3.8 13.5 3.8 21.2 9.6 9.6 11.5 7.7 0.0 0.0 0.0 1.9 17.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 387 A Robb George L. Systems Analysis & Design
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+0
+1
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.41
+% 13.3 26.7 0.0 6.7 33.3 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0
+Course Total MIS 387
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+0
+1
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.41
+% 13.3 26.7 0.0 6.7 33.3 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0
+MIS 403 A Rajkumar T. M. ECommerce & Web Developmt
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+1
+1
+0
+1
+1
+2
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 0.0 20.0 0.0 10.0 10.0 0.0 10.0 10.0 20.0 0.0 0.0 0.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MIS 403
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+1
+1
+0
+1
+1
+2
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 0.0 20.0 0.0 10.0 10.0 0.0 10.0 10.0 20.0 0.0 0.0 0.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 404 A Sircar Sumit Knowledge Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+13
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 19.0 0.0 0.0 61.9 0.0 0.0 19.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MIS 404
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+13
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 19.0 0.0 0.0 61.9 0.0 0.0 19.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

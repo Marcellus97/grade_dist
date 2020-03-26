@@ -1,0 +1,300 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Oxford Campus
+Page: 166 Sections of 10
+EAS Engineering & App Science
+Miami Plan
+Honors
+Cross Listing
+EAS 101 TA Setlock Robert J. Computing, Engineering &Societ
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+193 0
+0
+24
+0
+0
+11
+0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+3.70
+% 0.0 82.5 0.0 0.0 10.3 0.0 0.0 4.7 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EAS 101 TB Setlock Robert J. Computing, Engineering &Societ
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+201 0
+0
+23
+0
+0
+5
+0
+0
+8
+0
+6
+2
+0
+0
+1
+0
+0
+0
+0
+3.67
+% 0.0 81.7 0.0 0.0 9.3 0.0 0.0 2.0 0.0 0.0 3.3 0.0 2.4 0.8 0.0 0.0 0.4 0.0 0.0 0.0 0.0
+EAS 101 UA Setlock Robert J. Computing, Engineering &Societ
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+3
+0
+0
+0
+7
+0
+0
+0
+0
+3.24
+% 0.0 57.1 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 10.7 0.0 0.0 0.0 25.0 0.0 0.0 0.0 0.0
+Course Total EAS 101
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+410 0
+0
+47
+0
+0
+18
+0
+0
+8
+0
+15
+2
+0
+0
+8
+0
+0
+0
+0
+3.66
+% 0.0 80.7 0.0 0.0 9.3 0.0 0.0 3.5 0.0 0.0 1.6 0.0 3.0 0.4 0.0 0.0 1.6 0.0 0.0 0.0 0.0
+EAS 144 A Setlock Robert J. MAKE: Conceive, Design, Build
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+12
+1
+0
+3
+2
+0
+0
+1
+0
+0
+0
+0
+4
+0
+0
+1
+0
+0
+0
+0
+3.70
+% 25.0 37.5 3.1 0.0 9.4 6.3 0.0 0.0 3.1 0.0 0.0 0.0 0.0 12.5 0.0 0.0 3.1 0.0 0.0 0.0 0.0
+Course Total EAS 144
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+12
+1
+0
+3
+2
+0
+0
+1
+0
+0
+0
+0
+4
+0
+0
+1
+0
+0
+0
+0
+3.70
+% 25.0 37.5 3.1 0.0 9.4 6.3 0.0 0.0 3.1 0.0 0.0 0.0 0.0 12.5 0.0 0.0 3.1 0.0 0.0 0.0 0.0
+EAS 266 A Kirkmeyer Brian P. Engineering Global Heavy Metal
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+29
+24
+16
+23
+4
+3
+4
+2
+5
+1
+0
+3
+4
+0
+0
+0
+0
+0
+0
+0
+3.19
+% 0.0 24.6 20.3 13.6 19.5 3.4 2.5 3.4 1.7 4.2 0.8 0.0 2.5 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

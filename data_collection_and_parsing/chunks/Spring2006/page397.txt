@@ -1,0 +1,307 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 394 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MTH 245 A Schuurmann Frederick Differentl Equations/Engineers
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+2
+2
+5
+2
+3
+3
+0
+0
+2
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.76
+% 0.0 22.6 6.5 6.5 16.1 6.5 9.7 9.7 0.0 0.0 6.5 0.0 6.5 9.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 245 B Schuurmann Frederick Differentl Equations/Engineers
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+0
+5
+0
+2
+8
+1
+1
+2
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.45
+% 0.0 12.0 4.0 0.0 20.0 0.0 8.0 32.0 4.0 4.0 8.0 0.0 0.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 245
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+3
+2
+10
+2
+5
+11
+1
+1
+4
+0
+2
+5
+0
+0
+0
+0
+0
+0
+0
+2.62
+% 0.0 17.9 5.4 3.6 17.9 3.6 8.9 19.6 1.8 1.8 7.1 0.0 3.6 8.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 251 A Magurn Katherine E. Calculus II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+4
+0
+0
+4
+0
+0
+2
+0
+6
+1
+0
+0
+1
+0
+0
+0
+0
+1.79
+% 0.0 14.3 0.0 0.0 19.0 0.0 0.0 19.0 0.0 0.0 9.5 0.0 28.6 4.8 0.0 0.0 4.8 0.0 0.0 0.0 0.0
+MTH 251 C Randrianantoanina Narcisse Calculus II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+8
+2
+0
+5
+1
+0
+5
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.23
+% 0.0 10.3 0.0 0.0 27.6 6.9 0.0 17.2 3.4 0.0 17.2 0.0 6.9 10.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 251 D Keeler Dennis S. Calculus II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+2
+4
+5
+3
+4
+2
+1
+0
+0
+0
+0
+3
+0
+0
+0
+0
+1
+0
+0
+3.02
+% 3.3 13.3 6.7 13.3 16.7 10.0 13.3 6.7 3.3 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 3.3 0.0 0.0
+MTH 251 E Randrianantoanina Narcisse Calculus II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+6
+1
+1
+5
+1
+0
+5
+1
+0
+1
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 10.7 21.4 3.6 3.6 17.9 3.6 0.0 17.9 3.6 0.0 3.6 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

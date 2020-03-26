@@ -1,0 +1,340 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 459 Sections of 10
+Course Total MBI 365
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+1
+1
+3
+2
+0
+2
+0
+1
+0
+0
+0
+% 0.0 10.0 10.0 30.0 20.0 0.0 20.0 0.0 10.0 0.0 0.0 0.0
+MBI 415 A Summers Katie L. Immuno. Princpls & Practice
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+3
+1
+0
+2
+1
+2
+0
+1
+0
+0
+0
+% 0.0 30.0 10.0 0.0 20.0 10.0 20.0 0.0 10.0 0.0 0.0 0.0
+Course Total MBI 415
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+3
+1
+0
+2
+1
+2
+0
+1
+0
+0
+0
+% 0.0 30.0 10.0 0.0 20.0 10.0 20.0 0.0 10.0 0.0 0.0 0.0
+MBI 425 A Actis Luis A. Microbial Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+1
+0
+3
+0
+2
+2
+2
+1
+2
+1
+1
+1
+% 5.6 0.0 16.7 0.0 11.1 11.1 11.1 5.6 11.1 5.6 5.6 5.6
+MBI 425 B Actis Luis A. Microbial Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+0
+1
+1
+1
+0
+0
+0
+2
+2
+1
+0
+% 0.0 0.0 9.1 9.1 9.1 0.0 0.0 0.0 18.2 18.2 9.1 0.0
+Course Total MBI 425
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+1
+0
+4
+1
+3
+2
+2
+1
+4
+3
+2
+1
+% 3.4 0.0 13.8 3.4 10.3 6.9 6.9 3.4 13.8 10.3 6.9 3.4
+MBI 445 A Actis Luis A. Microbial Genetics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+8
+0
+0
+5
+0
+0
+5
+0
+0
+6
+0
+% 0.0 27.6 0.0 0.0 17.2 0.0 0.0 17.2 0.0 0.0 20.7 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+2
+0
+11.1 0.0
+F
+W
+2
+1
+18.2 9.1
+F
+W
+4
+1
+13.8 3.4
+F
+W
+4
+1
+13.8 3.4
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+Avg GPA
+0
+2.99
+0.0
+4A
+S
+Avg GPA
+0
+3.07
+0.0
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+0 0.0
+HY
+S
+0 0.0
+HX
+S
+0 0.0
+Avg GPA 3.07
+Avg GPA 2.19
+Avg GPA 1.70
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+Avg GPA
+0
+2.02
+0.0
+IA
+S
+Avg GPA
+0
+2.25
+0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

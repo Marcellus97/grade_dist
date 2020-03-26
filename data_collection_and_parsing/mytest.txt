@@ -1,0 +1,606 @@
+GTraabdlee DofisCtroinbtuetniotsn
+Oxford Campus
+1
+ACC Accountancy
+1
+AER Aeronautics
+15
+AES Aerospace Studies
+17
+AMS American Studies
+20
+ARC Architecture & Interior Design
+22
+ART Art
+32
+ATH Anthropology
+52
+BOT Botany
+57
+BWS Black World Studies
+64
+CHI Chinese
+65
+CHM Chemistry & Biochemistry
+66
+CLS Classics
+78
+COM Communication
+80
+DSC Decision Sciences
+104
+ECO Economics
+110
+EDL Educational Leadership
+124
+EDP Educational Psychology
+139
+EDT Teacher Education
+151
+EGR Manufacturing Engineering
+176
+ENG English
+182
+FIN Finance
+230
+FRE French
+243
+FST Film Studies
+252
+FSW Family Studies And Social Work
+254
+GEO Geography
+261
+GER German
+270
+GLG Geology
+276
+GTY Gerontology
+282
+HST History
+285
+IDS Interdisciplinary
+298
+IES Environmental Sciences
+305
+ITL Italian
+308
+ITS International Studies
+310
+JPN Japanese
+313
+LAS Latin American Studies
+314
+LAT Latin Language & Literature
+315
+MBI Microbiology
+317
+MGT Management
+324
+MIS Management Information Systems
+341
+MKT Marketing
+350
+MTH Mathematics
+363
+MUS Music
+380
+NSC Naval Science
+397
+NSG Nursing
+400
+PHL Philosophy
+402
+PHS Phy Edu, Hlth, & Sport Studies
+409
+PHY Physics
+450
+POL Political Science
+461
+PPS Paper Science And Engineering
+471
+PSY Psychology
+474
+REL Comparative Religion
+488
+RUS Russian
+494
+SAN Systems Analysis
+496
+SOC Sociology
+517
+SPN Spanish
+524
+STA Statistics
+539
+THE Theatre
+543
+WCP Interdisciplinary Studies- Wcp
+550
+WMS Women'S Studies
+559
+ZOO Zoology
+561
+Middletown Campus
+575
+ACC Accountancy
+576
+AMS American Studies
+578
+ART Art
+579
+ATH Anthropology
+581
+BOT Botany
+583
+BTE Business Technology
+585
+CHM Chemistry & Biochemistry
+591
+CLS Classics
+595
+COM Communication
+596
+DSC Decision Sciences
+599
+ECO Economics
+600
+EDL Educational Leadership
+601
+EDP Educational Psychology
+604
+EDT Teacher Education
+605
+ENG English
+612
+ENT Engineering Technology
+620
+FIN Finance
+623
+FRE French
+624
+FSW Family Studies And Social Work
+625
+GEO Geography
+626
+GER German
+628
+GLG Geology
+629
+GTY Gerontology
+630
+HST History
+631
+IDS Interdisciplinary
+634
+MBI Microbiology
+635
+MGT Management
+636
+MIS Management Information Systems
+637
+MKT Marketing
+638
+MTH Mathematics
+639
+MUS Music
+646
+NSG Nursing
+648
+PHL Philosophy
+649
+PHS Phy Edu, Hlth, & Sport Studies
+650
+PHY Physics
+655
+POL Political Science
+658
+PSY Psychology
+659
+SAN Systems Analysis
+661
+SOC Sociology
+665
+SPN Spanish
+667
+STA Statistics
+669
+THE Theatre
+670
+ZOO Zoology
+671
+Hamilton Campus
+674
+ACC Accountancy
+675
+ART Art
+677
+ATH Anthropology
+680
+BOT Botany
+681
+BTE Business Technology
+683
+BWS Black World Studies
+690
+CHM Chemistry & Biochemistry
+691
+CLS Classics
+693
+COM Communication
+694
+DSC Decision Sciences
+697
+ECO Economics
+698
+EDL Educational Leadership
+699
+EDP Educational Psychology
+703
+EDT Teacher Education
+704
+ENG English
+711
+ENT Engineering Technology
+720
+FIN Finance
+723
+FRE French
+724
+FSW Family Studies And Social Work
+725
+GEO Geography
+726
+GER German
+727
+GLG Geology
+728
+HST History
+730
+IDS Interdisciplinary
+733
+MBI Microbiology
+734
+MGT Management
+735
+MIS Management Information Systems
+736
+MKT Marketing
+737
+MTH Mathematics
+738
+MUS Music
+745
+NSG Nursing
+747
+PHL Philosophy
+750
+PHS Phy Edu, Hlth, & Sport Studies
+751
+PHY Physics
+756
+POL Political Science
+758
+PSY Psychology
+759
+SAN Systems Analysis
+760
+SOC Sociology
+764
+SPN Spanish
+765
+STA Statistics
+766
+THE Theatre
+767
+ZOO Zoology
+769
+Run: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Oxford Campus
+Page: 1 Sections of 10
+ACC Accountancy
+Miami Plan
+Honors
+Cross Listing
+ACC 221 A Abels Patricia B. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+1
+12
+0
+0
+12
+2
+0
+1
+0
+2
+1
+1
+0
+0
+0
+0
+0
+0
+2.46
+% 0.0 11.1 0.0 2.8 33.3 0.0 0.0 33.3 5.6 0.0 2.8 0.0 5.6 2.8 2.8 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 221 B Abels Patricia B. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+1
+10
+1
+1
+13
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.61
+% 0.0 17.1 0.0 2.9 28.6 2.9 2.9 37.1 0.0 0.0 8.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 221 C Gormley Scot P. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+2
+5
+1
+2
+4
+3
+5
+0
+1
+2
+4
+2
+0
+0
+0
+0
+0
+0
+2.29
+% 0.0 8.3 5.6 5.6 13.9 2.8 5.6 11.1 8.3 13.9 0.0 2.8 5.6 11.1 5.6 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 221 D Gormley Scot P. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+3
+3
+3
+3
+5
+5
+1
+0
+1
+1
+3
+0
+3
+0
+0
+0
+0
+0
+0
+2.56
+% 0.0 16.2 8.1 8.1 8.1 8.1 13.5 13.5 2.7 0.0 2.7 2.7 8.1 0.0 8.1 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 221 F Tew Katherine A. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+0
+9
+2
+0
+11
+2
+0
+3
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+2.54
+% 0.0 19.4 0.0 0.0 25.0 5.6 0.0 30.6 5.6 0.0 8.3 0.0 0.0 0.0 2.8 2.8 0.0 0.0 0.0 0.0 0.0
+ACC 221 G Meisel Scott I. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+1
+9
+0
+5
+5
+0
+5
+0
+0
+0
+1
+3
+0
+1
+0
+0
+0
+0
+2.46
+% 0.0 6.3 0.0 3.1 28.1 0.0 15.6 15.6 0.0 15.6 0.0 0.0 0.0 3.1 9.4 0.0 3.1 0.0 0.0 0.0 0.0
+ACC 221 H Meisel Scott I. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+8
+0
+9
+6
+0
+2
+3
+1
+2
+1
+3
+0
+0
+0
+0
+0
+0
+2.15
+% 0.0 5.4 0.0 0.0 21.6 0.0 24.3 16.2 0.0 5.4 8.1 2.7 5.4 2.7 8.1 0.0 0.0 0.0 0.0 0.0 0.0

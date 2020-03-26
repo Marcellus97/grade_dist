@@ -1,0 +1,300 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 593 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+SOC 372 A Lippmann Stephen Social Stratification
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+5
+1
+3
+1
+1
+4
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 43.3 16.7 3.3 10.0 3.3 3.3 13.3 0.0 0.0 3.3 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SOC 372
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+5
+1
+3
+1
+1
+4
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 43.3 16.7 3.3 10.0 3.3 3.3 13.3 0.0 0.0 3.3 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 412 A Budd Kristen M. Sociology Of Law
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+1
+2
+4
+3
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 0.0 5.6 22.2 5.6 11.1 22.2 16.7 5.6 5.6 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SOC 412
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+1
+2
+4
+3
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 0.0 5.6 22.2 5.6 11.1 22.2 16.7 5.6 5.6 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 459 A Jendrek Margaret P. Sociology Capstone
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+1
+2
+0
+0
+2
+0
+0
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 0.0 7.7 23.1 7.7 15.4 0.0 0.0 15.4 0.0 0.0 7.7 0.0 7.7 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SOC 459
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+1
+2
+0
+0
+2
+0
+0
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 0.0 7.7 23.1 7.7 15.4 0.0 0.0 15.4 0.0 0.0 7.7 0.0 7.7 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 482 A Flint William C. Sociological Theory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+6
+4
+3
+2
+3
+2
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.66
+% 0.0 7.7 3.8 23.1 15.4 11.5 7.7 11.5 7.7 0.0 3.8 0.0 3.8 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

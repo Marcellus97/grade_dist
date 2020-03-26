@@ -1,0 +1,124 @@
+testMTH Mathematics
+448
+MUS Music
+466
+NSC Naval Science
+482
+PCE Paper & Chemical Engineering
+485
+PHL Philosophy
+489
+PHY Physics
+496
+POL Political Science
+509
+POR Portuguese
+522
+PSY Psychology
+523
+REL Comparative Religion
+542
+RUS Russian
+546
+SOC Sociology
+548
+SPA Speech Pathology & Audiology
+555
+SPN Spanish
+563
+STA Statistics
+576
+THE Theatre
+582
+WMS Women'S Studies
+589
+WST Western Program
+593
+ZOO Zoology
+594
+Middletown Campus
+611
+ACC Accountancy
+612
+ART Art
+613
+ATH Anthropology
+617
+BIS Integrative Studies
+619
+BOT Botany
+621
+BTE Business Technology
+623
+BUS Business Analysis
+628
+BWS Black World Studies
+629
+CHM Chemistry & Biochemistry
+630
+CIT Comp Information Technology
+634
+CJS Criminal Justice Studies
+636
+COM Communication
+638
+CSA Computer Sci &Systems Analysis
+642
+EAS Engineering & App Science
+644
+ECO Economics
+645
+EDL Educational Leadership
+646
+EDP Educational Psychology
+648
+EDT Teacher Education
+650
+ENG English
+654
+ENT Engineering Technology
+663
+FRE French
+666
+FST Film Studies
+667
+FSW Family Studies And Social Work
+668
+GEO Geography
+670
+GER German
+671
+GLG Geology
+672
+HST History
+674
+IDS Interdisciplinary
+678
+JRN Journalism
+679
+KNH Kinesiology And Health
+680
+MBI Microbiology
+684
+MGT Management
+685
+MIS Management Information Systems
+686
+MKT Marketing
+687
+MTH Mathematics
+688
+MUS Music
+694
+NSG Nursing
+696
+PHL Philosophy
+699
+PHY Physics
+701
+POL Political Science
+704
+PSY Psychology
+705
+REL Comparative Religion
+708

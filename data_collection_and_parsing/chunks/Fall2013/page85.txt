@@ -1,0 +1,303 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 81 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BIO 454 A Shi Haifei Endocrinology
+N
+N
+DP
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+5
+3
+5
+1
+4
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 3.4 24.1 17.2 10.3 17.2 3.4 13.8 3.4 0.0 0.0 0.0 0.0 0.0 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BIO 454
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+5
+3
+5
+1
+4
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 3.4 24.1 17.2 10.3 17.2 3.4 13.8 3.4 0.0 0.0 0.0 0.0 0.0 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 463 B Gonzalez Maria J. Limnology
+N
+N
+HT
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+3
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 9.1 18.2 27.3 27.3 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BIO 463
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+3
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 9.1 18.2 27.3 27.3 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 469 A Killian Kathleen A. Neurophysiology
+N
+N
+OC
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+7
+6
+5
+3
+1
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.26
+% 0.0 11.1 25.9 22.2 18.5 11.1 3.7 0.0 3.7 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BIO 469
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+7
+6
+5
+3
+1
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.26
+% 0.0 11.1 25.9 22.2 18.5 11.1 3.7 0.0 3.7 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 491 A Del Rio-Tsonis Katia Seminar In Biology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+2
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 30.0 20.0 10.0 0.0 30.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

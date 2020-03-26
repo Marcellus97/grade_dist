@@ -1,0 +1,306 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 531 Sections of 10
+POL Political Science
+Miami Plan
+Honors
+Cross Listing
+POL 101 A Marshall Bryan W. Explorations in Medicine
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+11
+13
+10
+2
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+3.33
+% 0.0 16.7 22.9 27.1 20.8 4.2 0.0 2.1 0.0 0.0 0.0 0.0 2.1 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0
+POL 101 B Kelley Christopher S. Explorations in Medicine
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+2
+3
+17
+7
+11
+23
+1
+0
+5
+0
+3
+6
+0
+0
+0
+0
+0
+0
+0
+2.45
+% 0.0 8.2 2.4 3.5 20.0 8.2 12.9 27.1 1.2 0.0 5.9 0.0 3.5 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+POL 101 C Marlowe Melanie M. Explorations in Medicine
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+7
+12
+12
+7
+7
+2
+6
+1
+1
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+2.91
+% 0.0 13.4 10.4 17.9 17.9 10.4 10.4 3.0 9.0 1.5 1.5 0.0 1.5 1.5 0.0 0.0 0.0 0.0 1.5 0.0 0.0
+POL 101 D Marshall Bryan W. Explorations in Medicine
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+11
+10
+7
+6
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 0.0 22.9 22.9 20.8 14.6 12.5 4.2 2.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total POL 101
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+35
+31
+38
+46
+22
+20
+27
+7
+1
+6
+0
+5
+7
+0
+0
+0
+2
+1
+0
+0
+2.93
+% 0.0 14.1 12.5 15.3 18.5 8.9 8.1 10.9 2.8 0.4 2.4 0.0 2.0 2.8 0.0 0.0 0.0 0.8 0.4 0.0 0.0
+POL 102 A Daddieh Cyril K. Politics and Global Issues
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+4
+12
+14
+6
+3
+7
+3
+3
+2
+1
+1
+0
+0
+0
+1
+0
+0
+0
+2.46
+% 0.0 4.8 4.8 6.3 19.0 22.2 9.5 4.8 11.1 4.8 4.8 3.2 1.6 1.6 0.0 0.0 0.0 1.6 0.0 0.0 0.0
+POL 102 B Dawisha Adeed Politics and Global Issues
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+11
+5
+11
+9
+8
+7
+2
+2
+2
+4
+0
+6
+0
+0
+0
+3
+0
+0
+0
+2.78
+% 0.0 12.5 13.8 6.3 13.8 11.3 10.0 8.8 2.5 2.5 2.5 5.0 0.0 7.5 0.0 0.0 0.0 3.8 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

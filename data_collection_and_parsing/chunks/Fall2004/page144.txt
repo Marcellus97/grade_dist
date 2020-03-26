@@ -1,0 +1,145 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Oxford Campus
+Page: 141 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ECO 663 A Granderson Gerald D. Econometrics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+2
+6
+0
+0
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 14.3 7.1 14.3 42.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 14.3 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 663
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+2
+6
+0
+0
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 14.3 7.1 14.3 42.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 14.3 0.0 0.0 0.0 0.0 0.0 0.0
+Economics Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 28
+161 153 131 458 256 205 415 157 101 135 47
+55
+53
+136 14
+12
+7
+3
+0
+0
+2.46
+% 1.1 6.4 6.1 5.2 18.1 10.1 8.1 16.4 6.2 4.0 5.3 1.9 2.2 2.1 5.4 0.6 0.5 0.3 0.1 0.0 0.0
+GR 0
+6
+4
+7
+11
+1
+1
+0
+0
+0
+0
+0
+0
+3
+3
+0
+0
+0
+0
+0
+0
+3.33
+% 0.0 16.7 11.1 19.4 30.6 2.8 2.8 0.0 0.0 0.0 0.0 0.0 0.0 8.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

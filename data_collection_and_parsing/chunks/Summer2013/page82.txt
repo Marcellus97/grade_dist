@@ -1,0 +1,305 @@
+testRun: 01/15/14 @ 15:10 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Term, 2012-13 Oxford Campus
+Page: 79 Sections of 10
+MKT Marketing
+Miami Plan
+Honors
+Cross Listing
+MKT 291 TA Taylor Janice E. Principles of Marketing
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+7
+12
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 7.4 14.8 25.9 44.4 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 UA Oakenfull Gillian W. Principles of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+5
+3
+5
+3
+2
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.02
+% 0.0 3.6 17.9 17.9 10.7 17.9 10.7 7.1 0.0 0.0 0.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 UB Koons Helen J. Principles of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+8
+4
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.55
+% 0.0 21.1 42.1 21.1 10.5 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 291
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+17
+16
+17
+8
+3
+2
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 9.5 23.0 21.6 23.0 10.8 4.1 2.7 0.0 0.0 0.0 0.0 0.0 5.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291S A Suellau Kim I. Principios de Mercadotecnia
+N
+N
+A2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+8
+12
+8
+2
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.04
+% 0.0 7.7 10.3 20.5 30.8 20.5 5.1 0.0 2.6 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 291S
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+8
+12
+8
+2
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.04
+% 0.0 7.7 10.3 20.5 30.8 20.5 5.1 0.0 2.6 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 301C A Puligadda Sanjay Crtvty,Innov.&Dec Mkng in MKT
+N
+N
+BB
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+6
+9
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.54
+% 0.0 25.0 25.0 37.5 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

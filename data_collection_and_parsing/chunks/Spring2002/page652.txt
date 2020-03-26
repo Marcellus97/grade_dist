@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Middletown Campus
+Page: 649 Sections of 10
+MBI Microbiology
+Miami Plan
+Honors
+Cross Listing
+MBI 111 M A Cowan Marjorie M. Microorganisms & Human Disease
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+0
+9
+0
+0
+13
+0
+1
+1
+2
+2
+0
+0
+0
+0
+2
+0
+0
+0
+2.32
+% 0.0 11.4 2.9 0.0 25.7 0.0 0.0 37.1 0.0 2.9 2.9 5.7 5.7 0.0 0.0 0.0 0.0 5.7 0.0 0.0 0.0
+MBI 111 M B Garrison Gloria S. Microorganisms & Human Disease
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+3
+3
+1
+1
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 6.7 20.0 20.0 20.0 6.7 6.7 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MBI 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+3
+12
+1
+1
+16
+0
+1
+1
+2
+2
+0
+0
+0
+0
+2
+0
+0
+0
+2.53
+% 0.0 10.0 8.0 6.0 24.0 2.0 2.0 32.0 0.0 2.0 2.0 4.0 4.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0
+MBI 161 M A Cowan Marjorie M. Elementary Med Microbiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+1
+0
+10
+0
+2
+2
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.80
+% 0.0 20.8 4.2 0.0 41.7 0.0 8.3 8.3 4.2 4.2 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MBI 161 M B Cowan Marjorie M. Elementary Med Microbiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+6
+1
+1
+2
+0
+1
+1
+0
+1
+2
+0
+2
+0
+0
+0
+0
+0
+2.08
+% 0.0 5.6 0.0 0.0 33.3 5.6 5.6 11.1 0.0 5.6 5.6 0.0 5.6 11.1 0.0 11.1 0.0 0.0 0.0 0.0 0.0
+Course Total MBI 161
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+1
+0
+16
+1
+3
+4
+1
+2
+3
+0
+1
+2
+0
+2
+0
+0
+0
+0
+0
+2.52
+% 0.0 14.3 2.4 0.0 38.1 2.4 7.1 9.5 2.4 4.8 7.1 0.0 2.4 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0
+Microbiology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+11
+5
+3
+28
+2
+4
+20
+1
+3
+4
+2
+3
+2
+0
+2
+0
+2
+0
+0
+0
+2.52
+% 0.0 12.0 5.4 3.3 30.4 2.2 4.3 21.7 1.1 3.3 4.3 2.2 3.3 2.2 0.0 2.2 0.0 2.2 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

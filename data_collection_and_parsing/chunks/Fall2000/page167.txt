@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 11:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2000-01 Oxford Campus
+Page: 164 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDT 431 A Mackenzie Ann H. Adolescent Science Methods I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+0
+5
+0
+0
+3
+0
+0
+0
+0
+0
+1
+3
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 26.3 10.5 0.0 26.3 0.0 0.0 15.8 0.0 0.0 0.0 0.0 0.0 5.3 15.8 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDT 431
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+0
+5
+0
+0
+3
+0
+0
+0
+0
+0
+1
+3
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 26.3 10.5 0.0 26.3 0.0 0.0 15.8 0.0 0.0 0.0 0.0 0.0 5.3 15.8 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 433 A Fuller Michael J. Adol Social Studies Methods I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+2
+3
+1
+2
+3
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.59
+% 0.0 13.3 0.0 13.3 20.0 6.7 13.3 20.0 0.0 0.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 433 B Fuller Michael J. Adol Social Studies Methods I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+7
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 14.3 0.0 0.0 50.0 7.1 14.3 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDT 433
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+2
+10
+2
+4
+5
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 13.8 0.0 6.9 34.5 6.9 13.8 17.2 0.0 0.0 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 436 A Romano Tom S. Middle Childhood Language Arts
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+11
+4
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.81
+% 10.0 55.0 20.0 5.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 436 B Romano Tom S. Middle Childhood Language Arts
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+10
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 22.2 55.6 11.1 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

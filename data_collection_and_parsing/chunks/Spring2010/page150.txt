@@ -1,0 +1,348 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Oxford Campus
+Page: 146 Sections of 10
+CSA 262 B Brinkman William J. Tech,Ethics & Global Society
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+1
+0
+3
+7
+2
+0
+0
+1
+% 0.0 11.1 5.6 0.0 16.7 38.9 11.1 0.0 0.0 5.6
+Course Total CSA 262
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+3
+1
+2
+8
+12
+2
+1
+0
+1
+% 0.0 9.4 3.1 6.3 25.0 37.5 6.3 3.1 0.0 3.1
+CSA 271 A Zmuda Michael A. Object-Oriented Programming
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+1
+2
+2
+1
+2
+0
+1
+1
+1
+% 5.6 5.6 11.1 11.1 5.6 11.1 0.0 5.6 5.6 5.6
+CSA 271 B Zmuda Michael A. Object-Oriented Programming
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+0
+4
+2
+1
+2
+0
+1
+1
+% 0.0 0.0 0.0 33.3 16.7 8.3 16.7 0.0 8.3 8.3
+CSA 271 C Opyrchal Lukasz Object-Oriented Programming
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+1
+3
+2
+0
+1
+2
+2
+0
+% 0.0 7.1 7.1 21.4 14.3 0.0 7.1 14.3 14.3 0.0
+CSA 271 D Opyrchal Lukasz Object-Oriented Programming
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+3
+3
+0
+0
+2
+2
+1
+1
+0
+1
+% 17.6 17.6 0.0 0.0 11.8 11.8 5.9 5.9 0.0 5.9
+Course Total CSA 271
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+4
+5
+3
+9
+7
+5
+4
+4
+4
+3
+% 6.6 8.2 4.9 14.8 11.5 8.2 6.6 6.6 6.6 4.9
+D
+D-
+F
+W
+0
+0
+1
+1
+0.0 0.0 5.6 5.6
+D
+D-
+F
+W
+0
+0
+1
+1
+0.0 0.0 3.1 3.1
+D
+D-
+2
+0
+11.1 0.0
+F
+W
+2
+1
+11.1 5.6
+D
+D-
+F
+W
+0
+0
+1
+0
+0.0 0.0 8.3 0.0
+D
+D-
+F
+W
+1
+0
+1
+0
+7.1 0.0 7.1 0.0
+D
+D-
+F
+W
+1
+2
+0
+1
+5.9 11.8 0.0 5.9
+D
+D-
+F
+W
+4
+2
+4
+2
+6.6 3.3 6.6 3.3
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+Y
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+1
+0
+5.6 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+1
+0
+1.6 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.68
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.79
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.34
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.46
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.45
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.71
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.49
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

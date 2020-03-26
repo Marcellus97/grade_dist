@@ -1,0 +1,302 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Oxford Campus
+Page: 432 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHL 390 A Miller Elaine P. Existentialism
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+5
+7
+2
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+2
+0
+0
+0
+3.09
+% 0.0 4.5 9.1 22.7 31.8 9.1 0.0 0.0 0.0 4.5 0.0 0.0 0.0 9.1 0.0 0.0 0.0 9.1 0.0 0.0 0.0
+Course Total PHL 390
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+5
+7
+2
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+2
+0
+0
+0
+3.09
+% 0.0 4.5 9.1 22.7 31.8 9.1 0.0 0.0 0.0 4.5 0.0 0.0 0.0 9.1 0.0 0.0 0.0 9.1 0.0 0.0 0.0
+PHL 450N A Miller Elaine P. Nietzsche
+N
+N
+AL
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+0
+4
+2
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 15.4 23.1 0.0 30.8 15.4 0.0 7.7 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHL 450N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+0
+4
+2
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 15.4 23.1 0.0 30.8 15.4 0.0 7.7 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHL 450Q A Massie Pascal Heidegger's Being and Time
+N
+N
+FS
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+1
+2
+1
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 14.3 35.7 7.1 14.3 7.1 7.1 0.0 0.0 0.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHL 450Q
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+1
+2
+1
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 14.3 35.7 7.1 14.3 7.1 7.1 0.0 0.0 0.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Philosophy Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+61
+61
+77
+117 60
+32
+32
+12
+5
+7
+4
+15
+27
+0
+0
+5
+14
+1
+0
+0
+2.93
+% 0.4 11.5 11.5 14.5 22.0 11.3 6.0 6.0 2.3 0.9 1.3 0.8 2.8 5.1 0.0 0.0 0.9 2.6 0.2 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

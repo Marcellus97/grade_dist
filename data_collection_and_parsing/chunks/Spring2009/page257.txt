@@ -1,0 +1,308 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Oxford Campus
+Page: 254 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FIN 408 B Kehr James B. Commercial Bank Management
+N
+N
+T8
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+1
+4
+8
+7
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 0.0 21.9 3.1 12.5 25.0 21.9 3.1 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 408 C Kehr James B. Commercial Bank Management
+N
+N
+TC
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+7
+2
+7
+3
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 3.2 16.1 22.6 6.5 22.6 9.7 0.0 19.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 408
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+14
+14
+6
+20
+11
+2
+14
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 1.2 16.9 16.9 7.2 24.1 13.3 2.4 16.9 0.0 0.0 1.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 417 A Reis Ebru International Business Finance
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+6
+11
+3
+10
+5
+3
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+2.68
+% 0.0 4.3 6.5 13.0 23.9 6.5 21.7 10.9 6.5 4.3 0.0 0.0 0.0 0.0 0.0 0.0 2.2 0.0 0.0 0.0 0.0
+FIN 417 B Reis Ebru International Business Finance
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+8
+6
+9
+4
+5
+3
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 0.0 11.1 17.8 13.3 20.0 8.9 11.1 6.7 2.2 8.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 417
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+11
+12
+20
+7
+15
+8
+4
+6
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+2.80
+% 0.0 7.7 12.1 13.2 22.0 7.7 16.5 8.8 4.4 6.6 0.0 0.0 0.0 0.0 0.0 0.0 1.1 0.0 0.0 0.0 0.0
+FIN 451 VA Cross Mark L. Risk Management And Insurance
+N
+N
+U1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+16
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.71
+% 0.0 29.0 51.6 19.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

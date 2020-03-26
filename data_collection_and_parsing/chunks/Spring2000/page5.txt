@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 2 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ACC 221 J Porcano Thomas M. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+3
+4
+1
+3
+9
+1
+0
+5
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.41
+% 0.0 14.3 5.7 8.6 11.4 2.9 8.6 25.7 2.9 0.0 14.3 2.9 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 221 K Cottell Philip G. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+0
+1
+9
+4
+2
+3
+1
+0
+2
+0
+3
+2
+1
+0
+1
+0
+0
+0
+0
+2.46
+% 6.1 6.1 0.0 3.0 27.3 12.1 6.1 9.1 3.0 0.0 6.1 0.0 9.1 6.1 3.0 0.0 3.0 0.0 0.0 0.0 0.0
+Course Total ACC 221
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+35
+3
+9
+60
+8
+22
+64
+29
+0
+27
+3
+8
+4
+18
+6
+1
+6
+0
+0
+0
+2.36
+% 1.6 11.4 1.0 2.9 19.5 2.6 7.1 20.8 9.4 0.0 8.8 1.0 2.6 1.3 5.8 1.9 0.3 1.9 0.0 0.0 0.0
+ACC 222 A Sander Richard A. Intro To Managerial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+8
+0
+0
+11
+0
+0
+5
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+2.12
+% 0.0 3.6 0.0 0.0 28.6 0.0 0.0 39.3 0.0 0.0 17.9 0.0 3.6 3.6 3.6 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 222 B Sander Richard A. Intro To Managerial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+8
+0
+0
+8
+0
+0
+3
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 21.4 0.0 0.0 28.6 0.0 0.0 28.6 0.0 0.0 10.7 0.0 3.6 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 222 C Cockrell Ronald C. Intro To Managerial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+7
+6
+7
+7
+1
+1
+1
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+2.33
+% 0.0 2.7 2.7 2.7 18.9 16.2 18.9 18.9 2.7 2.7 2.7 5.4 2.7 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 222 D Cockrell Ronald C. Intro To Managerial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+0
+6
+2
+6
+6
+2
+3
+1
+3
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.63
+% 5.7 0.0 17.1 5.7 17.1 17.1 5.7 8.6 2.9 8.6 0.0 8.6 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

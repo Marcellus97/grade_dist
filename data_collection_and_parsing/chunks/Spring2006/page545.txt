@@ -1,0 +1,307 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 542 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+SPN 202 N Tolentino Teresa Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+2
+3
+3
+1
+2
+2
+1
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 0.0 32.0 8.0 12.0 12.0 4.0 8.0 8.0 4.0 0.0 8.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 202 P Humphrys Judith E. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+2
+3
+6
+5
+1
+2
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 4.2 8.3 8.3 12.5 25.0 20.8 4.2 8.3 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 202 Q Humphrys Judith E. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+1
+4
+3
+0
+2
+2
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.04
+% 8.7 21.7 4.3 17.4 13.0 0.0 8.7 8.7 8.7 0.0 4.3 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 202 S Ironstrack Tamise R. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+3
+4
+2
+2
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 0.0 13.0 21.7 13.0 17.4 8.7 8.7 8.7 4.3 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPN 202
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+52
+49
+55
+66
+46
+28
+38
+23
+6
+11
+6
+2
+8
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 1.0 13.2 12.4 14.0 16.8 11.7 7.1 9.6 5.8 1.5 2.8 1.5 0.5 2.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 311 C Lirot Julie A. Grammar Rvw& Intro Composition
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+5
+4
+2
+3
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.53
+% 0.0 5.0 5.0 5.0 25.0 20.0 10.0 15.0 0.0 0.0 0.0 5.0 5.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 311 D Lirot Julie A. Grammar Rvw& Intro Composition
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+4
+3
+4
+1
+1
+1
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+2.90
+% 0.0 0.0 10.5 21.1 15.8 21.1 5.3 5.3 5.3 0.0 0.0 0.0 0.0 10.5 0.0 0.0 0.0 5.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

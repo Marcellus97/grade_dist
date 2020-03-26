@@ -1,0 +1,235 @@
+testRun: 01/23/07 @ 09:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2006-07 Oxford Campus
+Page: 487 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHY 341 A Rice Perry R. Mathematical Methods In Physic
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+0
+0
+7
+0
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 14.3 14.3 0.0 0.0 50.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHY 341
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+0
+0
+7
+0
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 14.3 14.3 0.0 0.0 50.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 500 A Rice Perry R. Physics Seminar
+N
+N
+KI
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+14
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 93.3 0.0 0.0 0.0
+Course Total PHY 500
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+14
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 93.3 0.0 0.0 0.0
+Physics Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 25
+306 228 167 367 139 74
+129 68
+25
+46
+7
+24
+79
+0
+0
+3
+17
+1
+0
+0
+3.00
+% 1.5 17.9 13.4 9.8 21.5 8.2 4.3 7.6 4.0 1.5 2.7 0.4 1.4 4.6 0.0 0.0 0.2 1.0 0.1 0.0 0.0
+GR 0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+14
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 93.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

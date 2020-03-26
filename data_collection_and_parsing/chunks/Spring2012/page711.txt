@@ -1,0 +1,217 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Middletown Campus
+Page: 707 Sections of 10
+IDS Interdisciplinary
+Miami Plan
+Honors
+Cross Listing
+IDS 159 M A Hunter Gary L. Strength Thru Culturl Diversty
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+0
+3
+1
+1
+2
+0
+0
+2
+2
+2
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.39
+% 5.3 10.5 0.0 15.8 5.3 5.3 10.5 0.0 0.0 10.5 10.5 10.5 0.0 15.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IDS 159 M B Mogga Oliver K. Strength Thru Culturl Diversty
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+5
+1
+0
+2
+0
+0
+0
+0
+0
+0
+1
+0
+5
+0
+0
+0
+0
+0
+0
+0
+3.53
+% 17.6 29.4 5.9 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 29.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IDS 159 M3A Mogga Oliver K. Strength Thru Culturl Diversty
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+3
+0
+1
+1
+1
+0
+1
+0
+0
+0
+0
+3
+9
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 13.6 13.6 0.0 4.5 4.5 4.5 0.0 4.5 0.0 0.0 0.0 0.0 13.6 40.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total IDS 159
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+10
+1
+4
+4
+2
+2
+1
+0
+2
+2
+3
+3
+17
+0
+0
+0
+0
+0
+0
+0
+2.82
+% 12.1 17.2 1.7 6.9 6.9 3.4 3.4 1.7 0.0 3.4 3.4 5.2 5.2 29.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Interdisciplinary Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 7
+10
+1
+4
+4
+2
+2
+1
+0
+2
+2
+3
+3
+17
+0
+0
+0
+0
+0
+0
+0
+2.82
+% 12.1 17.2 1.7 6.9 6.9 3.4 3.4 1.7 0.0 3.4 3.4 5.2 5.2 29.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

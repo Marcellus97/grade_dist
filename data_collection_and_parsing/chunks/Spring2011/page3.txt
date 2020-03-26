@@ -1,0 +1,124 @@
+testENT Engineering Technology
+682
+FSW Family Studies And Social Work
+685
+GEO Geography
+687
+GER German
+688
+GLG Geology
+689
+HST History
+691
+IDS Interdisciplinary
+695
+JRN Journalism
+696
+KNH Kinesiology And Health
+697
+LAS Latin American Studies
+703
+MBI Microbiology
+704
+MGT Management
+706
+MIS Management Information Systems
+707
+MKT Marketing
+708
+MTH Mathematics
+709
+MUS Music
+715
+NSG Nursing
+717
+PHL Philosophy
+720
+PHY Physics
+722
+POL Political Science
+725
+PSY Psychology
+726
+REL Religion, Comparative
+729
+SOC Sociology
+730
+SPN Spanish
+732
+STA Statistics
+733
+THE Theatre
+734
+WMS Women'S Studies
+735
+ZOO Zoology
+736
+Hamilton Campus
+739
+ACC Accountancy
+740
+AMS American Studies
+741
+ART Art
+742
+ATH Anthropology
+747
+BIS Integrative Studies
+749
+BOT Botany
+751
+BTE Business Technology
+752
+BUS Business Analysis
+760
+BWS Black World Studies
+761
+CHM Chemistry & Biochemistry
+762
+CIT Comp Information Technology
+765
+CJS Criminal Justice Studies
+768
+COM Communication
+770
+CSE Comp Sci &Software Engineering
+775
+DSC Decision Sciences
+778
+EAS Engineering & App Science
+779
+ECO Economics
+780
+EDL Educational Leadership
+782
+EDP Educational Psychology
+785
+EDT Teacher Education
+787
+ENG English
+791
+ENT Engineering Technology
+807
+FRE French
+811
+FST Film Studies
+812
+FSW Family Studies And Social Work
+813
+GEO Geography
+816
+GER German
+818
+GLG Geology
+819
+HST History
+821
+IDS Interdisciplinary
+826
+JRN Journalism
+827
+KNH Kinesiology And Health
+828
+LAS Latin American Studies
+839

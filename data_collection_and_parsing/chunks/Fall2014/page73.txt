@@ -1,0 +1,316 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 69 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BIO 115 AI Gorchov David L. Biolog Concepts: Ecol Evol Gen
+Y
+N
+V
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+4
+0
+0
+5
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.17
+% 0.0 8.3 0.0 0.0 33.3 0.0 0.0 41.7 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 115 AJ Gorchov David L. Biolog Concepts: Ecol Evol Gen
+Y
+N
+JY
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+5
+0
+0
+5
+0
+0
+1
+0
+0
+2
+0
+0
+1
+1
+0
+0
+0
+2.80
+% 0.0 21.1 0.0 0.0 26.3 0.0 0.0 26.3 0.0 0.0 5.3 0.0 0.0 10.5 0.0 0.0 5.3 5.3 0.0 0.0 0.0
+BIO 115 BA Hickey R. J. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Y2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+7
+0
+0
+4
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 0.0 22.2 0.0 0.0 38.9 0.0 0.0 22.2 0.0 0.0 5.6 0.0 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 115 BB Hickey R. J. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Y3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+5
+0
+0
+8
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.24
+% 0.0 5.6 0.0 0.0 27.8 0.0 0.0 44.4 0.0 0.0 16.7 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 115 BC Hickey R. J. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Y4
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+4
+0
+0
+4
+0
+0
+3
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+2.06
+% 0.0 15.8 0.0 0.0 21.1 0.0 0.0 21.1 0.0 0.0 15.8 0.0 15.8 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 115 BD Hickey R. J. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Y5
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+2
+0
+0
+10
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.25
+% 0.0 12.5 0.0 0.0 12.5 0.0 0.0 62.5 0.0 0.0 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 115 BE Hickey R. J. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Y6
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+0
+5
+0
+0
+7
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.78
+% 0.0 27.8 0.0 0.0 27.8 0.0 0.0 38.9 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

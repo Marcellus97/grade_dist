@@ -1,0 +1,297 @@
+testRun: 01/15/14 @ 15:10 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Term, 2012-13 Oxford Campus
+Page: 48 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total FIN 302
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+5
+2
+1
+1
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.22
+% 0.0 5.9 23.5 29.4 11.8 5.9 5.9 5.9 0.0 0.0 0.0 0.0 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 303 TB Shull David M. Financial Modeling with Excel
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+6
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.75
+% 0.0 57.1 21.4 3.6 7.1 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 303
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+6
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.75
+% 0.0 57.1 21.4 3.6 7.1 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 401 UA Borokhovich Kenneth A. Prin Of Investmnt&Securty Mkts
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+3
+4
+2
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 0.0 27.8 11.1 16.7 22.2 11.1 0.0 0.0 0.0 5.6 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 401
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+3
+4
+2
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 0.0 27.8 11.1 16.7 22.2 11.1 0.0 0.0 0.0 5.6 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 417 UA Wyatt Steve B. International Business Finance
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+0
+5
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 0.0 15.4 15.4 0.0 38.5 15.4 0.0 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 417
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+0
+5
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 0.0 15.4 15.4 0.0 38.5 15.4 0.0 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

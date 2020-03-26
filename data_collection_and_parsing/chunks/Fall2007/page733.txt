@@ -1,0 +1,308 @@
+testRun: 01/17/08 @ 12:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2007-08 Hamilton Campus
+Page: 730 Sections of 10
+COM Communication
+Miami Plan
+Honors
+Cross Listing
+COM 134 H A Shulman Carol H. Intro to Speech Communication
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+1
+2
+2
+1
+1
+6
+1
+1
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.20
+% 4.3 8.7 4.3 8.7 8.7 4.3 4.3 26.1 4.3 4.3 4.3 8.7 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 134
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+1
+2
+2
+1
+1
+6
+1
+1
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.20
+% 4.3 8.7 4.3 8.7 8.7 4.3 4.3 26.1 4.3 4.3 4.3 8.7 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 H A Abate Brianna L. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+7
+3
+2
+1
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 0.0 20.8 12.5 29.2 12.5 8.3 4.2 0.0 0.0 0.0 0.0 0.0 0.0 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 H B Shulman Carol H. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+3
+2
+0
+0
+3
+2
+1
+0
+0
+5
+2
+0
+0
+1
+0
+0
+0
+0
+2.31
+% 0.0 7.7 19.2 11.5 7.7 0.0 0.0 11.5 7.7 3.8 0.0 0.0 19.2 7.7 0.0 0.0 3.8 0.0 0.0 0.0 0.0
+COM 135 H C Shulman Carol H. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+3
+2
+0
+4
+1
+0
+2
+0
+5
+6
+0
+0
+0
+0
+0
+0
+0
+1.54
+% 0.0 0.0 0.0 0.0 13.0 8.7 0.0 17.4 4.3 0.0 8.7 0.0 21.7 26.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 H D Martin Penny Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+2
+4
+2
+1
+2
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 5.0 20.0 10.0 20.0 10.0 5.0 10.0 0.0 0.0 0.0 0.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 H E Webb Stephanie D. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+9
+10
+0
+1
+1
+1
+1
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.53
+% 7.4 33.3 37.0 0.0 3.7 3.7 3.7 3.7 0.0 0.0 0.0 3.7 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

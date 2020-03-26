@@ -1,0 +1,102 @@
+testZOO Zoology
+692
+Hamilton Campus
+695
+ACC Accountancy
+696
+AER Aeronautics
+698
+ART Art
+699
+ATH Anthropology
+703
+BOT Botany
+704
+BTE Business Technology
+705
+BWS Black World Studies
+711
+CHM Chemistry & Biochemistry
+712
+CIT Comp Information Technology
+715
+CLS Classics
+717
+COM Communication
+718
+CSA Computer Sci &Systems Analysis
+721
+DSC Decision Sciences
+724
+ECO Economics
+725
+EDL Educational Leadership
+726
+EDP Educational Psychology
+729
+EDT Teacher Education
+730
+ENG English
+734
+ENT Engineering Technology
+745
+FIN Finance
+747
+FRE French
+748
+FST Film Studies
+749
+FSW Family Studies And Social Work
+750
+GEO Geography
+753
+GER German
+754
+GLG Geology
+755
+HST History
+757
+IDS Interdisciplinary
+761
+LAS Latin American Studies
+762
+MBI Microbiology
+763
+MGT Management
+764
+MIS Management Information Systems
+765
+MKT Marketing
+766
+MTH Mathematics
+767
+MUS Music
+773
+NSG Nursing
+775
+PHL Philosophy
+779
+PHS Phy Edu, Hlth, & Sport Studies
+780
+PHY Physics
+788
+POL Political Science
+789
+PSY Psychology
+791
+REL Comparative Religion
+793
+SOC Sociology
+794
+SPA Speech Pathology & Audiology
+796
+SPN Spanish
+797
+STA Statistics
+799
+THE Theatre
+800
+WMS Women'S Studies
+802
+ZOO Zoology
+803

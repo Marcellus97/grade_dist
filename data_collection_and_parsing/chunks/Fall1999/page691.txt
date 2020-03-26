@@ -1,0 +1,350 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Hamilton Campus
+Page: 688 Sections of 10
+Course Total BTE 221
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+2
+0
+3
+1
+0
+0
+2
+0
+% 0.0 8.3 16.7 0.0 25.0 8.3 0.0 0.0 16.7 0.0
+BTE 226 H A Teigen Kimberly S. Word Processing
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 226
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 231 HTX Potter G. Coe Real Estate Prin & Practices
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+0
+0
+5
+0
+0
+3
+0
+0
+% 0.0 14.3 0.0 0.0 35.7 0.0 0.0 21.4 0.0 0.0
+Course Total BTE 231
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+0
+0
+5
+0
+0
+3
+0
+0
+% 0.0 14.3 0.0 0.0 35.7 0.0 0.0 21.4 0.0 0.0
+BTE 234 HUX Loeffler Jack Real Estate Finance
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+0
+2
+2
+0
+2
+0
+0
+0
+% 0.0 20.0 0.0 20.0 20.0 0.0 20.0 0.0 0.0 0.0
+Course Total BTE 234
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+0
+2
+2
+0
+2
+0
+0
+0
+% 0.0 20.0 0.0 20.0 20.0 0.0 20.0 0.0 0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+1
+0
+10.0 0.0
+D
+D-
+1
+0
+10.0 0.0
+F
+W
+1
+0
+8.3 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+2
+1
+14.3 7.1
+F
+W
+2
+1
+14.3 7.1
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+WP WF
+1
+1
+8.3 8.3
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+1
+0.0 7.1
+WP WF
+0
+1
+0.0 7.1
+WP WF
+1
+0
+10.0 0.0
+WP WF
+1
+0
+10.0 0.0
+Miami Plan
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.41
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+4.00
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+4.00
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.23
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.23
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.91
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.91
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

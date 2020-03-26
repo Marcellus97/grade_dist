@@ -1,0 +1,307 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Oxford Campus
+Page: 133 Sections of 10
+ECE Electrical & Computer Engineer
+Miami Plan
+Honors
+Cross Listing
+ECE 205 B Herdtner Jeffrey D. Electric Circuit Analysis - I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+3
+0
+0
+2
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.57
+% 0.0 10.0 10.0 10.0 30.0 0.0 0.0 20.0 0.0 0.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 205 D Herdtner Jeffrey D. Electric Circuit Analysis - I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+2
+0
+1
+2
+0
+2
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 7.7 15.4 15.4 0.0 7.7 15.4 0.0 15.4 0.0 0.0 0.0 7.7 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 205 E Herdtner Jeffrey D. Electric Circuit Analysis - I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+1
+0
+0
+2
+1
+1
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 9.1 18.2 9.1 0.0 0.0 18.2 9.1 9.1 9.1 0.0 9.1 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECE 205
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+4
+1
+4
+4
+1
+5
+1
+0
+2
+2
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.70
+% 5.9 14.7 11.8 2.9 11.8 11.8 2.9 14.7 2.9 0.0 5.9 5.9 2.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 278 A Cheng Chi-Hao Computer Architecture
+N
+N
+FR
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+3
+0
+2
+1
+1
+0
+1
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.44
+% 0.0 7.7 7.7 23.1 0.0 15.4 7.7 7.7 0.0 7.7 0.0 7.7 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECE 278
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+3
+0
+2
+1
+1
+0
+1
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.44
+% 0.0 7.7 7.7 23.1 0.0 15.4 7.7 7.7 0.0 7.7 0.0 7.7 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 305 A Sahin Gokhan Electric Circuit Analysis II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+0
+3
+1
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 10.0 10.0 0.0 30.0 10.0 0.0 40.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

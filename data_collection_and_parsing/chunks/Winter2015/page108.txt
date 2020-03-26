@@ -1,0 +1,131 @@
+testRun: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Middletown Campus
+Page: 106 Sections of 10
+CHM Chemistry & Biochemistry
+Miami Plan
+Honors
+Cross Listing
+CHM 109 M A Vail Howard P. Chemistry Fundamentals
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+2
+1
+0
+0
+3
+0
+0
+0
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+3.16
+% 0.0 28.6 0.0 14.3 7.1 0.0 0.0 21.4 0.0 0.0 0.0 0.0 0.0 21.4 0.0 0.0 7.1 0.0 0.0 0.0 0.0
+Course Total CHM 109
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+2
+1
+0
+0
+3
+0
+0
+0
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+3.16
+% 0.0 28.6 0.0 14.3 7.1 0.0 0.0 21.4 0.0 0.0 0.0 0.0 0.0 21.4 0.0 0.0 7.1 0.0 0.0 0.0 0.0
+Chemistry & Biochemistry Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+4
+0
+2
+1
+0
+0
+3
+0
+0
+0
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+3.16
+% 0.0 28.6 0.0 14.3 7.1 0.0 0.0 21.4 0.0 0.0 0.0 0.0 0.0 21.4 0.0 0.0 7.1 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,301 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Middletown Campus
+Page: 675 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total MTH 125
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+3
+0
+7
+3
+0
+7
+3
+0
+0
+0
+2
+5
+0
+0
+1
+0
+0
+0
+0
+2.84
+% 0.0 24.4 7.3 0.0 17.1 7.3 0.0 17.1 7.3 0.0 0.0 0.0 4.9 12.2 0.0 0.0 2.4 0.0 0.0 0.0 0.0
+MTH 151 M B de Saint-Rat Mark E. Calculus I
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+3
+2
+2
+0
+6
+1
+0
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.55
+% 0.0 21.7 0.0 13.0 8.7 8.7 0.0 26.1 4.3 0.0 4.3 0.0 8.7 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 151
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+3
+2
+2
+0
+6
+1
+0
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.55
+% 0.0 21.7 0.0 13.0 8.7 8.7 0.0 26.1 4.3 0.0 4.3 0.0 8.7 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 231 M A de Saint-Rat Mark E. Elements Of Discrete Math
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+0
+3
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 7.7 30.8 0.0 23.1 7.7 30.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 231
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+0
+3
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 7.7 30.8 0.0 23.1 7.7 30.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 251 M B Attanayake Champike Calculus II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+4
+4
+0
+1
+8
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.62
+% 0.0 13.0 4.3 17.4 17.4 0.0 4.3 34.8 0.0 0.0 4.3 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 251
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+4
+4
+0
+1
+8
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.62
+% 0.0 13.0 4.3 17.4 17.4 0.0 4.3 34.8 0.0 0.0 4.3 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

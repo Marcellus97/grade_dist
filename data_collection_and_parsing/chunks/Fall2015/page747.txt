@@ -1,0 +1,338 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 743 Sections of 10
+GLG Geology
+GLG 111 H B Elkin Robert R. The Dynamic Earth
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+0
+1
+1
+2
+5
+3
+9
+5
+5
+5
+1
+% 0.0 0.0 2.1 2.1 4.2 10.4 6.3 18.8 10.4 10.4 10.4 2.1
+GLG 111 H C Elkin Robert R. The Dynamic Earth
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+2
+0
+2
+2
+1
+6
+7
+3
+5
+4
+4
+2
+% 4.3 0.0 4.3 4.3 2.2 13.0 15.2 6.5 10.9 8.7 8.7 4.3
+Course Total GLG 111
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+2
+0
+3
+3
+3
+11
+10
+12
+10
+9
+9
+3
+% 2.1 0.0 3.2 3.2 3.2 11.7 10.6 12.8 10.6 9.6 9.6 3.2
+GLG 115L H A Burke Michelle L. Understanding The Earth
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+3
+4
+2
+4
+3
+2
+2
+0
+0
+0
+0
+0
+% 13.6 18.2 9.1 18.2 13.6 9.1 9.1 0.0 0.0 0.0 0.0 0.0
+GLG 115L H B Burke Michelle L. Understanding The Earth
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+2
+3
+6
+0
+1
+1
+0
+0
+0
+0
+0
+0
+% 12.5 18.8 37.5 0.0 6.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GLG 115L
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+5
+7
+8
+4
+4
+3
+2
+0
+0
+0
+0
+0
+% 13.2 18.4 21.1 10.5 10.5 7.9 5.3 0.0 0.0 0.0 0.0 0.0
+GLG 121 H A Burke Michelle L. Environmental Geology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+2
+7
+5
+1
+8
+5
+0
+1
+2
+0
+0
+1
+% 5.6 19.4 13.9 2.8 22.2 13.9 0.0 2.8 5.6 0.0 0.0 2.8
+F
+W
+9
+2
+18.8 4.2
+F
+W
+7
+1
+15.2 2.2
+F
+W
+16
+3
+17.0 3.2
+F
+W
+2
+0
+9.1 0.0
+F
+W
+2
+1
+12.5 6.3
+F
+W
+4
+1
+10.5 2.6
+F
+W
+2
+1
+5.6 2.8
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+1
+0
+2.8 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.57
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.83
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.70
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.07
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.19
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.12
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.98
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,306 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2003-04 Oxford Campus
+Page: 127 Sections of 10
+ECO Economics
+Miami Plan
+Honors
+Cross Listing
+ECO 131 A Sullivan Dennis H. Eco Prspctv on Inequality Amer
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+8
+13
+12
+10
+9
+2
+1
+0
+0
+0
+0
+1
+1
+0
+0
+1
+0
+0
+0
+2.96
+% 1.7 0.0 13.6 22.0 20.3 16.9 15.3 3.4 1.7 0.0 0.0 0.0 0.0 1.7 1.7 0.0 0.0 1.7 0.0 0.0 0.0
+ECO 131 B Sullivan Dennis H. Eco Prspctv on Inequality Amer
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+11
+18
+9
+4
+10
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.70
+% 0.0 0.0 5.0 18.3 30.0 15.0 6.7 16.7 3.3 3.3 1.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 131
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+11
+24
+30
+19
+13
+12
+3
+2
+1
+0
+0
+1
+1
+0
+0
+1
+0
+0
+0
+2.83
+% 0.8 0.0 9.2 20.2 25.2 16.0 10.9 10.1 2.5 1.7 0.8 0.0 0.0 0.8 0.8 0.0 0.0 0.8 0.0 0.0 0.0
+ECO 170C A Hart William R. The Economic Way of Thinking
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+6
+7
+1
+3
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 13.6 4.5 27.3 31.8 4.5 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 170C
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+6
+7
+1
+3
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 13.6 4.5 27.3 31.8 4.5 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 201 A Elliott Steven R. Principles Of Microeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+2
+2
+8
+3
+10
+4
+0
+5
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+2.28
+% 0.0 2.5 5.0 5.0 5.0 20.0 7.5 25.0 10.0 0.0 12.5 0.0 0.0 0.0 2.5 0.0 0.0 5.0 0.0 0.0 0.0
+ECO 201 B Brock James W. Principles Of Microeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+1
+4
+3
+0
+9
+1
+0
+17
+1
+0
+0
+0
+1
+0
+0
+1
+0
+0
+1.76
+% 0.0 5.0 0.0 2.5 10.0 7.5 0.0 22.5 2.5 0.0 42.5 2.5 0.0 0.0 0.0 2.5 0.0 0.0 2.5 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

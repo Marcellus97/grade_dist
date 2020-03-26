@@ -1,0 +1,343 @@
+testRun: 06/30/04 @ 16:03 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2001-02 Oxford Campus
+Page: 108 Sections of 10
+Course Total PHS 276
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+0
+3
+2
+4
+1
+1
+0
+0
+% 0.0 0.0 23.1 15.4 30.8 7.7 7.7 0.0 0.0
+PHS 279 OA Harris Othello African Americans In Sports
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+3
+2
+2
+2
+0
+0
+2
+0
+% 0.0 25.0 16.7 16.7 16.7 0.0 0.0 16.7 0.0
+Course Total PHS 279
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+3
+2
+2
+2
+0
+0
+2
+0
+% 0.0 25.0 16.7 16.7 16.7 0.0 0.0 16.7 0.0
+PHS 292 MA Aikens Wm E. Dance,Culture And Contexts
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+3
+4
+1
+1
+1
+1
+0
+0
+% 0.0 27.3 36.4 9.1 9.1 9.1 9.1 0.0 0.0
+Course Total PHS 292
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+3
+4
+1
+1
+1
+1
+0
+0
+% 0.0 27.3 36.4 9.1 9.1 9.1 9.1 0.0 0.0
+PHS 378 NA Harris Othello Sport And Social Status
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+0
+0
+0
+1
+2
+1
+2
+0
+% 10.0 0.0 0.0 0.0 10.0 20.0 10.0 20.0 0.0
+Course Total PHS 378
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+0
+0
+0
+1
+2
+1
+2
+0
+% 10.0 0.0 0.0 0.0 10.0 20.0 10.0 20.0 0.0
+D+ D
+D-
+0
+0
+1
+0.0 0.0 7.7
+D+ D
+D-
+0
+1
+0
+0.0 8.3 0.0
+D+ D
+D-
+0
+1
+0
+0.0 8.3 0.0
+D+ D
+D-
+0
+0
+0
+0.0 0.0 0.0
+D+ D
+D-
+0
+0
+0
+0.0 0.0 0.0
+D+ D
+D-
+1
+1
+0
+10.0 10.0 0.0
+D+ D
+D-
+1
+1
+0
+10.0 10.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+1
+0
+10.0 0.0
+F
+W
+1
+0
+10.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+I
+X
+0
+1
+0.0 7.7
+Y
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.95
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.08
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.08
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.46
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.46
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.10
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.10
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

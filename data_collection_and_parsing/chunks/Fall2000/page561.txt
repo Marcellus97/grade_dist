@@ -1,0 +1,317 @@
+testRun: 06/30/04 @ 11:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2000-01 Oxford Campus
+Page: 558 Sections of 10
+ZOO Zoology
+Miami Plan
+Honors
+Cross Listing
+ZOO 115 AA Norris Steven M. Biolog Concepts: Ecol Evol Gen
+Y
+N
+K2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+5
+0
+0
+2
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.10
+% 0.0 0.0 0.0 0.0 50.0 0.0 0.0 20.0 0.0 0.0 20.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 115 AB Norris Steven M. Biolog Concepts: Ecol Evol Gen
+Y
+N
+K3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+7
+0
+0
+5
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.46
+% 0.0 0.0 0.0 0.0 53.8 0.0 0.0 38.5 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 115 AC Norris Steven M. Biolog Concepts: Ecol Evol Gen
+Y
+N
+K4
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+3
+0
+0
+3
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.22
+% 0.0 10.0 0.0 0.0 30.0 0.0 0.0 30.0 0.0 0.0 10.0 0.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 115 AD Norris Steven M. Biolog Concepts: Ecol Evol Gen
+Y
+N
+K5
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+3
+0
+0
+4
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.45
+% 0.0 18.2 0.0 0.0 27.3 0.0 0.0 36.4 0.0 0.0 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 115 AE Norris Steven M. Biolog Concepts: Ecol Evol Gen
+Y
+N
+K6
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+6
+0
+0
+4
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 8.3 0.0 0.0 50.0 0.0 0.0 33.3 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 115 AF Norris Steven M. Biolog Concepts: Ecol Evol Gen
+Y
+N
+K7
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+5
+0
+0
+3
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.30
+% 0.0 0.0 0.0 0.0 50.0 0.0 0.0 30.0 0.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 115 AG Norris Steven M. Biolog Concepts: Ecol Evol Gen
+Y
+N
+K8
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+5
+0
+0
+4
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.46
+% 0.0 15.4 0.0 0.0 38.5 0.0 0.0 30.8 0.0 0.0 7.7 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

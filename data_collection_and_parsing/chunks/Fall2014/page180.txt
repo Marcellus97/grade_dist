@@ -1,0 +1,306 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 176 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ECO 201H B Moul Charles C. Prin Of Microeconomics-Honors
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+3
+1
+7
+2
+2
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 4.3 17.4 13.0 4.3 30.4 8.7 8.7 4.3 0.0 0.0 0.0 0.0 0.0 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 201H
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+5
+1
+12
+2
+5
+3
+2
+0
+1
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 4.7 14.0 11.6 2.3 27.9 4.7 11.6 7.0 4.7 0.0 2.3 0.0 0.0 9.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 202 A Lee Donghyun Principles Of Macroeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+4
+7
+6
+6
+3
+1
+1
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 12.8 7.7 10.3 17.9 15.4 15.4 7.7 2.6 2.6 2.6 0.0 2.6 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 202 B Sungu Burak Principles Of Macroeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+14
+8
+11
+15
+15
+11
+6
+3
+3
+0
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 2.2 15.1 8.6 11.8 16.1 16.1 11.8 6.5 3.2 3.2 0.0 0.0 2.2 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 202 C Lee Donghyun Principles Of Macroeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+2
+6
+7
+4
+5
+4
+2
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.78
+% 2.6 12.8 5.1 15.4 17.9 10.3 12.8 10.3 5.1 2.6 0.0 5.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 202 D Ume Ejindu Principles Of Macroeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+3
+2
+5
+8
+2
+3
+3
+2
+2
+4
+1
+3
+0
+0
+0
+0
+0
+0
+0
+2.35
+% 2.4 4.9 7.3 4.9 12.2 19.5 4.9 7.3 7.3 4.9 4.9 9.8 2.4 7.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 202 E Miller Norman C. Principles Of Macroeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+7
+9
+6
+15
+5
+2
+9
+2
+1
+4
+0
+2
+2
+0
+0
+0
+1
+0
+0
+0
+2.85
+% 7.1 10.0 12.9 8.6 21.4 7.1 2.9 12.9 2.9 1.4 5.7 0.0 2.9 2.9 0.0 0.0 0.0 1.4 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

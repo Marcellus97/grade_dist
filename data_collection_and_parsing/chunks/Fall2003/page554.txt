@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2003-04 Oxford Campus
+Page: 551 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total SPN 313
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+9
+8
+16
+5
+4
+4
+6
+2
+1
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 9.2 13.8 12.3 24.6 7.7 6.2 6.2 9.2 3.1 1.5 0.0 0.0 6.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 314 A Layera Ramon Intro/Lit Texts:Spn America
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+9
+1
+1
+2
+1
+5
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 0.0 39.1 4.3 4.3 8.7 4.3 21.7 8.7 4.3 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 314 B Layera Ramon Intro/Lit Texts:Spn America
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+1
+4
+3
+3
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 19.0 9.5 4.8 19.0 14.3 14.3 9.5 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 314 C Alvarez Maria A. Intro/Lit Texts:Spn America
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+10
+7
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.88
+% 25.0 41.7 29.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 314 D Alvarez Maria A. Intro/Lit Texts:Spn America
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+8
+4
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.83
+% 28.6 38.1 19.0 9.5 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPN 314
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+12
+22
+22
+5
+6
+5
+4
+7
+3
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 13.5 24.7 24.7 5.6 6.7 5.6 4.5 7.9 3.4 2.2 0.0 1.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 341 A Rojas-Miesse Nohelia Advancd Conversational Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+11
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

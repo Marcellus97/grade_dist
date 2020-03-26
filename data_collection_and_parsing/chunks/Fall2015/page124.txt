@@ -1,0 +1,300 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 120 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CHI 255
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+1
+1
+1
+0
+2
+0
+1
+0
+3
+3
+1
+0
+0
+0
+1
+1
+0
+0
+1.74
+% 0.0 11.8 0.0 5.9 5.9 5.9 0.0 11.8 0.0 5.9 0.0 17.6 17.6 5.9 0.0 0.0 0.0 5.9 5.9 0.0 0.0
+CHI 301 A Liu Su Third Year Chinese
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+4
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.51
+% 0.0 46.7 0.0 26.7 13.3 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHI 301 B Huang Quanyu Third Year Chinese
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+5
+2
+3
+2
+2
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 0.0 25.0 20.8 8.3 12.5 8.3 8.3 8.3 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHI 301 C Jin Longsheng Third Year Chinese
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+1
+2
+1
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 0.0 25.0 16.7 8.3 16.7 8.3 8.3 8.3 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHI 301
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+7
+7
+7
+5
+3
+3
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.22
+% 0.0 31.4 13.7 13.7 13.7 9.8 5.9 5.9 2.0 2.0 0.0 2.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHI 311 A Wang Lihong Business Chinese I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+5
+1
+0
+3
+2
+0
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 21.1 5.3 26.3 5.3 0.0 15.8 10.5 0.0 5.3 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHI 311
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+5
+1
+0
+3
+2
+0
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 21.1 5.3 26.3 5.3 0.0 15.8 10.5 0.0 5.3 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

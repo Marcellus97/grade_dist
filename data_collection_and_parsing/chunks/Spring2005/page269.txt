@@ -1,0 +1,307 @@
+testRun: 07/07/05 @ 10:09 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2004-05 Oxford Campus
+Page: 266 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+GEO 101 H Prytherch David L. Global Forces, Local Diversity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+8
+3
+2
+4
+3
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 3.6 14.3 28.6 10.7 7.1 14.3 10.7 3.6 3.6 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GEO 101 I Prytherch David L. Global Forces, Local Diversity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+8
+5
+4
+0
+0
+0
+1
+0
+0
+1
+1
+0
+3
+0
+0
+0
+0
+0
+2.68
+% 0.0 3.6 14.3 28.6 17.9 14.3 0.0 0.0 0.0 3.6 0.0 0.0 3.6 3.6 0.0 10.7 0.0 0.0 0.0 0.0 0.0
+GEO 101 J Kingsbury Paul T. Global Forces, Local Diversity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+10
+3
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.61
+% 0.0 37.9 34.5 10.3 3.4 3.4 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0
+GEO 101 K Kingsbury Paul T. Global Forces, Local Diversity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+9
+7
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 0.0 37.9 31.0 24.1 0.0 3.4 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GEO 101 L Kingsbury Paul T. Global Forces, Local Diversity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+10
+7
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 3.4 27.6 34.5 24.1 3.4 3.4 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GEO 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+51
+87
+94
+36
+29
+19
+8
+5
+1
+3
+1
+2
+2
+0
+4
+0
+5
+0
+0
+0
+3.23
+% 0.6 14.6 24.9 26.9 10.3 8.3 5.4 2.3 1.4 0.3 0.9 0.3 0.6 0.6 0.0 1.1 0.0 1.4 0.0 0.0 0.0
+GEO 111 A Rioja Velarde Jacqueline D. World Regional Geography
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+8
+5
+2
+1
+1
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 3.4 24.1 27.6 17.2 6.9 3.4 3.4 0.0 0.0 6.9 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

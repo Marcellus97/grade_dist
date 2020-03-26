@@ -1,0 +1,133 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Hamilton Campus
+Page: 733 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CSA 271 H A Courte Jill E. Object-Oriented Programming
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+1
+2
+2
+0
+1
+1
+0
+0
+2
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.27
+% 0.0 17.6 0.0 5.9 11.8 11.8 0.0 5.9 5.9 0.0 0.0 11.8 11.8 17.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSA 271
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+1
+2
+2
+0
+1
+1
+0
+0
+2
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.27
+% 0.0 17.6 0.0 5.9 11.8 11.8 0.0 5.9 5.9 0.0 0.0 11.8 11.8 17.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Computer Sci &Systems Analysis Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 6
+25
+7
+7
+21
+12
+10
+18
+16
+7
+9
+4
+19
+43
+0
+0
+0
+0
+0
+0
+0
+2.33
+% 2.9 12.3 3.4 3.4 10.3 5.9 4.9 8.8 7.8 3.4 4.4 2.0 9.3 21.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

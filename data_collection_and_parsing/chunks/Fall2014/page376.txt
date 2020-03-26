@@ -1,0 +1,302 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 372 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ISA 235 Q Cruez Gerald V. IT & Intelligent Enterprise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+5
+2
+10
+4
+6
+4
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 2.9 2.9 14.7 5.9 29.4 11.8 17.6 11.8 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 235 R Merhout Jeffrey W. IT & Intelligent Enterprise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+4
+8
+6
+6
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.87
+% 0.0 5.9 11.8 11.8 23.5 17.6 17.6 8.8 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ISA 235
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+68
+28
+66
+206 80
+36
+49
+12
+3
+2
+2
+2
+8
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.2 12.1 5.0 11.7 36.6 14.2 6.4 8.7 2.1 0.5 0.4 0.4 0.4 1.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 235C A Merhout Jeffrey W. IT & Intelligent Enterprise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+1
+8
+6
+3
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 4.0 20.0 4.0 32.0 24.0 12.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ISA 235C
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+1
+8
+6
+3
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 4.0 20.0 4.0 32.0 24.0 12.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 245 A Havelka Douglas Database Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+6
+8
+4
+4
+1
+2
+0
+1
+1
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.02
+% 5.7 5.7 17.1 22.9 11.4 11.4 2.9 5.7 0.0 2.9 2.9 2.9 0.0 8.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 245 B Havelka Douglas Database Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+0
+5
+5
+5
+2
+5
+2
+2
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 12.1 0.0 15.2 15.2 15.2 6.1 15.2 6.1 6.1 0.0 6.1 0.0 0.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

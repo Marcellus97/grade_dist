@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 10 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ACC 433 A Brewer Peter C. Management Accounting Process
+N
+N
+J9
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+1
+1
+4
+1
+1
+1
+3
+2
+4
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.33
+% 8.7 8.7 4.3 4.3 17.4 4.3 4.3 4.3 13.0 8.7 17.4 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 433
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+1
+1
+4
+1
+1
+1
+3
+2
+4
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.33
+% 8.7 8.7 4.3 4.3 17.4 4.3 4.3 4.3 13.0 8.7 17.4 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0
+ACC 443 B Arlinghaus Barry P. Federal Income Tax Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+2
+0
+13
+2
+3
+9
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.80
+% 2.9 11.4 5.7 0.0 37.1 5.7 8.6 25.7 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 443 C Arlinghaus Barry P. Federal Income Tax Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+1
+10
+4
+4
+3
+1
+0
+1
+0
+0
+1
+3
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 5.6 16.7 2.8 27.8 11.1 11.1 8.3 2.8 0.0 2.8 0.0 0.0 2.8 8.3 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 443 D Arlinghaus Barry P. Federal Income Tax Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+0
+9
+8
+7
+8
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 2.7 5.4 0.0 24.3 21.6 18.9 21.6 5.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 443
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+10
+1
+32
+14
+14
+20
+3
+1
+1
+0
+0
+1
+3
+0
+0
+0
+0
+0
+0
+2.75
+% 0.9 6.5 9.3 0.9 29.6 13.0 13.0 18.5 2.8 0.9 0.9 0.0 0.0 0.9 2.8 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 452 A Presutti Anthony H. Internal Auditing
+N
+N
+J0
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+0
+0
+13
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.50
+% 0.0 53.3 0.0 0.0 43.3 0.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

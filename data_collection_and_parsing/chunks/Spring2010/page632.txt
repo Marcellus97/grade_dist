@@ -1,0 +1,307 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Middletown Campus
+Page: 628 Sections of 10
+ATH Anthropology
+Miami Plan
+Honors
+Cross Listing
+ATH 175 M A Hammar Lawrence Peoples Of The World
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+1
+5
+2
+0
+1
+0
+0
+0
+0
+5
+7
+0
+0
+0
+0
+0
+0
+0
+1.96
+% 0.0 0.0 4.5 4.5 22.7 9.1 0.0 4.5 0.0 0.0 0.0 0.0 22.7 31.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ATH 175 M B Leza Christina Peoples Of The World
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+0
+3
+8
+0
+3
+3
+0
+0
+1
+0
+7
+4
+0
+0
+0
+0
+0
+0
+0
+2.51
+% 2.6 23.1 0.0 7.7 20.5 0.0 7.7 7.7 0.0 0.0 2.6 0.0 17.9 10.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ATH 175 M C Leza Christina Peoples Of The World
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+8
+1
+2
+12
+0
+0
+7
+1
+0
+4
+0
+7
+2
+0
+0
+0
+0
+0
+0
+0
+2.44
+% 6.4 17.0 2.1 4.3 25.5 0.0 0.0 14.9 2.1 0.0 8.5 0.0 14.9 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ATH 175
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+17
+2
+6
+25
+2
+3
+11
+1
+0
+5
+0
+19
+13
+0
+0
+0
+0
+0
+0
+0
+2.39
+% 3.7 15.7 1.9 5.6 23.1 1.9 2.8 10.2 0.9 0.0 4.6 0.0 17.6 12.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ATH 206 M A Leza Christina Introduction to Latin America
+Y
+N
+27
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+0
+2
+0
+0
+0
+0
+0
+1
+0
+1
+4
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 0.0 46.7 0.0 0.0 13.3 0.0 0.0 0.0 0.0 0.0 6.7 0.0 6.7 26.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ATH 206
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+0
+2
+0
+0
+0
+0
+0
+1
+0
+1
+4
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 0.0 46.7 0.0 0.0 13.3 0.0 0.0 0.0 0.0 0.0 6.7 0.0 6.7 26.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ATH 231 M A Greenberg Adolph M. Perspectives On Culture
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+7
+4
+3
+3
+3
+1
+1
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.42
+% 16.7 23.3 13.3 10.0 10.0 10.0 3.3 3.3 3.3 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

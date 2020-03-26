@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 35 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ART 155 YA Smith Stephen A. Beginning Drawing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.83
+% 0.0 66.7 16.7 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 155 ZA Smith Stephen A. Beginning Drawing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.54
+% 30.0 40.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0
+Course Total ART 155
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+17
+8
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.75
+% 14.7 50.0 23.5 8.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0
+ART 160 XA Lindo Jacqueline G. Beginning Ceramics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+4
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+3.90
+% 38.5 30.8 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 15.4 7.7 0.0 0.0 0.0 0.0 0.0 0.0
+ART 160 YA Lindo Jacqueline G. Beginning Ceramics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+2
+1
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+2.63
+% 0.0 18.2 9.1 18.2 9.1 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 18.2 0.0 0.0 0.0 0.0 0.0
+ART 160 YB Lindo Jacqueline G. Beginning Ceramics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+2
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+3.63
+% 25.0 16.7 8.3 8.3 8.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 16.7 8.3 0.0 0.0 0.0 0.0 0.0 0.0
+ART 160 ZA Lindo Jacqueline G. Beginning Ceramics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+0
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+3.56
+% 16.7 33.3 0.0 8.3 8.3 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 25.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,14 @@
+testPHY Physics
+194
+PSY Psychology
+195
+SOC Sociology
+196
+SPN Spanish
+197
+STA Statistics
+199
+WGS Women,Gender&Sexuality Studies
+200
+ZOO Zoology
+201

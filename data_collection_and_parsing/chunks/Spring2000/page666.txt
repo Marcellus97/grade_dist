@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Hamilton Campus
+Page: 663 Sections of 10
+ACC Accountancy
+Miami Plan
+Honors
+Cross Listing
+ACC 221 H A Eichelberger David J. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+2
+3
+1
+2
+8
+2
+0
+6
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.13
+% 0.0 10.0 3.3 6.7 10.0 3.3 6.7 26.7 6.7 0.0 20.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 221
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+2
+3
+1
+2
+8
+2
+0
+6
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.13
+% 0.0 10.0 3.3 6.7 10.0 3.3 6.7 26.7 6.7 0.0 20.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 222 H A Eichelberger David J. Intro To Managerial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+0
+0
+5
+2
+0
+2
+4
+0
+3
+2
+0
+2
+3
+0
+0
+0
+0
+0
+0
+2.65
+% 0.0 28.1 0.0 0.0 15.6 6.3 0.0 6.3 12.5 0.0 9.4 6.3 0.0 6.3 9.4 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 222 H B Eichelberger David J. Intro To Managerial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+1
+3
+3
+1
+4
+2
+1
+2
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+2.64
+% 0.0 14.8 7.4 3.7 11.1 11.1 3.7 14.8 7.4 3.7 7.4 0.0 0.0 7.4 7.4 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 222
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+2
+1
+8
+5
+1
+6
+6
+1
+5
+2
+0
+4
+5
+0
+0
+0
+0
+0
+0
+2.65
+% 0.0 22.0 3.4 1.7 13.6 8.5 1.7 10.2 10.2 1.7 8.5 3.4 0.0 6.8 8.5 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 225 HXA Eichelberger David J. The Accounting Process
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+0
+9
+1
+0
+4
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.82
+% 0.0 21.7 0.0 0.0 39.1 4.3 0.0 17.4 8.7 0.0 4.3 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 225
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+0
+9
+1
+0
+4
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.82
+% 0.0 21.7 0.0 0.0 39.1 4.3 0.0 17.4 8.7 0.0 4.3 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

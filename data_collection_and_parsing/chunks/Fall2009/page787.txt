@@ -1,0 +1,309 @@
+testRun: 01/21/10 @ 13:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2009-10 Hamilton Campus
+Page: 783 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 111 H U Withers Jeremy R. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+6
+5
+1
+0
+0
+0
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 4.5 22.7 27.3 22.7 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 H V Pelle Susan L. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+0
+0
+0
+1
+2
+0
+0
+0
+1
+0
+1
+6
+1
+0
+0
+0
+0
+0
+0
+0
+2.02
+% 33.3 0.0 0.0 0.0 5.6 11.1 0.0 0.0 0.0 5.6 0.0 5.6 33.3 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 H W Schmidlin Tom J. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 0.0 65.0 15.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 H X Day Deborah R. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+2
+3
+2
+1
+1
+1
+1
+1
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+2.28
+% 0.0 10.5 5.3 10.5 15.8 10.5 5.3 5.3 5.3 5.3 5.3 0.0 15.8 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 H Y Weber Robert S. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+7
+3
+2
+1
+2
+1
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 13.0 30.4 13.0 8.7 4.3 8.7 4.3 0.0 0.0 0.0 0.0 0.0 17.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 H Z West Robert G. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+2
+1
+4
+4
+4
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 0.0 4.8 9.5 9.5 4.8 19.0 19.0 19.0 4.8 0.0 0.0 0.0 0.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 H3A Brenner Laura L. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+4
+4
+1
+0
+1
+0
+0
+0
+0
+0
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 17.6 23.5 23.5 5.9 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 17.6 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

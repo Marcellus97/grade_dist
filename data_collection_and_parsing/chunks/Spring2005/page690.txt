@@ -1,0 +1,301 @@
+testRun: 07/07/05 @ 10:09 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2004-05 Middletown Campus
+Page: 687 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+SOC 262 M A Lynch Jean M. Research Methods
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+1
+2
+1
+0
+1
+0
+0
+3
+0
+1
+0
+0
+1
+2
+0
+0
+0
+0
+2.21
+% 0.0 13.3 6.7 6.7 13.3 6.7 0.0 6.7 0.0 0.0 20.0 0.0 6.7 0.0 0.0 6.7 13.3 0.0 0.0 0.0 0.0
+Course Total SOC 262
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+1
+2
+1
+0
+1
+0
+0
+3
+0
+1
+0
+0
+1
+2
+0
+0
+0
+0
+2.21
+% 0.0 13.3 6.7 6.7 13.3 6.7 0.0 6.7 0.0 0.0 20.0 0.0 6.7 0.0 0.0 6.7 13.3 0.0 0.0 0.0 0.0
+SOC 352 M A Yoder Alana L. Criminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+7
+7
+2
+1
+0
+2
+0
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.19
+% 3.3 23.3 23.3 23.3 6.7 3.3 0.0 6.7 0.0 0.0 6.7 0.0 0.0 0.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0
+Course Total SOC 352
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+7
+7
+2
+1
+0
+2
+0
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.19
+% 3.3 23.3 23.3 23.3 6.7 3.3 0.0 6.7 0.0 0.0 6.7 0.0 0.0 0.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0
+SOC 413 M A Gunder Cynthia L. Juvenile Delinquency
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+9
+3
+2
+3
+0
+0
+1
+0
+0
+0
+2
+5
+1
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 18.8 28.1 9.4 6.3 9.4 0.0 0.0 3.1 0.0 0.0 0.0 6.3 15.6 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SOC 413
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+9
+3
+2
+3
+0
+0
+1
+0
+0
+0
+2
+5
+1
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 18.8 28.1 9.4 6.3 9.4 0.0 0.0 3.1 0.0 0.0 0.0 6.3 15.6 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Sociology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 30
+78
+26
+14
+30
+12
+5
+25
+2
+2
+8
+2
+13
+9
+8
+9
+7
+5
+0
+0
+8
+3.02
+% 10.2 26.6 8.9 4.8 10.2 4.1 1.7 8.5 0.7 0.7 2.7 0.7 4.4 3.1 2.7 3.1 2.4 1.7 0.0 0.0 2.7
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

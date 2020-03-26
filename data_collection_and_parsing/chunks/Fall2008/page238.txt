@@ -1,0 +1,301 @@
+testRun: 01/20/09 @ 12:44 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2008-09 Oxford Campus
+Page: 235 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ENG 113
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+34
+84
+59
+40
+24
+6
+3
+2
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 13.3 32.9 23.1 15.7 9.4 2.4 1.2 0.8 0.0 0.0 0.0 0.0 0.8 0.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 123 A Howe William R. Introduction To Poetry
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+13
+6
+12
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 2.2 23.9 28.3 13.0 26.1 2.2 2.2 0.0 0.0 0.0 0.0 0.0 2.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 123
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+13
+6
+12
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 2.2 23.9 28.3 13.0 26.1 2.2 2.2 0.0 0.0 0.0 0.0 0.0 2.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 124 A Fisher William F. Introduction To Fiction
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+10
+15
+4
+2
+3
+2
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+2.99
+% 0.0 4.5 9.1 22.7 34.1 9.1 4.5 6.8 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.3 2.3 0.0 0.0 0.0
+Course Total ENG 124
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+10
+15
+4
+2
+3
+2
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+2.99
+% 0.0 4.5 9.1 22.7 34.1 9.1 4.5 6.8 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.3 2.3 0.0 0.0 0.0
+ENG 131 A Nowocin Laura J. Life&Thought In English Lit
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+12
+3
+3
+2
+0
+0
+0
+0
+1
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 3.0 21.2 36.4 9.1 9.1 6.1 0.0 0.0 0.0 0.0 3.0 0.0 6.1 6.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 131
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+12
+3
+3
+2
+0
+0
+0
+0
+1
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 3.0 21.2 36.4 9.1 9.1 6.1 0.0 0.0 0.0 0.0 3.0 0.0 6.1 6.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

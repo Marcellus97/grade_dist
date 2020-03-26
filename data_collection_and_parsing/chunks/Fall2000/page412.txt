@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 11:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2000-01 Oxford Campus
+Page: 409 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHS 120E UB Fesperman Lillian D. Self Defense
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+8
+5
+4
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+3.55
+% 0.0 39.4 24.2 15.2 12.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.1 0.0 3.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 120E
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+40
+22
+7
+10
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+1
+0
+0
+0
+0
+0
+3.68
+% 0.0 47.6 26.2 8.3 11.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 1.2 0.0 0.0 0.0 0.0 0.0
+PHS 120G A Johnson Adam M. Weight Training
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+22
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.94
+% 0.0 95.7 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 120G B Johnson Adam M. Weight Training
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+5
+3
+1
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.66
+% 0.0 57.7 19.2 11.5 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.8 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 120G C Johnson Adam M. Weight Training
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+19
+2
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.79
+% 0.0 76.0 8.0 4.0 4.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 120G D Johnson Adam M. Weight Training
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+4
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 0.0 56.0 16.0 8.0 8.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 120G TA Earnest Mandy B. Weight Training
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+3
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+3.54
+% 0.0 55.6 16.7 5.6 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 5.6 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

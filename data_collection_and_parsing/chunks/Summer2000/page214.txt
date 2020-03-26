@@ -1,0 +1,306 @@
+testRun: 06/30/04 @ 11:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 1999-2000 Hamilton Campus
+Page: 212 Sections of 10
+ENG English
+Miami Plan
+Honors
+Cross Listing
+ENG 111 HMA McCormack S. Allison College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+0
+2
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 72.2 0.0 0.0 11.1 0.0 11.1 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 HNJ Jacobs Kimberly L. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+2
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+3.07
+% 0.0 18.2 27.3 18.2 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0
+ENG 111 HOA Thomas Evans Margaret A. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+5
+2
+1
+2
+1
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.42
+% 5.3 26.3 26.3 10.5 5.3 10.5 5.3 0.0 5.3 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+20
+8
+4
+3
+3
+4
+1
+1
+0
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+3.41
+% 2.1 41.7 16.7 8.3 6.3 6.3 8.3 2.1 2.1 0.0 0.0 0.0 0.0 2.1 2.1 2.1 0.0 0.0 0.0 0.0 0.0
+ENG 112 HMA McCormack S. Allison Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+1
+8
+4
+3
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.84
+% 0.0 10.0 5.0 5.0 40.0 20.0 15.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 HOA Inness Sherrie Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+3
+4
+1
+1
+1
+0
+1
+0
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+3.22
+% 10.0 20.0 15.0 20.0 5.0 5.0 5.0 0.0 5.0 0.0 0.0 0.0 0.0 5.0 5.0 5.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 112
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+4
+5
+9
+5
+4
+0
+1
+0
+0
+0
+0
+1
+1
+2
+0
+0
+0
+0
+0
+3.02
+% 5.0 15.0 10.0 12.5 22.5 12.5 10.0 0.0 2.5 0.0 0.0 0.0 0.0 2.5 2.5 5.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,344 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Hamilton Campus
+Page: 672 Sections of 10
+BWS Black World Studies
+BWS 151 H A Harrell Mona J. Intro To Black World Studies
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+6
+1
+2
+3
+4
+1
+1
+0
+0
+% 0.0 26.1 4.3 8.7 13.0 17.4 4.3 4.3 0.0 0.0
+Course Total BWS 151
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+6
+1
+2
+3
+4
+1
+1
+0
+0
+% 0.0 26.1 4.3 8.7 13.0 17.4 4.3 4.3 0.0 0.0
+BWS 156 H A Harrell Mona J. Introduction to Africa
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+5
+4
+2
+2
+2
+5
+3
+0
+% 0.0 5.7 14.3 11.4 5.7 5.7 5.7 14.3 8.6 0.0
+BWS 156 H B Harrell Mona J. Introduction to Africa
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+2
+1
+2
+7
+1
+1
+2
+4
+0
+% 3.7 7.4 3.7 7.4 25.9 3.7 3.7 7.4 14.8 0.0
+Course Total BWS 156
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+1
+4
+6
+6
+9
+3
+3
+7
+7
+0
+% 1.6 6.5 9.7 9.7 14.5 4.8 4.8 11.3 11.3 0.0
+BWS 221 H A Brentley Karen W. African American History
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+2
+1
+1
+1
+3
+1
+2
+0
+% 0.0 0.0 12.5 6.3 6.3 6.3 18.8 6.3 12.5 0.0
+Course Total BWS 221
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+0
+2
+1
+1
+1
+3
+1
+2
+0
+% 0.0 0.0 12.5 6.3 6.3 6.3 18.8 6.3 12.5 0.0
+D
+D-
+1
+0
+4.3 0.0
+D
+D-
+1
+0
+4.3 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+3
+0
+11.1 0.0
+D
+D-
+3
+0
+4.8 0.0
+D
+D-
+1
+0
+6.3 0.0
+D
+D-
+1
+0
+6.3 0.0
+F
+W
+WP WF
+0
+4
+0
+0
+0.0 17.4 0.0 0.0
+F
+W
+WP WF
+0
+4
+0
+0
+0.0 17.4 0.0 0.0
+F
+W
+6
+2
+17.1 5.7
+WP WF
+0
+0
+0.0 0.0
+F
+W
+WP WF
+2
+1
+0
+0
+7.4 3.7 0.0 0.0
+F
+W
+8
+3
+12.9 4.8
+WP WF
+0
+0
+0.0 0.0
+F
+W
+WP WF
+2
+2
+0
+0
+12.5 12.5 0.0 0.0
+F
+W
+WP WF
+2
+2
+0
+0
+12.5 12.5 0.0 0.0
+Miami Plan
+Y
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+2
+0
+5.7 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+2
+0
+3.2 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.13
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.13
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.28
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.39
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.33
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.12
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.12
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

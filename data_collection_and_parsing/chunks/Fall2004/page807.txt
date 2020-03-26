@@ -1,0 +1,302 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Hamilton Campus
+Page: 804 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total PHS 205
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+2
+1
+3
+1
+0
+2
+0
+0
+0
+0
+0
+1
+3
+0
+0
+0
+0
+0
+2.67
+% 0.0 25.0 10.0 10.0 5.0 15.0 5.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 5.0 15.0 0.0 0.0 0.0 0.0 0.0
+PHS 207 H A Hennon Charles B. Serving&Support Children,Fam I
+N
+N
+1B
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+0
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.33
+% 0.0 8.3 50.0 0.0 16.7 8.3 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0
+Course Total PHS 207
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+0
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.33
+% 0.0 8.3 50.0 0.0 16.7 8.3 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0
+PHS 242 H A McGuire Keith Personal Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+4
+5
+4
+2
+2
+1
+2
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+2.54
+% 0.0 11.1 3.7 14.8 18.5 14.8 7.4 7.4 3.7 7.4 3.7 0.0 0.0 0.0 0.0 7.4 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 242
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+4
+5
+4
+2
+2
+1
+2
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+2.54
+% 0.0 11.1 3.7 14.8 18.5 14.8 7.4 7.4 3.7 7.4 3.7 0.0 0.0 0.0 0.0 7.4 0.0 0.0 0.0 0.0 0.0
+PHS 244 H A Rack Cynthia C. Functional Anatomy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+0
+1
+1
+6
+2
+4
+2
+2
+1
+0
+0
+1
+2
+1
+0
+0
+0
+0
+2.16
+% 0.0 6.9 13.8 0.0 3.4 3.4 20.7 6.9 13.8 6.9 6.9 3.4 0.0 0.0 3.4 6.9 3.4 0.0 0.0 0.0 0.0
+Course Total PHS 244
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+0
+1
+1
+6
+2
+4
+2
+2
+1
+0
+0
+1
+2
+1
+0
+0
+0
+0
+2.16
+% 0.0 6.9 13.8 0.0 3.4 3.4 20.7 6.9 13.8 6.9 6.9 3.4 0.0 0.0 3.4 6.9 3.4 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

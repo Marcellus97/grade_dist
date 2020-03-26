@@ -1,0 +1,45 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Middletown Campus
+Page: 819 Sections of 10
+History Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 7
+67
+49
+35
+29
+23
+8
+26
+20
+1
+8
+3
+15
+36
+0
+0
+0
+2
+0
+0
+0
+2.95
+% 2.1 20.4 14.9 10.6 8.8 7.0 2.4 7.9 6.1 0.3 2.4 0.9 4.6 10.9 0.0 0.0 0.0 0.6 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

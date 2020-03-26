@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 498 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+SAN 274 A Uckan Yuksel Data Abstracton&Data Structres
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+0
+0
+11
+0
+0
+4
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.04
+% 4.3 26.1 0.0 0.0 47.8 0.0 0.0 17.4 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 274 B Uckan Yuksel Data Abstracton&Data Structres
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+10
+0
+0
+3
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 17.6 0.0 0.0 58.8 0.0 0.0 17.6 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SAN 274
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+0
+0
+21
+0
+0
+7
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 2.5 22.5 0.0 0.0 52.5 0.0 0.0 17.5 0.0 0.0 2.5 0.0 0.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 275 A Dacey John Data Processing& File Design
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+20
+2
+9
+11
+1
+5
+4
+0
+0
+0
+0
+0
+3
+3
+0
+0
+0
+0
+0
+0
+3.34
+% 3.3 33.3 3.3 15.0 18.3 1.7 8.3 6.7 0.0 0.0 0.0 0.0 0.0 5.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SAN 275
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+20
+2
+9
+11
+1
+5
+4
+0
+0
+0
+0
+0
+3
+3
+0
+0
+0
+0
+0
+0
+3.34
+% 3.3 33.3 3.3 15.0 18.3 1.7 8.3 6.7 0.0 0.0 0.0 0.0 0.0 5.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 276 A Schaber Thomas C. Systems Analysis & Design
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+3
+6
+0
+0
+2
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.68
+% 0.0 12.5 0.0 18.8 37.5 0.0 0.0 12.5 0.0 0.0 18.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SAN 276
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+3
+6
+0
+0
+2
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.68
+% 0.0 12.5 0.0 18.8 37.5 0.0 0.0 12.5 0.0 0.0 18.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

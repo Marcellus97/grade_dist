@@ -1,0 +1,300 @@
+testRun: 07/08/13 @ 16:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2012-13 Oxford Campus
+Page: 60 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ART 122 D Parsley Timothy L. Drawing II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+2
+3
+1
+4
+4
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.40
+% 0.0 5.6 5.6 5.6 11.1 16.7 5.6 22.2 22.2 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ART 122
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+15
+6
+7
+11
+2
+8
+5
+1
+2
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.70
+% 0.0 4.8 23.8 9.5 11.1 17.5 3.2 12.7 7.9 1.6 3.2 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 149 YA Stevens Ron Beginning Digital Photography
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+0
+1
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 45.5 27.3 0.0 9.1 0.0 0.0 0.0 9.1 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 149 ZA Stevens Ron Beginning Digital Photography
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+2
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.67
+% 0.0 60.0 13.3 0.0 6.7 6.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0
+Course Total ART 149
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+5
+0
+2
+1
+1
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+3.49
+% 0.0 53.8 19.2 0.0 7.7 3.8 3.8 0.0 3.8 0.0 0.0 0.0 3.8 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0
+ART 151 TA Gilmore Thomas H. What is Graphic Design?
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+11
+1
+7
+3
+2
+1
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 0.0 12.9 35.5 3.2 22.6 9.7 6.5 3.2 0.0 0.0 0.0 3.2 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ART 151
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+11
+1
+7
+3
+2
+1
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 0.0 12.9 35.5 3.2 22.6 9.7 6.5 3.2 0.0 0.0 0.0 3.2 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

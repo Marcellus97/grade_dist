@@ -1,0 +1,301 @@
+testRun: 01/20/09 @ 12:44 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2008-09 Middletown Campus
+Page: 638 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CIT 101W
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+6
+3
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 18.2 0.0 0.0 0.0 54.5 27.3 0.0 0.0
+CIT 154 M A Evans Donna M. Personl Computr Concpts & Apps
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+1
+0
+0
+2
+1
+0
+0
+0
+0
+0
+1
+6
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 14.3 7.1 7.1 0.0 0.0 14.3 7.1 0.0 0.0 0.0 0.0 0.0 7.1 42.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CIT 154 M3A Evans Donna M. Personl Computr Concpts & Apps
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+2
+0
+3
+0
+0
+0
+0
+0
+0
+1
+0
+2
+5
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 23.5 11.8 0.0 17.6 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 11.8 29.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CIT 154
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+3
+1
+3
+0
+2
+1
+0
+0
+0
+1
+0
+3
+11
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 19.4 9.7 3.2 9.7 0.0 6.5 3.2 0.0 0.0 0.0 3.2 0.0 9.7 35.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CIT 157 M A Courte Jill E. Foundations of IT I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+0
+0
+1
+1
+0
+3
+0
+0
+0
+2
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.11
+% 8.3 8.3 0.0 0.0 8.3 8.3 0.0 25.0 0.0 0.0 0.0 16.7 8.3 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CIT 157
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+0
+0
+1
+1
+0
+3
+0
+0
+0
+2
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.11
+% 8.3 8.3 0.0 0.0 8.3 8.3 0.0 25.0 0.0 0.0 0.0 16.7 8.3 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Comp Information Technology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 7
+4
+1
+3
+1
+3
+1
+3
+0
+0
+1
+2
+4
+17
+0
+0
+0
+57
+12
+0
+0
+2.65
+% 6.0 3.4 0.9 2.6 0.9 2.6 0.9 2.6 0.0 0.0 0.9 1.7 3.4 14.7 0.0 0.0 0.0 49.1 10.3 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

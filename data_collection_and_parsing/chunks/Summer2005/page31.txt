@@ -1,0 +1,304 @@
+testRun: 12/19/05 @ 10:10 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2004-05 Oxford Campus
+Page: 28 Sections of 10
+ECO Economics
+Miami Plan
+Honors
+Cross Listing
+ECO 201 MB Miller Norman C. Principles Of Microeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+2
+1
+4
+0
+1
+5
+2
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+2.65
+% 5.0 0.0 10.0 5.0 20.0 0.0 5.0 25.0 10.0 0.0 0.0 0.0 0.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 201 OA Sharma Amarendra Principles Of Microeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+1
+7
+2
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+2.79
+% 0.0 0.0 11.1 5.6 38.9 11.1 11.1 11.1 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0
+Course Total ECO 201
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+4
+2
+11
+2
+3
+7
+3
+0
+0
+0
+0
+2
+2
+0
+0
+1
+0
+0
+0
+2.72
+% 2.6 0.0 10.5 5.3 28.9 5.3 7.9 18.4 7.9 0.0 0.0 0.0 0.0 5.3 5.3 0.0 0.0 2.6 0.0 0.0 0.0
+ECO 202 OA Hart William R. Principles Of Macroeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+1
+3
+1
+2
+1
+4
+0
+0
+1
+1
+0
+1
+1
+0
+0
+0
+0
+0
+2.44
+% 0.0 19.0 4.8 4.8 14.3 4.8 9.5 4.8 19.0 0.0 0.0 4.8 4.8 0.0 4.8 4.8 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 202
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+1
+3
+1
+2
+1
+4
+0
+0
+1
+1
+0
+1
+1
+0
+0
+0
+0
+0
+2.44
+% 0.0 19.0 4.8 4.8 14.3 4.8 9.5 4.8 19.0 0.0 0.0 4.8 4.8 0.0 4.8 4.8 0.0 0.0 0.0 0.0 0.0
+ECO 301 MA Noble Nicholas R. Money And Banking
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+3.23
+% 0.0 10.0 20.0 0.0 30.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 10.0 0.0 0.0 0.0
+Course Total ECO 301
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+3.23
+% 0.0 10.0 20.0 0.0 30.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 10.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

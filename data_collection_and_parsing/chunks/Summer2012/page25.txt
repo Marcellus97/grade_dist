@@ -1,0 +1,259 @@
+testRun: 09/27/12 @ 10:49 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2011-12 Oxford Campus
+Page: 22 Sections of 10
+AMS American Studies
+Miami Plan
+Honors
+Cross Listing
+AMS 205 A Metcalf Eugene W. Intro to American Studies
+Y
+N
+BJ
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+10
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+2
+0
+0
+0
+3.72
+% 0.0 30.8 38.5 11.5 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.7 7.7 0.0 0.0 0.0
+AMS 205 XA Williams Kristen A. Intro to American Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+0
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.38
+% 0.0 40.0 10.0 0.0 30.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0
+Course Total AMS 205
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+11
+3
+4
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2
+3
+0
+0
+0
+3.62
+% 0.0 33.3 30.6 8.3 11.1 0.0 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 8.3 0.0 0.0 0.0
+AMS 399A A Metcalf Eugene W. Americans in Paris
+N
+N
+BJ
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+10
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+2
+0
+0
+0
+3.73
+% 0.0 32.1 35.7 10.7 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.7 7.1 0.0 0.0 0.0
+Course Total AMS 399A
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+10
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+2
+0
+0
+0
+3.73
+% 0.0 32.1 35.7 10.7 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.7 7.1 0.0 0.0 0.0
+American Studies Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+21
+21
+6
+5
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+5
+5
+0
+0
+0
+3.67
+% 0.0 32.8 32.8 9.4 7.8 0.0 0.0 0.0 1.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.8 7.8 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

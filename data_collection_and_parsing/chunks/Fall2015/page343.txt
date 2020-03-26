@@ -1,0 +1,309 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 339 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+HST 296 B Olumwullah Osaak A. World History Since 1945
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+11
+11
+7
+1
+2
+1
+0
+0
+1
+2
+2
+0
+0
+1
+2
+0
+0
+0
+2.78
+% 0.0 4.5 2.3 25.0 25.0 15.9 2.3 4.5 2.3 0.0 0.0 2.3 4.5 4.5 0.0 0.0 2.3 4.5 0.0 0.0 0.0
+HST 296 AA Jensen Erik N. World History Since 1945
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+3
+4
+1
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 0.0 12.5 25.0 18.8 25.0 6.3 0.0 6.3 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 296 BA Jensen Erik N. World History Since 1945
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+1
+7
+1
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 16.7 11.1 5.6 38.9 5.6 11.1 5.6 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 296 CA Jensen Erik N. World History Since 1945
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+4
+3
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 23.5 17.6 23.5 17.6 11.8 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 296 DA Jensen Erik N. World History Since 1945
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+2
+2
+2
+1
+2
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 5.9 29.4 11.8 11.8 11.8 5.9 11.8 5.9 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 296 EA Jensen Erik N. World History Since 1945
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+0
+7
+2
+3
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 17.6 5.9 0.0 41.2 11.8 17.6 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 296 FA Jensen Erik N. World History Since 1945
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+1
+4
+0
+3
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.19
+% 0.0 23.5 17.6 5.9 23.5 0.0 17.6 0.0 5.9 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

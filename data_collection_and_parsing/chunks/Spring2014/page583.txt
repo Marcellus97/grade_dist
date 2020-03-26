@@ -1,0 +1,309 @@
+testRun: 06/23/14 @ 07:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2013-14 Oxford Campus
+Page: 579 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+SPN 201 K Hair David A. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+3
+4
+3
+2
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 0.0 20.8 12.5 12.5 16.7 12.5 8.3 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 201 L Sosa Ricardo A. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+4
+4
+0
+1
+4
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 8.7 26.1 17.4 17.4 0.0 4.3 17.4 0.0 0.0 0.0 0.0 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 201 M Sosa Ricardo A. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+4
+2
+4
+2
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 0.0 13.0 17.4 17.4 8.7 17.4 8.7 13.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 201 P Rios Zimry D. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2
+4
+1
+1
+7
+0
+1
+3
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.03
+% 0.0 0.0 0.0 8.7 17.4 4.3 4.3 30.4 0.0 4.3 13.0 4.3 4.3 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 201 Q Szucs Julie A. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+1
+1
+5
+4
+0
+3
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.66
+% 0.0 16.7 12.5 4.2 4.2 20.8 16.7 0.0 12.5 0.0 0.0 0.0 8.3 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 201 R Szucs Julie A. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+4
+2
+2
+7
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.82
+% 0.0 16.0 8.0 16.0 8.0 8.0 28.0 4.0 4.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 201 S Hair David A. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+4
+3
+1
+3
+2
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.64
+% 0.0 9.1 9.1 9.1 18.2 13.6 4.5 13.6 9.1 0.0 4.5 4.5 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

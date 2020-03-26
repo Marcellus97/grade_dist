@@ -1,0 +1,124 @@
+testPSY Psychology
+121
+REL Religion, Comparative
+125
+SOC Sociology
+126
+SPA Speech Pathology & Audiology
+127
+SPN Spanish
+129
+STA Statistics
+132
+THE Theatre
+134
+WMS Women'S Studies
+135
+ZOO Zoology
+136
+Middletown Campus
+144
+ACC Accountancy
+145
+ART Art
+146
+ATH Anthropology
+147
+BIS Integrative Studies
+148
+BOT Botany
+149
+BTE Business Technology
+150
+BWS Black World Studies
+153
+CHM Chemistry & Biochemistry
+154
+CIT Comp Information Technology
+156
+CLS Classics
+157
+COM Communication
+158
+EDL Educational Leadership
+159
+EDT Teacher Education
+160
+ENG English
+161
+ENT Engineering Technology
+163
+GLG Geology
+164
+HST History
+166
+ITS International Studies
+168
+KNH Kinesiology And Health
+169
+MBI Microbiology
+170
+MTH Mathematics
+171
+MUS Music
+173
+NSG Nursing
+174
+PHY Physics
+176
+PSY Psychology
+178
+SPN Spanish
+180
+STA Statistics
+182
+ZOO Zoology
+183
+Hamilton Campus
+184
+ACC Accountancy
+185
+AMS American Studies
+186
+ART Art
+187
+ATH Anthropology
+188
+BOT Botany
+190
+BTE Business Technology
+191
+BUS Business Analysis
+194
+CHM Chemistry & Biochemistry
+195
+COM Communication
+196
+CSE Comp Sci &Software Engineering
+198
+ECO Economics
+199
+EDP Educational Psychology
+200
+EDT Teacher Education
+202
+ENG English
+204
+ENT Engineering Technology
+207
+FRE French
+209
+FST Film Studies
+210
+FSW Family Studies And Social Work
+211
+GEO Geography
+213
+GLG Geology
+214
+HST History
+215
+ITS International Studies
+217
+JRN Journalism
+218

@@ -1,0 +1,309 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 539 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+SPN 201 F Belka Tiffany Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2
+0
+1
+1
+1
+1
+1
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.37
+% 0.0 0.0 0.0 20.0 0.0 10.0 10.0 10.0 10.0 10.0 0.0 0.0 0.0 30.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 201 G Price Amanda N. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+5
+2
+2
+3
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 0.0 4.8 23.8 23.8 9.5 9.5 14.3 9.5 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 201 H Motta David F. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+2
+2
+1
+3
+2
+1
+2
+3
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+1.91
+% 0.0 4.5 0.0 9.1 9.1 4.5 13.6 9.1 4.5 9.1 13.6 4.5 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 201 J Focke Sarah L. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+2
+3
+6
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 0.0 0.0 20.0 13.3 20.0 40.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 201 K Humphrys Judith E. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+1
+1
+5
+2
+1
+2
+2
+0
+0
+2
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.48
+% 4.0 12.0 4.0 4.0 20.0 8.0 4.0 8.0 8.0 0.0 0.0 8.0 8.0 12.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 201 M Motta David F. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+2
+0
+4
+2
+2
+3
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 4.8 19.0 9.5 0.0 19.0 9.5 9.5 14.3 0.0 4.8 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 201 N Rubio Gil Aurora Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+6
+7
+3
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 4.3 21.7 26.1 30.4 13.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

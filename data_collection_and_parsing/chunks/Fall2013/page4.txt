@@ -1,0 +1,76 @@
+testBIS Integrative Studies
+887
+BTE Business Technology
+888
+BUS Business Analysis
+889
+COM Communication
+890
+ECO Economics
+891
+EDL Educational Leadership
+892
+EDP Educational Psychology
+895
+EDT Teacher Education
+897
+ENG English
+898
+ENT Engineering Technology
+899
+FIN Finance
+900
+FSW Family Studies And Social Work
+901
+GLG Geology
+902
+HST History
+903
+MBI Microbiology
+904
+MGT Management
+905
+MKT Marketing
+906
+MTH Mathematics
+907
+NSG Nursing
+908
+PSY Psychology
+909
+SPA Speech Pathology & Audiology
+910
+SPN Spanish
+911
+WGS Women,Gender&Sexuality Studies
+912
+Luxembourg Campus
+913
+ATH Anthropology
+914
+BUS Business Analysis
+915
+ENG English
+916
+FIN Finance
+917
+FRE French
+918
+GER German
+920
+HST History
+921
+ITS International Studies
+922
+LUX Luxembourg
+923
+MGT Management
+924
+MKT Marketing
+925
+MUS Music
+926
+POL Political Science
+927
+SOC Sociology
+928

@@ -1,0 +1,329 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 676 Sections of 10
+BIO 155 HVA Grubb Brian Field Botany
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+1
+2
+0
+1
+4
+0
+1
+3
+1
+0
+0
+0
+0
+1
+0
+0
+% 7.1 14.3 0.0 7.1 28.6 0.0 7.1 21.4 7.1 0.0 0.0 0.0 0.0 7.1 0.0 0.0
+Course Total BIO 155
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+1
+2
+0
+1
+4
+0
+1
+3
+1
+0
+0
+0
+0
+1
+0
+0
+% 7.1 14.3 0.0 7.1 28.6 0.0 7.1 21.4 7.1 0.0 0.0 0.0 0.0 7.1 0.0 0.0
+BIO 161 H A Martins Paulo Jose Principles of Human Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+0
+0
+0
+1
+2
+0
+3
+0
+3
+2
+2
+5
+3
+0
+0
+% 0.0 0.0 0.0 0.0 4.8 9.5 0.0 14.3 0.0 14.3 9.5 9.5 23.8 14.3 0.0 0.0
+BIO 161 H B Martins Paulo Jose Principles of Human Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+0
+1
+0
+0
+0
+2
+0
+7
+0
+0
+1
+10
+2
+0
+0
+% 0.0 0.0 4.3 0.0 0.0 0.0 8.7 0.0 30.4 0.0 0.0 4.3 43.5 8.7 0.0 0.0
+BIO 161 H D Aebig Trudy Principles of Human Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+2
+0
+1
+1
+3
+1
+1
+4
+2
+2
+1
+3
+0
+0
+0
+% 0.0 9.5 0.0 4.8 4.8 14.3 4.8 4.8 19.0 9.5 9.5 4.8 14.3 0.0 0.0 0.0
+BIO 161 H E Aebig Trudy Principles of Human Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+1
+1
+0
+3
+0
+1
+2
+2
+0
+4
+2
+4
+0
+0
+0
+% 0.0 5.0 5.0 0.0 15.0 0.0 5.0 10.0 10.0 0.0 20.0 10.0 20.0 0.0 0.0 0.0
+BIO 161 H G Al-Obaidi Ghasak Principles of Human Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+1
+5
+4
+3
+1
+0
+1
+1
+0
+1
+0
+1
+1
+0
+0
+% 0.0 5.3 26.3 21.1 15.8 5.3 0.0 5.3 5.3 0.0 5.3 0.0 5.3 5.3 0.0 0.0
+Miami Plan
+Y
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.87
+0.0 0.0 0.0
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+0 0.0
+MV
+S
+0 0.0
+MV
+S
+0 0.0
+Avg GPA 2.87
+Avg GPA 1.21
+Avg GPA 1.00
+S
+Avg GPA
+0
+1.85
+0.0
+S
+Avg GPA
+0
+1.59
+0.0
+S
+Avg GPA
+0
+2.89
+0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

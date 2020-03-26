@@ -1,0 +1,309 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Oxford Campus
+Page: 184 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDL 100 UA Shoemaker Katie Career Devlp College Student
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+6
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+3.11
+% 25.0 37.5 12.5 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 18.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 100 UB Melita Jessica M. Career Devlp College Student
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+10
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.98
+% 31.3 62.5 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 100 UC Sales LaNighta Career Devlp College Student
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+6
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.94
+% 33.3 40.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 100 UD Farthing Lisa A. Career Devlp College Student
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+6
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 41.2 35.3 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 100 UE Farthing Lisa A. Career Devlp College Student
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+5
+1
+2
+1
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 31.3 31.3 6.3 12.5 6.3 0.0 0.0 0.0 0.0 0.0 0.0 6.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 100 UF Carlson Rebecca D. Career Devlp College Student
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+9
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.75
+% 20.0 60.0 0.0 13.3 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 100 UG Hagerty Meagan Career Devlp College Student
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+6
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.66
+% 6.3 31.3 37.5 12.5 6.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

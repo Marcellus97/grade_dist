@@ -1,0 +1,306 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Oxford Campus
+Page: 97 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BUS 102 FC Waldrop Kelly Writing for Bus.DecisionMaking
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+0
+10
+0
+0
+2
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 0.0 25.0 0.0 0.0 50.0 0.0 0.0 10.0 0.0 0.0 5.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 102 FD Waldrop Kelly Writing for Bus.DecisionMaking
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+7
+0
+0
+5
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 30.0 0.0 0.0 35.0 0.0 0.0 25.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 102 FE Dubisar Abby M. Writing for Bus.DecisionMaking
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+5
+4
+4
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 0.0 20.0 0.0 25.0 20.0 20.0 10.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 102 FF Ponto Jessica J. Writing for Bus.DecisionMaking
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+2
+3
+3
+2
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.33
+% 0.0 42.9 9.5 14.3 14.3 9.5 4.8 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 102 FG Blankenship Lisa Writing for Bus.DecisionMaking
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+8
+2
+1
+1
+0
+3
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 0.0 15.0 40.0 10.0 5.0 5.0 0.0 15.0 5.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BUS 102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+84
+81
+96
+174 47
+23
+41
+6
+3
+15
+3
+10
+5
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 0.2 14.3 13.8 16.3 29.5 8.0 3.9 7.0 1.0 0.5 2.5 0.5 1.7 0.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 131 TA Yen Chi Chung David China Business Seminar I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+13
+7
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 0.0 3.6 10.7 46.4 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

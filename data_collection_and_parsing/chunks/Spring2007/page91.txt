@@ -1,0 +1,308 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Oxford Campus
+Page: 88 Sections of 10
+COM Communication
+Miami Plan
+Honors
+Cross Listing
+COM 134 A Frymier Ann B. Into to Speech Communication
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+26
+14
+12
+51
+11
+10
+27
+4
+5
+6
+3
+5
+1
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 1.1 14.7 7.9 6.8 28.8 6.2 5.6 15.3 2.3 2.8 3.4 1.7 2.8 0.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 134
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+26
+14
+12
+51
+11
+10
+27
+4
+5
+6
+3
+5
+1
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 1.1 14.7 7.9 6.8 28.8 6.2 5.6 15.3 2.3 2.8 3.4 1.7 2.8 0.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 A Gayetsky Matthew A. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+4
+7
+6
+6
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 0.0 0.0 16.7 29.2 25.0 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 B Lauth Ryan S. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+8
+2
+1
+2
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 4.5 9.1 13.6 36.4 9.1 4.5 9.1 9.1 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 C Orbash Danielle N. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+5
+3
+4
+0
+0
+1
+0
+0
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+2.76
+% 0.0 8.3 16.7 20.8 12.5 16.7 0.0 0.0 4.2 0.0 0.0 0.0 12.5 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 D Sprigler Hillary T. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+8
+5
+4
+1
+0
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.40
+% 0.0 12.5 33.3 20.8 16.7 4.2 0.0 4.2 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 E Orbash Danielle N. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+1
+4
+5
+4
+1
+1
+0
+0
+1
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 16.7 4.2 16.7 20.8 16.7 4.2 4.2 0.0 0.0 4.2 0.0 0.0 8.3 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

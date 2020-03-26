@@ -1,0 +1,121 @@
+testGTraabdlee DofisCtroinbtuetniotsn
+Voa - West Chester Campus
+1
+ART Art
+1
+ECO Economics
+1
+EDL Educational Leadership
+1
+EDP Educational Psychology
+5
+EDT Teacher Education
+6
+ENG English
+8
+HST History
+9
+MGT Management
+10
+MTH Mathematics
+11
+PSY Psychology
+12
+STA Statistics
+13
+Oxford Campus
+14
+ACC Accountancy
+15
+AMS American Studies
+19
+ARC Architecture & Interior Design
+20
+ART Art
+21
+ATH Anthropology
+23
+BLS Business Legal Studies
+25
+BOT Botany
+26
+BUS Business Analysis
+28
+CHI Chinese
+33
+CHM Chemistry & Biochemistry
+35
+CLS Classics
+39
+COM Communication
+40
+CSA Computer Sci &Systems Analysis
+44
+DSC Decision Sciences
+46
+ECO Economics
+47
+EDL Educational Leadership
+50
+EDP Educational Psychology
+54
+EDT Teacher Education
+61
+EHS Education, Health And Society
+68
+ENG English
+69
+ESP Entrepreneurship
+79
+FIN Finance
+80
+FRE French
+82
+FSW Family Studies And Social Work
+84
+GEO Geography
+87
+GLG Geology
+89
+HON Honors
+91
+HST History
+92
+IES Environmental Sciences
+94
+IMS Interactive Media Studies
+95
+ITS International Studies
+96
+JRN Journalism
+97
+KNH Kinesiology And Health
+98
+MBI Microbiology
+103
+MGT Management
+104
+MIS Management Information Systems
+107
+MKT Marketing
+108
+MME Manufact & Mechan Engineering
+112
+MTH Mathematics
+113
+MUS Music
+115
+PCE Paper & Chemical Engineering
+117
+PHL Philosophy
+118
+PHY Physics
+119
+POL Political Science
+122
+PSY Psychology
+124
+REL Religion, Comparative
+127
+SOC Sociology
+128

@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Hamilton Campus
+Page: 700 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 112 H H Womack Whitney A. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+5
+5
+2
+3
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 8.7 13.0 21.7 21.7 8.7 13.0 8.7 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H I Valente Janet Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+2
+3
+3
+2
+1
+0
+1
+1
+1
+2
+1
+1
+0
+0
+0
+0
+0
+0
+2.26
+% 0.0 0.0 10.0 10.0 15.0 15.0 10.0 5.0 0.0 5.0 5.0 5.0 10.0 5.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H J Martin Robert S. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+4
+2
+2
+1
+4
+1
+0
+1
+2
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+2.48
+% 0.0 0.0 20.0 10.0 10.0 5.0 20.0 5.0 0.0 5.0 10.0 0.0 0.0 5.0 5.0 5.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H K Holcomb Gale A. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+2
+0
+0
+5
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+2.49
+% 0.0 6.7 13.3 20.0 13.3 0.0 0.0 33.3 0.0 0.0 0.0 0.0 6.7 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0
+ENG 112 H L Inness Sherrie Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+1
+4
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 18.2 9.1 9.1 36.4 18.2 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H M Jacobs Kimberly L. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+5
+1
+2
+4
+2
+4
+0
+2
+1
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+2.38
+% 0.0 0.0 20.8 4.2 8.3 16.7 8.3 16.7 0.0 8.3 4.2 0.0 8.3 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H N Inness Sherrie Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+3
+3
+3
+4
+1
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+3.23
+% 8.7 21.7 13.0 13.0 13.0 17.4 4.3 0.0 0.0 0.0 0.0 0.0 4.3 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

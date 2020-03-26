@@ -1,0 +1,308 @@
+testRun: 01/15/14 @ 15:10 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Term, 2012-13 Oxford Campus
+Page: 110 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ZOO 6985 D Myers Christopher A. AIP: Fdns of Inquiry
+N
+N
+A5
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+21
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.85
+% 22.6 67.7 6.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 6985 E Myers Christopher A. AIP: Fdns of Inquiry
+N
+N
+A7
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+15
+1
+1
+2
+1
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.70
+% 24.1 51.7 3.4 3.4 6.9 3.4 0.0 0.0 0.0 0.0 0.0 0.0 3.4 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 6985 F Myers Christopher A. AIP: Fdns of Inquiry
+N
+N
+AB
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+9
+4
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.87
+% 16.7 50.0 22.2 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 6985 G Myers Christopher A. AIP: Fdns of Inquiry
+N
+N
+AD
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+10
+9
+8
+8
+3
+3
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.32
+% 2.3 22.7 20.5 18.2 18.2 6.8 6.8 0.0 0.0 0.0 0.0 0.0 2.3 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ZOO 6985
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+21
+89
+29
+17
+11
+5
+3
+0
+0
+0
+0
+1
+5
+3
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 11.4 48.4 15.8 9.2 6.0 2.7 1.6 0.0 0.0 0.0 0.0 0.5 2.7 1.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 6986 A Myers Christopher A. Guyana:LocalWisdom&Conservatin
+N
+N
+CO
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+1
+1
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.71
+% 0.0 60.0 6.7 6.7 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0
+Course Total ZOO 6986
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+1
+1
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.71
+% 0.0 60.0 6.7 6.7 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

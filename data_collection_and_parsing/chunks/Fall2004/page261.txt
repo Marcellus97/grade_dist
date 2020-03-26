@@ -1,0 +1,307 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Oxford Campus
+Page: 258 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FRE 201 L Nesbitt Frank N. Intermediate French
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+7
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 26.7 46.7 0.0 6.7 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FRE 201
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+34
+39
+27
+42
+22
+12
+14
+6
+6
+2
+3
+2
+5
+7
+2
+0
+13
+1
+0
+0
+3.02
+% 2.1 14.0 16.1 11.2 17.4 9.1 5.0 5.8 2.5 2.5 0.8 1.2 0.8 2.1 2.9 0.8 0.0 5.4 0.4 0.0 0.0
+FRE 202 A Pactat Michel J. Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+7
+7
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.04
+% 0.0 8.7 8.7 30.4 30.4 13.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0
+FRE 202 B Runyon Randolph Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+1
+7
+3
+1
+1
+0
+1
+0
+1
+0
+0
+2
+0
+0
+3
+0
+0
+0
+2.93
+% 0.0 7.7 15.4 3.8 26.9 11.5 3.8 3.8 0.0 3.8 0.0 3.8 0.0 0.0 7.7 0.0 0.0 11.5 0.0 0.0 0.0
+FRE 202 C Amidou Ibrahim Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+12
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 0.0 36.0 48.0 16.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FRE 202 D Runyon Randolph Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+1
+1
+4
+1
+1
+4
+2
+1
+2
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+2.46
+% 4.3 4.3 4.3 4.3 17.4 4.3 4.3 17.4 8.7 4.3 8.7 0.0 0.0 0.0 0.0 0.0 0.0 17.4 0.0 0.0 0.0
+FRE 202 E Pactat Michel J. Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+1
+10
+4
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+2.99
+% 0.0 7.7 11.5 3.8 38.5 15.4 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

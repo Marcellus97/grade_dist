@@ -1,0 +1,300 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Middletown Campus
+Page: 730 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+NSG 313 GVA Vanderbeek Jean C. Assessment Of Well Individual
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+1
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.50
+% 0.0 50.0 10.0 10.0 20.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total NSG 313
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+1
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.50
+% 0.0 50.0 10.0 10.0 20.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+NSG 349 M A Burger Carolyn M. Intro Princ Pharm Nursing Prac
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+4
+5
+8
+2
+3
+4
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 5.7 17.1 11.4 14.3 22.9 5.7 8.6 11.4 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total NSG 349
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+4
+5
+8
+2
+3
+4
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 5.7 17.1 11.4 14.3 22.9 5.7 8.6 11.4 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+NSG 351 M A Haubrich Kathleen L. Nursing of Childbearing Family
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+8
+8
+7
+3
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 2.8 19.4 22.2 22.2 19.4 8.3 2.8 0.0 0.0 0.0 0.0 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total NSG 351
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+8
+8
+7
+3
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 2.8 19.4 22.2 22.2 19.4 8.3 2.8 0.0 0.0 0.0 0.0 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+NSG 353 M A Tibbs Deborah K. Nurs Care Adult Clients w/Hlth
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+10
+11
+5
+3
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 2.8 11.1 27.8 30.6 13.9 8.3 2.8 0.0 0.0 0.0 0.0 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

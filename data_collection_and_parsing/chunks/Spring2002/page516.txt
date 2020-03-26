@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 513 Sections of 10
+RUS Russian
+Miami Plan
+Honors
+Cross Listing
+RUS 102 A Mitchell Paul M. Beginners Russian
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+2
+2
+0
+0
+3
+2
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+2.83
+% 0.0 21.4 0.0 14.3 14.3 0.0 0.0 21.4 14.3 0.0 0.0 0.0 0.0 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total RUS 102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+2
+2
+0
+0
+3
+2
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+2.83
+% 0.0 21.4 0.0 14.3 14.3 0.0 0.0 21.4 14.3 0.0 0.0 0.0 0.0 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0
+RUS 133 TA Goncharenko Irina Imagining Russia
+N
+N
+OK
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+7
+6
+3
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+4
+0
+0
+0
+3.11
+% 0.0 0.0 4.5 31.8 27.3 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 18.2 0.0 0.0 0.0
+Course Total RUS 133
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+7
+6
+3
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+4
+0
+0
+0
+3.11
+% 0.0 0.0 4.5 31.8 27.3 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 18.2 0.0 0.0 0.0
+RUS 134 UA Goncharenko Irina Everday Spoken Russian
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+10
+3
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 71.4 21.4 0.0 0.0
+RUS 134 UB Goncharenko Irina Everday Spoken Russian
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+8
+1
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 18.2 0.0 0.0 72.7 9.1 0.0 0.0
+Course Total RUS 134
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+18
+4
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 8.0 0.0 0.0 72.0 16.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

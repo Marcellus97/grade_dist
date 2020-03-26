@@ -1,0 +1,308 @@
+testRun: 01/21/10 @ 13:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2009-10 Oxford Campus
+Page: 413 Sections of 10
+MGT Management
+Miami Plan
+Honors
+Cross Listing
+MGT 111 A Schloemer Ronald F. Introduction To Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+4
+6
+8
+3
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 3.6 7.1 14.3 21.4 28.6 10.7 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 111 B Schloemer Ronald F. Introduction To Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+8
+4
+2
+10
+3
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 8.8 23.5 11.8 5.9 29.4 8.8 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 111 C Schloemer Ronald F. Introduction To Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+10
+5
+9
+4
+2
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 15.8 26.3 13.2 23.7 10.5 5.3 0.0 0.0 0.0 0.0 0.0 2.6 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 111 D Schloemer Ronald F. Introduction To Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+6
+3
+9
+2
+4
+2
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 5.6 16.7 16.7 8.3 25.0 5.6 11.1 5.6 0.0 0.0 2.8 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+22
+24
+16
+36
+12
+8
+8
+0
+0
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.20
+% 4.4 16.2 17.6 11.8 26.5 8.8 5.9 5.9 0.0 0.0 0.7 0.0 0.7 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 291 A Wang Peng Organizational Behavior&Theory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+7
+8
+15
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.20
+% 0.0 7.7 17.9 20.5 38.5 10.3 5.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 291 B Wang Peng Organizational Behavior&Theory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+8
+21
+5
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 2.3 9.1 18.2 47.7 11.4 6.8 2.3 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

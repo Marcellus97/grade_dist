@@ -1,0 +1,325 @@
+testRun: 06/30/04 @ 15:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2000-01 Oxford Campus
+Page: 129 Sections of 10
+STA Statistics
+Miami Plan
+Honors
+Cross Listing
+STA 261 OA Ward Douglas E. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+2
+2
+0
+4
+1
+2
+0
+1
+0
+3
+0
+0
+1
+1
+0
+1
+0
+0
+0
+2.26
+% 5.3 0.0 10.5 10.5 0.0 21.1 5.3 10.5 0.0 5.3 0.0 15.8 0.0 0.0 5.3 5.3 0.0 5.3 0.0 0.0 0.0
+Course Total STA 261
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+2
+2
+0
+4
+1
+2
+0
+1
+0
+3
+0
+0
+1
+1
+0
+1
+0
+0
+0
+2.26
+% 5.3 0.0 10.5 10.5 0.0 21.1 5.3 10.5 0.0 5.3 0.0 15.8 0.0 0.0 5.3 5.3 0.0 5.3 0.0 0.0 0.0
+STA 261S MA Groggel David J. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+9
+1
+4
+3
+1
+0
+6
+0
+1
+4
+0
+0
+0
+5
+0
+0
+2
+0
+0
+0
+2.93
+% 7.7 23.1 2.6 10.3 7.7 2.6 0.0 15.4 0.0 2.6 10.3 0.0 0.0 0.0 12.8 0.0 0.0 5.1 0.0 0.0 0.0
+Course Total STA 261S
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+9
+1
+4
+3
+1
+0
+6
+0
+1
+4
+0
+0
+0
+5
+0
+0
+2
+0
+0
+0
+2.93
+% 7.7 23.1 2.6 10.3 7.7 2.6 0.0 15.4 0.0 2.6 10.3 0.0 0.0 0.0 12.8 0.0 0.0 5.1 0.0 0.0 0.0
+STA 609 PA Waikar Vasant B. Prob-Sta For Secondary Teachrs
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.77
+% 0.0 50.0 30.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total STA 609
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.77
+% 0.0 50.0 30.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Statistics Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 4
+9
+3
+6
+3
+5
+1
+8
+0
+2
+4
+3
+0
+0
+6
+1
+0
+3
+0
+0
+0
+2.70
+% 6.9 15.5 5.2 10.3 5.2 8.6 1.7 13.8 0.0 3.4 6.9 5.2 0.0 0.0 10.3 1.7 0.0 5.2 0.0 0.0 0.0
+GR 0
+5
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.77
+% 0.0 50.0 30.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,106 @@
+testWMS Women'S Studies
+687
+ZOO Zoology
+688
+Hamilton Campus
+691
+ACC Accountancy
+692
+AMS American Studies
+693
+ART Art
+694
+ATH Anthropology
+698
+BLS Business Legal Studies
+700
+BOT Botany
+701
+BTE Business Technology
+702
+BUS Business Analysis
+708
+BWS Black World Studies
+709
+CHM Chemistry & Biochemistry
+710
+CIT Comp Information Technology
+712
+CJS Criminal Justice Studies
+715
+CLS Classics
+716
+COM Communication
+717
+CSA Computer Sci &Systems Analysis
+721
+DSC Decision Sciences
+723
+EAS Engineering & App Science
+724
+ECO Economics
+725
+EDL Educational Leadership
+726
+EDP Educational Psychology
+729
+EDT Teacher Education
+731
+ENG English
+735
+ENT Engineering Technology
+745
+ENV Environmental Science
+747
+FRE French
+748
+FST Film Studies
+749
+FSW Family Studies And Social Work
+750
+GEO Geography
+752
+GER German
+754
+GLG Geology
+755
+HST History
+756
+JRN Journalism
+761
+LAS Latin American Studies
+762
+MBI Microbiology
+763
+MGT Management
+765
+MKT Marketing
+766
+MTH Mathematics
+767
+MUS Music
+774
+NSG Nursing
+776
+PHL Philosophy
+780
+PHS Phy Edu, Hlth, & Sport Studies
+781
+PHY Physics
+789
+POL Political Science
+791
+PSY Psychology
+793
+REL Comparative Religion
+796
+SOC Sociology
+797
+SPN Spanish
+799
+STA Statistics
+801
+THE Theatre
+803
+ZOO Zoology
+805

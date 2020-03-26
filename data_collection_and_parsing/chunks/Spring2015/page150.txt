@@ -1,0 +1,300 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Oxford Campus
+Page: 146 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CSE 243
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+7
+2
+0
+3
+0
+0
+1
+0
+0
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 10.5 36.8 10.5 0.0 15.8 0.0 0.0 5.3 0.0 0.0 10.5 5.3 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 251 A Bernard Christopher J. Intro to Game Programming
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+8
+3
+3
+5
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 22.2 29.6 11.1 11.1 18.5 3.7 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSE 251
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+8
+3
+3
+5
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 22.2 29.6 11.1 11.1 18.5 3.7 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 252 A Beck Michael D. Web Application Programming
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+6
+6
+2
+0
+0
+2
+1
+2
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 0.0 12.0 24.0 24.0 8.0 0.0 0.0 8.0 4.0 8.0 0.0 0.0 4.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSE 252
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+6
+6
+2
+0
+0
+2
+1
+2
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 0.0 12.0 24.0 24.0 8.0 0.0 0.0 8.0 4.0 8.0 0.0 0.0 4.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 262 A Cross Valerie Tech,Ethics & Global Society
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+2
+8
+6
+3
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 12.5 0.0 8.3 33.3 25.0 12.5 0.0 4.2 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 262 B Cross Valerie Tech,Ethics & Global Society
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+0
+5
+6
+0
+1
+2
+0
+2
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+2.63
+% 0.0 4.3 8.7 0.0 21.7 26.1 0.0 4.3 8.7 0.0 8.7 0.0 0.0 17.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

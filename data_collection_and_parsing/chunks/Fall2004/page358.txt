@@ -1,0 +1,307 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Oxford Campus
+Page: 355 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MBI 414L B Carlin Joseph M. Immunology Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+3
+1
+1
+3
+2
+4
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 14.3 14.3 4.8 4.8 14.3 9.5 19.0 4.8 0.0 4.8 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MBI 414L C Carlin Joseph M. Immunology Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+3
+5
+1
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 0.0 7.1 21.4 35.7 7.1 21.4 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MBI 414L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+4
+3
+6
+14
+6
+7
+3
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 7.8 7.8 5.9 11.8 27.5 11.8 13.7 5.9 2.0 2.0 3.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MBI 425 A Fields Matthew W. Microbial Physiology
+N
+N
+HY
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+1
+2
+0
+1
+3
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.17
+% 0.0 9.1 0.0 9.1 18.2 0.0 9.1 27.3 0.0 9.1 9.1 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MBI 425 B Fields Matthew W. Microbial Physiology
+N
+N
+HX
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+1
+2
+0
+1
+8
+0
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.16
+% 0.0 11.1 0.0 5.6 11.1 0.0 5.6 44.4 0.0 5.6 11.1 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MBI 425
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+2
+4
+0
+2
+11
+0
+2
+3
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.17
+% 0.0 10.3 0.0 6.9 13.8 0.0 6.9 37.9 0.0 6.9 10.3 0.0 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MBI 435 A Lee Marcia R. Medical Mycology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+1
+5
+3
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 0.0 12.5 18.8 6.3 31.3 18.8 6.3 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

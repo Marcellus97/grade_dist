@@ -1,0 +1,309 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 621 Sections of 10
+STA Statistics
+Miami Plan
+Honors
+Cross Listing
+STA 261 A Hudiburgh Lynette M. Statistics
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+3
+7
+5
+4
+2
+1
+0
+0
+2
+0
+2
+0
+0
+1
+0
+0
+0
+0
+2.88
+% 0.0 17.1 5.7 8.6 20.0 14.3 11.4 5.7 2.9 0.0 0.0 5.7 0.0 5.7 0.0 0.0 2.9 0.0 0.0 0.0 0.0
+STA 261 B Hudiburgh Lynette M. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+5
+2
+10
+5
+0
+2
+2
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 0.0 17.6 14.7 5.9 29.4 14.7 0.0 5.9 5.9 0.0 0.0 2.9 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 261 C Hudiburgh Lynette M. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+4
+3
+3
+7
+1
+4
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.02
+% 0.0 28.6 11.4 8.6 8.6 20.0 2.9 11.4 2.9 0.0 2.9 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 261 D Hudiburgh Lynette M. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+4
+3
+9
+4
+2
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 25.7 11.4 8.6 25.7 11.4 5.7 5.7 2.9 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 261 E Hudiburgh Lynette M. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+10
+4
+6
+4
+0
+1
+1
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 11.8 29.4 11.8 17.6 11.8 0.0 2.9 2.9 2.9 0.0 2.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 261 F Hudiburgh Lynette M. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+7
+6
+9
+3
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3.18
+% 0.0 11.4 20.0 17.1 25.7 8.6 5.7 2.9 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.7 0.0 0.0 0.0
+STA 261 G Werwinski Lisa M. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+8
+3
+6
+4
+4
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 21.2 24.2 9.1 18.2 12.1 12.1 0.0 0.0 0.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

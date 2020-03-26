@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Oxford Campus
+Page: 183 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDT 346M A Frager Alan M. Reading Instr: Middle Grades
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+0
+6
+1
+0
+5
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.62
+% 0.0 25.0 0.0 0.0 30.0 5.0 0.0 25.0 0.0 0.0 5.0 5.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 346M B Herzog Shirley A. Reading Instr: Middle Grades
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+11
+11
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.96
+% 45.8 45.8 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 346M C Smith Jaime L. Reading Instr: Middle Grades
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+0
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.50
+% 0.0 50.0 0.0 0.0 50.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDT 346M
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+11
+29
+1
+1
+19
+1
+0
+5
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 15.7 41.4 1.4 1.4 27.1 1.4 0.0 7.1 0.0 0.0 1.4 1.4 1.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 361 B Wendel Robert L. Social Sci Elem School Teachr
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+12
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+2.50
+% 0.0 0.0 0.0 0.0 75.0 0.0 0.0 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 12.5 0.0 0.0 0.0 0.0 0.0
+Course Total EDT 361
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+12
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+2.50
+% 0.0 0.0 0.0 0.0 75.0 0.0 0.0 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 12.5 0.0 0.0 0.0 0.0 0.0
+EDT 362 B Wendel Robert L. Am Pol/Econ Exp Elem Sch Tchrs
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+6
+7
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.20
+% 0.0 8.7 21.7 26.1 30.4 0.0 4.3 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

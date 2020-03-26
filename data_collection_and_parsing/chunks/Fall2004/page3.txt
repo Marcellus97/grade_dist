@@ -1,0 +1,92 @@
+testART Art
+716
+ATH Anthropology
+720
+BOT Botany
+722
+BTE Business Technology
+724
+BWS Black World Studies
+731
+CHM Chemistry & Biochemistry
+732
+CIT Comp Information Technology
+734
+CLS Classics
+736
+COM Communication
+737
+CSA Computer Sci &Systems Analysis
+741
+DSC Decision Sciences
+743
+ECO Economics
+744
+EDL Educational Leadership
+745
+EDP Educational Psychology
+748
+EDT Teacher Education
+749
+ENG English
+753
+ENT Engineering Technology
+764
+FIN Finance
+766
+FRE French
+767
+FST Film Studies
+768
+FSW Family Studies And Social Work
+769
+GEO Geography
+772
+GER German
+773
+GLG Geology
+774
+GTY Gerontology
+776
+HST History
+777
+LAS Latin American Studies
+780
+MBI Microbiology
+781
+MGT Management
+782
+MIS Management Information Systems
+783
+MKT Marketing
+784
+MTH Mathematics
+785
+MUS Music
+792
+NSG Nursing
+794
+PHL Philosophy
+798
+PHS Phy Edu, Hlth, & Sport Studies
+799
+PHY Physics
+806
+POL Political Science
+808
+PSY Psychology
+810
+REL Comparative Religion
+812
+SOC Sociology
+813
+SPA Speech Pathology & Audiology
+814
+SPN Spanish
+815
+STA Statistics
+816
+THE Theatre
+817
+ZOO Zoology
+819

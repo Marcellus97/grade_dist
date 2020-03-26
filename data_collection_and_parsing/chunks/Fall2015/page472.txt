@@ -1,0 +1,301 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 468 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MGT 402 A Walsh David J. Employment Law
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+1
+4
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+2.67
+% 0.0 0.0 10.0 10.0 40.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0
+Course Total MGT 402
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+1
+4
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+2.67
+% 0.0 0.0 10.0 10.0 40.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0
+MGT 404 A Manzo Rocco A. Compensation Management
+N
+N
+R
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+6
+3
+10
+5
+3
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 8.8 17.6 8.8 29.4 14.7 8.8 8.8 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 404
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+6
+3
+10
+5
+3
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 8.8 17.6 8.8 29.4 14.7 8.8 8.8 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 405 A Walsh David J. Negotiations and Conflict
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+2
+2
+4
+3
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.86
+% 6.3 0.0 12.5 12.5 25.0 18.8 12.5 6.3 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 405 B Walsh David J. Negotiations and Conflict
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+6
+3
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 0.0 6.7 0.0 0.0 40.0 20.0 13.3 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 405
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+2
+2
+10
+6
+4
+4
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.79
+% 3.2 3.2 6.5 6.5 32.3 19.4 12.9 12.9 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

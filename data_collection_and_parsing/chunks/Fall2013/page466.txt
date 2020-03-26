@@ -1,0 +1,337 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 462 Sections of 10
+MME 311 A Koo Jeong-Hoi Dynamic Modeling/Mech Systems
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+1
+7
+3
+4
+5
+5
+3
+7
+2
+5
+2
+2
+% 1.9 13.5 5.8 7.7 9.6 9.6 5.8 13.5 3.8 9.6 3.8 3.8
+Course Total MME 311
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+1
+7
+3
+4
+5
+5
+3
+7
+2
+5
+2
+2
+% 1.9 13.5 5.8 7.7 9.6 9.6 5.8 13.5 3.8 9.6 3.8 3.8
+MME 312 A Koo Jeong-Hoi Mechanics Of Materials
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+7
+1
+6
+4
+2
+4
+8
+2
+5
+5
+1
+% 0.0 14.6 2.1 12.5 8.3 4.2 8.3 16.7 4.2 10.4 10.4 2.1
+Course Total MME 312
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+7
+1
+6
+4
+2
+4
+8
+2
+5
+5
+1
+% 0.0 14.6 2.1 12.5 8.3 4.2 8.3 16.7 4.2 10.4 10.4 2.1
+MME 313 A Sommers Andrew D. Fluid Mechanics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+2
+2
+2
+2
+4
+4
+2
+1
+0
+0
+0
+0
+% 9.5 9.5 9.5 9.5 19.0 19.0 9.5 4.8 0.0 0.0 0.0 0.0
+Course Total MME 313
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+2
+2
+2
+2
+4
+4
+2
+1
+0
+0
+0
+0
+% 9.5 9.5 9.5 9.5 19.0 19.0 9.5 4.8 0.0 0.0 0.0 0.0
+MME 314 A Caraballo Edgar J. Engineering Thermodynamics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+1
+0
+3
+3
+2
+2
+4
+3
+0
+0
+0
+% 0.0 5.0 0.0 15.0 15.0 10.0 10.0 20.0 15.0 0.0 0.0 0.0
+F
+W
+4
+2
+7.7 3.8
+F
+W
+4
+2
+7.7 3.8
+F
+W
+2
+1
+4.2 2.1
+F
+W
+2
+1
+4.2 2.1
+F
+W
+2
+0
+9.5 0.0
+F
+W
+2
+0
+9.5 0.0
+F
+W
+2
+0
+10.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.38
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.38
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.33
+0.0 0.0 0.0
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+0 0.0
+1W
+S
+0 0.0
+Avg GPA 2.33
+Avg GPA 2.83
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+Avg GPA
+0
+2.83
+0.0
+J7
+S
+Avg GPA
+0
+2.30
+0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

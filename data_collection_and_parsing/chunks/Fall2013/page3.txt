@@ -1,0 +1,124 @@
+testMTH Mathematics
+741
+MUS Music
+750
+NSG Nursing
+752
+PHL Philosophy
+757
+PHY Physics
+759
+POL Political Science
+762
+PSY Psychology
+764
+REL Religion, Comparative
+767
+SOC Sociology
+768
+SPN Spanish
+770
+STA Statistics
+772
+THE Theatre
+773
+WGS Women,Gender&Sexuality Studies
+775
+Middletown Campus
+776
+ACC Accountancy
+777
+AMS American Studies
+778
+ART Art
+779
+ATH Anthropology
+783
+BIO Biology
+785
+BIS Integrative Studies
+789
+BTE Business Technology
+791
+BWS Black World Studies
+796
+CHM Chemistry & Biochemistry
+797
+CIT Comp Information Technology
+800
+CJS Criminal Justice Studies
+803
+CLS Classics
+805
+COM Communication
+806
+CSE Comp Sci &Software Engineering
+810
+EAS Engineering & App Science
+812
+ECO Economics
+813
+EDL Educational Leadership
+814
+EDP Educational Psychology
+816
+EDT Teacher Education
+818
+ENG English
+821
+ENT Engineering Technology
+831
+FRE French
+835
+FSW Family Studies And Social Work
+836
+GEO Geography
+838
+GLG Geology
+839
+HST History
+841
+IDS Interdisciplinary
+844
+JRN Journalism
+845
+KNH Kinesiology And Health
+846
+MBI Microbiology
+850
+MGT Management
+852
+MTH Mathematics
+853
+MUS Music
+859
+NSG Nursing
+861
+PHL Philosophy
+866
+PHY Physics
+867
+POL Political Science
+870
+PSY Psychology
+871
+SOC Sociology
+874
+SPN Spanish
+876
+STA Statistics
+878
+THE Theatre
+880
+WGS Women,Gender&Sexuality Studies
+881
+Voa - West Chester Campus
+882
+ACC Accountancy
+883
+ART Art
+884
+ATH Anthropology
+885
+BIO Biology
+886

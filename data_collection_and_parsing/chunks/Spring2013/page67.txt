@@ -1,0 +1,306 @@
+testRun: 07/08/13 @ 16:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2012-13 Oxford Campus
+Page: 63 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ART 165 XA Wright Shane T. Beginning Metals
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+3
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 9.1 27.3 27.3 9.1 18.2 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 165 XB Mark Benjamin R. Beginning Metals
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+3.89
+% 0.0 58.3 8.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0 8.3 0.0 0.0 0.0
+ART 165 YA Wright Shane T. Beginning Metals
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+3
+2
+0
+0
+1
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 7.7 23.1 23.1 15.4 0.0 0.0 7.7 0.0 0.0 0.0 0.0 7.7 0.0 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 165 YB Mark Benjamin R. Beginning Metals
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+3
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 0.0 16.7 33.3 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 165 ZA Wright Shane T. Beginning Metals
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+0
+0
+2
+1
+1
+2
+2
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.03
+% 8.3 0.0 0.0 0.0 16.7 8.3 8.3 16.7 16.7 0.0 16.7 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 165 ZB Mark Benjamin R. Beginning Metals
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+4
+0
+0
+2
+0
+1
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 37.5 25.0 0.0 0.0 12.5 0.0 6.3 0.0 0.0 0.0 0.0 6.3 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ART 165
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+21
+15
+6
+4
+3
+2
+4
+2
+0
+2
+1
+3
+9
+0
+0
+0
+1
+0
+0
+0
+3.18
+% 3.9 27.6 19.7 7.9 5.3 3.9 2.6 5.3 2.6 0.0 2.6 1.3 3.9 11.8 0.0 0.0 0.0 1.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

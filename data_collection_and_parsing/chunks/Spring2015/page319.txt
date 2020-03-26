@@ -1,0 +1,305 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Oxford Campus
+Page: 315 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+GTY 260 B McLaughlin Sara J. Global Aging
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+10
+5
+2
+5
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 16.7 33.3 16.7 6.7 16.7 0.0 6.7 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GTY 260 C de Medeiros Kathryn B. Global Aging
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+20
+2
+2
+5
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.57
+% 0.0 62.5 6.3 6.3 15.6 3.1 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GTY 260 E Sauer Philip E. Global Aging
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+9
+3
+1
+5
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.61
+% 30.0 30.0 10.0 3.3 16.7 3.3 3.3 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GTY 260
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+16
+48
+14
+10
+18
+3
+4
+4
+0
+2
+2
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.46
+% 12.9 38.7 11.3 8.1 14.5 2.4 3.2 3.2 0.0 1.6 1.6 1.6 0.0 0.0 0.0 0.0 0.0 0.8 0.0 0.0 0.0
+GTY 318 A Bulanda Jennifer R. Sociology of Aging & Life Crse
+N
+N
+LX
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+2
+1
+2
+1
+0
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 14.3 14.3 14.3 7.1 14.3 7.1 0.0 14.3 7.1 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GTY 318
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+2
+1
+2
+1
+0
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 14.3 14.3 14.3 7.1 14.3 7.1 0.0 14.3 7.1 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GTY 357 A Subedi Janardan Medical Sociology
+N
+N
+KX
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+4
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.26
+% 0.0 0.0 30.0 40.0 20.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

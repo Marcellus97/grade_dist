@@ -1,0 +1,303 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 104 Sections of 10
+CHM Chemistry & Biochemistry
+Miami Plan
+Honors
+Cross Listing
+CHM 111 A Breece Robert M. Chemistry In Modern Society
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+46
+16
+14
+35
+8
+5
+10
+1
+1
+0
+0
+4
+6
+0
+0
+0
+5
+0
+0
+0
+3.22
+% 0.0 30.5 10.6 9.3 23.2 5.3 3.3 6.6 0.7 0.7 0.0 0.0 2.6 4.0 0.0 0.0 0.0 3.3 0.0 0.0 0.0
+CHM 111 B Carmel Justin H. Chemistry In Modern Society
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+6
+25
+17
+26
+11
+11
+7
+4
+0
+1
+2
+2
+7
+0
+0
+3
+1
+0
+0
+0
+2.99
+% 4.7 4.7 19.4 13.2 20.2 8.5 8.5 5.4 3.1 0.0 0.8 1.6 1.6 5.4 0.0 0.0 2.3 0.8 0.0 0.0 0.0
+Course Total CHM 111
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+52
+41
+31
+61
+19
+16
+17
+5
+1
+1
+2
+6
+13
+0
+0
+3
+6
+0
+0
+0
+3.11
+% 2.1 18.6 14.6 11.1 21.8 6.8 5.7 6.1 1.8 0.4 0.4 0.7 2.1 4.6 0.0 0.0 1.1 2.1 0.0 0.0 0.0
+CHM 111L A Breece Robert M. Chemistry Mod Soc Laboratory
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+6
+3
+26
+3
+6
+8
+3
+2
+1
+1
+3
+4
+0
+0
+0
+1
+0
+0
+0
+2.76
+% 0.0 14.1 7.7 3.8 33.3 3.8 7.7 10.3 3.8 2.6 1.3 1.3 3.8 5.1 0.0 0.0 0.0 1.3 0.0 0.0 0.0
+CHM 111L B Breece Robert M. Chemistry Mod Soc Laboratory
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+7
+8
+27
+4
+4
+9
+2
+0
+2
+0
+1
+3
+0
+0
+0
+1
+0
+0
+0
+2.93
+% 0.0 12.8 9.0 10.3 34.6 5.1 5.1 11.5 2.6 0.0 2.6 0.0 1.3 3.8 0.0 0.0 0.0 1.3 0.0 0.0 0.0
+CHM 111L C Breece Robert M. Chemistry Mod Soc Laboratory
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+1
+20
+3
+3
+7
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.87
+% 0.0 7.0 9.3 2.3 46.5 7.0 7.0 16.3 0.0 2.3 0.0 0.0 0.0 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 111L
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+24
+17
+12
+73
+10
+13
+24
+5
+3
+3
+1
+4
+8
+0
+0
+0
+2
+0
+0
+0
+2.85
+% 0.0 12.1 8.5 6.0 36.7 5.0 6.5 12.1 2.5 1.5 1.5 0.5 2.0 4.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

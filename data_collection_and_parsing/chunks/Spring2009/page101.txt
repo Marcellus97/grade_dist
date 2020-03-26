@@ -1,0 +1,308 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Oxford Campus
+Page: 98 Sections of 10
+COM Communication
+Miami Plan
+Honors
+Cross Listing
+COM 134 A Rollie Stephanie S. Intro to Speech Communication
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+19
+18
+26
+29
+19
+20
+9
+6
+5
+1
+5
+4
+0
+0
+0
+0
+0
+0
+0
+2.61
+% 0.0 4.7 11.2 10.7 15.4 17.2 11.2 11.8 5.3 3.6 3.0 0.6 3.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 134
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+19
+18
+26
+29
+19
+20
+9
+6
+5
+1
+5
+4
+0
+0
+0
+0
+0
+0
+0
+2.61
+% 0.0 4.7 11.2 10.7 15.4 17.2 11.2 11.8 5.3 3.6 3.0 0.6 3.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 A Foote Justin G. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+7
+8
+1
+0
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 0.0 8.3 12.5 29.2 33.3 4.2 0.0 0.0 0.0 0.0 4.2 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 B Denryter Andrew M. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+7
+6
+4
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 0.0 12.5 29.2 25.0 16.7 8.3 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 C Burke Maura D. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+7
+10
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 0.0 13.0 30.4 43.5 4.3 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 D Wood Kye B. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+9
+8
+2
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 4.2 8.3 37.5 33.3 8.3 0.0 4.2 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 E Burke Maura D. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+7
+6
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 0.0 17.4 30.4 26.1 26.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

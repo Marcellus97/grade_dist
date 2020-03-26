@@ -1,0 +1,304 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Oxford Campus
+Page: 221 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ENG 230J
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+9
+7
+6
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 3.4 6.9 31.0 24.1 20.7 3.4 3.4 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 231 A Bickerstaff Jeffrey C. The Short Story
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+6
+3
+3
+0
+0
+1
+2
+0
+0
+1
+2
+3
+0
+0
+0
+0
+0
+0
+0
+3.20
+% 0.0 38.2 17.6 8.8 8.8 0.0 0.0 2.9 5.9 0.0 0.0 2.9 5.9 8.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 231 B Sloan Susan K. The Short Story
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+11
+12
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 0.0 24.2 33.3 36.4 6.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 231
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+17
+15
+5
+0
+0
+1
+2
+0
+0
+1
+2
+3
+0
+0
+0
+0
+0
+0
+0
+3.40
+% 0.0 31.3 25.4 22.4 7.5 0.0 0.0 1.5 3.0 0.0 0.0 1.5 3.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 233 A Morgan Susan J. British Women Writers
+N
+N
+R5
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+5
+9
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.60
+% 0.0 37.9 17.2 31.0 6.9 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0
+Course Total ENG 233
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+5
+9
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.60
+% 0.0 37.9 17.2 31.0 6.9 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0
+ENG 248 A Cho Yu-Fang Asian American Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+9
+7
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.60
+% 0.0 29.2 37.5 29.2 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

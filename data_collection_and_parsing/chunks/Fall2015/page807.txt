@@ -1,0 +1,309 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 803 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+UNV 101 HTF Borges Caitlin A. I Am Miami
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+0
+0
+3
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.50
+% 0.0 70.8 0.0 0.0 12.5 0.0 0.0 12.5 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+UNV 101 HTG Didelot Tana R. I Am Miami
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.68
+% 0.0 84.2 0.0 0.0 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+UNV 101 HTH Foley Jeanne A. I Am Miami
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+1
+0
+4
+2
+0
+2
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.78
+% 0.0 33.3 5.6 0.0 22.2 11.1 0.0 11.1 0.0 0.0 5.6 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+UNV 101 HTI Bausano Mary O. I Am Miami
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+6
+1
+2
+2
+0
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 0.0 36.4 27.3 4.5 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 9.1 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+UNV 101 HTJ Foster Karen I Am Miami
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+0
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 0.0 58.3 0.0 0.0 41.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+UNV 101 HTK Cerone Catherine M. I Am Miami
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+11
+8
+0
+0
+2
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.61
+% 45.8 33.3 0.0 0.0 8.3 0.0 0.0 8.3 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+UNV 101 HTL Sepela Suesann E. I Am Miami
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+16
+3
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.83
+% 4.3 69.6 13.0 0.0 13.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

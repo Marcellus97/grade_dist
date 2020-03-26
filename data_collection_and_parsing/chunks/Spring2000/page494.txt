@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 491 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+SAN 141 Q Hensley Leah L. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+25
+2
+3
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.83
+% 19.5 61.0 4.9 7.3 2.4 0.0 0.0 0.0 0.0 0.0 2.4 0.0 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 141 R Caudill Stephen D. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+2
+1
+6
+6
+0
+1
+2
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+3.05
+% 7.1 21.4 7.1 3.6 21.4 21.4 0.0 3.6 7.1 0.0 0.0 0.0 3.6 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 141 S Lyons Bradley S. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+19
+0
+0
+4
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.69
+% 10.7 67.9 0.0 0.0 14.3 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 141 T Caudill Stephen D. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+10
+2
+6
+3
+0
+0
+1
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+3.62
+% 14.3 35.7 7.1 21.4 10.7 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 3.6 3.6 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 141 U Smith Bruce W. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+14
+10
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.85
+% 22.9 40.0 28.6 2.9 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 141 V Parks Daniel J. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+0
+2
+10
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 0.0 53.3 0.0 6.7 33.3 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 141 W Liou Sonia Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+0
+0
+6
+0
+0
+3
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.46
+% 0.0 62.1 0.0 0.0 20.7 0.0 0.0 10.3 0.0 0.0 3.4 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,306 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Hamilton Campus
+Page: 895 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ZOO 161 H F Greene Aaron V. Principles of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+4
+0
+0
+6
+0
+0
+1
+0
+2
+4
+0
+0
+0
+0
+0
+0
+0
+1.92
+% 0.0 0.0 0.0 0.0 23.5 0.0 0.0 35.3 0.0 0.0 5.9 0.0 11.8 23.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 161 H G Greene Aaron V. Principles of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+2
+0
+0
+9
+0
+0
+4
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+1.80
+% 0.0 9.1 0.0 0.0 9.1 0.0 0.0 40.9 0.0 0.0 18.2 0.0 13.6 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 161 H H Greene Aaron V. Principles of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+9
+0
+0
+5
+0
+0
+3
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.29
+% 0.0 9.1 0.0 0.0 40.9 0.0 0.0 22.7 0.0 0.0 13.6 0.0 9.1 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ZOO 161
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+7
+5
+7
+18
+5
+4
+29
+2
+0
+13
+3
+15
+15
+0
+0
+0
+0
+0
+0
+0
+2.18
+% 5.4 5.4 3.8 5.4 13.8 3.8 3.1 22.3 1.5 0.0 10.0 2.3 11.5 11.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 171 H A Dugan Amy L. Human Anatomy And Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+3
+0
+2
+1
+0
+3
+1
+0
+0
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+2.25
+% 6.3 0.0 18.8 0.0 12.5 6.3 0.0 18.8 6.3 0.0 0.0 0.0 18.8 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 171 H B Dugan Amy L. Human Anatomy And Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+2
+3
+2
+2
+3
+1
+0
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.13
+% 0.0 5.6 0.0 11.1 16.7 11.1 11.1 16.7 5.6 0.0 5.6 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 171 H C Dugan Amy L. Human Anatomy And Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+1
+1
+4
+4
+0
+2
+0
+0
+0
+0
+4
+3
+0
+0
+0
+0
+0
+0
+0
+2.32
+% 4.8 4.8 4.8 4.8 19.0 19.0 0.0 9.5 0.0 0.0 0.0 0.0 19.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,301 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Middletown Campus
+Page: 662 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CIT 154 M B Rose Anthony W. Personl Computr Concpts & Apps
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+2
+1
+1
+0
+2
+0
+0
+1
+1
+0
+2
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.72
+% 23.5 11.8 5.9 5.9 0.0 11.8 0.0 0.0 5.9 5.9 0.0 11.8 5.9 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CIT 154
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+3
+2
+2
+0
+3
+0
+1
+2
+1
+1
+2
+5
+8
+0
+0
+0
+0
+0
+0
+0
+2.34
+% 14.3 8.6 5.7 5.7 0.0 8.6 0.0 2.9 5.7 2.9 2.9 5.7 14.3 22.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CIT 157 M A Rose Anthony W. Foundations of IT I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+1
+1
+1
+0
+0
+0
+0
+3
+0
+0
+3
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 29.4 5.9 5.9 5.9 0.0 0.0 0.0 0.0 17.6 0.0 0.0 17.6 0.0 17.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CIT 157
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+1
+1
+1
+0
+0
+0
+0
+3
+0
+0
+3
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 29.4 5.9 5.9 5.9 0.0 0.0 0.0 0.0 17.6 0.0 0.0 17.6 0.0 17.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CIT 268 M A Courte Jill E. Introduction to HCI
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+0
+2
+1
+0
+5
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 13.3 26.7 0.0 13.3 6.7 0.0 33.3 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CIT 268
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+0
+2
+1
+0
+5
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 13.3 26.7 0.0 13.3 6.7 0.0 33.3 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Comp Information Technology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 10
+6
+7
+3
+2
+4
+0
+6
+5
+1
+1
+5
+5
+16
+0
+0
+0
+41
+24
+0
+0
+2.60
+% 7.4 4.4 5.1 2.2 1.5 2.9 0.0 4.4 3.7 0.7 0.7 3.7 3.7 11.8 0.0 0.0 0.0 30.1 17.6 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

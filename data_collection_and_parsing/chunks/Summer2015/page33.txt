@@ -1,0 +1,45 @@
+testRun: 09/11/15 @ 08:38 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Term, 2014-15 Oxford Campus
+Page: 31 Sections of 10
+Communication Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 3
+89
+28
+8
+17
+12
+9
+7
+4
+0
+2
+0
+5
+12
+0
+0
+6
+0
+0
+0
+0
+3.40
+% 1.5 44.1 13.9 4.0 8.4 5.9 4.5 3.5 2.0 0.0 1.0 0.0 2.5 5.9 0.0 0.0 3.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

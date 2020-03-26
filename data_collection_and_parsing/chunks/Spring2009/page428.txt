@@ -1,0 +1,307 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Oxford Campus
+Page: 425 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MKT 301 A Rosenthal David W. Crtvty,Innov.&Dec Mkng in MKT
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+2
+9
+6
+2
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 12.5 6.3 6.3 28.1 18.8 6.3 15.6 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 301 B Heath Timothy B. Crtvty,Innov.&Dec Mkng in MKT
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+7
+10
+13
+3
+2
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 0.0 0.0 18.9 27.0 35.1 8.1 5.4 0.0 0.0 0.0 0.0 2.7 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 301 C Heath Timothy B. Crtvty,Innov.&Dec Mkng in MKT
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+10
+12
+9
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 0.0 5.4 8.1 27.0 32.4 24.3 0.0 0.0 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 301 D Rosenthal David W. Crtvty,Innov.&Dec Mkng in MKT
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+4
+5
+12
+4
+2
+2
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 0.0 12.5 15.6 37.5 12.5 6.3 6.3 6.3 0.0 0.0 0.0 0.0 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 301
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+16
+27
+46
+22
+6
+7
+4
+1
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 4.3 11.6 19.6 33.3 15.9 4.3 5.1 2.9 0.7 0.0 0.7 0.0 1.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 325 A Norris Donald G. Consumer Behavior
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+2
+19
+3
+3
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 13.2 7.9 5.3 50.0 7.9 7.9 5.3 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 325 B Norris Donald G. Consumer Behavior
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+4
+4
+16
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 0.0 25.7 11.4 11.4 45.7 0.0 0.0 5.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

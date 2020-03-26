@@ -1,0 +1,308 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Oxford Campus
+Page: 600 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ZOO 342 A Li Qingshun Genetics
+N
+N
+H1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+4
+6
+5
+5
+2
+4
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 12.5 3.1 12.5 18.8 15.6 15.6 6.3 12.5 0.0 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 342 B Dockendorff Thomas C. Genetics
+N
+N
+H4
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+9
+7
+11
+3
+3
+5
+2
+0
+2
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+2.89
+% 0.0 8.2 18.4 14.3 22.4 6.1 6.1 10.2 4.1 0.0 4.1 0.0 0.0 4.1 0.0 2.0 0.0 0.0 0.0 0.0 0.0
+Course Total ZOO 342
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+10
+11
+17
+8
+8
+7
+6
+0
+3
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+2.83
+% 0.0 9.9 12.3 13.6 21.0 9.9 9.9 8.6 7.4 0.0 3.7 0.0 0.0 2.5 0.0 1.2 0.0 0.0 0.0 0.0 0.0
+ZOO 400 A Hoffman Susan M. Capstone: Contemporary Issues
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+8
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.77
+% 0.0 47.8 34.8 17.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 400 B Gula Douglas C. Capstone: Contemporary Issues
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+11
+17
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.97
+% 35.5 54.8 9.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ZOO 400
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+11
+28
+11
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 20.4 51.9 20.4 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 401 A Lee Richard E. General Entomology
+N
+N
+LV
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+0
+4
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.07
+% 0.0 16.7 8.3 0.0 33.3 25.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

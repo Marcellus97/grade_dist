@@ -1,0 +1,112 @@
+testSPN Spanish
+692
+STA Statistics
+693
+THE Theatre
+694
+WMS Women'S Studies
+695
+ZOO Zoology
+696
+Hamilton Campus
+699
+ACC Accountancy
+700
+ART Art
+701
+ATH Anthropology
+705
+BIS Integrative Studies
+708
+BOT Botany
+709
+BTE Business Technology
+711
+BUS Business Analysis
+716
+BWS Black World Studies
+717
+CHM Chemistry & Biochemistry
+718
+CIT Comp Information Technology
+721
+CJS Criminal Justice Studies
+724
+COM Communication
+726
+CSA Computer Sci &Systems Analysis
+731
+DSC Decision Sciences
+734
+EAS Engineering & App Science
+735
+ECO Economics
+736
+EDL Educational Leadership
+738
+EDP Educational Psychology
+740
+EDT Teacher Education
+742
+ENG English
+746
+ENT Engineering Technology
+758
+FRE French
+761
+FST Film Studies
+762
+FSW Family Studies And Social Work
+763
+GEO Geography
+766
+GER German
+768
+GLG Geology
+769
+HST History
+771
+IDS Interdisciplinary
+775
+JRN Journalism
+776
+KNH Kinesiology And Health
+777
+LAS Latin American Studies
+787
+MBI Microbiology
+788
+MGT Management
+790
+MIS Management Information Systems
+791
+MKT Marketing
+792
+MTH Mathematics
+793
+MUS Music
+802
+NSG Nursing
+804
+PHL Philosophy
+809
+PHY Physics
+810
+POL Political Science
+812
+PSY Psychology
+814
+REL Comparative Religion
+816
+SOC Sociology
+817
+SPN Spanish
+819
+STA Statistics
+821
+THE Theatre
+823
+WMS Women'S Studies
+825
+ZOO Zoology
+826

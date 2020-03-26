@@ -1,0 +1,124 @@
+testFSW Family Studies And Social Work
+318
+GEO Geography
+326
+GER German
+335
+GLG Geology
+340
+GRK Greek Language And Literature
+349
+GSC Graduate School Community
+350
+GTY Gerontology
+351
+HBW Hebrew
+356
+HIN Hindi
+357
+HON Honors
+358
+HST History
+362
+IDS Interdisciplinary
+379
+IES Environmental Sciences
+381
+IMS Interactive Media Studies
+383
+ITL Italian
+389
+ITS International Studies
+392
+JPN Japanese
+397
+JRN Journalism
+399
+KNH Kinesiology And Health
+404
+KOR Korean
+443
+LAS Latin American Studies
+444
+LAT Latin Language & Literature
+446
+LUX Luxembourg
+448
+MBI Microbiology
+449
+MGT Management
+456
+MIS Management Information Systems
+466
+MKT Marketing
+472
+MME Manufact & Mechan Engineering
+481
+MTH Mathematics
+491
+MUS Music
+509
+NSC Naval Science
+525
+PHL Philosophy
+528
+PHY Physics
+534
+POL Political Science
+548
+POR Portuguese
+561
+PSY Psychology
+562
+REL Religion, Comparative
+580
+RUS Russian
+585
+SJS Social Justice Studies
+587
+SOC Sociology
+588
+SPA Speech Pathology & Audiology
+595
+SPN Spanish
+604
+STA Statistics
+619
+THE Theatre
+626
+WGS Women,Gender&Sexuality Studies
+633
+WST Western Program
+637
+ZOO Zoology
+640
+Middletown Campus
+657
+ACC Accountancy
+658
+ART Art
+659
+ATH Anthropology
+663
+BIS Integrative Studies
+665
+BOT Botany
+667
+BTE Business Technology
+669
+BUS Business Analysis
+675
+BWS Black World Studies
+676
+CHM Chemistry & Biochemistry
+677
+CIT Comp Information Technology
+681
+CJS Criminal Justice Studies
+684
+CLS Classics
+686
+COM Communication
+687
+CSE Comp Sci &Software Engineering
+691

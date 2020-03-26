@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 196 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 112S NT Beck Andrea L. Composition & Literature
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+9
+2
+5
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.45
+% 0.0 10.0 45.0 10.0 25.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112S PV Beck Andrea L. Composition & Literature
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+9
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.45
+% 0.0 19.0 19.0 42.9 19.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 112S
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+37
+38
+24
+25
+2
+0
+0
+2
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+3.50
+% 0.0 28.5 29.2 18.5 19.2 1.5 0.0 0.0 1.5 0.0 0.0 0.0 0.0 0.0 0.8 0.8 0.0 0.0 0.0 0.0 0.0
+ENG 121 A Erlich Richard D. Comedy Or Tragedy
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+6
+2
+6
+13
+3
+1
+0
+0
+2
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+3.06
+% 10.3 15.4 5.1 15.4 33.3 7.7 2.6 0.0 0.0 5.1 0.0 0.0 0.0 0.0 0.0 5.1 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 121
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+6
+2
+6
+13
+3
+1
+0
+0
+2
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+3.06
+% 10.3 15.4 5.1 15.4 33.3 7.7 2.6 0.0 0.0 5.1 0.0 0.0 0.0 0.0 0.0 5.1 0.0 0.0 0.0 0.0 0.0
+ENG 123 A Throne Marilyn E. Introduction To Poetry
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+7
+0
+12
+4
+3
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.34
+% 0.0 37.2 16.3 0.0 27.9 9.3 7.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.3 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 123
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+7
+0
+12
+4
+3
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.34
+% 0.0 37.2 16.3 0.0 27.9 9.3 7.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.3 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

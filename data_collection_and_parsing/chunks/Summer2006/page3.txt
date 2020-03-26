@@ -1,0 +1,14 @@
+testPHS Phy Edu, Hlth, & Sport Studies
+220
+PSY Psychology
+221
+SPA Speech Pathology & Audiology
+222
+SPN Spanish
+223
+STA Statistics
+225
+THE Theatre
+226
+ZOO Zoology
+227

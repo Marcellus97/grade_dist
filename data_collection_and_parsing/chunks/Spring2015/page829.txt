@@ -1,0 +1,297 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Middletown Campus
+Page: 825 Sections of 10
+MBI Microbiology
+Miami Plan
+Honors
+Cross Listing
+MBI 111 M A Barnes Sonya Microorganisms & Human Disease
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+2
+3
+4
+3
+3
+0
+0
+1
+2
+11
+0
+0
+0
+0
+0
+0
+0
+2.20
+% 0.0 3.1 3.1 3.1 6.3 9.4 12.5 9.4 9.4 0.0 0.0 3.1 6.3 34.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MBI 111
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+2
+3
+4
+3
+3
+0
+0
+1
+2
+11
+0
+0
+0
+0
+0
+0
+0
+2.20
+% 0.0 3.1 3.1 3.1 6.3 9.4 12.5 9.4 9.4 0.0 0.0 3.1 6.3 34.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MBI 161 M A Ferguson Tsuneo K. Elementary Med Microbiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+0
+0
+1
+6
+1
+3
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+2.63
+% 5.9 0.0 0.0 0.0 5.9 35.3 5.9 17.6 0.0 0.0 0.0 0.0 0.0 29.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MBI 161
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+0
+0
+1
+6
+1
+3
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+2.63
+% 5.9 0.0 0.0 0.0 5.9 35.3 5.9 17.6 0.0 0.0 0.0 0.0 0.0 29.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MBI 361 G A Langworthy Donald E. Epidemiology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+8
+2
+4
+8
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 11.1 29.6 7.4 14.8 29.6 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MBI 361
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+8
+2
+4
+8
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 11.1 29.6 7.4 14.8 29.6 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Microbiology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 4
+9
+3
+5
+11
+9
+5
+7
+3
+0
+0
+1
+2
+17
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 5.3 11.8 3.9 6.6 14.5 11.8 6.6 9.2 3.9 0.0 0.0 1.3 2.6 22.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

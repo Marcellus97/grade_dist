@@ -1,0 +1,301 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Hamilton Campus
+Page: 721 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ENT 192
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+1
+0
+0
+2
+0
+3
+2
+1
+1
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+2.07
+% 7.7 0.0 7.7 0.0 0.0 15.4 0.0 23.1 15.4 7.7 7.7 0.0 0.0 7.7 0.0 7.7 0.0 0.0 0.0 0.0 0.0
+ENT 272 H A Earley Ronald Mechanics II:Material Strength
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+3
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 0.0 18.2 18.2 18.2 27.3 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENT 272
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+3
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 0.0 18.2 18.2 18.2 27.3 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENT 301 H A Earley Ronald Dynamics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+4
+3
+6
+0
+3
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 13.0 4.3 17.4 13.0 26.1 0.0 13.0 0.0 0.0 0.0 0.0 0.0 4.3 8.7 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENT 301
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+4
+3
+6
+0
+3
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 13.0 4.3 17.4 13.0 26.1 0.0 13.0 0.0 0.0 0.0 0.0 0.0 4.3 8.7 0.0 0.0 0.0 0.0 0.0 0.0
+ENT 312 H A Gardner Lynn H. Thermodynamics And Heat Power
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENT 312
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

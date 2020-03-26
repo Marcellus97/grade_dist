@@ -1,0 +1,129 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 666 Sections of 10
+AMS American Studies
+Miami Plan
+Honors
+Cross Listing
+AMS 183 H A Parks Lori L. Images of America
+Y
+N
+31
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+1
+2
+0
+1
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 0.0 50.0 8.3 16.7 0.0 8.3 0.0 0.0 0.0 8.3 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total AMS 183
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+1
+2
+0
+1
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 0.0 50.0 8.3 16.7 0.0 8.3 0.0 0.0 0.0 8.3 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+American Studies Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 10
+138 137 82
+123 53
+29
+28
+7
+3
+8
+0
+17
+11
+0
+0
+1
+6
+0
+0
+0
+3.19
+% 1.5 21.1 21.0 12.6 18.8 8.1 4.4 4.3 1.1 0.5 1.2 0.0 2.6 1.7 0.0 0.0 0.2 0.9 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

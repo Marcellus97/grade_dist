@@ -1,0 +1,303 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Oxford Campus
+Page: 461 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHS 287L A Massie J B. Eval & Assess to Ext. Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 0.0 75.0 0.0 0.0 16.7 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 287L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 0.0 75.0 0.0 0.0 16.7 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 289 A Donnelly David Therapeutic Exercise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3
+2
+5
+1
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.52
+% 0.0 0.0 0.0 23.1 15.4 38.5 7.7 0.0 0.0 0.0 7.7 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 289
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3
+2
+5
+1
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.52
+% 0.0 0.0 0.0 23.1 15.4 38.5 7.7 0.0 0.0 0.0 7.7 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 292 A Aikens Wm E. Dance,Culture And Contexts
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+7
+1
+4
+3
+3
+0
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 0.0 38.2 20.6 2.9 11.8 8.8 8.8 0.0 2.9 2.9 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 292
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+7
+1
+4
+3
+3
+0
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 0.0 38.2 20.6 2.9 11.8 8.8 8.8 0.0 2.9 2.9 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 293 A Sibley Benjamin A. Fitness & Conditioning
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.51
+% 0.0 41.7 25.0 8.3 16.7 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

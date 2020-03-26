@@ -1,0 +1,68 @@
+testECO Economics
+861
+EDL Educational Leadership
+862
+EDP Educational Psychology
+864
+EDT Teacher Education
+866
+ENG English
+868
+FIN Finance
+869
+GLG Geology
+870
+HST History
+871
+MGT Management
+872
+MKT Marketing
+873
+NSG Nursing
+874
+PSY Psychology
+875
+SOC Sociology
+876
+SPA Speech Pathology & Audiology
+877
+SPN Spanish
+878
+WGS Women,Gender&Sexuality Studies
+879
+Luxembourg Campus
+880
+ARB Arabic
+881
+ARC Architecture & Interior Design
+882
+ART Art
+883
+BUS Business Analysis
+884
+ECO Economics
+885
+ENG English
+886
+FRE French
+887
+GER German
+888
+HST History
+889
+ITS International Studies
+890
+LUX Luxembourg
+891
+MGT Management
+892
+MKT Marketing
+893
+MUS Music
+894
+PHL Philosophy
+895
+POL Political Science
+896
+SOC Sociology
+897

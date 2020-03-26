@@ -1,0 +1,301 @@
+testRun: 09/11/15 @ 08:38 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Term, 2014-15 Oxford Campus
+Page: 43 Sections of 10
+EDP Educational Psychology
+Miami Plan
+Honors
+Cross Listing
+EDP 256 TB Johnson Ashley E. Psy/Learners With Exception
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+2
+1
+1
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+3.53
+% 0.0 47.4 10.5 5.3 5.3 0.0 5.3 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 21.1 0.0 0.0 0.0 0.0
+Course Total EDP 256
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+2
+1
+1
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+3.53
+% 0.0 47.4 10.5 5.3 5.3 0.0 5.3 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 21.1 0.0 0.0 0.0 0.0
+EDP 272 UA Johnson Ashley E. Intro to Disability Studies
+Y
+N
+G4
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.52
+% 0.0 60.0 10.0 0.0 0.0 0.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0
+Course Total EDP 272
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.52
+% 0.0 60.0 10.0 0.0 0.0 0.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0
+EDP 279 TA Dickey Michele D. Tech + Media Lit and Learning
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+20
+2
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.76
+% 80.0 8.0 0.0 4.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDP 279
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+20
+2
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.76
+% 80.0 8.0 0.0 4.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 333 TA Dickey Michele D. Eval & Assessment for ID
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+13
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.98
+% 92.9 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

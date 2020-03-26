@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Oxford Campus
+Page: 450 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHS 130N TB Campbell Wilburn C. Intermediate Tennis
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+22
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 8.0 88.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 130N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+42
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+3.98
+% 11.1 77.8 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.7 1.9 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 130O UA DeGirolamo Carla M. Basic Ice Skating
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+29
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.90
+% 0.0 78.4 2.7 0.0 8.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.8 0.0 0.0 0.0
+PHS 130O UB Szynkowski Jason D. Basic Ice Skating
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+8
+4
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2
+1
+1
+0
+1
+0
+0
+0
+3.63
+% 0.0 45.7 22.9 11.4 2.9 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.7 2.9 2.9 0.0 2.9 0.0 0.0 0.0
+PHS 130O UC Szynkowski Jason D. Basic Ice Skating
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+24
+6
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.90
+% 0.0 68.6 17.1 5.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 130O UD Grosel Bonnie M. Basic Ice Skating
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+22
+5
+4
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+3.72
+% 2.9 62.9 14.3 11.4 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 2.9 0.0 0.0 0.0 0.0 0.0
+PHS 130O UE Lewis Alyssa N. Basic Ice Skating
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+7
+5
+7
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+3.61
+% 0.0 35.1 18.9 13.5 18.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 13.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

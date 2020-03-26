@@ -1,0 +1,124 @@
+testPOL Political Science
+470
+POR Portuguese
+486
+PSE Paper Science & Engineering
+487
+PSY Psychology
+489
+REL Comparative Religion
+506
+RUS Russian
+511
+SOC Sociology
+513
+SPA Speech Pathology & Audiology
+520
+SPN Spanish
+530
+STA Statistics
+543
+THE Theatre
+548
+WCP Interdisciplinary Studies- Wcp
+558
+WMS Women'S Studies
+567
+ZOO Zoology
+571
+Middletown Campus
+587
+ACC Accountancy
+588
+AMS American Studies
+590
+ART Art
+591
+ATH Anthropology
+594
+BOT Botany
+596
+BTE Business Technology
+598
+BWS Black World Studies
+605
+CHM Chemistry & Biochemistry
+606
+CIT Comp Information Technology
+609
+CLS Classics
+611
+COM Communication
+612
+CSA Computer Sci &Systems Analysis
+615
+DSC Decision Sciences
+617
+ECO Economics
+618
+EDL Educational Leadership
+619
+EDP Educational Psychology
+621
+EDT Teacher Education
+623
+ENG English
+627
+ENT Engineering Technology
+636
+FRE French
+638
+FST Film Studies
+639
+FSW Family Studies And Social Work
+640
+GEO Geography
+642
+GER German
+643
+GLG Geology
+644
+GTY Gerontology
+646
+HST History
+647
+IDS Interdisciplinary
+651
+ITS International Studies
+652
+LAS Latin American Studies
+653
+MBI Microbiology
+654
+MGT Management
+656
+MIS Management Information Systems
+657
+MKT Marketing
+658
+MTH Mathematics
+659
+MUS Music
+665
+NSG Nursing
+668
+PHL Philosophy
+670
+PHS Phy Edu, Hlth, & Sport Studies
+672
+PHY Physics
+678
+POL Political Science
+681
+PSY Psychology
+682
+REL Comparative Religion
+684
+SOC Sociology
+685
+SPN Spanish
+688
+STA Statistics
+690
+THE Theatre
+691

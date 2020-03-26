@@ -1,0 +1,303 @@
+testRun: 01/25/06 @ 12:34 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2005-06 Oxford Campus
+Page: 43 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ART 188 C Getty Clive F. Hst Of West Art/Renais-Modern
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+9
+10
+27
+11
+7
+21
+6
+4
+10
+3
+7
+17
+0
+0
+0
+5
+0
+0
+0
+2.37
+% 0.0 4.2 6.3 7.0 18.9 7.7 4.9 14.7 4.2 2.8 7.0 2.1 4.9 11.9 0.0 0.0 0.0 3.5 0.0 0.0 0.0
+Course Total ART 188
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+16
+62
+71
+25
+72
+52
+17
+29
+15
+6
+15
+4
+13
+24
+0
+0
+2
+20
+0
+0
+0
+2.93
+% 3.6 14.0 16.0 5.6 16.3 11.7 3.8 6.5 3.4 1.4 3.4 0.9 2.9 5.4 0.0 0.0 0.5 4.5 0.0 0.0 0.0
+ART 188H A Adams Ellen E. Hst Of West Art/Renais-Modern
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+9
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 17.6 52.9 11.8 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ART 188H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+9
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 17.6 52.9 11.8 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 188L L A Vankrunkelsven Christine Hst Of West Art/Renais-Lux
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+3
+3
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+3.36
+% 11.8 11.8 17.6 17.6 5.9 5.9 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 17.6 0.0 0.0 0.0
+Course Total ART 188L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+3
+3
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+3.36
+% 11.8 11.8 17.6 17.6 5.9 5.9 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 17.6 0.0 0.0 0.0
+ART 189 A Butler Sara L. History Of Western Dress
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+8
+6
+8
+3
+2
+2
+1
+1
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.06
+% 0.0 5.7 22.9 17.1 22.9 8.6 5.7 5.7 2.9 2.9 0.0 0.0 0.0 2.9 0.0 0.0 0.0 2.9 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

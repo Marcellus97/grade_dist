@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 373 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total MTH 347
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+8
+4
+6
+11
+3
+0
+3
+4
+1
+2
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+3.04
+% 8.2 16.3 8.2 12.2 22.4 6.1 0.0 6.1 8.2 2.0 4.1 0.0 0.0 0.0 6.1 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 407 A Stonewater Jerry K. Mathematical Structres-Inquiry
+N
+N
+NY
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+3
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.65
+% 0.0 57.1 21.4 7.1 0.0 7.1 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 407
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+3
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.65
+% 0.0 57.1 21.4 7.1 0.0 7.1 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 411 A Keiser Jane M. Foundations Of Geometry
+N
+N
+NZ
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+1
+4
+1
+0
+4
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 25.0 10.0 5.0 20.0 5.0 0.0 20.0 10.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 411 B Randrianantoanina Beata Foundations Of Geometry
+N
+N
+AA
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+0
+4
+1
+0
+1
+1
+0
+2
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+3.07
+% 0.0 25.0 20.0 0.0 20.0 5.0 0.0 5.0 5.0 0.0 10.0 0.0 0.0 0.0 5.0 0.0 5.0 0.0 0.0 0.0 0.0
+Course Total MTH 411
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+6
+1
+8
+2
+0
+5
+3
+1
+2
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+2.98
+% 0.0 25.0 15.0 2.5 20.0 5.0 0.0 12.5 7.5 2.5 5.0 0.0 0.0 0.0 2.5 0.0 2.5 0.0 0.0 0.0 0.0
+MTH 421 A Farmer Thomas A. Intro To Abstract Algebra
+N
+N
+EF
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+3
+1
+2
+2
+0
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.59
+% 0.0 21.4 0.0 0.0 21.4 7.1 14.3 14.3 0.0 0.0 0.0 14.3 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

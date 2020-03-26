@@ -1,0 +1,177 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Hamilton Campus
+Page: 809 Sections of 10
+PHL Philosophy
+Miami Plan
+Honors
+Cross Listing
+PHL 131 H A Kelly James S. Prob Of Moral & Social Values
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+1
+1
+0
+1
+1
+0
+0
+0
+0
+1
+10
+0
+0
+0
+0
+0
+0
+0
+2.38
+% 0.0 0.0 6.3 6.3 6.3 0.0 6.3 6.3 0.0 0.0 0.0 0.0 6.3 62.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHL 131 H B Kelly James S. Prob Of Moral & Social Values
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+2
+3
+5
+1
+1
+0
+0
+0
+0
+0
+6
+0
+0
+1
+0
+0
+0
+0
+2.85
+% 0.0 0.0 5.0 10.0 15.0 25.0 5.0 5.0 0.0 0.0 0.0 0.0 0.0 30.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0
+Course Total PHL 131
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+3
+4
+5
+2
+2
+0
+0
+0
+0
+1
+16
+0
+0
+1
+0
+0
+0
+0
+2.71
+% 0.0 0.0 5.6 8.3 11.1 13.9 5.6 5.6 0.0 0.0 0.0 0.0 2.8 44.4 0.0 0.0 2.8 0.0 0.0 0.0 0.0
+Philosophy Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+0
+2
+3
+4
+5
+2
+2
+0
+0
+0
+0
+1
+16
+0
+0
+1
+0
+0
+0
+0
+2.71
+% 0.0 0.0 5.6 8.3 11.1 13.9 5.6 5.6 0.0 0.0 0.0 0.0 2.8 44.4 0.0 0.0 2.8 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

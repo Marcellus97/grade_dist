@@ -1,0 +1,307 @@
+testRun: 01/21/10 @ 13:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2009-10 Oxford Campus
+Page: 35 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ART 111 F Willett Michael A. Visual Fundamentals
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+3
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 0.0 26.7 20.0 20.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ART 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+21
+14
+19
+13
+11
+3
+4
+0
+0
+1
+0
+0
+7
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 1.1 22.3 14.9 20.2 13.8 11.7 3.2 4.3 0.0 0.0 1.1 0.0 0.0 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 121 A Payne Brent Drawing I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+7
+3
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.45
+% 0.0 11.1 38.9 16.7 11.1 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 121 B Litteken Matthew W. Drawing I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+2
+5
+2
+1
+0
+2
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.34
+% 0.0 0.0 11.1 11.1 27.8 11.1 5.6 0.0 11.1 5.6 0.0 5.6 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 121 C Loehle Paul M. Drawing I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+0
+6
+2
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 5.9 29.4 0.0 35.3 11.8 5.9 5.9 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 121 D Purdum Jennifer V. Drawing I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+2
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 0.0 22.2 22.2 11.1 44.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 121 E Willett Michael A. Drawing I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+6
+0
+0
+0
+0
+2
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 17.6 17.6 35.3 0.0 0.0 0.0 0.0 11.8 5.9 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,309 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 234 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 109 B Bechtel Gabriele Composition & Rhet L2 Writers
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+2
+7
+1
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 10.5 26.3 10.5 36.8 5.3 0.0 0.0 0.0 0.0 0.0 0.0 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 109 C Orth William P. Composition & Rhet L2 Writers
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+6
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.75
+% 0.0 52.6 31.6 0.0 15.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 109 D Francis Kate P. Composition & Rhet L2 Writers
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+6
+0
+1
+1
+4
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+3.27
+% 21.1 31.6 0.0 5.3 5.3 21.1 0.0 0.0 5.3 0.0 0.0 0.0 5.3 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0
+ENG 109 E Mina Lilian W. Composition & Rhet L2 Writers
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+2
+4
+1
+1
+1
+1
+0
+0
+0
+1
+0
+2
+1
+0
+0
+1
+0
+0
+0
+0
+2.94
+% 16.7 11.1 22.2 5.6 5.6 5.6 5.6 0.0 0.0 0.0 5.6 0.0 11.1 5.6 0.0 0.0 5.6 0.0 0.0 0.0 0.0
+ENG 109 F Zacharias Nugrahenny T. Composition & Rhet L2 Writers
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+2
+2
+3
+1
+1
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.35
+% 35.3 11.8 11.8 17.6 5.9 5.9 0.0 5.9 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 109 G Damon Mairel Charm M. Composition & Rhet L2 Writers
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+2
+2
+1
+0
+1
+3
+0
+0
+0
+1
+5
+0
+0
+0
+0
+0
+0
+0
+2.51
+% 0.0 5.9 5.9 11.8 11.8 5.9 0.0 5.9 17.6 0.0 0.0 0.0 5.9 29.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 109 H Wagar Scott E. Composition & Rhet L2 Writers
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+2
+4
+0
+1
+2
+1
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+3.00
+% 0.0 26.3 10.5 10.5 21.1 0.0 5.3 10.5 5.3 0.0 0.0 0.0 5.3 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

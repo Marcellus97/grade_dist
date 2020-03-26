@@ -1,0 +1,305 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Hamilton Campus
+Page: 839 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MTH 102 H J Kassem Mariam K. Intermediate Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+0
+1
+1
+1
+1
+2
+0
+0
+0
+0
+0
+1
+3
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 16.7 0.0 8.3 8.3 8.3 8.3 16.7 0.0 0.0 0.0 0.0 0.0 8.3 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 102 H K Donges Kevin A. Intermediate Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+0
+0
+2
+0
+4
+1
+1
+0
+2
+0
+14
+6
+0
+0
+0
+0
+0
+0
+0
+1.00
+% 3.2 0.0 0.0 0.0 6.5 0.0 12.9 3.2 3.2 0.0 6.5 0.0 45.2 19.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 102 H L Cain Kim E. Intermediate Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+2
+0
+1
+0
+0
+1
+1
+1
+4
+2
+0
+0
+0
+0
+0
+0
+0
+1.13
+% 0.0 0.0 0.0 0.0 16.7 0.0 8.3 0.0 0.0 8.3 8.3 8.3 33.3 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 102 H M Donges Kevin A. Intermediate Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+1
+0
+5
+0
+0
+4
+1
+0
+1
+0
+5
+3
+0
+0
+0
+0
+0
+0
+0
+1.86
+% 4.8 0.0 4.8 0.0 23.8 0.0 0.0 19.0 4.8 0.0 4.8 0.0 23.8 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+10
+14
+9
+14
+35
+16
+17
+27
+17
+7
+20
+4
+53
+59
+0
+0
+0
+0
+0
+0
+0
+1.97
+% 3.3 4.6 3.0 4.6 11.6 5.3 5.6 8.9 5.6 2.3 6.6 1.3 17.5 19.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 115 H A Cerone Catherine M. Math for Teachers Grades P-6
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+4
+1
+8
+1
+3
+1
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 6.9 20.7 13.8 3.4 27.6 3.4 10.3 3.4 3.4 0.0 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 115
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+4
+1
+8
+1
+3
+1
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 6.9 20.7 13.8 3.4 27.6 3.4 10.3 3.4 3.4 0.0 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

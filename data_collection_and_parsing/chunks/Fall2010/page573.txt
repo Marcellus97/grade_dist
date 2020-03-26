@@ -1,0 +1,308 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Oxford Campus
+Page: 569 Sections of 10
+SOC Sociology
+Miami Plan
+Honors
+Cross Listing
+SOC 151 A Killian Mark P. Social Relations
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+6
+4
+9
+5
+2
+3
+1
+0
+0
+2
+4
+2
+0
+0
+0
+1
+0
+0
+0
+2.82
+% 2.0 18.4 12.2 8.2 18.4 10.2 4.1 6.1 2.0 0.0 0.0 4.1 8.2 4.1 0.0 0.0 0.0 2.0 0.0 0.0 0.0
+SOC 151 C Harris Othello Social Relations
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+5
+7
+4
+5
+4
+3
+6
+1
+3
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+2.73
+% 4.3 10.6 10.6 14.9 8.5 10.6 8.5 6.4 12.8 2.1 6.4 2.1 0.0 0.0 0.0 0.0 0.0 2.1 0.0 0.0 0.0
+SOC 151 D Harris Othello Social Relations
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+9
+10
+5
+3
+5
+4
+0
+5
+5
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.00
+% 4.1 18.4 20.4 10.2 6.1 10.2 8.2 0.0 10.2 10.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.0 0.0 0.0 0.0
+Course Total SOC 151
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+23
+21
+16
+16
+15
+10
+6
+12
+6
+3
+3
+4
+2
+0
+0
+0
+3
+0
+0
+0
+2.85
+% 3.4 15.9 14.5 11.0 11.0 10.3 6.9 4.1 8.3 4.1 2.1 2.1 2.8 1.4 0.0 0.0 0.0 2.1 0.0 0.0 0.0
+SOC 152 A Lippmann Stephen Social Relations & US Cultures
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+13
+10
+4
+9
+2
+1
+1
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.35
+% 8.5 27.7 21.3 8.5 19.1 4.3 2.1 2.1 2.1 0.0 0.0 2.1 2.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 152 B Lippmann Stephen Social Relations & US Cultures
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+15
+5
+5
+13
+2
+1
+3
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 9.8 29.4 9.8 9.8 25.5 3.9 2.0 5.9 0.0 2.0 0.0 0.0 0.0 2.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 152 C Zhai Jiexia Social Relations & US Cultures
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+6
+6
+9
+8
+4
+2
+0
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.11
+% 0.0 20.8 12.5 12.5 18.8 16.7 8.3 4.2 0.0 2.1 2.1 0.0 0.0 0.0 0.0 0.0 0.0 2.1 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

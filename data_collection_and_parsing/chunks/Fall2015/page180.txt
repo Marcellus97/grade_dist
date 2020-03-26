@@ -1,0 +1,301 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 176 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ECO 361 A Even William E. Labor Economics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+4
+3
+5
+5
+3
+2
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.63
+% 0.0 0.0 14.3 10.7 17.9 17.9 10.7 7.1 14.3 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 361
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+4
+3
+5
+5
+3
+2
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.63
+% 0.0 0.0 14.3 10.7 17.9 17.9 10.7 7.1 14.3 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 385 A Brock James W. Government And Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+2
+8
+0
+1
+2
+2
+1
+0
+1
+1
+7
+0
+0
+0
+0
+0
+0
+0
+2.56
+% 0.0 3.6 7.1 7.1 28.6 0.0 3.6 7.1 7.1 3.6 0.0 3.6 3.6 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 385
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+2
+8
+0
+1
+2
+2
+1
+0
+1
+1
+7
+0
+0
+0
+0
+0
+0
+0
+2.56
+% 0.0 3.6 7.1 7.1 28.6 0.0 3.6 7.1 7.1 3.6 0.0 3.6 3.6 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 405 A Granderson Gerald D. Economics of Strategy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+2
+13
+4
+2
+1
+1
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+3.08
+% 0.0 12.1 12.1 6.1 39.4 12.1 6.1 3.0 3.0 0.0 0.0 0.0 0.0 3.0 0.0 0.0 3.0 0.0 0.0 0.0 0.0
+Course Total ECO 405
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+2
+13
+4
+2
+1
+1
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+3.08
+% 0.0 12.1 12.1 6.1 39.4 12.1 6.1 3.0 3.0 0.0 0.0 0.0 0.0 3.0 0.0 0.0 3.0 0.0 0.0 0.0 0.0
+ECO 411 A Li Jing Advanced Empirical Methods
+N
+N
+LO
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+1
+3
+3
+4
+1
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.80
+% 0.0 4.5 27.3 4.5 13.6 13.6 18.2 4.5 4.5 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

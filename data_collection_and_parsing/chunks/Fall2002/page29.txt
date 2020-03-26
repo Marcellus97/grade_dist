@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Oxford Campus
+Page: 26 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ARC 405F A Reynolds John M. Recent French Architecture
+N
+N
+G3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+2
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 8.3 33.3 16.7 16.7 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ARC 405F
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+2
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 8.3 33.3 16.7 16.7 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0
+ARC 417 A Stephens Randy J. Architectural Materials
+N
+N
+G6
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+16
+12
+10
+4
+6
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.19
+% 0.0 10.5 28.1 21.1 17.5 7.0 10.5 1.8 1.8 0.0 1.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ARC 417
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+16
+12
+10
+4
+6
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.19
+% 0.0 10.5 28.1 21.1 17.5 7.0 10.5 1.8 1.8 0.0 1.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ARC 422 A Sanabria Sergio L. History Of Urbanization
+N
+N
+YH
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+3
+7
+2
+0
+4
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 4.0 20.0 12.0 28.0 8.0 0.0 16.0 8.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ARC 422
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+3
+7
+2
+0
+4
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 4.0 20.0 12.0 28.0 8.0 0.0 16.0 8.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0
+ARC 426 A Dutton Thomas A. Architecture And Society
+N
+N
+G7
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+0
+5
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.45
+% 0.0 30.8 23.1 0.0 38.5 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

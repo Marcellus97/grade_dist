@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 213 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 313 I Theisen Christine E. Intro To Technical Writing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+8
+7
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 13.0 34.8 30.4 13.0 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 313 J Brinkmann Ann T. Intro To Technical Writing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+3
+3
+4
+2
+2
+4
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.00
+% 4.5 9.1 13.6 13.6 18.2 9.1 9.1 18.2 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 313
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+33
+41
+26
+12
+6
+3
+4
+1
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+3.49
+% 3.0 24.6 30.6 19.4 9.0 4.5 2.2 3.0 0.7 0.0 0.0 0.0 0.0 1.5 1.5 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 315 B Brinkmann Ann T. Business Writing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+6
+4
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+3.46
+% 0.0 18.2 27.3 18.2 13.6 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 13.6 0.0 0.0 0.0
+ENG 315 C Darrah Kevin D. Business Writing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+4
+2
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+3.28
+% 0.0 10.5 26.3 21.1 10.5 5.3 0.0 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 15.8 0.0 0.0 0.0
+ENG 315 D Lamborg Amy D. Business Writing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+18
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.65
+% 0.0 8.0 72.0 12.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0
+Course Total ENG 315
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+29
+11
+6
+3
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7
+0
+0
+0
+3.49
+% 0.0 12.1 43.9 16.7 9.1 4.5 0.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.6 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

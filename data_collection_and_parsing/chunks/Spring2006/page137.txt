@@ -1,0 +1,305 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 134 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ECO 202 U Sharma Amarendra Principles Of Macroeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+6
+16
+5
+7
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 7.5 0.0 15.0 40.0 12.5 17.5 7.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 202 V Crassweller Karyn E. Principles Of Macroeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+1
+1
+1
+1
+5
+1
+1
+1
+0
+3
+5
+0
+0
+0
+0
+0
+0
+0
+1.96
+% 0.0 9.1 0.0 4.5 4.5 4.5 4.5 22.7 4.5 4.5 4.5 0.0 13.6 22.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 202 X Thomasson Melissa A. Principles Of Macroeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+1
+5
+3
+3
+6
+2
+4
+3
+3
+1
+0
+0
+0
+0
+0
+1
+0
+0
+2.13
+% 0.0 5.6 5.6 2.8 13.9 8.3 8.3 16.7 5.6 11.1 8.3 8.3 2.8 0.0 0.0 0.0 0.0 0.0 2.8 0.0 0.0
+ECO 202 Y Sharma Amarendra Principles Of Macroeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+9
+13
+8
+3
+6
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 0.0 0.0 22.5 32.5 20.0 7.5 15.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 202
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+62
+49
+65
+216 87
+77
+132 49
+40
+38
+16
+24
+47
+0
+0
+0
+3
+2
+0
+0
+2.53
+% 1.0 6.8 5.3 7.1 23.6 9.5 8.4 14.4 5.3 4.4 4.1 1.7 2.6 5.1 0.0 0.0 0.0 0.3 0.2 0.0 0.0
+ECO 202H A Hart William R. Principles Of Macroeconomics
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+1
+2
+1
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 0.0 47.1 0.0 5.9 11.8 5.9 0.0 29.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 202H B Hart William R. Principles Of Macroeconomics
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+0
+3
+2
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 0.0 27.3 9.1 0.0 27.3 18.2 0.0 9.1 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

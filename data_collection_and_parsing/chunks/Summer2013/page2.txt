@@ -1,0 +1,124 @@
+testBWS Black World Studies
+123
+CHM Chemistry & Biochemistry
+124
+CIT Comp Information Technology
+125
+COM Communication
+126
+CSE Comp Sci &Software Engineering
+127
+ECO Economics
+128
+EDT Teacher Education
+130
+ENG English
+131
+ENT Engineering Technology
+134
+FSW Family Studies And Social Work
+136
+GEO Geography
+137
+GLG Geology
+138
+HST History
+139
+ITS International Studies
+141
+KNH Kinesiology And Health
+142
+MBI Microbiology
+143
+MTH Mathematics
+145
+MUS Music
+148
+NSG Nursing
+149
+POL Political Science
+150
+PSY Psychology
+151
+SOC Sociology
+152
+SPN Spanish
+154
+STA Statistics
+156
+WGS Women,Gender&Sexuality Studies
+157
+ZOO Zoology
+158
+Middletown Campus
+159
+AMS American Studies
+160
+ART Art
+161
+ATH Anthropology
+162
+BIS Integrative Studies
+163
+CHM Chemistry & Biochemistry
+164
+CJS Criminal Justice Studies
+165
+COM Communication
+166
+ENG English
+167
+ENT Engineering Technology
+170
+GEO Geography
+171
+GLG Geology
+172
+HST History
+173
+KNH Kinesiology And Health
+175
+MBI Microbiology
+176
+MTH Mathematics
+177
+MUS Music
+178
+NSG Nursing
+179
+PHY Physics
+180
+PSY Psychology
+182
+SPN Spanish
+183
+STA Statistics
+185
+ZOO Zoology
+186
+Voa - West Chester Campus
+187
+BIS Integrative Studies
+188
+COM Communication
+189
+ECO Economics
+190
+EDL Educational Leadership
+191
+EDT Teacher Education
+194
+FIN Finance
+195
+HST History
+196
+ISA Information Systems& Analytics
+197
+LAS Latin American Studies
+198
+MGT Management
+199
+MKT Marketing
+200
+MTH Mathematics
+201

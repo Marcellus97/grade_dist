@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Oxford Campus
+Page: 501 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+SAN 141 G Marcus Felice J. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+23
+2
+0
+2
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.59
+% 0.0 74.2 6.5 0.0 6.5 0.0 0.0 9.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0
+SAN 141 H Lyons Bradley S. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+19
+1
+0
+7
+1
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 0.0 59.4 3.1 0.0 21.9 3.1 0.0 9.4 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 141 I Olson Michael D. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+20
+0
+0
+3
+0
+0
+5
+0
+0
+0
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+3.41
+% 0.0 64.5 0.0 0.0 9.7 0.0 0.0 16.1 0.0 0.0 0.0 0.0 0.0 6.5 0.0 3.2 0.0 0.0 0.0 0.0 0.0
+SAN 141 J Donohue Annella M. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+21
+0
+0
+7
+0
+0
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.65
+% 3.1 65.6 0.0 0.0 21.9 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 3.1 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 141 K Lyons Bradley S. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+11
+1
+0
+9
+4
+0
+3
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 11.8 32.4 2.9 0.0 26.5 11.8 0.0 8.8 2.9 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 141 L Prozialeck Joshua D. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+24
+0
+0
+5
+0
+0
+3
+0
+0
+0
+0
+1
+1
+0
+1
+1
+0
+0
+0
+0
+3.44
+% 0.0 66.7 0.0 0.0 13.9 0.0 0.0 8.3 0.0 0.0 0.0 0.0 2.8 2.8 0.0 2.8 2.8 0.0 0.0 0.0 0.0
+SAN 141 M McCallister Erika L. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+19
+1
+1
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.81
+% 26.5 55.9 2.9 2.9 5.9 2.9 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

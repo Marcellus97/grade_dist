@@ -1,0 +1,301 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Oxford Campus
+Page: 411 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total MUS 152
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+14
+5
+1
+9
+1
+1
+2
+1
+1
+2
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+3.06
+% 9.1 31.8 11.4 2.3 20.5 2.3 2.3 4.5 2.3 2.3 4.5 0.0 2.3 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0
+MUS 155 A Bausano William P. Chamber Singers
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MUS 155
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MUS 185 B Tanner Christopher G. The Diverse Worlds Of Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+55
+8
+6
+11
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+0
+0
+3.73
+% 4.3 58.5 8.5 6.4 11.7 2.1 0.0 2.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.4 0.0 0.0 0.0
+Course Total MUS 185
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+55
+8
+6
+11
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+0
+0
+3.73
+% 4.3 58.5 8.5 6.4 11.7 2.1 0.0 2.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.4 0.0 0.0 0.0
+MUS 185M A Tanner Christopher G. Diverse Worlds Of Music/Majors
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+16
+7
+7
+3
+1
+1
+0
+0
+2
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+3.24
+% 0.0 28.6 28.6 12.5 12.5 5.4 1.8 1.8 0.0 0.0 3.6 0.0 0.0 0.0 0.0 5.4 0.0 0.0 0.0 0.0 0.0
+Course Total MUS 185M
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+16
+7
+7
+3
+1
+1
+0
+0
+2
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+3.24
+% 0.0 28.6 28.6 12.5 12.5 5.4 1.8 1.8 0.0 0.0 3.6 0.0 0.0 0.0 0.0 5.4 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

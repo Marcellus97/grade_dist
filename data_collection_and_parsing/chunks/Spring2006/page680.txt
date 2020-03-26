@@ -1,0 +1,303 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Middletown Campus
+Page: 677 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHS 188 M A Haas Derek M. Exercise And Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+1
+2
+1
+0
+1
+1
+1
+0
+3
+1
+4
+1
+0
+0
+0
+0
+0
+0
+0
+2.46
+% 16.0 20.0 4.0 8.0 4.0 0.0 4.0 4.0 4.0 0.0 12.0 4.0 16.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 188
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+1
+2
+1
+0
+1
+1
+1
+0
+3
+1
+4
+1
+0
+0
+0
+0
+0
+0
+0
+2.46
+% 16.0 20.0 4.0 8.0 4.0 0.0 4.0 4.0 4.0 0.0 12.0 4.0 16.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 188L M A Haas Derek M. Exercise And Health Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+11
+3
+0
+6
+0
+0
+0
+1
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 45.8 12.5 0.0 25.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 8.3 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 188L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+11
+3
+0
+6
+0
+0
+0
+1
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 45.8 12.5 0.0 25.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 8.3 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 194 M A Uhler Kevin Standard First Aid & Cpr
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 30.0 0.0 0.0 60.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 194
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 30.0 0.0 0.0 60.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 194L M A Uhler Kevin Standard First Aid & Cpr Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+4
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 40.0 0.0 0.0 40.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

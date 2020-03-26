@@ -1,0 +1,177 @@
+testRun: 12/19/05 @ 10:10 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2004-05 Middletown Campus
+Page: 145 Sections of 10
+CSA Computer Sci &Systems Analysis
+Miami Plan
+Honors
+Cross Listing
+CSA 151 MMA Hines Warren S. Computers,Compter Sci & Socity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+1
+2
+2
+0
+2
+2
+0
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 5.9 23.5 5.9 11.8 11.8 0.0 11.8 11.8 0.0 5.9 5.9 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 151 MOA Cantonwine Paul F. Computers,Compter Sci & Socity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+0
+8
+3
+2
+0
+0
+0
+0
+0
+0
+0
+2
+2
+0
+1
+0
+0
+0
+2.59
+% 0.0 0.0 10.0 0.0 40.0 15.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 10.0 0.0 5.0 0.0 0.0 0.0
+Course Total CSA 151
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+3
+2
+10
+3
+4
+2
+0
+1
+1
+0
+0
+1
+2
+2
+0
+1
+0
+0
+0
+2.77
+% 2.7 10.8 8.1 5.4 27.0 8.1 10.8 5.4 0.0 2.7 2.7 0.0 0.0 2.7 5.4 5.4 0.0 2.7 0.0 0.0 0.0
+Computer Sci &Systems Analysis Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+4
+3
+2
+10
+3
+4
+2
+0
+1
+1
+0
+0
+1
+2
+2
+0
+1
+0
+0
+0
+2.77
+% 2.7 10.8 8.1 5.4 27.0 8.1 10.8 5.4 0.0 2.7 2.7 0.0 0.0 2.7 5.4 5.4 0.0 2.7 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

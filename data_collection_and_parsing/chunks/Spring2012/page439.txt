@@ -1,0 +1,300 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Oxford Campus
+Page: 435 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total MBI 405
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+5
+2
+2
+4
+1
+2
+3
+0
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 7.4 7.4 18.5 7.4 7.4 14.8 3.7 7.4 11.1 0.0 3.7 3.7 3.7 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MBI 464 A Bridge Eileen Human Viruses
+N
+N
+Y7
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+0
+2
+4
+1
+0
+3
+2
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.47
+% 5.6 11.1 0.0 11.1 22.2 5.6 0.0 16.7 11.1 0.0 5.6 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MBI 464
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+0
+2
+4
+1
+0
+3
+2
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.47
+% 5.6 11.1 0.0 11.1 22.2 5.6 0.0 16.7 11.1 0.0 5.6 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MBI 465 TA Actis Luis A. Genetics Lab
+N
+N
+Y8
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+3
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 0.0 13.3 33.3 20.0 20.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MBI 465
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+3
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 0.0 13.3 33.3 20.0 20.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MBI 475 A Bollmann Annette Microbial Ecology
+N
+N
+0V
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+0
+3
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 0.0 35.7 21.4 0.0 21.4 0.0 7.1 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MBI 475
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+0
+3
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 0.0 35.7 21.4 0.0 21.4 0.0 7.1 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

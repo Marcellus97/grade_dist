@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 74 Sections of 10
+CLS Classics
+Miami Plan
+Honors
+Cross Listing
+CLS 101 A Torlone Zara M. Greek Civ/Mediterranean Contxt
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+6
+10
+15
+9
+0
+1
+1
+0
+0
+0
+1
+0
+0
+1
+0
+2
+0
+0
+0
+3.00
+% 0.0 8.0 12.0 20.0 30.0 18.0 0.0 2.0 2.0 0.0 0.0 0.0 2.0 0.0 0.0 2.0 0.0 4.0 0.0 0.0 0.0
+Course Total CLS 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+6
+10
+15
+9
+0
+1
+1
+0
+0
+0
+1
+0
+0
+1
+0
+2
+0
+0
+0
+3.00
+% 0.0 8.0 12.0 20.0 30.0 18.0 0.0 2.0 2.0 0.0 0.0 0.0 2.0 0.0 0.0 2.0 0.0 4.0 0.0 0.0 0.0
+CLS 102 A Hughes Lisa A. Roman Civilization
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+11
+11
+3
+6
+1
+2
+2
+1
+0
+0
+1
+0
+2
+3
+0
+0
+6
+0
+0
+0
+3.36
+% 3.9 21.6 21.6 5.9 11.8 2.0 3.9 3.9 2.0 0.0 0.0 2.0 0.0 3.9 5.9 0.0 0.0 11.8 0.0 0.0 0.0
+Course Total CLS 102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+11
+11
+3
+6
+1
+2
+2
+1
+0
+0
+1
+0
+2
+3
+0
+0
+6
+0
+0
+0
+3.36
+% 3.9 21.6 21.6 5.9 11.8 2.0 3.9 3.9 2.0 0.0 0.0 2.0 0.0 3.9 5.9 0.0 0.0 11.8 0.0 0.0 0.0
+CLS 121 A Dutra John A. Classical Mythology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+11
+6
+7
+4
+2
+3
+3
+0
+0
+0
+2
+2
+0
+0
+9
+1
+0
+0
+2.78
+% 0.0 5.6 1.9 20.4 11.1 13.0 7.4 3.7 5.6 5.6 0.0 0.0 0.0 3.7 3.7 0.0 0.0 16.7 1.9 0.0 0.0
+CLS 121 B McCoskey Denise E. Classical Mythology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+7
+12
+5
+4
+1
+2
+1
+0
+0
+0
+0
+0
+1
+0
+0
+8
+2
+0
+0
+3.30
+% 1.9 15.4 13.5 23.1 9.6 7.7 1.9 3.8 1.9 0.0 0.0 0.0 0.0 0.0 1.9 0.0 0.0 15.4 3.8 0.0 0.0
+Course Total CLS 121
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+8
+23
+11
+11
+5
+4
+4
+3
+0
+0
+0
+2
+3
+0
+0
+17
+3
+0
+0
+3.04
+% 0.9 10.4 7.5 21.7 10.4 10.4 4.7 3.8 3.8 2.8 0.0 0.0 0.0 1.9 2.8 0.0 0.0 16.0 2.8 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,306 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Oxford Campus
+Page: 18 Sections of 10
+AMS American Studies
+Miami Plan
+Honors
+Cross Listing
+AMS 101 A Benjamin Richard M. Intro To American Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+12
+7
+7
+3
+3
+0
+2
+0
+0
+0
+0
+0
+0
+1
+0
+4
+0
+0
+0
+3.19
+% 0.0 13.3 26.7 15.6 15.6 6.7 6.7 0.0 4.4 0.0 0.0 0.0 0.0 0.0 0.0 2.2 0.0 8.9 0.0 0.0 0.0
+AMS 101 B Benjamin Richard M. Intro To American Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+11
+15
+6
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+3.26
+% 0.0 11.4 25.0 34.1 13.6 4.5 4.5 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.3 0.0 2.3 0.0 0.0 0.0
+AMS 101 C Benjamin Richard M. Intro To American Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+10
+10
+8
+6
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+3.25
+% 0.0 7.3 24.4 24.4 19.5 14.6 4.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.4 0.0 0.0 2.4 0.0 0.0 0.0
+Course Total AMS 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+33
+32
+21
+11
+7
+1
+2
+0
+0
+0
+0
+0
+1
+2
+0
+6
+0
+0
+0
+3.23
+% 0.0 10.8 25.4 24.6 16.2 8.5 5.4 0.8 1.5 0.0 0.0 0.0 0.0 0.0 0.8 1.5 0.0 4.6 0.0 0.0 0.0
+AMS 101H A Shaffer Marguerite S. Intro to American Studies
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+7
+1
+4
+3
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.41
+% 0.0 15.8 36.8 5.3 21.1 15.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total AMS 101H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+7
+1
+4
+3
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.41
+% 0.0 15.8 36.8 5.3 21.1 15.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0
+AMS 201 A Williams Peter W. Approaches To American Culture
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+14
+4
+5
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 3.8 3.8 53.8 15.4 19.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

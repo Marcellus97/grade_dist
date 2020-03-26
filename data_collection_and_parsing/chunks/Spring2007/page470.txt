@@ -1,0 +1,347 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Oxford Campus
+Page: 467 Sections of 10
+PHS 381L E Mwaniki Munene F. Biodynamics/Human Perform Lab
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+6
+0
+0
+8
+0
+0
+3
+0
+0
+0
+0
+% 0.0 33.3 0.0 0.0 44.4 0.0 0.0 16.7 0.0 0.0 0.0 0.0
+Course Total PHS 381L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+3
+22
+8
+5
+21
+0
+0
+3
+0
+0
+0
+0
+% 4.6 33.8 12.3 7.7 32.3 0.0 0.0 4.6 0.0 0.0 0.0 0.0
+PHS 385 A Fennell Reginald Contemp Issues Men's Health
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+0
+1
+6
+2
+0
+4
+0
+1
+0
+0
+0
+% 0.0 0.0 5.9 35.3 11.8 0.0 23.5 0.0 5.9 0.0 0.0 0.0
+Course Total PHS 385
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+0
+1
+6
+2
+0
+4
+0
+1
+0
+0
+0
+% 0.0 0.0 5.9 35.3 11.8 0.0 23.5 0.0 5.9 0.0 0.0 0.0
+PHS 393 A Rosenberg Lana K. Educational Dance & Gymnastics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0 % 0.0
+1
+2
+0
+10.0 20.0 0.0
+2
+0
+20.0 0.0
+1
+0
+10.0 0.0
+1
+1
+1
+0
+10.0 10.0 10.0 0.0
+Course Total PHS 393
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0 % 0.0
+1
+2
+0
+10.0 20.0 0.0
+2
+0
+20.0 0.0
+1
+0
+10.0 0.0
+1
+1
+1
+0
+10.0 10.0 10.0 0.0
+PHS 401 A Michael Carol M. Advanced Food Science
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+2
+1
+0
+8
+0
+0
+2
+0
+0
+2
+0
+% 0.0 12.5 6.3 0.0 50.0 0.0 0.0 12.5 0.0 0.0 12.5 0.0
+F
+W
+0
+1
+0.0 5.6
+F
+W
+0
+3
+0.0 4.6
+F
+W
+2
+1
+11.8 5.9
+F
+W
+2
+1
+11.8 5.9
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+1
+0.0 6.3
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+1
+0
+10.0 0.0
+I
+X
+1
+0
+10.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.18
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.47
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.53
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.53
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.63
+0.0 0.0 0.0
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+Avg GPA
+0
+2.63
+0.0
+E1
+S
+Avg GPA
+0
+2.78
+0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

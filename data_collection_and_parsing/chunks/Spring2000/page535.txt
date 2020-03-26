@@ -1,0 +1,302 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 532 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+THE 151 A Griffith Michael J. Stage Makeup
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.76
+% 0.0 45.5 36.4 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total THE 151
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.76
+% 0.0 45.5 36.4 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+THE 191 A Blanning Howard A. Theatre Appreciation
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+158 0
+0
+88
+0
+0
+37
+0
+0
+10
+0
+3
+2
+3
+0
+0
+5
+1
+0
+0
+3.31
+% 0.0 51.5 0.0 0.0 28.7 0.0 0.0 12.1 0.0 0.0 3.3 0.0 1.0 0.7 1.0 0.0 0.0 1.6 0.3 0.0 0.0
+THE 191 C Ganapathy Radhica Theatre Appreciation
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+0
+0
+13
+0
+0
+4
+0
+0
+1
+0
+0
+2
+0
+0
+0
+2
+0
+0
+0
+3.25
+% 0.0 38.9 0.0 0.0 36.1 0.0 0.0 11.1 0.0 0.0 2.8 0.0 0.0 5.6 0.0 0.0 0.0 5.6 0.0 0.0 0.0
+THE 191 D Seamon Mark J. Theatre Appreciation
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+29
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+0
+3
+0
+0
+0
+3.66
+% 0.0 72.5 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.5 2.5 2.5 2.5 0.0 7.5 0.0 0.0 0.0
+THE 191 E Grant Michael S. Theatre Appreciation
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+0
+0
+8
+0
+0
+4
+0
+0
+2
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+3.28
+% 0.0 55.3 0.0 0.0 21.1 0.0 0.0 10.5 0.0 0.0 5.3 0.0 2.6 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0
+Course Total THE 191
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+222 0
+0
+113 0
+0
+45
+0
+0
+13
+0
+5
+5
+4
+1
+0
+12
+1
+0
+0
+3.33
+% 0.0 52.7 0.0 0.0 26.8 0.0 0.0 10.7 0.0 0.0 3.1 0.0 1.2 1.2 1.0 0.2 0.0 2.9 0.2 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

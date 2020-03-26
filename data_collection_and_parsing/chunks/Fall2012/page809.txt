@@ -1,0 +1,330 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Hamilton Campus
+Page: 805 Sections of 10
+EDT 110R H D Becker Donna Learning Strategy/Coll Success
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+5
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+3
+4
+0
+0
+% 0.0 35.7 0.0 7.1 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 21.4 28.6 0.0 0.0
+EDT 110R H E Christman Heather S. Learning Strategy/Coll Success
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+1
+2
+1
+5
+3
+3
+0
+1
+0
+2
+0
+3
+2
+0
+0
+% 0.0 4.3 8.7 4.3 21.7 13.0 13.0 0.0 4.3 0.0 8.7 0.0 13.0 8.7 0.0 0.0
+EDT 110R H F Wells Nancy M. Learning Strategy/Coll Success
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+7
+1
+1
+0
+2
+1
+1
+0
+1
+1
+2
+1
+1
+2
+0
+0
+% 33.3 4.8 4.8 0.0 9.5 4.8 4.8 0.0 4.8 4.8 9.5 4.8 4.8 9.5 0.0 0.0
+EDT 110R HRF Middendorf-Samocki Michelle L. Learning Strategy/Coll Success
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+0
+0
+2
+2
+2
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+% 0.0 0.0 0.0 18.2 18.2 18.2 18.2 27.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110R HUA Ross Genesis R. Learning Strategy/Coll Success
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+3
+0
+0
+2
+1
+0
+0
+1
+1
+1
+0
+0
+1
+0
+0
+0
+% 30.0 0.0 0.0 20.0 10.0 0.0 0.0 10.0 10.0 10.0 0.0 0.0 10.0 0.0 0.0 0.0
+EDT 110R HUC Wells Nancy M. Learning Strategy/Coll Success
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+8
+1
+0
+0
+0
+2
+0
+1
+0
+0
+2
+0
+2
+3
+0
+0
+% 42.1 5.3 0.0 0.0 0.0 10.5 0.0 5.3 0.0 0.0 10.5 0.0 10.5 15.8 0.0 0.0
+EDT 110R HWA Ross Genesis R. Learning Strategy/Coll Success
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+1
+0
+0
+1
+0
+1
+0
+1
+0
+0
+0
+2
+1
+4
+0
+0
+% 9.1 0.0 0.0 9.1 0.0 9.1 0.0 9.1 0.0 0.0 0.0 18.2 9.1 36.4 0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.56
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.30
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.76
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.60
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.66
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.84
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.91
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

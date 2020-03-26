@@ -1,0 +1,344 @@
+testRun: 01/21/10 @ 13:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2009-10 Hamilton Campus
+Page: 760 Sections of 10
+CSA Computer Sci &Systems Analysis
+CSA 148 H A Seibold Pam Business Computing
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+3
+2
+0
+2
+3
+1
+1
+1
+% 0.0 16.7 11.1 0.0 11.1 16.7 5.6 5.6 5.6
+CSA 148 H B Werner Laurena A. Business Computing
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+1
+0
+1
+1
+2
+0
+1
+1
+% 0.0 9.1 0.0 9.1 9.1 18.2 0.0 9.1 9.1
+Course Total CSA 148
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+4
+2
+1
+3
+5
+1
+2
+2
+% 0.0 13.8 6.9 3.4 10.3 17.2 3.4 6.9 6.9
+CSA 151 H A Cantonwine Paul F. Computers,Compter Sci & Socity
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+0
+1
+3
+6
+1
+5
+2
+1
+% 0.0 0.0 4.2 12.5 25.0 4.2 20.8 8.3 4.2
+CSA 151 H B Cantonwine Paul F. Computers,Compter Sci & Socity
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+0
+0
+2
+1
+1
+4
+4
+0
+% 5.3 0.0 0.0 10.5 5.3 5.3 21.1 21.1 0.0
+CSA 151 H C Haake Mark R. Computers,Compter Sci & Socity
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+4
+7
+2
+3
+2
+0
+0
+2
+1
+% 18.2 31.8 9.1 13.6 9.1 0.0 0.0 9.1 4.5
+CSA 151 H3D Seibold Pam Computers,Compter Sci & Socity
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+0
+0
+1
+0
+2
+1
+2
+0
+% 0.0 0.0 0.0 10.0 0.0 20.0 10.0 20.0 0.0
+D+ D
+D-
+1
+3
+0
+5.6 16.7 0.0
+D+ D
+D-
+1
+0
+0
+9.1 0.0 0.0
+D+ D
+D-
+2
+3
+0
+6.9 10.3 0.0
+D+ D
+D-
+3
+1
+0
+12.5 4.2 0.0
+D+ D
+D-
+1
+0
+1
+5.3 0.0 5.3
+D+ D
+D-
+0
+0
+0
+0.0 0.0 0.0
+D+ D
+D-
+0
+0
+0
+0.0 0.0 0.0
+F
+W
+WP WF
+1
+0
+0
+0
+5.6 0.0 0.0 0.0
+F
+W
+WP WF
+0
+3
+0
+0
+0.0 27.3 0.0 0.0
+F
+W
+WP WF
+1
+3
+0
+0
+3.4 10.3 0.0 0.0
+F
+W
+WP WF
+1
+0
+0
+0
+4.2 0.0 0.0 0.0
+F
+W
+4
+0
+21.1 0.0
+WP WF
+0
+0
+0.0 0.0
+F
+W
+WP WF
+0
+1
+0
+0
+0.0 4.5 0.0 0.0
+F
+W
+WP WF
+0
+4
+0
+0
+0.0 40.0 0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.43
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.59
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.48
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.35
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.87
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.48
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.50
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

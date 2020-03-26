@@ -1,0 +1,307 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Oxford Campus
+Page: 61 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BOT 131 O Huerta Alfredo J. Plants Humanity & Environment
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+2
+2
+1
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+2.88
+% 0.0 15.4 7.7 15.4 15.4 7.7 7.7 15.4 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0
+BOT 131 P Huerta Alfredo J. Plants Humanity & Environment
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2
+2
+1
+1
+1
+1
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.15
+% 0.0 0.0 0.0 18.2 18.2 9.1 9.1 9.1 9.1 9.1 9.1 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BOT 131
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+15
+22
+44
+72
+42
+39
+43
+25
+14
+9
+9
+14
+11
+0
+0
+1
+12
+3
+0
+0
+2.50
+% 0.5 4.0 5.8 11.7 19.1 11.1 10.3 11.4 6.6 3.7 2.4 2.4 3.7 2.9 0.0 0.0 0.3 3.2 0.8 0.0 0.0
+BOT 191 A Sklensky Diane E. General Botany
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+0
+1
+2
+0
+1
+2
+1
+0
+0
+1
+1
+0
+0
+1
+0
+1
+0
+0
+2.09
+% 0.0 0.0 8.3 0.0 8.3 16.7 0.0 8.3 16.7 8.3 0.0 0.0 8.3 8.3 0.0 0.0 8.3 0.0 8.3 0.0 0.0
+BOT 191 B Sklensky Diane E. General Botany
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3
+6
+2
+0
+2
+0
+0
+0
+0
+0
+7
+0
+0
+0
+1
+0
+0
+0
+2.87
+% 0.0 0.0 0.0 14.3 28.6 9.5 0.0 9.5 0.0 0.0 0.0 0.0 0.0 33.3 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+BOT 191 C Sklensky Diane E. General Botany
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+1
+2
+2
+1
+4
+1
+1
+0
+2
+0
+5
+0
+0
+0
+1
+0
+0
+0
+2.57
+% 0.0 12.0 8.0 4.0 8.0 8.0 4.0 16.0 4.0 4.0 0.0 8.0 0.0 20.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0
+BOT 191 D Sklensky Diane E. General Botany
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+2
+3
+0
+2
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.76
+% 0.0 10.0 0.0 0.0 20.0 30.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

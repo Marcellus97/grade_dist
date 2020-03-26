@@ -1,0 +1,309 @@
+testRun: 01/20/09 @ 12:44 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2008-09 Middletown Campus
+Page: 657 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 111 M L Casey Moira E. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+3
+2
+2
+2
+0
+0
+1
+1
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+2.77
+% 0.0 19.0 14.3 14.3 9.5 9.5 9.5 0.0 0.0 4.8 4.8 0.0 9.5 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+ENG 111 M M Androne Helane A. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+0
+1
+3
+1
+2
+2
+2
+0
+3
+1
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.29
+% 9.5 0.0 4.8 14.3 4.8 9.5 9.5 9.5 0.0 14.3 4.8 0.0 9.5 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 M N Miller Corinne L. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+5
+4
+0
+2
+4
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 5.0 10.0 25.0 20.0 0.0 10.0 20.0 0.0 5.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 M O Androne Helane A. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+3
+4
+1
+2
+0
+0
+0
+1
+0
+0
+4
+1
+0
+0
+0
+0
+0
+0
+0
+2.63
+% 10.0 10.0 15.0 20.0 5.0 10.0 0.0 0.0 0.0 5.0 0.0 0.0 20.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 M P Miller Corinne L. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+0
+4
+3
+0
+0
+2
+0
+0
+0
+0
+1
+4
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 5.0 25.0 0.0 20.0 15.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 5.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 M Q Ganim Carole College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+2
+3
+1
+0
+2
+2
+0
+1
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+2.28
+% 0.0 16.7 0.0 11.1 16.7 5.6 0.0 11.1 11.1 0.0 5.6 0.0 16.7 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 M R Wilson Shannon L. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+4
+3
+1
+1
+4
+0
+1
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+2.40
+% 0.0 4.3 17.4 17.4 13.0 4.3 4.3 17.4 0.0 4.3 0.0 0.0 17.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

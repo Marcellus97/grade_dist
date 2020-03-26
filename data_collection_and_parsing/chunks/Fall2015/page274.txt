@@ -1,0 +1,302 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 270 Sections of 10
+ESP Entrepreneurship
+Miami Plan
+Honors
+Cross Listing
+ESP 101 TA Bergman Brian J. Entrepreneurship Foundations
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+69
+13
+4
+6
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 0.0 72.6 13.7 4.2 6.3 2.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ESP 101 UB Bergman Brian J. Entrepreneurship Foundations
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+13
+35
+12
+12
+9
+1
+5
+1
+2
+0
+0
+0
+3
+3
+0
+0
+1
+0
+0
+0
+0
+3.47
+% 13.4 36.1 12.4 12.4 9.3 1.0 5.2 1.0 2.1 0.0 0.0 0.0 3.1 3.1 0.0 0.0 1.0 0.0 0.0 0.0 0.0
+Course Total ESP 101
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+13
+104 25
+16
+15
+3
+5
+1
+2
+0
+0
+0
+3
+4
+0
+0
+1
+0
+0
+0
+0
+3.65
+% 6.8 54.2 13.0 8.3 7.8 1.6 2.6 0.5 1.0 0.0 0.0 0.0 1.6 2.1 0.0 0.0 0.5 0.0 0.0 0.0 0.0
+ESP 102 WA Lacker Mark S. Startup Bootcamp
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+61
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+Course Total ESP 102
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+61
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+ESP 201 A Sutter Christopher Intro: Entre/Business Models
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+13
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.75
+% 0.0 31.8 59.1 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ESP 201 B Sutter Christopher Intro: Entre/Business Models
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+12
+7
+5
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 0.0 10.7 42.9 25.0 17.9 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

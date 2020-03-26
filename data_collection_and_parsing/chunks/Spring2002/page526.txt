@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 523 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+SPA 128 A Malott Paul J. Phonetics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+6
+8
+3
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 0.0 21.4 21.4 28.6 10.7 14.3 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPA 128
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+6
+8
+3
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 0.0 21.4 21.4 28.6 10.7 14.3 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPA 223 A Kubat Ann M. Theories Of Lang Development
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+4
+6
+2
+2
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 4.3 17.4 17.4 26.1 8.7 8.7 0.0 13.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPA 223 B Williamson Lisa Theories Of Lang Development
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+5
+12
+1
+1
+2
+1
+1
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+3.30
+% 0.0 28.6 14.3 34.3 2.9 2.9 5.7 2.9 2.9 0.0 0.0 0.0 0.0 2.9 0.0 2.9 0.0 0.0 0.0 0.0 0.0
+Course Total SPA 223
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+14
+9
+18
+3
+3
+2
+4
+1
+0
+1
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+3.25
+% 1.7 24.1 15.5 31.0 5.2 5.2 3.4 6.9 1.7 0.0 1.7 0.0 0.0 1.7 0.0 1.7 0.0 0.0 0.0 0.0 0.0
+SPA 224 A Uhl Sandra Articulation Disorders
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+15
+18
+2
+2
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.86
+% 37.5 45.0 5.0 5.0 5.0 0.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPA 224
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+15
+18
+2
+2
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.86
+% 37.5 45.0 5.0 5.0 5.0 0.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

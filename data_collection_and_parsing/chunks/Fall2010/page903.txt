@@ -1,0 +1,304 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Hamilton Campus
+Page: 899 Sections of 10
+WMS Women'S Studies
+Miami Plan
+Honors
+Cross Listing
+WMS 201 H A Womack Smith Whitney Intro To Womens Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+10
+5
+4
+2
+0
+1
+0
+0
+0
+0
+0
+2
+3
+0
+0
+1
+0
+0
+0
+0
+3.38
+% 6.7 33.3 16.7 13.3 6.7 0.0 3.3 0.0 0.0 0.0 0.0 0.0 6.7 10.0 0.0 0.0 3.3 0.0 0.0 0.0 0.0
+Course Total WMS 201
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+10
+5
+4
+2
+0
+1
+0
+0
+0
+0
+0
+2
+3
+0
+0
+1
+0
+0
+0
+0
+3.38
+% 6.7 33.3 16.7 13.3 6.7 0.0 3.3 0.0 0.0 0.0 0.0 0.0 6.7 10.0 0.0 0.0 3.3 0.0 0.0 0.0 0.0
+WMS 233 H A Womack Smith Whitney British Women Writers
+N
+N
+1J
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+2
+1
+2
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.33
+% 10.0 20.0 20.0 10.0 20.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total WMS 233
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+2
+1
+2
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.33
+% 10.0 20.0 20.0 10.0 20.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+WMS 346 H A Good Martha H. Global Gender Politics
+N
+N
+1I
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.55
+% 0.0 33.3 33.3 0.0 8.3 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total WMS 346
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.55
+% 0.0 33.3 33.3 0.0 8.3 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Women'S Studies Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 3
+16
+11
+5
+5
+0
+1
+0
+1
+1
+0
+0
+2
+6
+0
+0
+1
+0
+0
+0
+0
+3.41
+% 5.8 30.8 21.2 9.6 9.6 0.0 1.9 0.0 1.9 1.9 0.0 0.0 3.8 11.5 0.0 0.0 1.9 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

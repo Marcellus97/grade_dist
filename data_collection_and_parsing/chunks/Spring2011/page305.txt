@@ -1,0 +1,308 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Oxford Campus
+Page: 301 Sections of 10
+GEO Geography
+Miami Plan
+Honors
+Cross Listing
+GEO 101 A D'Arcus Bruce Global Forces, Local Diversity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+14
+13
+18
+14
+7
+4
+3
+3
+1
+0
+1
+0
+2
+0
+0
+1
+3
+0
+0
+0
+3.18
+% 2.3 16.3 15.1 20.9 16.3 8.1 4.7 3.5 3.5 1.2 0.0 1.2 0.0 2.3 0.0 0.0 1.2 3.5 0.0 0.0 0.0
+GEO 101 B England Marcia R. Global Forces, Local Diversity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+9
+3
+3
+0
+3
+0
+1
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.72
+% 0.0 7.1 10.7 32.1 10.7 10.7 0.0 10.7 0.0 3.6 10.7 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GEO 101 D England Marcia R. Global Forces, Local Diversity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+6
+7
+4
+3
+2
+2
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 3.4 3.4 20.7 24.1 13.8 10.3 6.9 6.9 0.0 3.4 3.4 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GEO 101 E Housel Jacqueline A. Global Forces, Local Diversity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+10
+27
+8
+13
+5
+6
+1
+2
+2
+0
+0
+1
+5
+0
+0
+0
+2
+0
+0
+0
+3.27
+% 6.8 11.4 30.7 9.1 14.8 5.7 6.8 1.1 2.3 2.3 0.0 0.0 1.1 5.7 0.0 0.0 0.0 2.3 0.0 0.0 0.0
+GEO 101 F Yeboah Ian E. Global Forces, Local Diversity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+15
+29
+15
+7
+1
+0
+0
+0
+1
+0
+1
+0
+0
+0
+4
+0
+0
+0
+2.97
+% 0.0 5.0 3.8 18.8 36.3 18.8 8.8 1.3 0.0 0.0 0.0 1.3 0.0 1.3 0.0 0.0 0.0 5.0 0.0 0.0 0.0
+GEO 101 G Housel Jacqueline A. Global Forces, Local Diversity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+14
+19
+23
+11
+5
+3
+1
+3
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 4.7 16.3 22.1 26.7 12.8 5.8 3.5 1.2 3.5 2.3 0.0 0.0 1.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GEO 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+13
+45
+71
+80
+74
+38
+22
+11
+8
+7
+4
+3
+3
+8
+0
+0
+1
+9
+0
+0
+0
+3.13
+% 3.3 11.3 17.9 20.2 18.6 9.6 5.5 2.8 2.0 1.8 1.0 0.8 0.8 2.0 0.0 0.0 0.3 2.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

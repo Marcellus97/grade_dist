@@ -1,0 +1,309 @@
+testRun: 01/27/12 @ 17:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2011-12 Oxford Campus
+Page: 466 Sections of 10
+MIS Management Information Systems
+Miami Plan
+Honors
+Cross Listing
+MIS 235 A Cruez Gerald V. IT & Intelligent Enterprise
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+2
+13
+8
+3
+4
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 7.9 10.5 5.3 34.2 21.1 7.9 10.5 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 B Hamdan Basil IT & Intelligent Enterprise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+7
+10
+13
+5
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 0.0 2.7 18.9 27.0 35.1 13.5 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 C Hamdan Basil IT & Intelligent Enterprise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+11
+11
+8
+6
+0
+1
+1
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 0.0 0.0 27.5 27.5 20.0 15.0 0.0 2.5 2.5 0.0 0.0 2.5 0.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 D Hamdan Basil IT & Intelligent Enterprise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+16
+15
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 0.0 5.6 2.8 44.4 41.7 2.8 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 E Zhao Chen IT & Intelligent Enterprise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+4
+15
+8
+1
+3
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 0.0 8.1 0.0 10.8 40.5 21.6 2.7 8.1 2.7 0.0 5.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 F Strouble Dennis IT & Intelligent Enterprise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+6
+19
+4
+0
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 5.1 7.7 15.4 48.7 10.3 0.0 5.1 5.1 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 H Ringenbach Thomas J. IT & Intelligent Enterprise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+1
+4
+10
+5
+5
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 3.0 12.1 3.0 12.1 30.3 15.2 15.2 6.1 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

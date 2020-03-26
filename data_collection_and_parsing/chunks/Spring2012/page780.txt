@@ -1,0 +1,88 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Hamilton Campus
+Page: 776 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CIT 348
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+0
+2
+1
+1
+3
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.49
+% 0.0 0.0 10.0 0.0 20.0 10.0 10.0 30.0 10.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Comp Information Technology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 4
+27
+21
+10
+24
+6
+4
+13
+3
+1
+5
+3
+20
+46
+0
+0
+0
+32
+35
+0
+0
+2.64
+% 1.6 10.6 8.3 3.9 9.4 2.4 1.6 5.1 1.2 0.4 2.0 1.2 7.9 18.1 0.0 0.0 0.0 12.6 13.8 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,121 @@
+testGTraabdlee DofisCtroinbtuetniotsn
+Oxford Campus
+1
+ACC Accountancy
+1
+AER Aeronautics
+13
+AES Aerospace Studies
+15
+AMS American Studies
+19
+ARC Architecture & Interior Design
+23
+ART Art
+34
+ATH Anthropology
+53
+BOT Botany
+59
+BUS Business Analysis
+65
+BWS Black World Studies
+69
+CFA Combined Fine Arts
+72
+CHI Chinese
+73
+CHM Chemistry & Biochemistry
+75
+CLS Classics
+84
+COM Communication
+87
+CSA Computer Sci &Systems Analysis
+105
+DSC Decision Sciences
+123
+ECO Economics
+128
+EDL Educational Leadership
+141
+EDP Educational Psychology
+154
+EDT Teacher Education
+169
+EGM Engineering Management
+192
+EGR Manufacturing Engineering
+193
+ENG English
+200
+FIN Finance
+248
+FRE French
+260
+FST Film Studies
+270
+FSW Family Studies And Social Work
+273
+GEO Geography
+281
+GER German
+290
+GLG Geology
+297
+GTY Gerontology
+305
+HBW Hebrew
+308
+HON Honors
+309
+HST History
+312
+IDS Interdisciplinary
+328
+IES Environmental Sciences
+331
+IMS Interactive Media Studies
+334
+ITL Italian
+336
+ITS International Studies
+339
+JPN Japanese
+342
+LAS Latin American Studies
+344
+LAT Latin Language & Literature
+346
+MBI Microbiology
+348
+MGT Management
+353
+MIS Management Information Systems
+367
+MKT Marketing
+378
+MTH Mathematics
+391
+MUS Music
+405
+NSC Naval Science
+420
+NSG Nursing
+423
+PHL Philosophy
+425
+PHS Phy Edu, Hlth, & Sport Studies
+430
+PHY Physics
+469
+POL Political Science
+480
+POR Portuguese
+493
+PSE Paper Science & Engineering
+494
+PSY Psychology
+496
+REL Comparative Religion
+512

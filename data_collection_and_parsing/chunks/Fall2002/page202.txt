@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Oxford Campus
+Page: 199 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total EGR 203
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+4
+3
+5
+5
+3
+2
+0
+0
+2
+2
+0
+0
+1
+0
+0
+0
+0
+0
+2.41
+% 0.0 6.3 9.4 12.5 9.4 15.6 15.6 9.4 6.3 0.0 0.0 6.3 6.3 0.0 0.0 3.1 0.0 0.0 0.0 0.0 0.0
+EGR 211 A Dollar Anna Static Modeling/Mech Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+10
+3
+6
+0
+3
+0
+0
+1
+1
+1
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+3.25
+% 6.5 32.3 9.7 19.4 0.0 9.7 0.0 0.0 3.2 3.2 3.2 0.0 3.2 3.2 6.5 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EGR 211
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+10
+3
+6
+0
+3
+0
+0
+1
+1
+1
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+3.25
+% 6.5 32.3 9.7 19.4 0.0 9.7 0.0 0.0 3.2 3.2 3.2 0.0 3.2 3.2 6.5 0.0 0.0 0.0 0.0 0.0 0.0
+EGR 223 C Moller James C. Engineering Materials
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+2
+6
+2
+3
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 0.0 20.0 10.0 10.0 30.0 10.0 15.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EGR 223 D Moller James C. Engineering Materials
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+4
+4
+0
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 0.0 13.3 26.7 26.7 0.0 20.0 6.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EGR 223
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+6
+10
+2
+6
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.04
+% 0.0 11.4 11.4 17.1 28.6 5.7 17.1 2.9 2.9 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EGR 231 A Bailey-Van Kuren Michael Manufacturing Processes
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+7
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 0.0 12.5 12.5 12.5 43.8 12.5 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

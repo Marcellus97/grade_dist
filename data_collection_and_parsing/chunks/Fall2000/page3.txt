@@ -1,0 +1,62 @@
+testEDL Educational Leadership
+701
+EDP Educational Psychology
+705
+EDT Teacher Education
+706
+ENG English
+712
+ENT Engineering Technology
+722
+FIN Finance
+725
+FRE French
+726
+FST Film Studies
+727
+FSW Family Studies And Social Work
+728
+GEO Geography
+730
+GLG Geology
+731
+HST History
+733
+IDS Interdisciplinary
+737
+MBI Microbiology
+738
+MGT Management
+739
+MIS Management Information Systems
+740
+MKT Marketing
+741
+MTH Mathematics
+742
+MUS Music
+749
+NSG Nursing
+751
+PHL Philosophy
+754
+PHS Phy Edu, Hlth, & Sport Studies
+756
+PHY Physics
+761
+POL Political Science
+763
+PSY Psychology
+764
+SAN Systems Analysis
+766
+SOC Sociology
+771
+SPN Spanish
+772
+STA Statistics
+773
+THE Theatre
+774
+ZOO Zoology
+776

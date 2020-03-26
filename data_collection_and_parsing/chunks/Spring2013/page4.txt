@@ -1,0 +1,36 @@
+testKNH Kinesiology And Health
+829
+MBI Microbiology
+840
+MGT Management
+843
+MKT Marketing
+844
+MTH Mathematics
+845
+MUS Music
+854
+NSG Nursing
+856
+PHL Philosophy
+861
+PHY Physics
+862
+POL Political Science
+865
+PSY Psychology
+867
+REL Religion, Comparative
+870
+SOC Sociology
+871
+SPN Spanish
+873
+STA Statistics
+875
+THE Theatre
+877
+WGS Women,Gender&Sexuality Studies
+879
+ZOO Zoology
+881

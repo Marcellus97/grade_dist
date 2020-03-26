@@ -1,0 +1,308 @@
+testRun: 01/20/09 @ 12:44 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2008-09 Middletown Campus
+Page: 655 Sections of 10
+ENG English
+Miami Plan
+Honors
+Cross Listing
+ENG 007 M A Cook Elizabeth S. Fundamentals Of Writing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+9
+4
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 23.5 0.0 0.0 0.0 52.9 23.5 0.0 0.0
+ENG 007 M B Heyda John F. Fundamentals Of Writing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+7
+5
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 7.1 50.0 35.7 0.0 0.0
+ENG 007 M C Rieger George T. Fundamentals Of Writing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+6
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 45.5 54.5 0.0 0.0
+Course Total ENG 007
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+1
+21
+15
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 11.9 0.0 0.0 2.4 50.0 35.7 0.0 0.0
+ENG 111 M A Garshelis Judith L. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+1
+1
+2
+1
+0
+2
+0
+0
+1
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 18.2 22.7 4.5 4.5 9.1 4.5 0.0 9.1 0.0 0.0 4.5 0.0 13.6 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 M B Garshelis Judith L. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+1
+4
+2
+0
+0
+0
+1
+0
+1
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+2.82
+% 10.0 25.0 5.0 20.0 10.0 0.0 0.0 0.0 5.0 0.0 5.0 0.0 15.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 M C Brown Mary J. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+1
+2
+2
+4
+1
+0
+1
+0
+0
+0
+1
+5
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 4.5 18.2 4.5 9.1 9.1 18.2 4.5 0.0 4.5 0.0 0.0 0.0 4.5 22.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

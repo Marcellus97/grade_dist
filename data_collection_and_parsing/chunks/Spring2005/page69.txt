@@ -1,0 +1,46 @@
+testRun: 07/07/05 @ 10:09 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2004-05 Oxford Campus
+Page: 66 Sections of 10
+Business Analysis Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+35
+58
+76
+80
+38
+19
+8
+2
+0
+2
+0
+1
+1
+1
+2
+0
+0
+0
+0
+0
+3.16
+% 0.0 10.8 18.0 23.5 24.8 11.8 5.9 2.5 0.6 0.0 0.6 0.0 0.3 0.3 0.3 0.6 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

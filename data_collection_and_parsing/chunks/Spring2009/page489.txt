@@ -1,0 +1,306 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Oxford Campus
+Page: 486 Sections of 10
+PHY Physics
+Miami Plan
+Honors
+Cross Listing
+PHY 101 A Yarrison-Rice Jan M. Physics & Society
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+45
+0
+0
+65
+0
+0
+19
+0
+0
+1
+0
+3
+1
+0
+0
+0
+3
+1
+0
+0
+3.12
+% 0.7 32.4 0.0 0.0 46.8 0.0 0.0 13.7 0.0 0.0 0.7 0.0 2.2 0.7 0.0 0.0 0.0 2.2 0.7 0.0 0.0
+Course Total PHY 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+45
+0
+0
+65
+0
+0
+19
+0
+0
+1
+0
+3
+1
+0
+0
+0
+3
+1
+0
+0
+3.12
+% 0.7 32.4 0.0 0.0 46.8 0.0 0.0 13.7 0.0 0.0 0.7 0.0 2.2 0.7 0.0 0.0 0.0 2.2 0.7 0.0 0.0
+PHY 103 A Yarrison-Rice Jan M. Concepts In Physics Laboratory
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+2
+3
+3
+3
+1
+1
+2
+1
+0
+1
+0
+0
+0
+0
+1
+1
+0
+0
+2.42
+% 0.0 9.5 0.0 9.5 14.3 14.3 14.3 4.8 4.8 9.5 4.8 0.0 4.8 0.0 0.0 0.0 0.0 4.8 4.8 0.0 0.0
+PHY 103 B Yarrison-Rice Jan M. Concepts In Physics Laboratory
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+5
+4
+1
+2
+0
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 0.0 25.0 25.0 20.0 5.0 10.0 0.0 5.0 0.0 0.0 0.0 0.0 5.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 103 C Yarrison-Rice Jan M. Concepts In Physics Laboratory
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+2
+4
+4
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 0.0 15.8 15.8 10.5 21.1 21.1 0.0 10.5 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 103 D Yarrison-Rice Jan M. Concepts In Physics Laboratory
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2
+8
+6
+2
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 0.0 0.0 9.5 38.1 28.6 9.5 9.5 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHY 103
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+8
+10
+16
+15
+5
+6
+1
+2
+3
+0
+2
+1
+0
+0
+0
+1
+1
+0
+0
+2.84
+% 0.0 12.3 9.9 12.3 19.8 18.5 6.2 7.4 1.2 2.5 3.7 0.0 2.5 1.2 0.0 0.0 0.0 1.2 1.2 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

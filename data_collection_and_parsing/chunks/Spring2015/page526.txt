@@ -1,0 +1,300 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Oxford Campus
+Page: 522 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHY 111 A Blue Jennifer M. Astronomy and Space Physics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+23
+16
+19
+16
+9
+6
+7
+3
+4
+3
+2
+8
+0
+0
+0
+12
+1
+0
+0
+2.78
+% 0.0 4.4 17.0 11.9 14.1 11.9 6.7 4.4 5.2 2.2 3.0 2.2 1.5 5.9 0.0 0.0 0.0 8.9 0.7 0.0 0.0
+Course Total PHY 111
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+23
+16
+19
+16
+9
+6
+7
+3
+4
+3
+2
+8
+0
+0
+0
+12
+1
+0
+0
+2.78
+% 0.0 4.4 17.0 11.9 14.1 11.9 6.7 4.4 5.2 2.2 3.0 2.2 1.5 5.9 0.0 0.0 0.0 8.9 0.7 0.0 0.0
+PHY 118 A Beck Daniel R. Intro To Atmospheric Science
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+6
+3
+10
+2
+8
+6
+6
+0
+1
+3
+5
+5
+0
+0
+0
+0
+0
+0
+0
+2.32
+% 0.0 5.2 10.3 5.2 17.2 3.4 13.8 10.3 10.3 0.0 1.7 5.2 8.6 8.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHY 118
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+6
+3
+10
+2
+8
+6
+6
+0
+1
+3
+5
+5
+0
+0
+0
+0
+0
+0
+0
+2.32
+% 0.0 5.2 10.3 5.2 17.2 3.4 13.8 10.3 10.3 0.0 1.7 5.2 8.6 8.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 121 A Hachtel Andrew J. Energy & Environment
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+6
+13
+18
+13
+13
+13
+11
+6
+4
+3
+9
+12
+0
+0
+0
+9
+5
+0
+0
+2.30
+% 0.7 2.9 4.3 9.3 12.9 9.3 9.3 9.3 7.9 4.3 2.9 2.1 6.4 8.6 0.0 0.0 0.0 6.4 3.6 0.0 0.0
+Course Total PHY 121
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+6
+13
+18
+13
+13
+13
+11
+6
+4
+3
+9
+12
+0
+0
+0
+9
+5
+0
+0
+2.30
+% 0.7 2.9 4.3 9.3 12.9 9.3 9.3 9.3 7.9 4.3 2.9 2.1 6.4 8.6 0.0 0.0 0.0 6.4 3.6 0.0 0.0
+PHY 131 A Jaeger Herbert Physics For Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+2
+0
+11
+2
+0
+14
+2
+0
+1
+0
+3
+3
+0
+0
+0
+1
+0
+0
+0
+2.63
+% 0.0 20.4 4.1 0.0 22.4 4.1 0.0 28.6 4.1 0.0 2.0 0.0 6.1 6.1 0.0 0.0 0.0 2.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

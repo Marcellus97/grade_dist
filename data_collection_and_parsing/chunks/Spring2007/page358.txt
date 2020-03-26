@@ -1,0 +1,310 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Oxford Campus
+Page: 355 Sections of 10
+MGT Management
+Miami Plan
+Honors
+Cross Listing
+MGT 111 A Schloemer Ronald F. Introduction To Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+17
+3
+2
+11
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.51
+% 2.8 47.2 8.3 5.6 30.6 0.0 0.0 2.8 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 111 B Schloemer Ronald F. Introduction To Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+3
+3
+11
+0
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.32
+% 0.0 34.4 9.4 9.4 34.4 0.0 6.3 3.1 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 111 C Schloemer Ronald F. Introduction To Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+5
+2
+10
+0
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 0.0 42.9 14.3 5.7 28.6 0.0 2.9 2.9 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 111 D Schloemer Ronald F. Introduction To Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+15
+4
+2
+11
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 8.1 40.5 10.8 5.4 29.7 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 111 E Rollins Robert R. Introduction To Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+3
+8
+14
+2
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 2.9 8.6 8.6 22.9 40.0 5.7 5.7 5.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 111 F Rollins Robert R. Introduction To Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+5
+11
+5
+0
+3
+0
+1
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 5.9 11.8 14.7 32.4 14.7 0.0 8.8 0.0 2.9 2.9 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 111 G Dornette John J. Introduction To Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+9
+5
+10
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 0.0 16.1 29.0 16.1 32.3 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

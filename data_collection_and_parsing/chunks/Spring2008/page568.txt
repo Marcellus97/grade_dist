@@ -1,0 +1,345 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Oxford Campus
+Page: 565 Sections of 10
+STA 401 C Waikar Vasant B. Probability
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+1
+0
+0
+3
+0
+1
+1
+0
+% 0.0 10.0 10.0 0.0 0.0 30.0 0.0 10.0 10.0 0.0
+Course Total STA 401
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+9
+2
+3
+14
+4
+1
+6
+2
+0
+% 0.0 17.3 3.8 5.8 26.9 7.7 1.9 11.5 3.8 0.0
+STA 463 A Murphree Emily S. Regression Analysis
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+2
+3
+2
+1
+0
+4
+0
+0
+% 0.0 11.1 11.1 16.7 11.1 5.6 0.0 22.2 0.0 0.0
+Course Total STA 463
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+2
+3
+2
+1
+0
+4
+0
+0
+% 0.0 11.1 11.1 16.7 11.1 5.6 0.0 22.2 0.0 0.0
+STA 471 A Groggel David J. Probability & Stats Prblms Sem
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total STA 471
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 663 A Murphree Emily S. Intro To Applied Probability
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+4
+2
+3
+0
+0
+0
+0
+0
+% 0.0 10.0 40.0 20.0 30.0 0.0 0.0 0.0 0.0 0.0
+D
+D-
+2
+0
+20.0 0.0
+D
+D-
+4
+1
+7.7 1.9
+D
+D-
+2
+0
+11.1 0.0
+D
+D-
+2
+0
+11.1 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+F
+W
+1
+0
+10.0 0.0
+WP WF
+0
+0
+0.0 0.0
+F
+W
+WP WF
+1
+4
+0
+0
+1.9 7.7 0.0 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 11.1 0.0 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 11.1 0.0 0.0
+F
+W
+WP WF
+0
+1
+0
+0
+0.0 5.9 0.0 0.0
+F
+W
+WP WF
+0
+1
+0
+0
+0.0 5.9 0.0 0.0
+F
+W
+WP WF
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+3J
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.15
+0.0 0.0 0.0
+I
+X
+0
+1
+0.0 1.9
+N
+I
+X
+0
+0
+0.0 0.0
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+0 0.0
+SD
+S
+0 0.0
+Avg GPA 2.73
+Avg GPA 2.75
+I
+X
+Y
+P
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+N
+N
+I
+X
+Y
+P
+0
+15
+1
+0
+0.0 88.2 5.9 0.0
+S
+Avg GPA
+0
+2.75
+0.0
+IN
+S
+Avg GPA
+0
+0.00
+0.0
+I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+1
+0
+0
+0.00
+0.0 88.2 5.9 0.0 0.0
+N
+N
+I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+3.44
+0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

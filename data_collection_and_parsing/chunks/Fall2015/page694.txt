@@ -1,0 +1,45 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 690 Sections of 10
+Black World Studies Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+55
+55
+23
+31
+17
+3
+1
+3
+0
+1
+1
+2
+2
+0
+0
+0
+6
+0
+0
+0
+3.41
+% 1.0 27.2 27.2 11.4 15.3 8.4 1.5 0.5 1.5 0.0 0.5 0.5 1.0 1.0 0.0 0.0 0.0 3.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

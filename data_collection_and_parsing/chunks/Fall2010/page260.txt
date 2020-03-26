@@ -1,0 +1,306 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Oxford Campus
+Page: 256 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 112 NA Clay Brandon J. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+1
+0
+2
+2
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 0.0 68.2 4.5 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 NB Orth William P. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+8
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.80
+% 0.0 50.0 36.4 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 RA Balestra Alisa A. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+9
+4
+1
+1
+0
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 14.3 42.9 19.0 4.8 4.8 0.0 0.0 0.0 0.0 0.0 9.5 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 RB Clay Brandon J. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+7
+1
+2
+2
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.45
+% 0.0 39.1 30.4 4.3 8.7 8.7 0.0 0.0 4.3 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 SA Hill Zackary D. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.96
+% 0.0 81.8 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 112
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+108 54
+17
+13
+6
+2
+0
+2
+0
+5
+0
+2
+5
+0
+0
+1
+0
+0
+0
+0
+3.63
+% 2.7 48.9 24.4 7.7 5.9 2.7 0.9 0.0 0.9 0.0 2.3 0.0 0.9 2.3 0.0 0.0 0.5 0.0 0.0 0.0 0.0
+ENG 113 C Bromley James M. Advanced College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+5
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 0.0 17.6 29.4 29.4 17.6 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

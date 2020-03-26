@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2003-04 Oxford Campus
+Page: 292 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total GER 1011
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+2
+3
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3.43
+% 10.5 31.6 10.5 15.8 0.0 5.3 5.3 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.5 0.0 0.0 0.0
+GER 101L L A Rausch Annette Beginners German-Luxembourg
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+2
+3
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3.43
+% 10.5 31.6 10.5 15.8 0.0 5.3 5.3 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.5 0.0 0.0 0.0
+Course Total GER 101L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+2
+3
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3.43
+% 10.5 31.6 10.5 15.8 0.0 5.3 5.3 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.5 0.0 0.0 0.0
+GER 102 A Stroinigg Dieter Beginning German
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+0
+1
+1
+2
+4
+2
+0
+1
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+2.56
+% 0.0 17.6 5.9 0.0 5.9 5.9 11.8 23.5 11.8 0.0 5.9 0.0 0.0 0.0 5.9 0.0 5.9 0.0 0.0 0.0 0.0
+Course Total GER 102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+0
+1
+1
+2
+4
+2
+0
+1
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+2.56
+% 0.0 17.6 5.9 0.0 5.9 5.9 11.8 23.5 11.8 0.0 5.9 0.0 0.0 0.0 5.9 0.0 5.9 0.0 0.0 0.0 0.0
+GER 111 A Gram Ole R. Review Of Basic German
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+2
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 0.0 18.8 25.0 12.5 31.3 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GER 111 B Stroinigg Dieter Review Of Basic German
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+5
+0
+2
+6
+3
+1
+0
+2
+2
+0
+0
+0
+1
+2
+0
+0
+1
+0
+0
+2.60
+% 0.0 13.8 17.2 0.0 6.9 20.7 10.3 3.4 0.0 6.9 6.9 0.0 0.0 0.0 3.4 6.9 0.0 0.0 3.4 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

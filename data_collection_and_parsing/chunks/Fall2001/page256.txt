@@ -1,0 +1,310 @@
+testRun: 06/30/04 @ 15:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2001-02 Oxford Campus
+Page: 253 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FIN 401 G Olson Bruce H. Prin Of Investmnt&Securty Mkts
+N
+N
+2E
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+10
+0
+0
+7
+0
+0
+5
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+2.26
+% 0.0 10.3 0.0 0.0 34.5 0.0 0.0 24.1 0.0 0.0 17.2 0.0 0.0 0.0 6.9 6.9 0.0 0.0 0.0 0.0 0.0
+FIN 401 H Walsh Thomas J. Prin Of Investmnt&Securty Mkts
+N
+N
+2F
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+6
+4
+4
+2
+5
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+2.92
+% 0.0 6.7 13.3 20.0 13.3 13.3 6.7 16.7 3.3 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 401 J Harman Yvette S. Prin Of Investmnt&Securty Mkts
+N
+N
+O2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+0
+9
+3
+3
+6
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.60
+% 0.0 3.8 3.8 0.0 34.6 11.5 11.5 23.1 7.7 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 401
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+10
+14
+52
+12
+13
+49
+7
+1
+16
+0
+1
+1
+11
+2
+0
+0
+0
+0
+0
+2.59
+% 0.0 10.0 4.8 6.7 24.8 5.7 6.2 23.3 3.3 0.5 7.6 0.0 0.5 0.5 5.2 1.0 0.0 0.0 0.0 0.0 0.0
+FIN 402 A Olson Bruce H. Fixed-Income Portflio Managmnt
+N
+N
+2G
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+10
+0
+0
+15
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 22.2 0.0 0.0 27.8 0.0 0.0 41.7 0.0 0.0 5.6 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 402
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+10
+0
+0
+15
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 22.2 0.0 0.0 27.8 0.0 0.0 41.7 0.0 0.0 5.6 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 408 A Kehr James B. Commercial Bank Management
+N
+N
+2H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+7
+3
+4
+5
+7
+2
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+2.67
+% 0.0 0.0 9.1 21.2 9.1 12.1 15.2 21.2 6.1 0.0 0.0 0.0 0.0 3.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

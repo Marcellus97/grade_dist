@@ -1,0 +1,309 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Hamilton Campus
+Page: 738 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 112 H A West Robert G. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+0
+4
+1
+5
+1
+0
+2
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.33
+% 0.0 0.0 15.8 0.0 21.1 5.3 26.3 5.3 0.0 10.5 0.0 0.0 10.5 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H B West Robert G. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+1
+2
+3
+4
+1
+3
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.56
+% 0.0 4.8 19.0 4.8 9.5 14.3 19.0 4.8 14.3 4.8 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H C Schmidlin Tom J. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+2
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 0.0 57.7 7.7 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.7 11.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H D West Robert G. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+3
+4
+2
+0
+1
+1
+0
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 0.0 16.7 16.7 22.2 11.1 0.0 5.6 5.6 0.0 5.6 0.0 5.6 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H E Schmidlin Tom J. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+1
+0
+5
+0
+0
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.42
+% 0.0 62.5 4.2 0.0 20.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H G Kickel Katherine E. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+2
+3
+1
+2
+4
+2
+0
+0
+0
+3
+5
+0
+0
+0
+0
+0
+0
+0
+2.11
+% 0.0 0.0 4.3 8.7 13.0 4.3 8.7 17.4 8.7 0.0 0.0 0.0 13.0 21.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H H Karnes Christy D. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+2
+4
+1
+3
+0
+0
+1
+1
+1
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 19.0 9.5 19.0 4.8 14.3 0.0 0.0 4.8 4.8 4.8 0.0 0.0 9.5 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

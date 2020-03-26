@@ -1,0 +1,316 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Oxford Campus
+Page: 591 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ZOO 115 AI Elderkin Curt L. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Z9
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+5
+0
+0
+3
+0
+0
+3
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.00
+% 0.0 7.1 0.0 0.0 35.7 0.0 0.0 21.4 0.0 0.0 21.4 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 115 AJ Elderkin Curt L. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Y1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+3
+0
+0
+2
+0
+0
+3
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+1.67
+% 0.0 7.7 0.0 0.0 23.1 0.0 0.0 15.4 0.0 0.0 23.1 0.0 23.1 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 115 BA Solomon Nancy G. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Y2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+4
+0
+0
+8
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.15
+% 0.0 0.0 0.0 0.0 30.8 0.0 0.0 61.5 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 115 BB Solomon Nancy G. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Y3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+4
+0
+0
+3
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.42
+% 0.0 16.7 0.0 0.0 33.3 0.0 0.0 25.0 0.0 0.0 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 115 BC Solomon Nancy G. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Y4
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+3
+0
+0
+4
+0
+0
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.14
+% 0.0 21.4 0.0 0.0 21.4 0.0 0.0 28.6 0.0 0.0 7.1 0.0 21.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 115 BD Solomon Nancy G. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Y5
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+5
+0
+0
+8
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.06
+% 0.0 0.0 0.0 0.0 31.3 0.0 0.0 50.0 0.0 0.0 12.5 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 115 BE Solomon Nancy G. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Y6
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+8
+0
+0
+6
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.40
+% 0.0 0.0 0.0 0.0 53.3 0.0 0.0 40.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

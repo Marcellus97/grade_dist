@@ -1,0 +1,304 @@
+testRun: 10/08/10 @ 11:34 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2009-10 Middletown Campus
+Page: 167 Sections of 10
+MTH Mathematics
+Miami Plan
+Honors
+Cross Listing
+MTH 101 MMA Asthagiri Rajappa Intro to Elementary Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+7
+8
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 21.1 0.0 0.0 0.0 36.8 42.1 0.0 0.0
+Course Total MTH 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+7
+8
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 21.1 0.0 0.0 0.0 36.8 42.1 0.0 0.0
+MTH 102 MMA Caudill Barbara M. Intermediate Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+6
+1
+1
+7
+1
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.22
+% 16.7 25.0 4.2 4.2 29.2 4.2 8.3 4.2 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 102 MOA Attanayake Champike Intermediate Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+3
+2
+1
+1
+6
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.72
+% 0.0 22.2 0.0 16.7 11.1 5.6 5.6 33.3 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+10
+1
+4
+9
+2
+3
+7
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 9.5 23.8 2.4 9.5 21.4 4.8 7.1 16.7 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 123 MOA Attanayake Champike Precalculus
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+6
+6
+0
+0
+3
+0
+0
+1
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+2.87
+% 0.0 5.3 0.0 31.6 31.6 0.0 0.0 15.8 0.0 0.0 5.3 0.0 0.0 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0
+Course Total MTH 123
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+6
+6
+0
+0
+3
+0
+0
+1
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+2.87
+% 0.0 5.3 0.0 31.6 31.6 0.0 0.0 15.8 0.0 0.0 5.3 0.0 0.0 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,308 @@
+testRun: 01/20/09 @ 12:44 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2008-09 Oxford Campus
+Page: 104 Sections of 10
+COM Communication
+Miami Plan
+Honors
+Cross Listing
+COM 134 A Frymier Ann B. Intro to Speech Communication
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+15
+19
+60
+17
+15
+24
+3
+2
+10
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.78
+% 0.0 7.8 8.3 10.6 33.3 9.4 8.3 13.3 1.7 1.1 5.6 0.0 0.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 134
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+15
+19
+60
+17
+15
+24
+3
+2
+10
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.78
+% 0.0 7.8 8.3 10.6 33.3 9.4 8.3 13.3 1.7 1.1 5.6 0.0 0.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 A Jones Morgan C. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+12
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 42.9 57.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 B Vallade Jessalyn I. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+4
+4
+3
+1
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 10.5 10.5 21.1 21.1 15.8 5.3 5.3 0.0 0.0 0.0 0.0 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 C Bernard Nicholas A. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+6
+3
+2
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 0.0 4.8 23.8 28.6 14.3 9.5 4.8 9.5 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 D Figurski Dina M. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+8
+3
+7
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 0.0 40.0 15.0 35.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 E Camille Elizabeth K. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+4
+8
+0
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 0.0 4.5 18.2 18.2 36.4 0.0 13.6 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

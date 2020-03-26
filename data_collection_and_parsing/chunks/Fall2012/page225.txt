@@ -1,0 +1,303 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Oxford Campus
+Page: 221 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDT 310 A Walker Jacqueline P. Methods Of Tutoring Adults
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+2
+58
+4
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.2 0.0 0.0 2.9 84.1 5.8 0.0 0.0
+EDT 310 B Walker Jacqueline P. Methods Of Tutoring Adults
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+10
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 90.9 0.0 0.0 0.0
+Course Total EDT 310
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+0
+2
+68
+4
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.5 0.0 0.0 2.5 85.0 5.0 0.0 0.0
+EDT 311 A Johnson Iris D. Junior Field Exp and Praxis
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+23
+2
+3
+1
+0
+0
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 67.6 5.9 8.8 2.9 0.0 0.0 11.8 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 311 C Johnson Iris D. Junior Field Exp and Praxis
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+4
+2
+1
+0
+0
+3
+0
+0
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.53
+% 0.0 61.8 11.8 5.9 2.9 0.0 0.0 8.8 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0
+Course Total EDT 311
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+44
+6
+5
+2
+0
+0
+7
+1
+0
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.56
+% 0.0 64.7 8.8 7.4 2.9 0.0 0.0 10.3 1.5 0.0 2.9 0.0 0.0 0.0 0.0 0.0 1.5 0.0 0.0 0.0 0.0
+EDT 315E A Gooch Karen M. Teaching with Children's Lit
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+18
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 28.0 72.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

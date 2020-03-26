@@ -1,0 +1,303 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Oxford Campus
+Page: 411 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+KNH 377R A Ward Rose M. Independent Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 377R
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 378 A O'Neil Sean S. Sport, Power and Inequality
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+4
+2
+7
+3
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 38.2 11.8 5.9 20.6 8.8 8.8 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 378 B O'Neil Sean S. Sport, Power and Inequality
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+6
+5
+7
+0
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 0.0 38.2 17.6 14.7 20.6 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 378
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+26
+10
+7
+14
+3
+5
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 0.0 38.2 14.7 10.3 20.6 4.4 7.4 2.9 0.0 0.0 0.0 0.0 0.0 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 381 A Walsh Mark S. Biodynamics of Human Performan
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+0
+1
+14
+0
+0
+5
+0
+0
+3
+4
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 2.5 22.5 0.0 2.5 35.0 0.0 0.0 12.5 0.0 0.0 7.5 10.0 0.0 7.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 381 B Walsh Mark S. Biodynamics of Human Performan
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+0
+0
+9
+0
+0
+15
+0
+0
+5
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 22.5 0.0 0.0 22.5 0.0 0.0 37.5 0.0 0.0 12.5 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

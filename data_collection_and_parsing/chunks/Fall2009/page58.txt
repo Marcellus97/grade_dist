@@ -1,0 +1,305 @@
+testRun: 01/21/10 @ 13:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2009-10 Oxford Campus
+Page: 54 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ATH 175
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+22
+48
+61
+58
+32
+27
+11
+10
+8
+1
+1
+3
+2
+1
+0
+0
+1
+2
+0
+0
+0
+3.27
+% 7.6 16.7 21.2 20.1 11.1 9.4 3.8 3.5 2.8 0.3 0.3 1.0 0.7 0.3 0.0 0.0 0.3 0.7 0.0 0.0 0.0
+ATH 175H A Hay-Rollins M. C. Peoples Of The World
+Y
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+5
+5
+1
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 0.0 14.3 19.0 23.8 23.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ATH 175H B Hay-Rollins M. C. Peoples Of The World
+Y
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+3
+6
+1
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 0.0 10.0 30.0 15.0 30.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ATH 175H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+10
+8
+11
+2
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 0.0 12.2 24.4 19.5 26.8 4.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 12.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ATH 185 B Bielo James S. Cultural Diversity in the US
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+9
+11
+9
+3
+1
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+1
+1
+0
+0
+3.35
+% 0.0 19.1 19.1 23.4 19.1 6.4 2.1 0.0 0.0 0.0 2.1 0.0 0.0 4.3 0.0 0.0 0.0 2.1 2.1 0.0 0.0
+ATH 185 C Zolvinski Stephen Cultural Diversity in the US
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+15
+15
+18
+8
+3
+4
+0
+3
+1
+0
+0
+0
+1
+0
+0
+1
+1
+0
+0
+0
+3.39
+% 9.1 19.5 19.5 23.4 10.4 3.9 5.2 0.0 3.9 1.3 0.0 0.0 0.0 1.3 0.0 0.0 1.3 1.3 0.0 0.0 0.0
+ATH 185 D Debsu Dejene N. Cultural Diversity in the US
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+19
+18
+6
+11
+5
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3
+1
+0
+0
+3.18
+% 1.4 5.6 26.4 25.0 8.3 15.3 6.9 2.8 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.2 1.4 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,301 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 680 Sections of 10
+BIS Integrative Studies
+Miami Plan
+Honors
+Cross Listing
+BIS 201 H A Buchberger Michelle Intro to Integrative Studies
+N
+N
+BK
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+2
+4
+2
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 22.2 22.2 11.1 22.2 11.1 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BIS 201
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+2
+4
+2
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 22.2 22.2 11.1 22.2 11.1 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIS 301 H A Buchberger Michelle Integrative Studies Seminar II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+5
+1
+1
+1
+0
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.33
+% 0.0 42.1 26.3 5.3 5.3 5.3 0.0 5.3 5.3 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIS 301 H B Sinha Madhudaya Integrative Studies Seminar II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+3
+3
+3
+1
+1
+0
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 25.0 15.0 15.0 15.0 5.0 5.0 0.0 10.0 5.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BIS 301
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+11
+8
+4
+2
+2
+0
+3
+2
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 12.8 28.2 20.5 10.3 5.1 5.1 0.0 7.7 5.1 0.0 0.0 0.0 2.6 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIS 401 H B Sinha Madhudaya Senior Integrative Seminar
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+3
+2
+3
+2
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.49
+% 35.0 15.0 10.0 15.0 10.0 0.0 5.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0
+Course Total BIS 401
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+3
+2
+3
+2
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.49
+% 35.0 15.0 10.0 15.0 10.0 0.0 5.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,306 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Middletown Campus
+Page: 804 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total BIO 155
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+14
+3
+1
+1
+0
+0
+2
+1
+0
+1
+1
+1
+4
+0
+0
+0
+0
+0
+0
+0
+3.26
+% 3.3 46.7 10.0 3.3 3.3 0.0 0.0 6.7 3.3 0.0 3.3 3.3 3.3 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 161 M A Allen Janelle R. Principles of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2
+4
+3
+1
+7
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.35
+% 0.0 0.0 0.0 10.0 20.0 15.0 5.0 35.0 5.0 5.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 161 M B Harding Paul A. Principles of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+4
+3
+0
+3
+1
+1
+1
+0
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 13.6 9.1 18.2 13.6 0.0 13.6 4.5 4.5 4.5 0.0 4.5 0.0 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BIO 161
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+6
+7
+3
+4
+8
+2
+2
+1
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.59
+% 0.0 7.1 4.8 14.3 16.7 7.1 9.5 19.0 4.8 4.8 2.4 2.4 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 171 M A Janik James M. Human Anatomy And Physiology
+Y
+N
+MZ
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+0
+1
+0
+4
+1
+0
+2
+0
+0
+0
+0
+5
+4
+0
+0
+0
+0
+0
+0
+0
+2.03
+% 10.5 0.0 5.3 0.0 21.1 5.3 0.0 10.5 0.0 0.0 0.0 0.0 26.3 21.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 171 M B Janik James M. Human Anatomy And Physiology
+Y
+N
+MZ
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+1
+4
+0
+1
+1
+0
+0
+3
+0
+5
+4
+0
+0
+0
+0
+0
+0
+0
+1.66
+% 0.0 5.0 0.0 5.0 20.0 0.0 5.0 5.0 0.0 0.0 15.0 0.0 25.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 171 M C Janik James M. Human Anatomy And Physiology
+Y
+N
+MZ
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+0
+0
+0
+1
+2
+0
+0
+3
+0
+8
+3
+0
+0
+0
+0
+0
+0
+0
+1.04
+% 0.0 0.0 10.5 0.0 0.0 0.0 5.3 10.5 0.0 0.0 15.8 0.0 42.1 15.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

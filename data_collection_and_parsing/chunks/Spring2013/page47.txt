@@ -1,0 +1,300 @@
+testRun: 07/08/13 @ 16:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2012-13 Oxford Campus
+Page: 43 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+AMS 205 F Williams Kristen A. Intro to American Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+7
+1
+4
+4
+4
+1
+4
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 10.0 23.3 3.3 13.3 13.3 13.3 3.3 13.3 0.0 0.0 3.3 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total AMS 205
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+35
+35
+50
+51
+24
+10
+17
+4
+7
+1
+0
+4
+7
+0
+0
+0
+17
+3
+0
+0
+3.07
+% 1.5 13.0 13.0 18.6 19.0 8.9 3.7 6.3 1.5 2.6 0.4 0.0 1.5 2.6 0.0 0.0 0.0 6.3 1.1 0.0 0.0
+AMS 205H A Garner Sandra L. Intro to American Studies
+Y
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+8
+1
+1
+1
+0
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.66
+% 17.6 47.1 5.9 5.9 5.9 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total AMS 205H
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+8
+1
+1
+1
+0
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.66
+% 17.6 47.1 5.9 5.9 5.9 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+AMS 206 A Hamlin Kimberly A. Approaches to American Culture
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+1
+6
+2
+2
+0
+2
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.83
+% 0.0 16.7 16.7 4.2 25.0 8.3 8.3 0.0 8.3 4.2 4.2 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total AMS 206
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+1
+6
+2
+2
+0
+2
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.83
+% 0.0 16.7 16.7 4.2 25.0 8.3 8.3 0.0 8.3 4.2 4.2 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+AMS 207 A Busch Andrew M. America - A Global Perspective
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+14
+13
+6
+3
+2
+3
+1
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.24
+% 0.0 13.7 27.5 25.5 11.8 5.9 3.9 5.9 2.0 0.0 2.0 0.0 0.0 0.0 0.0 0.0 0.0 2.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

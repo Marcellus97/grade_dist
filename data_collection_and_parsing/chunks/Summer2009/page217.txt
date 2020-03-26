@@ -1,0 +1,335 @@
+testRun: 11/16/09 @ 08:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2008-09 Hamilton Campus
+Page: 214 Sections of 10
+SPN Spanish
+SPN 101 HMA Henson Leah M. Beginners Spanish
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+1
+2
+2
+2
+3
+3
+0
+2
+1
+2
+0
+1
+% 5.0 10.0 10.0 10.0 15.0 15.0 0.0 10.0 5.0 10.0 0.0 5.0
+SPN 101 HMB Rios Zimry D. Beginners Spanish
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+1
+0
+0
+1
+3
+1
+3
+2
+0
+2
+0
+% 0.0 5.3 0.0 0.0 5.3 15.8 5.3 15.8 10.5 0.0 10.5 0.0
+Course Total SPN 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+1
+3
+2
+2
+4
+6
+1
+5
+3
+2
+2
+1
+% 2.6 7.7 5.1 5.1 10.3 15.4 2.6 12.8 7.7 5.1 5.1 2.6
+SPN 102 HOA Henson Leah M. Beginners Spanish
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+2
+1
+3
+2
+1
+1
+3
+3
+0
+0
+0
+1
+% 10.5 5.3 15.8 10.5 5.3 5.3 15.8 15.8 0.0 0.0 0.0 5.3
+SPN 102 HOB Harper Heather M. Beginners Spanish
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+3
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+% 0.0 30.0 0.0 0.0 50.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPN 102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+2
+4
+3
+2
+6
+1
+3
+3
+0
+0
+0
+1
+% 6.9 13.8 10.3 6.9 20.7 3.4 10.3 10.3 0.0 0.0 0.0 3.4
+SPN 201 HMA Gauthier Jill R. Second Year Spanish
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+2
+0
+2
+2
+5
+2
+1
+2
+0
+0
+0
+% 0.0 12.5 0.0 12.5 12.5 31.3 12.5 6.3 12.5 0.0 0.0 0.0
+F
+W
+WP WF
+1
+0
+0
+0
+5.0 0.0 0.0 0.0
+F
+W
+WP WF
+4
+2
+0
+0
+21.1 10.5 0.0 0.0
+F
+W
+5
+2
+12.8 5.1
+WP WF
+0
+0
+0.0 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 10.5 0.0 0.0
+F
+W
+WP WF
+1
+1
+0
+0
+10.0 10.0 0.0 0.0
+F
+W
+WP WF
+1
+3
+0
+0
+3.4 10.3 0.0 0.0
+F
+W
+WP WF
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.61
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.69
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.19
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.88
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.00
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.92
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.76
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

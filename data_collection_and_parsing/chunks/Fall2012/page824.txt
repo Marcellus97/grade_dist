@@ -1,0 +1,349 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Hamilton Campus
+Page: 820 Sections of 10
+ENG 151 H A Simmons Nancy E. Intro to Critical Reading
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+0
+3
+0
+1
+2
+4
+3
+0
+% 0.0 0.0 0.0 16.7 0.0 5.6 11.1 22.2 16.7 0.0
+ENG 151 HWA Middendorf-Samocki Michelle L. Intro to Critical Reading
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+2
+1
+1
+0
+1
+1
+1
+1
+% 0.0 9.1 9.1 4.5 4.5 0.0 4.5 4.5 4.5 4.5
+ENG 151 HWB Dugas Mary S. Intro to Critical Reading
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+0
+2
+2
+1
+2
+3
+0
+0
+% 0.0 6.3 0.0 12.5 12.5 6.3 12.5 18.8 0.0 0.0
+Course Total ENG 151
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+3
+2
+6
+3
+2
+5
+8
+4
+1
+% 0.0 5.4 3.6 10.7 5.4 3.6 8.9 14.3 7.1 1.8
+ENG 215 H B O'Hara Karen M. Workplace Writing
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+7
+5
+1
+1
+3
+1
+1
+0
+0
+0
+% 36.8 26.3 5.3 5.3 15.8 5.3 5.3 0.0 0.0 0.0
+ENG 215 HVA Lacey Kathryn C. Workplace Writing
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+1
+1
+5
+3
+2
+0
+0
+1
+% 0.0 5.3 5.3 5.3 26.3 15.8 10.5 0.0 0.0 5.3
+ENG 215 HWA Lacey Kathryn C. Workplace Writing
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+1
+2
+0
+0
+3
+1
+0
+1
+% 0.0 5.0 5.0 10.0 0.0 0.0 15.0 5.0 0.0 5.0
+D
+D-
+0
+1
+0.0 5.6
+D
+D-
+1
+0
+4.5 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+1
+1
+1.8 1.8
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+2
+0
+10.5 0.0
+D
+D-
+0
+0
+0.0 0.0
+F
+W
+WP WF
+1
+3
+0
+0
+5.6 16.7 0.0 0.0
+F
+W
+WP WF
+2
+9
+0
+0
+9.1 40.9 0.0 0.0
+F
+W
+5
+0
+31.3 0.0
+WP WF
+0
+0
+0.0 0.0
+F
+W
+WP WF
+8
+12
+0
+0
+14.3 21.4 0.0 0.0
+F
+W
+WP WF
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+F
+W
+WP WF
+1
+2
+0
+0
+5.3 10.5 0.0 0.0
+F
+W
+WP WF
+5
+6
+0
+0
+25.0 30.0 0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.07
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.31
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.87
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.07
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.63
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.47
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.75
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

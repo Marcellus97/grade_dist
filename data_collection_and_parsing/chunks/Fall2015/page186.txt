@@ -1,0 +1,309 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 182 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDL 151 C Huffman Diane B. The American University
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+2
+2
+1
+1
+0
+0
+4
+1
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 5.0 20.0 10.0 10.0 5.0 5.0 0.0 0.0 20.0 5.0 0.0 5.0 5.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 151 D Willard Tanya M. The American University
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+12
+2
+2
+2
+1
+1
+1
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.55
+% 52.2 8.7 8.7 8.7 4.3 4.3 4.3 0.0 0.0 0.0 0.0 0.0 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 151 E Lenzy Felichia B. The American University
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+2
+2
+2
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 0.0 52.4 9.5 9.5 9.5 0.0 4.8 4.8 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 151 F Banda Roselyn K. The American University
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+6
+1
+2
+2
+2
+2
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 18.2 27.3 4.5 9.1 9.1 9.1 9.1 0.0 0.0 4.5 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 151 G Ducher Jeannie M. The American University
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+16
+2
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.75
+% 16.7 66.7 8.3 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 151 H Lenzy Felichia B. The American University
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+7
+0
+1
+2
+1
+1
+0
+0
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 30.4 30.4 0.0 4.3 8.7 4.3 4.3 0.0 0.0 0.0 13.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 151 I Jackson Johnnie L. The American University
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+11
+2
+1
+1
+0
+0
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.68
+% 61.1 11.1 5.6 5.6 0.0 0.0 5.6 0.0 0.0 5.6 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,131 @@
+testRun: 01/09/12 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Semester, 2010-11 Hamilton Campus
+Page: 190 Sections of 10
+BOT Botany
+Miami Plan
+Honors
+Cross Listing
+BOT 155 HTA Munson Richard H. Field Botany
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+2
+0
+4
+1
+1
+1
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 19.0 23.8 9.5 0.0 19.0 4.8 4.8 4.8 4.8 0.0 0.0 0.0 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BOT 155
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+2
+0
+4
+1
+1
+1
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 19.0 23.8 9.5 0.0 19.0 4.8 4.8 4.8 4.8 0.0 0.0 0.0 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Botany Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 4
+5
+2
+0
+4
+1
+1
+1
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 19.0 23.8 9.5 0.0 19.0 4.8 4.8 4.8 4.8 0.0 0.0 0.0 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

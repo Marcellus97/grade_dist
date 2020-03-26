@@ -1,0 +1,303 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Oxford Campus
+Page: 576 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+SOC 165 B Harrington C. Lee Introduction to Social Justice
+N
+N
+UL
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+4
+6
+7
+0
+5
+3
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 5.9 8.8 11.8 17.6 20.6 0.0 14.7 8.8 2.9 5.9 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SOC 165
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+8
+7
+10
+10
+4
+7
+5
+3
+6
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.51
+% 0.0 4.4 11.8 10.3 14.7 14.7 5.9 10.3 7.4 4.4 8.8 0.0 2.9 4.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 201 A Flint William C. Social Problems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+3
+11
+6
+5
+6
+2
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+2.72
+% 0.0 10.0 0.0 7.5 27.5 15.0 12.5 15.0 5.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0
+Course Total SOC 201
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+3
+11
+6
+5
+6
+2
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+2.72
+% 0.0 10.0 0.0 7.5 27.5 15.0 12.5 15.0 5.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0
+SOC 203 A Ahmed Fauzia E. Sociology Of Gender Roles
+N
+N
+KH
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+3
+12
+4
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 3.6 17.9 10.7 42.9 14.3 7.1 0.0 0.0 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SOC 203
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+3
+12
+4
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 3.6 17.9 10.7 42.9 14.3 7.1 0.0 0.0 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 208 A Toops Stanley W. Rise - Industrialsm/East Asia
+Y
+N
+SM
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+2
+7
+3
+2
+7
+0
+2
+0
+0
+1
+2
+0
+0
+1
+0
+0
+0
+0
+2.52
+% 0.0 0.0 10.0 6.7 23.3 10.0 6.7 23.3 0.0 6.7 0.0 0.0 3.3 6.7 0.0 0.0 3.3 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,46 @@
+testHST History
+832
+IDS Interdisciplinary
+836
+ITL Italian
+837
+ITS International Studies
+838
+JRN Journalism
+839
+KNH Kinesiology And Health
+840
+MBI Microbiology
+853
+MGT Management
+856
+MKT Marketing
+857
+MTH Mathematics
+858
+MUS Music
+868
+NSG Nursing
+870
+PHL Philosophy
+875
+PHY Physics
+876
+POL Political Science
+879
+PSY Psychology
+881
+REL Religion, Comparative
+883
+SOC Sociology
+884
+SPN Spanish
+886
+STA Statistics
+888
+THE Theatre
+890
+WGS Women,Gender&Sexuality Studies
+892
+ZOO Zoology
+893

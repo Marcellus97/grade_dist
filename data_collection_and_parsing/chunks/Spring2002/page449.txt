@@ -1,0 +1,354 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 446 Sections of 10
+PHS 188L C Wellbery Laura M. Exercise And Health Lab
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+8
+0
+1
+5
+0
+0
+0
+0
+0
+% 0.0 50.0 0.0 6.3 31.3 0.0 0.0 0.0 0.0 0.0
+PHS 188L D Boerger Allison C. Exercise And Health Lab
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+17
+0
+0
+2
+0
+0
+0
+0
+0
+% 0.0 81.0 0.0 0.0 9.5 0.0 0.0 0.0 0.0 0.0
+PHS 188L E Wellbery Laura M. Exercise And Health Lab
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+13
+0
+2
+3
+0
+0
+1
+0
+0
+% 0.0 65.0 0.0 10.0 15.0 0.0 0.0 5.0 0.0 0.0
+Course Total PHS 188L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+75
+0
+3
+15
+0
+0
+2
+0
+0
+% 0.0 74.3 0.0 3.0 14.9 0.0 0.0 2.0 0.0 0.0
+PHS 190 A Scruggs Philip W. Intro To Teaching Physical Ed
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+0
+0
+1
+2
+1
+1
+3
+2
+0
+% 6.3 0.0 0.0 6.3 12.5 6.3 6.3 18.8 12.5 0.0
+Course Total PHS 190
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+0
+0
+1
+2
+1
+1
+3
+2
+0
+% 6.3 0.0 0.0 6.3 12.5 6.3 6.3 18.8 12.5 0.0
+PHS 192A A Sturgeon Nancy F. Perform Develop&Analysis:Dance
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+2
+6
+6
+4
+1
+1
+1
+0
+0
+0
+% 9.1 27.3 27.3 18.2 4.5 4.5 4.5 0.0 0.0 0.0
+D
+D-
+1
+0
+6.3 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+1
+0
+1.0 0.0
+D
+D-
+3
+0
+18.8 0.0
+D
+D-
+3
+0
+18.8 0.0
+D
+D-
+0
+0
+0.0 0.0
+F
+W
+0
+1
+0.0 6.3
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+1
+0.0 5.0
+F
+W
+0
+3
+0.0 3.0
+F
+W
+2
+0
+12.5 0.0
+F
+W
+2
+0
+12.5 0.0
+F
+W
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+1
+1
+4.8 4.8
+WP WF
+0
+0
+0.0 0.0
+WP WF
+1
+1
+1.0 1.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+1
+0.0 4.5
+Miami Plan
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.42
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.70
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.66
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.71
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.92
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.92
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.43
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

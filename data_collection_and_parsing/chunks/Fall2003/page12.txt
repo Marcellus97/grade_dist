@@ -1,0 +1,310 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2003-04 Oxford Campus
+Page: 9 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ACC 453 A Rankin Larry J. Financial Statement Auditing
+N
+N
+BS
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+0
+12
+1
+1
+11
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+2.70
+% 0.0 6.1 9.1 0.0 36.4 3.0 3.0 33.3 3.0 0.0 0.0 0.0 0.0 0.0 6.1 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 453 B Rankin Larry J. Financial Statement Auditing
+N
+N
+SB
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+1
+13
+4
+2
+7
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.66
+% 0.0 0.0 3.3 3.3 43.3 13.3 6.7 23.3 3.3 0.0 0.0 0.0 0.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 453 C Rankin Larry J. Financial Statement Auditing
+N
+N
+BK
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+0
+15
+0
+0
+12
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.61
+% 0.0 3.3 3.3 0.0 50.0 0.0 0.0 40.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 453
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+1
+40
+5
+3
+30
+3
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+2.66
+% 0.0 3.2 5.4 1.1 43.0 5.4 3.2 32.3 3.2 0.0 0.0 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 468 VA Cumming John Acc Governmental Organizations
+N
+N
+X4
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+2
+4
+0
+0
+3
+2
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+3.02
+% 0.0 21.1 10.5 10.5 21.1 0.0 0.0 15.8 10.5 0.0 0.0 0.0 0.0 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0
+ACC 468 VB Cumming John Acc Governmental Organizations
+N
+N
+BB
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+0
+3
+0
+0
+4
+0
+1
+1
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+2.78
+% 0.0 20.0 20.0 0.0 15.0 0.0 0.0 20.0 0.0 5.0 5.0 0.0 0.0 5.0 5.0 5.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 468
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+6
+2
+7
+0
+0
+7
+2
+1
+1
+0
+0
+2
+1
+1
+1
+0
+0
+0
+0
+2.90
+% 0.0 20.5 15.4 5.1 17.9 0.0 0.0 17.9 5.1 2.6 2.6 0.0 0.0 5.1 2.6 2.6 2.6 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

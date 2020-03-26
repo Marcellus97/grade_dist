@@ -1,0 +1,257 @@
+testRun: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 46 Sections of 10
+GTY Gerontology
+Miami Plan
+Honors
+Cross Listing
+GTY 260 A Bulanda Jennifer R. Global Aging
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+9
+5
+2
+5
+1
+1
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.33
+% 7.1 32.1 17.9 7.1 17.9 3.6 3.6 7.1 0.0 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GTY 260 B Bulanda Jennifer R. Global Aging
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+14
+1
+2
+2
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.60
+% 12.0 56.0 4.0 8.0 8.0 4.0 0.0 0.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GTY 260
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+23
+6
+4
+7
+2
+1
+2
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.45
+% 9.4 43.4 11.3 7.5 13.2 3.8 1.9 3.8 1.9 1.9 0.0 0.0 1.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GTY 299A A de Medeiros Kathryn B. Aging in Thailand
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+16
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+Course Total GTY 299A
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+16
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+Gerontology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 5
+23
+6
+4
+7
+2
+1
+2
+1
+1
+0
+0
+1
+0
+0
+0
+0
+16
+0
+0
+0
+3.45
+% 7.2 33.3 8.7 5.8 10.1 2.9 1.4 2.9 1.4 1.4 0.0 0.0 1.4 0.0 0.0 0.0 0.0 23.2 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

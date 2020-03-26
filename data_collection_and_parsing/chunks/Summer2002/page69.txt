@@ -1,0 +1,348 @@
+testRun: 06/30/04 @ 16:03 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2001-02 Oxford Campus
+Page: 67 Sections of 10
+FRE French
+FRE 101 MA Dickson Jesse D. Elementary French
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+1
+0
+2
+1
+0
+1
+1
+0
+% 0.0 0.0 10.0 0.0 20.0 10.0 0.0 10.0 10.0 0.0
+Course Total FRE 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+1
+0
+2
+1
+0
+1
+1
+0
+% 0.0 0.0 10.0 0.0 20.0 10.0 0.0 10.0 10.0 0.0
+FRE 102 OA Pactat Michel J. Elementary French
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+4
+1
+1
+0
+0
+1
+1
+0
+% 0.0 0.0 33.3 8.3 8.3 0.0 0.0 8.3 8.3 0.0
+Course Total FRE 102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+4
+1
+1
+0
+0
+1
+1
+0
+% 0.0 0.0 33.3 8.3 8.3 0.0 0.0 8.3 8.3 0.0
+FRE 201 MA McKinney Mark K. Intermediate French
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+1
+4
+1
+0
+2
+2
+3
+1
+% 0.0 0.0 5.6 22.2 5.6 0.0 11.1 11.1 16.7 5.6
+Course Total FRE 201
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+1
+4
+1
+0
+2
+2
+3
+1
+% 0.0 0.0 5.6 22.2 5.6 0.0 11.1 11.1 16.7 5.6
+FRE 202 OA Roberts Anna M. Critical Anlys/French Culture
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+4
+0
+0
+6
+1
+1
+8
+0
+1
+% 0.0 18.2 0.0 0.0 27.3 4.5 4.5 36.4 0.0 4.5
+D
+D-
+1
+0
+10.0 0.0
+D
+D-
+1
+0
+10.0 0.0
+D
+D-
+1
+0
+8.3 0.0
+D
+D-
+1
+0
+8.3 0.0
+D
+D-
+1
+0
+5.6 0.0
+D
+D-
+1
+0
+5.6 0.0
+D
+D-
+0
+0
+0.0 0.0
+F
+W
+WP WF
+1
+2
+0
+0
+10.0 20.0 0.0 0.0
+F
+W
+WP WF
+1
+2
+0
+0
+10.0 20.0 0.0 0.0
+F
+W
+2
+0
+16.7 0.0
+WP WF
+1
+0
+8.3 0.0
+F
+W
+2
+0
+16.7 0.0
+WP WF
+1
+0
+8.3 0.0
+F
+W
+WP WF
+1
+1
+1
+0
+5.6 5.6 5.6 0.0
+F
+W
+WP WF
+1
+1
+1
+0
+5.6 5.6 5.6 0.0
+F
+W
+WP WF
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.14
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.14
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.35
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.35
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.24
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.24
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+1
+0
+0
+2.68
+4.5 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

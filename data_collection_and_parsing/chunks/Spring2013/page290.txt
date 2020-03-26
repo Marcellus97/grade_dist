@@ -1,0 +1,303 @@
+testRun: 07/08/13 @ 16:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2012-13 Oxford Campus
+Page: 286 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FRE 131 A Hodges Elisabeth D. Masterpieces Fre Lit Translatn
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+3
+12
+4
+2
+4
+0
+0
+0
+0
+1
+3
+0
+0
+0
+2
+0
+0
+0
+2.90
+% 0.0 10.8 5.4 8.1 32.4 10.8 5.4 10.8 0.0 0.0 0.0 0.0 2.7 8.1 0.0 0.0 0.0 5.4 0.0 0.0 0.0
+Course Total FRE 131
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+3
+12
+4
+2
+4
+0
+0
+0
+0
+1
+3
+0
+0
+0
+2
+0
+0
+0
+2.90
+% 0.0 10.8 5.4 8.1 32.4 10.8 5.4 10.8 0.0 0.0 0.0 0.0 2.7 8.1 0.0 0.0 0.0 5.4 0.0 0.0 0.0
+FRE 201 A Runyon Randolph Intermediate French
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+1
+1
+1
+2
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.80
+% 0.0 9.1 18.2 9.1 9.1 9.1 9.1 18.2 0.0 9.1 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FRE 201 B Pactat Michel J. Intermediate French
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+5
+3
+3
+1
+2
+3
+1
+1
+0
+1
+1
+0
+0
+1
+1
+0
+0
+0
+2.58
+% 0.0 11.5 0.0 19.2 11.5 11.5 3.8 7.7 11.5 3.8 3.8 0.0 3.8 3.8 0.0 0.0 3.8 3.8 0.0 0.0 0.0
+FRE 201 C Negrete Maria Fernanda Intermediate French
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+3
+2
+6
+2
+1
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 4.2 25.0 12.5 8.3 25.0 8.3 4.2 0.0 0.0 4.2 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FRE 201 D Negrete Maria Fernanda Intermediate French
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+2
+1
+3
+3
+2
+0
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.33
+% 17.6 11.8 5.9 17.6 17.6 11.8 0.0 5.9 0.0 0.0 0.0 0.0 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FRE 201
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+12
+6
+11
+13
+8
+3
+5
+3
+3
+1
+0
+1
+6
+0
+0
+1
+1
+0
+0
+0
+3.00
+% 5.1 15.4 7.7 14.1 16.7 10.3 3.8 6.4 3.8 3.8 1.3 0.0 1.3 7.7 0.0 0.0 1.3 1.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

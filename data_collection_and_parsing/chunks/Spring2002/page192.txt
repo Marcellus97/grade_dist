@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 189 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDT 473E A Wachenheim Kimberly W. Creative Exper Young Children
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+10
+8
+5
+0
+0
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.42
+% 0.0 25.7 28.6 22.9 14.3 0.0 0.0 2.9 0.0 0.0 0.0 0.0 2.9 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 473E B Rizzo Donna V. Creative Exper Young Children
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+16
+7
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.75
+% 3.6 57.1 25.0 0.0 10.7 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 473E C Wachenheim Kimberly W. Creative Exper Young Children
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+9
+10
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 0.0 30.3 27.3 30.3 12.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDT 473E
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+35
+26
+18
+12
+0
+0
+2
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.57
+% 1.0 36.5 27.1 18.8 12.5 0.0 0.0 2.1 0.0 0.0 0.0 0.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 474E A Rizzo Donna V. Cognitive Exper W/Young Child
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+10
+1
+0
+2
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 0.0 52.9 29.4 2.9 0.0 5.9 0.0 5.9 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 474E B Gallenstein Nancy L. Cognitive Exper W/Young Child
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+10
+4
+4
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 39.4 30.3 12.1 12.1 0.0 3.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDT 474E
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+31
+20
+5
+4
+2
+1
+3
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 46.3 29.9 7.5 6.0 3.0 1.5 4.5 0.0 0.0 0.0 0.0 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

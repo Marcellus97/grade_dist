@@ -1,0 +1,263 @@
+testRun: 09/27/12 @ 10:49 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2011-12 Voa - West Chester Campus
+Page: 1 Sections of 10
+ACC Accountancy
+Miami Plan
+Honors
+Cross Listing
+ACC 221 VUA Metcalf Christopher C. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+7
+0
+2
+3
+0
+0
+4
+0
+1
+1
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+3.14
+% 12.5 29.2 0.0 8.3 12.5 0.0 0.0 16.7 0.0 4.2 4.2 0.0 0.0 8.3 0.0 0.0 4.2 0.0 0.0 0.0 0.0
+BIS Integrative Studies
+Miami Plan
+Honors
+Cross Listing
+BIS 201 VVA Hieber Michael R. Intro to Integrative Studies
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+2
+0
+1
+2
+2
+3
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 6.3 12.5 12.5 0.0 6.3 12.5 12.5 18.8 0.0 0.0 0.0 0.0 0.0 18.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BIS 201
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+9
+2
+2
+4
+2
+2
+7
+0
+1
+1
+0
+0
+5
+0
+0
+1
+0
+0
+0
+0
+3.07
+% 10.0 22.5 5.0 5.0 10.0 5.0 5.0 17.5 0.0 2.5 2.5 0.0 0.0 12.5 0.0 0.0 2.5 0.0 0.0 0.0 0.0
+Integrative Studies Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+2
+2
+0
+1
+2
+2
+3
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 6.3 12.5 12.5 0.0 6.3 12.5 12.5 18.8 0.0 0.0 0.0 0.0 0.0 18.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM Communication
+Miami Plan
+Honors
+Cross Listing
+COM 135 VTA Owens Maya J. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.77
+% 9.1 36.4 27.3 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 135
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.77
+% 9.1 36.4 27.3 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

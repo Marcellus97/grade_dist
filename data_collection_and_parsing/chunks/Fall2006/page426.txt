@@ -1,0 +1,304 @@
+testRun: 01/23/07 @ 09:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2006-07 Oxford Campus
+Page: 423 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MUS 185 B Tanner Christopher G. The Diverse Worlds Of Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+20
+18
+13
+36
+4
+9
+6
+1
+0
+0
+0
+4
+0
+0
+0
+0
+1
+0
+0
+0
+3.09
+% 0.0 17.9 16.1 11.6 32.1 3.6 8.0 5.4 0.9 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.9 0.0 0.0 0.0
+MUS 185 C Garcia Thomas G. The Diverse Worlds Of Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+14
+35
+35
+11
+6
+3
+1
+1
+0
+0
+1
+0
+2
+1
+0
+0
+1
+0
+0
+0
+0
+3.61
+% 12.6 31.5 31.5 9.9 5.4 2.7 0.9 0.9 0.0 0.0 0.9 0.0 1.8 0.9 0.0 0.0 0.9 0.0 0.0 0.0 0.0
+Course Total MUS 185
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+14
+74
+64
+37
+85
+11
+17
+16
+2
+2
+1
+0
+7
+1
+0
+0
+1
+1
+0
+0
+0
+3.25
+% 4.2 22.2 19.2 11.1 25.5 3.3 5.1 4.8 0.6 0.6 0.3 0.0 2.1 0.3 0.0 0.0 0.3 0.3 0.0 0.0 0.0
+MUS 189 A Rios Fernando E. Great Ideas In Western Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+21
+69
+16
+2
+8
+2
+1
+1
+0
+0
+3
+0
+4
+2
+0
+0
+0
+0
+0
+0
+0
+3.64
+% 16.3 53.5 12.4 1.6 6.2 1.6 0.8 0.8 0.0 0.0 2.3 0.0 3.1 1.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MUS 189 B Rios Fernando E. Great Ideas In Western Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+17
+83
+9
+2
+8
+1
+0
+1
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.79
+% 13.6 66.4 7.2 1.6 6.4 0.8 0.0 0.8 1.6 0.0 1.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MUS 189
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+38
+152 25
+4
+16
+3
+1
+2
+2
+0
+5
+0
+4
+2
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 15.0 59.8 9.8 1.6 6.3 1.2 0.4 0.8 0.8 0.0 2.0 0.0 1.6 0.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MUS 189L LA Backes Georges Great Ideas Western Music-Lux
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+3
+5
+1
+5
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 17.4 13.0 21.7 4.3 21.7 17.4 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,348 @@
+testRun: 06/30/04 @ 11:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2000-01 Oxford Campus
+Page: 111 Sections of 10
+ECO 315 D Curme Michael A. Intermed Microeconomic Theory
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+0
+1
+4
+1
+0
+9
+2
+0
+% 0.0 0.0 0.0 4.5 18.2 4.5 0.0 40.9 9.1 0.0
+Course Total ECO 315
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+13
+4
+3
+35
+5
+2
+20
+5
+0
+% 0.0 13.3 4.1 3.1 35.7 5.1 2.0 20.4 5.1 0.0
+ECO 317 A Hall Thomas E. Intermed Macroeconomic Theory
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+6
+2
+4
+5
+1
+2
+0
+0
+% 0.0 4.2 25.0 8.3 16.7 20.8 4.2 8.3 0.0 0.0
+ECO 317 B Raynold Prosper Intermed Macroeconomic Theory
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+3
+1
+0
+0
+3
+0
+1
+4
+0
+% 0.0 15.8 5.3 0.0 0.0 15.8 0.0 5.3 21.1 0.0
+ECO 317 C Hart William R. Intermed Macroeconomic Theory
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+0
+0
+1
+2
+0
+1
+1
+0
+% 0.0 11.1 0.0 0.0 5.6 11.1 0.0 5.6 5.6 0.0
+Course Total ECO 317
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+6
+7
+2
+5
+10
+1
+4
+5
+0
+% 0.0 9.8 11.5 3.3 8.2 16.4 1.6 6.6 8.2 0.0
+ECO 320K A Davis George K. Economic Growth
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+7
+4
+8
+3
+1
+1
+0
+1
+% 0.0 7.4 25.9 14.8 29.6 11.1 3.7 3.7 0.0 3.7
+D
+D-
+F
+W
+1
+1
+1
+0
+4.5 4.5 4.5 0.0
+D
+D-
+F
+W
+3
+2
+1
+0
+3.1 2.0 1.0 0.0
+D
+D-
+F
+W
+1
+0
+0
+2
+4.2 0.0 0.0 8.3
+D
+D-
+F
+W
+3
+2
+1
+1
+15.8 10.5 5.3 5.3
+D
+D-
+4
+0
+22.2 0.0
+F
+W
+4
+0
+22.2 0.0
+D
+D-
+F
+W
+8
+2
+5
+3
+13.1 3.3 8.2 4.9
+D
+D-
+F
+W
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+WP WF
+2
+0
+9.1 0.0
+WP WF
+5
+0
+5.1 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+2
+1
+11.1 5.6
+WP WF
+2
+1
+3.3 1.6
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.06
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.72
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.98
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.06
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.51
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.26
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.14
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

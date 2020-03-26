@@ -1,0 +1,305 @@
+testRun: 10/17/07 @ 09:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2006-07 Oxford Campus
+Page: 14 Sections of 10
+BOT Botany
+Miami Plan
+Honors
+Cross Listing
+BOT 131 MA Shaw Shane W. Plants Humanity & Environment
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+7
+0
+0
+4
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+2.85
+% 0.0 13.3 0.0 0.0 46.7 0.0 0.0 26.7 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 6.7 0.0 0.0 0.0
+Course Total BOT 131
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+7
+0
+0
+4
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+2.85
+% 0.0 13.3 0.0 0.0 46.7 0.0 0.0 26.7 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 6.7 0.0 0.0 0.0
+BOT 155 MA Smith-Huerta Nancy Field Botany
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+0
+0
+5
+0
+0
+2
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.53
+% 4.5 50.0 0.0 0.0 22.7 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BOT 155
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+0
+0
+5
+0
+0
+2
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.53
+% 4.5 50.0 0.0 0.0 22.7 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BOT 191 OA Shaw Shane W. General Botany
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+2
+0
+0
+2
+0
+0
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.11
+% 0.0 20.0 0.0 0.0 20.0 0.0 0.0 20.0 0.0 0.0 10.0 0.0 20.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BOT 191
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+2
+0
+0
+2
+0
+0
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.11
+% 0.0 20.0 0.0 0.0 20.0 0.0 0.0 20.0 0.0 0.0 10.0 0.0 20.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BOT 599R MA Gorchov David L. Field Research in Botany
+N
+N
+1Z
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

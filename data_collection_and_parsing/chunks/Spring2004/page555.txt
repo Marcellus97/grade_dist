@@ -1,0 +1,176 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Oxford Campus
+Page: 552 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+STA 401 B Dunn Charles L. Probability
+N
+N
+89
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+0
+1
+1
+0
+1
+6
+0
+1
+0
+1
+1
+1
+0
+1
+0
+0
+0
+0
+0
+1.90
+% 6.7 0.0 0.0 6.7 6.7 0.0 6.7 40.0 0.0 6.7 0.0 6.7 6.7 6.7 0.0 6.7 0.0 0.0 0.0 0.0 0.0
+STA 401 C Waikar Vasant B. Probability
+N
+N
+90
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+3
+3
+4
+3
+0
+3
+2
+1
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 0.0 23.3 10.0 10.0 13.3 10.0 0.0 10.0 6.7 3.3 6.7 3.3 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total STA 401
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+10
+4
+5
+8
+6
+2
+13
+2
+3
+8
+2
+7
+2
+1
+1
+0
+0
+0
+0
+0
+2.28
+% 2.6 13.2 5.3 6.6 10.5 7.9 2.6 17.1 2.6 3.9 10.5 2.6 9.2 2.6 1.3 1.3 0.0 0.0 0.0 0.0 0.0
+Statistics Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 18
+105 48
+58
+115 52
+41
+95
+29
+27
+51
+23
+49
+33
+40
+20
+0
+12
+1
+0
+0
+2.44
+% 2.2 12.9 5.9 7.1 14.1 6.4 5.0 11.6 3.5 3.3 6.2 2.8 6.0 4.0 4.9 2.4 0.0 1.5 0.1 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

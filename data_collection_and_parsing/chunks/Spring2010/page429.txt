@@ -1,0 +1,305 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Oxford Campus
+Page: 425 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MBI 131 VA Lee Marcia R. Community Health Perspectives
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+11
+18
+26
+13
+4
+8
+4
+0
+1
+0
+0
+2
+0
+0
+0
+8
+0
+0
+0
+2.93
+% 0.0 3.1 11.2 18.4 26.5 13.3 4.1 8.2 4.1 0.0 1.0 0.0 0.0 2.0 0.0 0.0 0.0 8.2 0.0 0.0 0.0
+MBI 131 VB Abshire Kelly Z. Community Health Perspectives
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+27
+20
+22
+9
+4
+6
+0
+0
+1
+1
+1
+1
+0
+0
+0
+9
+0
+0
+0
+3.21
+% 0.0 13.7 23.1 17.1 18.8 7.7 3.4 5.1 0.0 0.0 0.9 0.9 0.9 0.9 0.0 0.0 0.0 7.7 0.0 0.0 0.0
+MBI 131 VC Abshire Kelly Z. Community Health Perspectives
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+24
+23
+22
+9
+3
+4
+1
+0
+0
+0
+1
+0
+0
+0
+0
+12
+0
+0
+0
+3.26
+% 0.0 13.9 20.9 20.0 19.1 7.8 2.6 3.5 0.9 0.0 0.0 0.0 0.9 0.0 0.0 0.0 0.0 10.4 0.0 0.0 0.0
+Course Total MBI 131
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+35
+62
+61
+70
+31
+11
+18
+5
+0
+2
+1
+2
+3
+0
+0
+0
+29
+0
+0
+0
+3.14
+% 0.0 10.6 18.8 18.5 21.2 9.4 3.3 5.5 1.5 0.0 0.6 0.3 0.6 0.9 0.0 0.0 0.0 8.8 0.0 0.0 0.0
+MBI 202 B Bollmann Annette General Microbiology II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+1
+1
+6
+3
+1
+2
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.78
+% 5.3 5.3 5.3 5.3 31.6 15.8 5.3 10.5 5.3 0.0 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MBI 202 C Bollmann Annette General Microbiology II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+1
+4
+0
+2
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.49
+% 0.0 0.0 10.0 10.0 40.0 0.0 20.0 0.0 0.0 10.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MBI 202
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+2
+2
+10
+3
+3
+2
+1
+1
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.68
+% 3.4 3.4 6.9 6.9 34.5 10.3 10.3 6.9 3.4 3.4 3.4 0.0 3.4 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

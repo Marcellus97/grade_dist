@@ -1,0 +1,310 @@
+testRun: 07/07/05 @ 10:09 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2004-05 Oxford Campus
+Page: 357 Sections of 10
+MIS Management Information Systems
+Miami Plan
+Honors
+Cross Listing
+MIS 235 A Sarma Mahesh N. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+8
+3
+8
+5
+3
+4
+3
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 12.2 19.5 7.3 19.5 12.2 7.3 9.8 7.3 0.0 2.4 0.0 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 B Sarma Mahesh N. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+6
+4
+12
+6
+4
+6
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.87
+% 0.0 7.0 14.0 9.3 27.9 14.0 9.3 14.0 2.3 0.0 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 C Benamati John H. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+5
+15
+6
+5
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 9.5 7.1 11.9 35.7 14.3 11.9 4.8 2.4 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 D Sarma Mahesh N. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+4
+3
+9
+6
+2
+6
+1
+0
+1
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+2.87
+% 0.0 14.6 9.8 7.3 22.0 14.6 4.9 14.6 2.4 0.0 2.4 2.4 0.0 0.0 4.9 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 E Robb George L. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+5
+14
+4
+6
+3
+2
+0
+1
+0
+1
+1
+0
+0
+1
+0
+0
+0
+0
+2.71
+% 0.0 7.3 0.0 12.2 34.1 9.8 14.6 7.3 4.9 0.0 2.4 0.0 2.4 2.4 0.0 0.0 2.4 0.0 0.0 0.0 0.0
+MIS 235 F Robb George L. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+2
+12
+10
+7
+4
+0
+0
+1
+0
+0
+2
+1
+0
+1
+0
+0
+0
+0
+2.66
+% 0.0 0.0 2.4 4.9 29.3 24.4 17.1 9.8 0.0 0.0 2.4 0.0 0.0 4.9 2.4 0.0 2.4 0.0 0.0 0.0 0.0
+MIS 235 G Serve Patrick D. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+7
+8
+10
+4
+1
+5
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.98
+% 0.0 5.3 18.4 21.1 26.3 10.5 2.6 13.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

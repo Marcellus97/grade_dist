@@ -1,0 +1,340 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Oxford Campus
+Page: 148 Sections of 10
+CSE 174 B Byrkett Donald L. Fundmntls-Progrming&Prob Solvg
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+8
+0
+0
+5
+0
+1
+0
+0
+% 0.0 34.8 0.0 0.0 21.7 0.0 4.3 0.0 0.0
+CSE 174 C Ozden Mufit Fundmntls-Progrming&Prob Solvg
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+0
+1
+1
+2
+1
+1
+2
+0
+% 0.0 0.0 4.3 4.3 8.7 4.3 4.3 8.7 0.0
+CSE 174 D Ozden Mufit Fundmntls-Progrming&Prob Solvg
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+3
+2
+0
+2
+0
+3
+1
+1
+% 0.0 18.8 12.5 0.0 12.5 0.0 18.8 6.3 6.3
+Course Total CSE 174
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+14
+7
+2
+15
+1
+5
+4
+1
+% 1.2 16.5 8.2 2.4 17.6 1.2 5.9 4.7 1.2
+CSE 201 A Troy Douglas A. Intro to Software Engineering
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+13
+1
+2
+9
+1
+1
+2
+0
+% 0.0 44.8 3.4 6.9 31.0 3.4 3.4 6.9 0.0
+Course Total CSE 201
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+13
+1
+2
+9
+1
+1
+2
+0
+% 0.0 44.8 3.4 6.9 31.0 3.4 3.4 6.9 0.0
+CSE 252 A Simko Peter Web Application Programming
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+3
+3
+3
+5
+1
+2
+1
+0
+% 0.0 14.3 14.3 14.3 23.8 4.8 9.5 4.8 0.0
+D+ D
+D-
+F
+1
+1
+0
+1
+4.3 4.3 0.0 4.3
+D+ D
+D-
+F
+5
+4
+3
+2
+21.7 17.4 13.0 8.7
+D+ D
+D-
+F
+0
+1
+1
+1
+0.0 6.3 6.3 6.3
+D+ D
+D-
+F
+6
+9
+4
+5
+7.1 10.6 4.7 5.9
+D+ D
+D-
+F
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+D+ D
+D-
+F
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+D+ D
+D-
+F
+0
+2
+0
+0
+0.0 9.5 0.0 0.0
+W
+WP WF
+6
+0
+0
+26.1 0.0 0.0
+W
+WP WF
+1
+0
+0
+4.3 0.0 0.0
+W
+WP WF
+1
+0
+0
+6.3 0.0 0.0
+W
+WP WF
+11
+0
+0
+12.9 0.0 0.0
+W
+WP WF
+0
+0
+0
+0.0 0.0 0.0
+W
+WP WF
+0
+0
+0
+0.0 0.0 0.0
+W
+WP WF
+1
+0
+0
+4.8 0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.04
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.57
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.51
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.45
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.39
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.39
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.97
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

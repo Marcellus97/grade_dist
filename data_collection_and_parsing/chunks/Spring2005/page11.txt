@@ -1,0 +1,307 @@
+testRun: 07/07/05 @ 10:09 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2004-05 Oxford Campus
+Page: 8 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ACC 422 D Cottell Philip G. Financial Accounting Research
+N
+N
+EJ
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+2
+6
+9
+1
+3
+0
+0
+1
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.13
+% 13.8 6.9 20.7 31.0 3.4 10.3 0.0 0.0 3.4 0.0 6.9 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 422
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+12
+6
+14
+13
+21
+16
+13
+8
+7
+4
+3
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+2.87
+% 10.1 5.0 11.8 10.9 17.6 13.4 10.9 6.7 5.9 3.4 2.5 0.0 0.0 0.0 0.8 0.8 0.0 0.0 0.0 0.0 0.0
+ACC 433 A Brewer Peter C. Management Accounting Process
+N
+N
+J9
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+3
+5
+2
+0
+3
+1
+0
+2
+0
+2
+0
+1
+1
+0
+0
+0
+0
+0
+2.41
+% 0.0 8.3 8.3 12.5 20.8 8.3 0.0 12.5 4.2 0.0 8.3 0.0 8.3 0.0 4.2 4.2 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 433
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+3
+5
+2
+0
+3
+1
+0
+2
+0
+2
+0
+1
+1
+0
+0
+0
+0
+0
+2.41
+% 0.0 8.3 8.3 12.5 20.8 8.3 0.0 12.5 4.2 0.0 8.3 0.0 8.3 0.0 4.2 4.2 0.0 0.0 0.0 0.0 0.0
+ACC 443 A Salzarulo W. Peter Federal Income Tax Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+2
+5
+8
+1
+2
+3
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+3.26
+% 0.0 29.4 5.9 14.7 23.5 2.9 5.9 8.8 0.0 0.0 0.0 0.0 0.0 2.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 443 B Salzarulo W. Peter Federal Income Tax Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+4
+2
+6
+2
+2
+3
+0
+0
+0
+0
+0
+5
+2
+0
+0
+0
+0
+0
+0
+3.18
+% 3.1 15.6 12.5 6.3 18.8 6.3 6.3 9.4 0.0 0.0 0.0 0.0 0.0 15.6 6.3 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 443 C Arlinghaus Barry P. Federal Income Tax Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+3
+5
+2
+3
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 0.0 11.8 17.6 29.4 11.8 17.6 5.9 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

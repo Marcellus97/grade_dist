@@ -1,0 +1,308 @@
+testRun: 11/16/09 @ 08:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2008-09 Oxford Campus
+Page: 14 Sections of 10
+BUS Business Analysis
+Miami Plan
+Honors
+Cross Listing
+BUS 301 MA Newman William E. Macro Concepts in Contemp Bus
+N
+N
+KD
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+8
+11
+20
+5
+4
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.23
+% 0.0 22.2 11.1 15.3 27.8 6.9 5.6 2.8 1.4 0.0 1.4 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0
+Course Total BUS 301
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+8
+11
+20
+5
+4
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.23
+% 0.0 22.2 11.1 15.3 27.8 6.9 5.6 2.8 1.4 0.0 1.4 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0
+BUS 302 MA Newman William E. Micro Concepts in Contemp Bus
+N
+N
+KD
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+7
+17
+11
+5
+8
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.26
+% 0.0 25.0 9.7 23.6 15.3 6.9 11.1 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0
+Course Total BUS 302
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+7
+17
+11
+5
+8
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.26
+% 0.0 25.0 9.7 23.6 15.3 6.9 11.1 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0
+BUS 303 MA Newman William E. Business Process Integration
+N
+N
+KD
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+15
+20
+16
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.47
+% 0.0 22.2 20.8 27.8 22.2 1.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0
+Course Total BUS 303
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+15
+20
+16
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.47
+% 0.0 22.2 20.8 27.8 22.2 1.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0
+BUS 373C MA Noble Nicholas R. School of Business: Far East
+N
+N
+AK
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+6
+7
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 13.3 20.0 23.3 43.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

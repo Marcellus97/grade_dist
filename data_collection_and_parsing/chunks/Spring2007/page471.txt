@@ -1,0 +1,304 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Oxford Campus
+Page: 468 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total PHS 401
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+0
+8
+0
+0
+2
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.78
+% 0.0 12.5 6.3 0.0 50.0 0.0 0.0 12.5 0.0 0.0 12.5 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 402 A Vealey Robin S. Critical Reflect on Practices
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+2
+0
+1
+0
+3
+1
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 5.0 45.0 10.0 0.0 5.0 0.0 15.0 5.0 5.0 5.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 402 B Lipnickey Susan C. Critical Reflect on Practices
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+2
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 0.0 66.7 11.1 11.1 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 402 E Cox Ronald H. Critical Reflect on Practices
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+3
+8
+4
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.50
+% 0.0 26.1 13.0 34.8 17.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 402
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+27
+7
+10
+5
+2
+3
+1
+1
+1
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.46
+% 1.6 44.3 11.5 16.4 8.2 3.3 4.9 1.6 1.6 1.6 0.0 1.6 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 406 A Nisevich Pamela M. Diet Therapy
+N
+N
+E3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+4
+6
+6
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.16
+% 0.0 17.9 14.3 14.3 21.4 21.4 3.6 0.0 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0
+Course Total PHS 406
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+4
+6
+6
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.16
+% 0.0 17.9 14.3 14.3 21.4 21.4 3.6 0.0 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

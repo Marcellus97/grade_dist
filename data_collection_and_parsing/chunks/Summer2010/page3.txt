@@ -1,0 +1,38 @@
+testITS International Studies
+218
+JRN Journalism
+219
+KNH Kinesiology And Health
+220
+MBI Microbiology
+222
+MGT Management
+224
+MKT Marketing
+225
+MTH Mathematics
+226
+MUS Music
+228
+NSG Nursing
+229
+PHY Physics
+230
+POL Political Science
+231
+PSY Psychology
+232
+REL Religion, Comparative
+233
+SOC Sociology
+234
+SPN Spanish
+236
+STA Statistics
+238
+THE Theatre
+239
+WMS Women'S Studies
+240
+ZOO Zoology
+241

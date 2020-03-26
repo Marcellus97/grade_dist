@@ -1,0 +1,300 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Hamilton Campus
+Page: 781 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CIT 101W
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+0
+0
+17
+5
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 21.4 0.0 0.0 0.0 60.7 17.9 0.0 0.0
+CIT 154 H A Seibold Pam Personl Computr Concpts & Apps
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+1
+4
+0
+1
+1
+2
+0
+0
+0
+4
+9
+0
+0
+0
+0
+0
+0
+0
+1.91
+% 0.0 0.0 4.3 4.3 17.4 0.0 4.3 4.3 8.7 0.0 0.0 0.0 17.4 39.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CIT 154 H B Ghosh Krishnendu Personl Computr Concpts & Apps
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+5
+1
+7
+2
+1
+1
+0
+0
+1
+2
+2
+2
+0
+0
+1
+0
+0
+0
+0
+2.68
+% 7.1 3.6 17.9 3.6 25.0 7.1 3.6 3.6 0.0 0.0 3.6 7.1 7.1 7.1 0.0 0.0 3.6 0.0 0.0 0.0 0.0
+Course Total CIT 154
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+6
+2
+11
+2
+2
+2
+2
+0
+1
+2
+6
+11
+0
+0
+1
+0
+0
+0
+0
+2.40
+% 3.9 2.0 11.8 3.9 21.6 3.9 3.9 3.9 3.9 0.0 2.0 3.9 11.8 21.6 0.0 0.0 2.0 0.0 0.0 0.0 0.0
+CIT 157 H A Luczaj Jerome E. Foundations of IT I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+3
+4
+5
+1
+3
+2
+0
+0
+0
+0
+2
+4
+0
+0
+1
+0
+0
+0
+0
+2.82
+% 3.6 7.1 10.7 14.3 17.9 3.6 10.7 7.1 0.0 0.0 0.0 0.0 7.1 14.3 0.0 0.0 3.6 0.0 0.0 0.0 0.0
+Course Total CIT 157
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+3
+4
+5
+1
+3
+2
+0
+0
+0
+0
+2
+4
+0
+0
+1
+0
+0
+0
+0
+2.82
+% 3.6 7.1 10.7 14.3 17.9 3.6 10.7 7.1 0.0 0.0 0.0 0.0 7.1 14.3 0.0 0.0 3.6 0.0 0.0 0.0 0.0
+CIT 158 H A Ghosh Krishnendu Foundations of IT II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+1
+1
+1
+1
+1
+1
+0
+2
+2
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.27
+% 0.0 17.6 5.9 5.9 5.9 5.9 5.9 5.9 5.9 0.0 11.8 11.8 5.9 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

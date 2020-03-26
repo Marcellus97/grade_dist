@@ -1,0 +1,301 @@
+testRun: 06/30/04 @ 11:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 1999-2000 Oxford Campus
+Page: 17 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CHM 145
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+0
+4
+1
+4
+3
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.65
+% 0.0 15.8 10.5 0.0 21.1 5.3 21.1 15.8 0.0 0.0 5.3 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0
+CHM 241 NA Gung Benjamin W. Organic Chemistry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+2
+4
+4
+5
+2
+0
+0
+4
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 20.0 6.7 6.7 13.3 13.3 16.7 6.7 0.0 0.0 13.3 0.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 241
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+2
+4
+4
+5
+2
+0
+0
+4
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 20.0 6.7 6.7 13.3 13.3 16.7 6.7 0.0 0.0 13.3 0.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 242 PA Sebastian John F. Organic Chemistry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+1
+1
+14
+1
+1
+5
+1
+0
+1
+0
+0
+1
+2
+0
+0
+1
+0
+0
+0
+3.19
+% 0.0 35.6 2.2 2.2 31.1 2.2 2.2 11.1 2.2 0.0 2.2 0.0 0.0 2.2 4.4 0.0 0.0 2.2 0.0 0.0 0.0
+Course Total CHM 242
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+1
+1
+14
+1
+1
+5
+1
+0
+1
+0
+0
+1
+2
+0
+0
+1
+0
+0
+0
+3.19
+% 0.0 35.6 2.2 2.2 31.1 2.2 2.2 11.1 2.2 0.0 2.2 0.0 0.0 2.2 4.4 0.0 0.0 2.2 0.0 0.0 0.0
+CHM 244 NA Gung Benjamin W. Organic Chemistry Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+8
+7
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 10.0 40.0 35.0 0.0 5.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 244
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+8
+7
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 10.0 40.0 35.0 0.0 5.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

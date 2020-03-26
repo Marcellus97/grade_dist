@@ -1,0 +1,350 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Oxford Campus
+Page: 126 Sections of 10
+DSC Decision Sciences
+DSC 203 UA Basu Dipankar Supplementary Bus Statistics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+13
+2
+1
+13
+1
+2
+4
+1
+0
+% 0.0 31.7 4.9 2.4 31.7 2.4 4.9 9.8 2.4 0.0
+Course Total DSC 203
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+13
+2
+1
+13
+1
+2
+4
+1
+0
+% 0.0 31.7 4.9 2.4 31.7 2.4 4.9 9.8 2.4 0.0
+DSC 205 A Marks Neil B. Business Statistics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+2
+0
+1
+0
+0
+1
+2
+0
+2
+0
+% 11.1 0.0 5.6 0.0 0.0 5.6 11.1 0.0 11.1 0.0
+DSC 205 B Marks Neil B. Business Statistics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+0
+0
+2
+2
+1
+1
+4
+0
+1
+% 6.7 0.0 0.0 13.3 13.3 6.7 6.7 26.7 0.0 6.7
+DSC 205 C Krehbiel Timothy C. Business Statistics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+3
+4
+3
+4
+3
+3
+3
+1
+1
+% 0.0 12.0 16.0 12.0 16.0 12.0 12.0 12.0 4.0 4.0
+DSC 205 D Krallman Denise A. Business Statistics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+10
+4
+4
+6
+3
+2
+4
+0
+0
+% 0.0 29.4 11.8 11.8 17.6 8.8 5.9 11.8 0.0 0.0
+DSC 205 E Schur Patrick J. Business Statistics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+4
+3
+4
+7
+5
+2
+2
+0
+0
+% 0.0 13.3 10.0 13.3 23.3 16.7 6.7 6.7 0.0 0.0
+D
+D-
+1
+0
+2.4 0.0
+D
+D-
+1
+0
+2.4 0.0
+D
+D-
+4
+0
+22.2 0.0
+D
+D-
+1
+0
+6.7 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+2
+0
+6.7 0.0
+F
+W
+WP WF
+0
+3
+0
+0
+0.0 7.3 0.0 0.0
+F
+W
+WP WF
+0
+3
+0
+0
+0.0 7.3 0.0 0.0
+F
+W
+WP WF
+2
+4
+0
+0
+11.1 22.2 0.0 0.0
+F
+W
+WP WF
+1
+1
+0
+0
+6.7 6.7 0.0 0.0
+F
+W
+WP WF
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+F
+W
+WP WF
+0
+1
+0
+0
+0.0 2.9 0.0 0.0
+F
+W
+WP WF
+0
+1
+0
+0
+0.0 3.3 0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.15
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.15
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.89
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.28
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.91
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.23
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.94
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

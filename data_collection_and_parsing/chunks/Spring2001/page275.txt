@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 272 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+GLG 115L 11 Krisko Beth E. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+5
+3
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.44
+% 0.0 23.5 29.4 17.6 11.8 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 115L 12 Sequeira Leela A. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+0
+4
+3
+2
+1
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 13.3 0.0 26.7 20.0 13.3 6.7 0.0 0.0 0.0 6.7 0.0 0.0 0.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 115L 13 Webb Rachel M. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+3
+4
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+3.29
+% 0.0 23.5 23.5 17.6 23.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 115L 14 Block Sarah J. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+3
+1
+1
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 0.0 14.3 28.6 21.4 7.1 7.1 7.1 7.1 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 115L 16 Losey Arthur B. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+2
+0
+0
+0
+3.57
+% 0.0 23.5 23.5 17.6 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 5.9 0.0 0.0 11.8 0.0 0.0 0.0
+GLG 115L 17 Block Sarah J. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+6
+3
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3.47
+% 0.0 20.0 30.0 15.0 15.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0
+GLG 115L 18 Wright Carrie L. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+2
+3
+0
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 12.5 31.3 12.5 18.8 0.0 6.3 12.5 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

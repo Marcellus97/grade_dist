@@ -1,0 +1,306 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 367 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MIS 235 V Serve Patrick D. Info Systems:Cncpts/Tech/Applc
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+9
+4
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 4.5 9.1 13.6 40.9 18.2 9.1 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 W Serve Patrick D. Info Systems:Cncpts/Tech/Applc
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+10
+4
+3
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 8.7 8.7 43.5 17.4 13.0 0.0 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 X Serve Patrick D. Info Systems:Cncpts/Tech/Applc
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+4
+9
+5
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 0.0 4.5 4.5 18.2 40.9 22.7 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MIS 235
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+31
+66
+82
+155 74
+39
+48
+10
+1
+2
+1
+0
+4
+4
+3
+0
+0
+0
+0
+0
+2.96
+% 0.6 5.9 12.6 15.7 29.6 14.1 7.5 9.2 1.9 0.2 0.4 0.2 0.0 0.8 0.8 0.6 0.0 0.0 0.0 0.0 0.0
+MIS 281 B Lancaster Sean P. IT Hardware and Software
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+5
+6
+3
+2
+0
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.98
+% 0.0 3.8 23.1 19.2 23.1 11.5 7.7 0.0 0.0 0.0 3.8 0.0 3.8 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 281 C Lancaster Sean P. IT Hardware and Software
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+8
+4
+4
+1
+0
+2
+1
+0
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+2.97
+% 0.0 4.2 33.3 16.7 16.7 4.2 0.0 8.3 4.2 0.0 4.2 0.0 4.2 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 281 D Lancaster Sean P. IT Hardware and Software
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+4
+6
+4
+0
+3
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.12
+% 0.0 12.0 16.0 16.0 24.0 16.0 0.0 12.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

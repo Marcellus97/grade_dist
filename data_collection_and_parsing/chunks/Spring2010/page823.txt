@@ -1,0 +1,308 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Hamilton Campus
+Page: 819 Sections of 10
+KNH Kinesiology And Health
+Miami Plan
+Honors
+Cross Listing
+KNH 102 H A Michael Carol M. Fundamentals of Nutrition
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+7
+0
+0
+3
+0
+0
+3
+0
+3
+7
+0
+0
+0
+0
+0
+0
+0
+1.88
+% 0.0 0.0 0.0 0.0 30.4 0.0 0.0 13.0 0.0 0.0 13.0 0.0 13.0 30.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 102 H B Schmidt Nancy Fundamentals of Nutrition
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+1
+4
+5
+3
+3
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 14.3 17.9 3.6 14.3 17.9 10.7 10.7 7.1 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 102 HWA Megaro Anne M. Fundamentals of Nutrition
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+9
+0
+3
+9
+1
+2
+5
+1
+0
+2
+0
+4
+2
+0
+0
+0
+0
+0
+0
+0
+2.68
+% 5.0 22.5 0.0 7.5 22.5 2.5 5.0 12.5 2.5 0.0 5.0 0.0 10.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+14
+1
+7
+21
+4
+5
+10
+1
+0
+6
+0
+7
+9
+0
+0
+0
+0
+0
+0
+0
+2.68
+% 6.6 15.4 1.1 7.7 23.1 4.4 5.5 11.0 1.1 0.0 6.6 0.0 7.7 9.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 120A H B Savage Cynthia A. Aerobics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+12
+7
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 13.6 0.0 0.0 0.0 54.5 31.8 0.0 0.0
+KNH 120A H C Savage Cynthia A. Aerobics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+19
+1
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 13.0 0.0 0.0 0.0 82.6 4.3 0.0 0.0
+KNH 120A H D Savage Cynthia A. Aerobics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+11
+4
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 68.8 25.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

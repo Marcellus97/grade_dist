@@ -1,0 +1,302 @@
+testRun: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Voa - West Chester Campus
+Page: 115 Sections of 10
+EDP Educational Psychology
+Miami Plan
+Honors
+Cross Listing
+EDP 571 V A Wasburn-Moses Leah H. Literacy Seminar: Clinical
+N
+N
+NK
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+12
+6
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.89
+% 50.0 25.0 12.5 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0
+EDP 571 V B Wasburn-Moses Leah H. Literacy Seminar: Clinical
+N
+N
+B3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+3
+3
+1
+1
+1
+0
+0
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.11
+% 23.5 17.6 17.6 5.9 5.9 5.9 0.0 0.0 11.8 5.9 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDP 571
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+16
+9
+6
+2
+2
+1
+0
+0
+2
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+3.56
+% 39.0 22.0 14.6 4.9 4.9 2.4 0.0 0.0 4.9 2.4 0.0 0.0 2.4 0.0 0.0 0.0 2.4 0.0 0.0 0.0 0.0
+EDP 650A V A Catania Charles A. Trends/Issues in Measurement
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+17
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.96
+% 24.0 68.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 650A V B Schroer Joseph E. Trends/Issues in Measurement
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+12
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 13.3 80.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDP 650A
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+29
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.96
+% 20.0 72.5 2.5 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Educational Psychology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+GR 24
+38
+7
+4
+2
+1
+0
+0
+2
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+3.76
+% 29.6 46.9 8.6 4.9 2.5 1.2 0.0 0.0 2.5 1.2 0.0 0.0 1.2 0.0 0.0 0.0 1.2 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

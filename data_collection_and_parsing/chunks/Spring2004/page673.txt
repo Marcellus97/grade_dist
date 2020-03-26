@@ -1,0 +1,306 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Middletown Campus
+Page: 670 Sections of 10
+PHL Philosophy
+Miami Plan
+Honors
+Cross Listing
+PHL 103 M A Yesh Angela Society And The Individual
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+3
+0
+2
+3
+3
+2
+0
+0
+0
+0
+2
+1
+2
+0
+0
+0
+0
+0
+2.74
+% 0.0 23.1 7.7 11.5 0.0 7.7 11.5 11.5 7.7 0.0 0.0 0.0 0.0 7.7 3.8 7.7 0.0 0.0 0.0 0.0 0.0
+PHL 103 M B Yesh Angela Society And The Individual
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+0
+4
+2
+1
+2
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+2.82
+% 0.0 21.1 15.8 0.0 21.1 10.5 5.3 10.5 0.0 0.0 0.0 0.0 0.0 0.0 5.3 10.5 0.0 0.0 0.0 0.0 0.0
+Course Total PHL 103
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+5
+3
+4
+4
+4
+5
+2
+0
+0
+0
+0
+2
+2
+4
+0
+0
+0
+0
+0
+2.78
+% 0.0 22.2 11.1 6.7 8.9 8.9 8.9 11.1 4.4 0.0 0.0 0.0 0.0 4.4 4.4 8.9 0.0 0.0 0.0 0.0 0.0
+PHL 131 M A Yesh Angela Prob Of Moral & Social Values
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+2
+2
+3
+0
+4
+0
+0
+1
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+2.45
+% 0.0 9.1 18.2 9.1 9.1 13.6 0.0 18.2 0.0 0.0 4.5 9.1 4.5 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0
+Course Total PHL 131
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+2
+2
+3
+0
+4
+0
+0
+1
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+2.45
+% 0.0 9.1 18.2 9.1 9.1 13.6 0.0 18.2 0.0 0.0 4.5 9.1 4.5 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0
+PHL 273 M A Domino Brian Formal Logic
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+1
+0
+4
+0
+1
+2
+0
+0
+1
+0
+0
+1
+0
+0
+2
+0
+0
+0
+0
+3.38
+% 4.2 45.8 4.2 0.0 16.7 0.0 4.2 8.3 0.0 0.0 4.2 0.0 0.0 4.2 0.0 0.0 8.3 0.0 0.0 0.0 0.0
+PHL 273 M B Domino Brian Formal Logic
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+2
+0
+0
+3
+1
+0
+1
+1
+0
+2
+2
+4
+0
+0
+0
+0
+0
+2.37
+% 0.0 33.3 0.0 0.0 8.3 0.0 0.0 12.5 4.2 0.0 4.2 4.2 0.0 8.3 8.3 16.7 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

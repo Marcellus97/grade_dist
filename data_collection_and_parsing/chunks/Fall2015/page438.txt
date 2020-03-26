@@ -1,0 +1,305 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 434 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+KNH 462 A Ubbes Valerie A. Hlth Prom Prog Plan/Eval
+N
+N
+04
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+3
+1
+2
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 0.0 60.9 13.0 4.3 8.7 4.3 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 462
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+3
+1
+2
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 0.0 60.9 13.0 4.3 8.7 4.3 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 468 A Cousins Julie M. Phys & Biophys Human Activity
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+6
+4
+7
+5
+2
+4
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 0.0 16.7 16.7 11.1 19.4 13.9 5.6 11.1 2.8 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 468 B Cox Ronald H. Phys & Biophys Human Activity
+N
+N
+05
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+2
+4
+4
+2
+2
+5
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 7.7 11.5 7.7 15.4 15.4 7.7 7.7 19.2 3.8 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 468 C Ballard Kevin D. Phys & Biophys Human Activity
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+3
+2
+3
+2
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 46.2 11.5 7.7 11.5 7.7 0.0 0.0 11.5 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 468 D Ballard Kevin D. Phys & Biophys Human Activity
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+2
+2
+4
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.32
+% 0.0 29.4 11.8 11.8 11.8 23.5 5.9 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 468
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+26
+13
+12
+16
+13
+5
+9
+5
+0
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.11
+% 1.9 24.8 12.4 11.4 15.2 12.4 4.8 8.6 4.8 0.0 1.0 1.9 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

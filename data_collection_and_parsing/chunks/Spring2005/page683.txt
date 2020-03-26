@@ -1,0 +1,176 @@
+testRun: 07/07/05 @ 10:09 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2004-05 Middletown Campus
+Page: 680 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHY 184 M B Hurn Janet E. Physics Laboratory
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 0.0 73.3 0.0 0.0 26.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 184 M C Portman Dwight J. Physics Laboratory
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+12
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.88
+% 8.7 52.2 39.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHY 184
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+26
+9
+0
+14
+0
+0
+2
+0
+0
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+3.43
+% 3.6 46.4 16.1 0.0 25.0 0.0 0.0 3.6 0.0 0.0 1.8 0.0 1.8 0.0 0.0 1.8 0.0 0.0 0.0 0.0 0.0
+Physics Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 5
+64
+20
+12
+43
+11
+9
+12
+1
+1
+4
+0
+3
+2
+4
+7
+0
+0
+1
+0
+0
+3.13
+% 2.5 32.2 10.1 6.0 21.6 5.5 4.5 6.0 0.5 0.5 2.0 0.0 1.5 1.0 2.0 3.5 0.0 0.0 0.5 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

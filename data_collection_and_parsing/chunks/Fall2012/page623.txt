@@ -1,0 +1,306 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Oxford Campus
+Page: 619 Sections of 10
+WGS Women,Gender&Sexuality Studies
+Miami Plan
+Honors
+Cross Listing
+WGS 201 A McGinnis-Meyer Bonnie M. Intro to Womens Studies
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+16
+3
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.68
+% 0.0 32.3 51.6 9.7 3.2 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+WGS 201 B Ahmed Fauzia E. Intro to Womens Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+10
+9
+7
+2
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 6.3 31.3 28.1 21.9 6.3 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+WGS 201 C Ornelas Roxanne T. Intro to Womens Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+37
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.96
+% 0.0 90.2 7.3 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+WGS 201 D Ahmed Fauzia E. Intro to Womens Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+16
+6
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 0.0 7.4 59.3 22.2 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+WGS 201 E McLaughlin Lisa M. Intro to Womens Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+8
+6
+5
+0
+0
+1
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 0.0 31.4 22.9 17.1 14.3 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 11.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total WGS 201
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+62
+53
+25
+16
+2
+0
+2
+0
+0
+0
+0
+2
+4
+0
+0
+0
+0
+0
+0
+0
+3.60
+% 0.0 37.3 31.9 15.1 9.6 1.2 0.0 1.2 0.0 0.0 0.0 0.0 1.2 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+WGS 202 A Nicolazzo Zachary D. Introduction to GLBT Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+7
+8
+5
+2
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 0.0 31.4 20.0 22.9 14.3 5.7 0.0 0.0 0.0 0.0 0.0 0.0 2.9 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

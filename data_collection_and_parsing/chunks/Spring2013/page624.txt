@@ -1,0 +1,306 @@
+testRun: 07/08/13 @ 16:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2012-13 Oxford Campus
+Page: 620 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ZOO 121H A Collins Christopher R. Environmental Biology
+Y
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+15
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.86
+% 18.2 68.2 0.0 0.0 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ZOO 121H
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+15
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.86
+% 18.2 68.2 0.0 0.0 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 161 AA Russell Jill M. Principles of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+0
+1
+8
+0
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 4.8 38.1 0.0 4.8 38.1 0.0 4.8 4.8 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 161 AB Russell Jill M. Principles of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+0
+6
+2
+0
+2
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.35
+% 4.8 33.3 0.0 28.6 9.5 0.0 9.5 0.0 0.0 4.8 0.0 0.0 0.0 4.8 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+ZOO 161 AC Russell Jill M. Principles of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+4
+0
+2
+10
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 14.3 19.0 0.0 9.5 47.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 161 AD Russell Jill M. Principles of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+2
+10
+0
+1
+4
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 18.2 0.0 9.1 45.5 0.0 4.5 18.2 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 161 BA Haynes Tracy Principles of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+3
+5
+2
+5
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.02
+% 4.3 8.7 13.0 21.7 8.7 21.7 4.3 4.3 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

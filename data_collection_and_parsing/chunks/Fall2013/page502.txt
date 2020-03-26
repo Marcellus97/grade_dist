@@ -1,0 +1,303 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 498 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MUS 201 B Kelly Michael Theory Of Music
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+4
+4
+1
+2
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 0.0 21.1 10.5 21.1 21.1 5.3 10.5 0.0 0.0 5.3 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MUS 201 C Boge Claire L. Theory Of Music
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+2
+0
+1
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+3.46
+% 0.0 53.3 0.0 13.3 0.0 6.7 0.0 6.7 6.7 0.0 0.0 0.0 0.0 6.7 0.0 0.0 6.7 0.0 0.0 0.0 0.0
+Course Total MUS 201
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+27
+2
+6
+4
+2
+2
+1
+1
+1
+0
+1
+1
+1
+0
+0
+1
+0
+0
+0
+0
+3.41
+% 2.0 52.9 3.9 11.8 7.8 3.9 3.9 2.0 2.0 2.0 0.0 2.0 2.0 2.0 0.0 0.0 2.0 0.0 0.0 0.0 0.0
+MUS 211 A Hoover Elizabeth A. History Of Western Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+3
+6
+8
+4
+4
+5
+2
+0
+3
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 17.8 6.7 13.3 17.8 8.9 8.9 11.1 4.4 0.0 6.7 0.0 4.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MUS 211
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+3
+6
+8
+4
+4
+5
+2
+0
+3
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 17.8 6.7 13.3 17.8 8.9 8.9 11.1 4.4 0.0 6.7 0.0 4.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MUS 218 A McCutcheon James R. Beginning Guitar
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.86
+% 0.0 68.8 6.3 6.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MUS 218 B McCutcheon James R. Beginning Guitar
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.92
+% 0.0 85.7 4.8 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

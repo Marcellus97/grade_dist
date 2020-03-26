@@ -1,0 +1,217 @@
+testRun: 01/15/14 @ 15:10 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Term, 2012-13 Hamilton Campus
+Page: 156 Sections of 10
+STA Statistics
+Miami Plan
+Honors
+Cross Listing
+STA 261 HTA Davis Robert B. Statistics
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+1
+2
+6
+2
+0
+2
+0
+0
+2
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.68
+% 7.7 15.4 3.8 7.7 23.1 7.7 0.0 7.7 0.0 0.0 7.7 3.8 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 261 HTB Cunningham Jesse Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+2
+1
+0
+2
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.87
+% 0.0 36.4 0.0 0.0 18.2 9.1 0.0 18.2 0.0 0.0 0.0 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 261 HUA Widmer Lee C. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+0
+3
+0
+0
+8
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.65
+% 0.0 29.4 0.0 0.0 17.6 0.0 0.0 47.1 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total STA 261
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+13
+1
+2
+11
+3
+0
+12
+0
+0
+2
+1
+4
+3
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 3.7 24.1 1.9 3.7 20.4 5.6 0.0 22.2 0.0 0.0 3.7 1.9 7.4 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Statistics Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+13
+1
+2
+11
+3
+0
+12
+0
+0
+2
+1
+4
+3
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 3.7 24.1 1.9 3.7 20.4 5.6 0.0 22.2 0.0 0.0 3.7 1.9 7.4 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

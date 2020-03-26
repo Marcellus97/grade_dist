@@ -1,0 +1,303 @@
+testRun: 01/23/07 @ 09:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2006-07 Hamilton Campus
+Page: 760 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FSW 261 H B Money-Richardson Michelle R. Diverse Fam Across Life Cycle
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+3
+3
+1
+1
+0
+0
+1
+2
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 22.2 16.7 16.7 5.6 5.6 0.0 0.0 5.6 11.1 0.0 0.0 0.0 5.6 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FSW 261
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+11
+10
+5
+4
+4
+2
+3
+1
+0
+0
+2
+4
+0
+0
+0
+0
+0
+0
+0
+3.04
+% 7.3 9.1 20.0 18.2 9.1 7.3 7.3 3.6 5.5 1.8 0.0 0.0 3.6 7.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 281 H A Coles Robin M. Child Devel:Diverse Families
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+5
+2
+2
+3
+1
+4
+3
+0
+0
+1
+0
+2
+0
+0
+1
+0
+0
+0
+0
+2.85
+% 0.0 14.3 17.9 7.1 7.1 10.7 3.6 14.3 10.7 0.0 0.0 3.6 0.0 7.1 0.0 0.0 3.6 0.0 0.0 0.0 0.0
+FSW 281 H B Coles Robin M. Child Devel:Diverse Families
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+1
+2
+3
+0
+1
+1
+0
+0
+0
+1
+2
+0
+0
+1
+0
+0
+0
+0
+2.97
+% 0.0 22.2 11.1 5.6 11.1 16.7 0.0 5.6 5.6 0.0 0.0 0.0 5.6 11.1 0.0 0.0 5.6 0.0 0.0 0.0 0.0
+Course Total FSW 281
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+7
+3
+4
+6
+1
+5
+4
+0
+0
+1
+1
+4
+0
+0
+2
+0
+0
+0
+0
+2.90
+% 0.0 17.4 15.2 6.5 8.7 13.0 2.2 10.9 8.7 0.0 0.0 2.2 2.2 8.7 0.0 0.0 4.3 0.0 0.0 0.0 0.0
+FSW 381 H A Bausano Mary O. Perspectives In Parenting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+5
+9
+5
+5
+1
+2
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 0.0 26.8 12.2 22.0 12.2 12.2 2.4 4.9 0.0 0.0 2.4 0.0 4.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FSW 381
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+5
+9
+5
+5
+1
+2
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 0.0 26.8 12.2 22.0 12.2 12.2 2.4 4.9 0.0 0.0 2.4 0.0 4.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

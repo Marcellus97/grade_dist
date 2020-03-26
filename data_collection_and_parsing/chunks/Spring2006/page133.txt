@@ -1,0 +1,338 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 130 Sections of 10
+ECO Economics
+ECO 201 A Dunlevy James A. Principles Of Microeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+1
+0
+8
+1
+3
+2
+1
+14
+0
+1
+1
+0
+% 2.6 0.0 21.1 2.6 7.9 5.3 2.6 36.8 0.0 2.6 2.6 0.0
+ECO 201 B Fletcher Deborah Principles Of Microeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+1
+4
+0
+2
+7
+2
+2
+5
+3
+4
+0
+0
+% 2.9 11.4 0.0 5.7 20.0 5.7 5.7 14.3 8.6 11.4 0.0 0.0
+ECO 201 C Brock James W. Principles Of Microeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+2
+1
+1
+11
+5
+2
+5
+2
+1
+4
+2
+% 0.0 5.1 2.6 2.6 28.2 12.8 5.1 12.8 5.1 2.6 10.3 5.1
+ECO 201 D Miller Gerald M. Principles Of Microeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+3
+0
+0
+8
+4
+0
+7
+2
+1
+2
+0
+% 0.0 7.5 0.0 0.0 20.0 10.0 0.0 17.5 5.0 2.5 5.0 0.0
+ECO 201 E Fletcher Deborah Principles Of Microeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+1
+3
+3
+3
+3
+0
+3
+8
+3
+1
+5
+0
+% 2.8 8.3 8.3 8.3 8.3 0.0 8.3 22.2 8.3 2.8 13.9 0.0
+ECO 201 F Miller Gerald M. Principles Of Microeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+6
+0
+1
+6
+2
+1
+7
+7
+0
+4
+1
+% 0.0 14.6 0.0 2.4 14.6 4.9 2.4 17.1 17.1 0.0 9.8 2.4
+ECO 201 G Roberson Brian A. Principles Of Microeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+3
+1
+2
+6
+3
+5
+7
+1
+2
+2
+1
+% 0.0 7.7 2.6 5.1 15.4 7.7 12.8 17.9 2.6 5.1 5.1 2.6
+F
+W
+WP WF
+0
+4
+0
+0
+0.0 10.5 0.0 0.0
+F
+W
+WP WF
+2
+3
+0
+0
+5.7 8.6 0.0 0.0
+F
+W
+WP WF
+0
+3
+0
+0
+0.0 7.7 0.0 0.0
+F
+W
+WP WF
+4
+8
+0
+0
+10.0 20.0 0.0 0.0
+F
+W
+WP WF
+1
+1
+0
+0
+2.8 2.8 0.0 0.0
+F
+W
+WP WF
+0
+6
+0
+0
+0.0 14.6 0.0 0.0
+F
+W
+WP WF
+3
+1
+0
+0
+7.7 2.6 0.0 0.0
+Miami Plan
+N
+I
+X
+0
+2
+0.0 5.3
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+1
+0
+2.5 0.0
+N
+I
+X
+1
+0
+2.8 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+1
+1
+2.6 2.6
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.62
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.43
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.39
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.18
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.36
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.39
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.25
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

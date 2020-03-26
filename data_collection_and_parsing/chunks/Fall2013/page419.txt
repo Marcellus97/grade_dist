@@ -1,0 +1,303 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 415 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+KNH 414 B Gordon Kiernan O. Facilities/Event Mgt. in Sport
+N
+N
+SG
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+1
+4
+1
+2
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.86
+% 0.0 16.7 22.2 5.6 22.2 5.6 11.1 5.6 0.0 0.0 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 414
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+16
+14
+4
+6
+1
+2
+1
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+3.35
+% 4.1 32.7 28.6 8.2 12.2 2.0 4.1 2.0 0.0 0.0 0.0 0.0 6.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 416 A Gordon Kiernan O. Sport Marketing
+N
+N
+PT
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+13
+8
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.80
+% 16.1 41.9 25.8 6.5 3.2 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0
+KNH 416 B Gordon Kiernan O. Sport Marketing
+N
+N
+MW
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+6
+6
+4
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 8.0 12.0 24.0 24.0 16.0 16.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 416
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+16
+14
+8
+5
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.61
+% 12.5 28.6 25.0 14.3 8.9 8.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.8 0.0 0.0 0.0 0.0
+KNH 420 B Sliger Jennifer Field Experience
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+4.00
+% 0.0 54.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 45.5 0.0 0.0 0.0
+Course Total KNH 420
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+4.00
+% 0.0 54.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 45.5 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

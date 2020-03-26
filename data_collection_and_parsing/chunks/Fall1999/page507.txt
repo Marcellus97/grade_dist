@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Oxford Campus
+Page: 504 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+SAN 151 A Yanalunas Amy E. Computers,Compter Sci & Socity
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+5
+7
+5
+1
+1
+0
+1
+0
+0
+1
+2
+0
+1
+0
+3
+2
+0
+0
+2.77
+% 0.0 6.1 6.1 15.2 21.2 15.2 3.0 3.0 0.0 3.0 0.0 0.0 3.0 6.1 0.0 3.0 0.0 9.1 6.1 0.0 0.0
+SAN 151 B Yanalunas Amy E. Computers,Compter Sci & Socity
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+7
+7
+4
+3
+2
+0
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+2.82
+% 0.0 5.9 17.6 20.6 20.6 11.8 8.8 5.9 0.0 0.0 0.0 0.0 2.9 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0
+SAN 151 D Yanalunas Amy E. Computers,Compter Sci & Socity
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+9
+8
+5
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 0.0 6.7 10.0 30.0 26.7 16.7 3.3 3.3 0.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SAN 151
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+11
+21
+22
+14
+5
+4
+0
+1
+1
+0
+2
+2
+0
+3
+0
+3
+2
+0
+0
+2.88
+% 0.0 6.2 11.3 21.6 22.7 14.4 5.2 4.1 0.0 1.0 1.0 0.0 2.1 2.1 0.0 3.1 0.0 3.1 2.1 0.0 0.0
+SAN 157 A Dacey John Intro To Cobol Programming
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+21
+10
+3
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+3.77
+% 7.1 50.0 23.8 7.1 0.0 4.8 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 157 B Dacey John Intro To Cobol Programming
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+11
+12
+2
+2
+2
+2
+2
+0
+1
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+3.48
+% 10.0 27.5 30.0 5.0 5.0 5.0 5.0 5.0 0.0 2.5 0.0 0.0 0.0 0.0 2.5 0.0 2.5 0.0 0.0 0.0 0.0
+SAN 157 C Dacey John Intro To Cobol Programming
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+18
+15
+1
+2
+1
+2
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.65
+% 2.4 42.9 35.7 2.4 4.8 2.4 4.8 0.0 2.4 0.0 0.0 0.0 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

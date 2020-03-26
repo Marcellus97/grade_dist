@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Oxford Campus
+Page: 502 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+SAN 141 N Ballard Brent A. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+0
+0
+10
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.60
+% 0.0 63.6 0.0 0.0 30.3 3.0 0.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 141 O Shank Winston T. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+19
+0
+0
+9
+0
+0
+2
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+3.57
+% 0.0 59.4 0.0 0.0 28.1 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 141 P Hensley Leah L. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+20
+3
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 16.1 64.5 9.7 6.5 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 141 Q Hensley Leah L. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+24
+5
+3
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.80
+% 0.0 68.6 14.3 8.6 5.7 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 141 R Caudill Stephen D. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+3
+2
+6
+1
+1
+1
+1
+0
+0
+0
+0
+1
+1
+0
+0
+1
+0
+0
+0
+3.38
+% 3.6 32.1 10.7 7.1 21.4 3.6 3.6 3.6 3.6 0.0 0.0 0.0 0.0 3.6 3.6 0.0 0.0 3.6 0.0 0.0 0.0
+SAN 141 S Ballard Brent A. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+0
+1
+10
+2
+0
+2
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 39.3 0.0 3.6 35.7 7.1 0.0 7.1 0.0 0.0 3.6 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 141 T Cruez Rebecca L. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+0
+0
+16
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 0.0 32.1 0.0 0.0 57.1 0.0 0.0 10.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

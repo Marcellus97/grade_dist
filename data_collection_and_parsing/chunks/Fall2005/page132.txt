@@ -1,0 +1,217 @@
+testRun: 01/25/06 @ 12:34 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2005-06 Oxford Campus
+Page: 129 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+DSC 365 B Krehbiel Timothy C. Statistical Quality Control
+N
+N
+D2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+1
+6
+5
+3
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 7.4 18.5 3.7 22.2 18.5 11.1 14.8 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total DSC 365
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+1
+6
+5
+3
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 7.4 18.5 3.7 22.2 18.5 11.1 14.8 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+DSC 432 A Koehler Anne B. Survey Sampling In Business
+N
+N
+J8
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+1
+1
+10
+0
+0
+6
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 0.0 26.9 3.8 3.8 38.5 0.0 0.0 23.1 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total DSC 432
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+1
+1
+10
+0
+0
+6
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 0.0 26.9 3.8 3.8 38.5 0.0 0.0 23.1 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Decision Sciences Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 28
+225 58
+74
+207 73
+45
+93
+20
+20
+16
+4
+9
+28
+0
+0
+6
+0
+0
+0
+0
+3.05
+% 3.1 24.8 6.4 8.2 22.8 8.1 5.0 10.3 2.2 2.2 1.8 0.4 1.0 3.1 0.0 0.0 0.7 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

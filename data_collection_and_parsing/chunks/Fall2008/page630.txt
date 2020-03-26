@@ -1,0 +1,306 @@
+testRun: 01/20/09 @ 12:44 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2008-09 Middletown Campus
+Page: 627 Sections of 10
+BTE Business Technology
+Miami Plan
+Honors
+Cross Listing
+BTE 101 M A Squyres Louis L. Introduction To Accounting I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+0
+0
+1
+0
+2
+0
+0
+0
+2
+5
+3
+0
+0
+0
+0
+0
+0
+0
+1.32
+% 0.0 6.7 6.7 0.0 0.0 6.7 0.0 13.3 0.0 0.0 0.0 13.3 33.3 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 101 M B Mahan Victoria S. Introduction To Accounting I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 18.2 18.2 0.0 18.2 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 18.2 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+1
+2
+1
+1
+0
+2
+0
+0
+0
+2
+7
+5
+0
+0
+0
+0
+0
+0
+0
+1.97
+% 7.7 11.5 3.8 7.7 3.8 3.8 0.0 7.7 0.0 0.0 0.0 7.7 26.9 19.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 102 M A Braun Ramona E. Introduction To Accounting II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+0
+0
+1
+0
+0
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 0.0 45.5 18.2 0.0 0.0 9.1 0.0 0.0 9.1 9.1 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+0
+0
+1
+0
+0
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 0.0 45.5 18.2 0.0 0.0 9.1 0.0 0.0 9.1 9.1 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 105 M B Light Theodore B. Introduction To Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+1
+2
+1
+0
+1
+1
+1
+0
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 31.3 6.3 12.5 6.3 0.0 6.3 6.3 6.3 0.0 6.3 0.0 6.3 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 105 M C Light Theodore B. Introduction To Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+4
+5
+1
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 6.7 6.7 26.7 33.3 6.7 6.7 0.0 0.0 6.7 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

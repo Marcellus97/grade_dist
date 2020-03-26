@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2003-04 Oxford Campus
+Page: 373 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MIS 235 V Serve Patrick D. Info Systems:Cncpts/Tech/Applc
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+5
+8
+4
+1
+2
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 4.0 4.0 20.0 32.0 16.0 4.0 8.0 4.0 0.0 0.0 0.0 0.0 0.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 W Serve Patrick D. Info Systems:Cncpts/Tech/Applc
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+1
+7
+5
+3
+3
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 0.0 8.3 4.2 4.2 29.2 20.8 12.5 12.5 4.2 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 X Serve Patrick D. Info Systems:Cncpts/Tech/Applc
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+1
+5
+8
+6
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 0.0 4.0 4.0 20.0 32.0 24.0 12.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MIS 235
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+23
+26
+63
+193 92
+72
+70
+14
+11
+5
+2
+2
+3
+14
+1
+0
+0
+0
+0
+0
+2.74
+% 0.0 3.9 4.4 10.7 32.7 15.6 12.2 11.8 2.4 1.9 0.8 0.3 0.3 0.5 2.4 0.2 0.0 0.0 0.0 0.0 0.0
+MIS 235C B Glassberg Bonnie C. Info Systems:Conc/Tech/Applctn
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+5
+5
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.55
+% 0.0 30.0 25.0 25.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MIS 235C
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+5
+5
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.55
+% 0.0 30.0 25.0 25.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 281 A Lancaster Sean P. IT Hardware and Software
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+3
+10
+5
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 0.0 8.0 12.0 12.0 40.0 20.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

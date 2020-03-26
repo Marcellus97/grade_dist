@@ -1,0 +1,307 @@
+testRun: 01/17/08 @ 12:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2007-08 Oxford Campus
+Page: 7 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ACC 321 E Schultz Thomas D. Intermed Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+4
+8
+5
+4
+2
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 0.0 12.9 3.2 12.9 25.8 16.1 12.9 6.5 6.5 0.0 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 321 F Schultz Thomas D. Intermed Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+4
+9
+5
+3
+6
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 3.0 6.1 12.1 27.3 15.2 9.1 18.2 6.1 0.0 0.0 0.0 0.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 321
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+21
+15
+21
+52
+19
+15
+29
+10
+1
+4
+1
+0
+4
+0
+0
+1
+0
+1
+0
+0
+2.84
+% 1.0 10.7 7.7 10.7 26.5 9.7 7.7 14.8 5.1 0.5 2.0 0.5 0.0 2.0 0.0 0.0 0.5 0.0 0.5 0.0 0.0
+ACC 333 A Campbell Robert J. Managerial Cost Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+2
+10
+3
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.19
+% 0.0 18.5 14.8 7.4 37.0 11.1 7.4 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 333 C Heitger Dan L. Managerial Cost Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+8
+4
+5
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.72
+% 0.0 6.5 6.5 6.5 25.8 12.9 16.1 25.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 333 D Heitger Dan L. Managerial Cost Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+3
+11
+2
+4
+3
+0
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.87
+% 0.0 9.4 9.4 9.4 34.4 6.3 12.5 9.4 0.0 3.1 3.1 0.0 0.0 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 333 E Brewer Peter C. Managerial Cost Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+2
+11
+3
+1
+4
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 16.1 9.7 6.5 35.5 9.7 3.2 12.9 0.0 3.2 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

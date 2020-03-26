@@ -1,0 +1,311 @@
+testRun: 07/07/05 @ 10:09 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2004-05 Oxford Campus
+Page: 574 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ZOO 116 CD Russell David E. Biological Concepts: Structure
+Y
+N
+X1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+8
+0
+0
+3
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.83
+% 0.0 7.1 0.0 0.0 57.1 0.0 0.0 21.4 0.0 0.0 0.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 CE Russell David E. Biological Concepts: Structure
+Y
+N
+X2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+5
+0
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.44
+% 0.0 6.3 0.0 0.0 31.3 0.0 0.0 62.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 CF Russell David E. Biological Concepts: Structure
+Y
+N
+X3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+10
+0
+0
+3
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.86
+% 0.0 6.7 0.0 0.0 66.7 0.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 CG Russell David E. Biological Concepts: Structure
+Y
+N
+X4
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+3
+0
+0
+5
+0
+0
+1
+0
+0
+2
+1
+0
+0
+1
+0
+0
+0
+2.22
+% 0.0 0.0 0.0 0.0 23.1 0.0 0.0 38.5 0.0 0.0 7.7 0.0 0.0 15.4 7.7 0.0 0.0 7.7 0.0 0.0 0.0
+ZOO 116 CH Russell David E. Biological Concepts: Structure
+Y
+N
+X5
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+7
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 15.4 0.0 0.0 53.8 0.0 0.0 23.1 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 CI Russell David E. Biological Concepts: Structure
+Y
+N
+X6
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+2
+0
+0
+9
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1.93
+% 0.0 0.0 0.0 0.0 13.3 0.0 0.0 60.0 0.0 0.0 20.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ZOO 116
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+29
+0
+0
+135 0
+0
+123 0
+0
+34
+0
+16
+19
+10
+0
+0
+2
+0
+0
+0
+2.38
+% 0.0 7.9 0.0 0.0 36.7 0.0 0.0 33.4 0.0 0.0 9.2 0.0 4.3 5.2 2.7 0.0 0.0 0.5 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

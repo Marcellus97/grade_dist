@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 11:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2000-01 Middletown Campus
+Page: 615 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 112 M D Showalter Judith M. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+4
+1
+2
+3
+1
+0
+1
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+2.35
+% 0.0 16.7 0.0 0.0 22.2 5.6 11.1 16.7 5.6 0.0 5.6 0.0 5.6 5.6 0.0 5.6 0.0 0.0 0.0 0.0 0.0
+ENG 112 M E Jakubovic Robert F. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+2
+4
+4
+1
+1
+2
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+3.03
+% 0.0 29.2 8.3 16.7 16.7 4.2 4.2 8.3 0.0 0.0 0.0 0.0 0.0 4.2 0.0 8.3 0.0 0.0 0.0 0.0 0.0
+ENG 112 M F Stratton Michael Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+1
+7
+3
+1
+3
+0
+0
+0
+0
+2
+1
+1
+1
+0
+0
+0
+0
+0
+2.50
+% 0.0 8.7 4.3 4.3 30.4 13.0 4.3 13.0 0.0 0.0 0.0 0.0 8.7 4.3 4.3 4.3 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 112
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+26
+6
+11
+23
+8
+9
+16
+3
+1
+3
+0
+3
+5
+2
+9
+0
+0
+0
+0
+0
+2.69
+% 1.6 20.5 4.7 8.7 18.1 6.3 7.1 12.6 2.4 0.8 2.4 0.0 2.4 3.9 1.6 7.1 0.0 0.0 0.0 0.0 0.0
+ENG 122 M A Wahlrab Ellenmarie Popular Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+3
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.35
+% 0.0 8.3 41.7 25.0 0.0 8.3 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 122
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+3
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.35
+% 0.0 8.3 41.7 25.0 0.0 8.3 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 131 M A Coakley Jean A. Life&Thought In English Lit
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+1
+0
+4
+1
+0
+5
+0
+0
+0
+0
+2
+1
+2
+1
+0
+0
+0
+0
+0
+2.62
+% 4.3 21.7 4.3 0.0 17.4 4.3 0.0 21.7 0.0 0.0 0.0 0.0 8.7 4.3 8.7 4.3 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

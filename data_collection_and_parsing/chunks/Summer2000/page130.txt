@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 11:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 1999-2000 Oxford Campus
+Page: 128 Sections of 10
+SAN Systems Analysis
+Miami Plan
+Honors
+Cross Listing
+SAN 141 MA Yanalunas Amy E. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+7
+0
+3
+6
+0
+0
+1
+0
+1
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+3.38
+% 28.6 25.0 0.0 10.7 21.4 0.0 0.0 3.6 0.0 3.6 0.0 0.0 3.6 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 141 OA Marcus Felice J. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+2
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.76
+% 0.0 63.2 10.5 15.8 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SAN 141
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+19
+2
+6
+6
+0
+1
+1
+0
+1
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+3.53
+% 17.0 40.4 4.3 12.8 12.8 0.0 2.1 2.1 0.0 2.1 0.0 0.0 2.1 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0
+SAN 151 MA Kiper James D. Computers,Compter Sci & Socity
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+0
+0
+3
+2
+0
+3
+1
+1
+1
+2
+0
+1
+1
+1
+0
+0
+0
+0
+0
+2.22
+% 5.3 10.5 0.0 0.0 15.8 10.5 0.0 15.8 5.3 5.3 5.3 10.5 0.0 5.3 5.3 5.3 0.0 0.0 0.0 0.0 0.0
+Course Total SAN 151
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+0
+0
+3
+2
+0
+3
+1
+1
+1
+2
+0
+1
+1
+1
+0
+0
+0
+0
+0
+2.22
+% 5.3 10.5 0.0 0.0 15.8 10.5 0.0 15.8 5.3 5.3 5.3 10.5 0.0 5.3 5.3 5.3 0.0 0.0 0.0 0.0 0.0
+SAN 163 OA Bloom John Intro-Computer Concepts & Prog
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+1
+0
+3
+1
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3.08
+% 0.0 33.3 6.7 0.0 20.0 6.7 0.0 6.7 6.7 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 13.3 0.0 0.0 0.0
+Course Total SAN 163
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+1
+0
+3
+1
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3.08
+% 0.0 33.3 6.7 0.0 20.0 6.7 0.0 6.7 6.7 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 13.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

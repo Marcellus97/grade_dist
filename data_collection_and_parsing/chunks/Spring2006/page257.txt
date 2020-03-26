@@ -1,0 +1,303 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 254 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total FRE 202L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+3.79
+% 23.5 29.4 11.8 11.8 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 17.6 0.0 0.0 0.0
+FRE 301 A Hogg Chloe Intro/Fre Lit&Cult:Reading The
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+2
+4
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 15.4 23.1 15.4 30.8 7.7 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FRE 301 B Dickson Jesse D. Intro/Fre Lit&Cult:Reading The
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+4
+5
+4
+4
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 0.0 0.0 21.1 26.3 21.1 21.1 0.0 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FRE 301 C Hogg Chloe Intro/Fre Lit&Cult:Reading The
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+2
+2
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+2.87
+% 0.0 7.1 14.3 21.4 14.3 14.3 0.0 0.0 7.1 0.0 0.0 0.0 7.1 0.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0
+Course Total FRE 301
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+9
+11
+7
+4
+0
+3
+1
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+2.90
+% 0.0 6.5 10.9 19.6 23.9 15.2 8.7 0.0 6.5 2.2 0.0 0.0 2.2 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0
+FRE 302 A McKinney Mark K. Intro Fre Lang&Cult:Rdng Narrt
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+4
+2
+1
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.42
+% 0.0 23.5 17.6 23.5 11.8 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FRE 302
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+4
+2
+1
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.42
+% 0.0 23.5 17.6 23.5 11.8 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

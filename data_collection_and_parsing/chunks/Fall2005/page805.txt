@@ -1,0 +1,304 @@
+testRun: 01/25/06 @ 12:34 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2005-06 Hamilton Campus
+Page: 802 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHS 188L H A Reddecliff Luann Exercise And Health Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+10
+2
+4
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 17.4 43.5 8.7 17.4 13.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 188L H B Stanger Michael W. Exercise And Health Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.33
+% 0.0 80.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 188L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+22
+2
+4
+3
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.57
+% 10.5 57.9 5.3 10.5 7.9 0.0 0.0 2.6 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 205 H A McGuire Keith Drugs: A Health Perspective
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+1
+4
+0
+1
+2
+1
+0
+0
+0
+3
+1
+0
+0
+1
+0
+0
+0
+0
+2.35
+% 0.0 17.6 0.0 5.9 23.5 0.0 5.9 11.8 5.9 0.0 0.0 0.0 17.6 5.9 0.0 0.0 5.9 0.0 0.0 0.0 0.0
+Course Total PHS 205
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+1
+4
+0
+1
+2
+1
+0
+0
+0
+3
+1
+0
+0
+1
+0
+0
+0
+0
+2.35
+% 0.0 17.6 0.0 5.9 23.5 0.0 5.9 11.8 5.9 0.0 0.0 0.0 17.6 5.9 0.0 0.0 5.9 0.0 0.0 0.0 0.0
+PHS 207 H A Hennon Charles B. Serving&Support Children,Fam I
+N
+N
+1B
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+1
+4
+1
+2
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.45
+% 0.0 7.7 0.0 7.7 30.8 7.7 15.4 15.4 0.0 7.7 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 207
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+1
+4
+1
+2
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.45
+% 0.0 7.7 0.0 7.7 30.8 7.7 15.4 15.4 0.0 7.7 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

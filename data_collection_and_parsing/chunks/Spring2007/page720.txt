@@ -1,0 +1,174 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Hamilton Campus
+Page: 717 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CIT 162
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+1
+0
+1
+0
+2
+0
+0
+1
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+1.70
+% 0.0 16.7 0.0 8.3 0.0 8.3 0.0 16.7 0.0 0.0 8.3 16.7 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CIT 214 H A Luczaj Jerome E. Database Design & Development
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+2
+2
+0
+1
+2
+0
+1
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.29
+% 0.0 8.3 0.0 16.7 16.7 0.0 8.3 16.7 0.0 8.3 8.3 0.0 8.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CIT 214
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+2
+2
+0
+1
+2
+0
+1
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.29
+% 0.0 8.3 0.0 16.7 16.7 0.0 8.3 16.7 0.0 8.3 8.3 0.0 8.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Comp Information Technology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+13
+3
+7
+15
+4
+3
+8
+1
+2
+5
+2
+11
+33
+0
+0
+1
+52
+27
+0
+0
+2.37
+% 0.0 7.0 1.6 3.7 8.0 2.1 1.6 4.3 0.5 1.1 2.7 1.1 5.9 17.6 0.0 0.0 0.5 27.8 14.4 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

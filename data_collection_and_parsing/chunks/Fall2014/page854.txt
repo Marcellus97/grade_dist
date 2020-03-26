@@ -1,0 +1,298 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Middletown Campus
+Page: 850 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENT 312 M A Amin Mazyar Thermodynamics And Heat Power
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+3
+1
+0
+3
+1
+1
+2
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.55
+% 6.3 6.3 18.8 6.3 0.0 18.8 6.3 6.3 12.5 12.5 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENT 312
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+3
+1
+0
+3
+1
+1
+2
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.55
+% 6.3 6.3 18.8 6.3 0.0 18.8 6.3 6.3 12.5 12.5 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENT 416 M A Ranatunga Padmasiri V. Topics in Mechanical Vibration
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+1
+5
+2
+4
+1
+2
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.76
+% 4.8 9.5 4.8 23.8 9.5 19.0 4.8 9.5 4.8 0.0 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENT 416
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+1
+5
+2
+4
+1
+2
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.76
+% 4.8 9.5 4.8 23.8 9.5 19.0 4.8 9.5 4.8 0.0 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENT 497 M A Drigel Gary S. Senior Design Project
+N
+N
+55
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+5
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.97
+% 45.5 45.5 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENT 497
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+5
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.97
+% 45.5 45.5 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Engineering Technology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 17
+25
+15
+23
+13
+18
+10
+12
+8
+3
+2
+1
+10
+5
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 10.5 15.4 9.3 14.2 8.0 11.1 6.2 7.4 4.9 1.9 1.2 0.6 6.2 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

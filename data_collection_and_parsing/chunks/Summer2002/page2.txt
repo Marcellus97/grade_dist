@@ -1,0 +1,122 @@
+testEDT Teacher Education
+156
+ENG English
+157
+ENT Engineering Technology
+160
+FIN Finance
+161
+FST Film Studies
+162
+FSW Family Studies And Social Work
+163
+GEO Geography
+164
+GLG Geology
+165
+HST History
+167
+MBI Microbiology
+169
+MGT Management
+170
+MIS Management Information Systems
+171
+MKT Marketing
+172
+MTH Mathematics
+173
+MUS Music
+176
+NSG Nursing
+177
+PHL Philosophy
+178
+PHS Phy Edu, Hlth, & Sport Studies
+179
+PHY Physics
+181
+POL Political Science
+182
+PSY Psychology
+183
+SOC Sociology
+185
+SPN Spanish
+186
+STA Statistics
+187
+THE Theatre
+189
+ZOO Zoology
+190
+Hamilton Campus
+191
+ACC Accountancy
+192
+ART Art
+194
+BOT Botany
+195
+BTE Business Technology
+196
+CHM Chemistry & Biochemistry
+197
+COM Communication
+198
+CSA Computer Sci &Systems Analysis
+200
+DSC Decision Sciences
+202
+ECO Economics
+203
+EDL Educational Leadership
+204
+EDT Teacher Education
+205
+ENG English
+206
+ENT Engineering Technology
+208
+FIN Finance
+209
+FSW Family Studies And Social Work
+210
+GEO Geography
+212
+HST History
+213
+IDS Interdisciplinary
+215
+MBI Microbiology
+216
+MGT Management
+217
+MIS Management Information Systems
+218
+MKT Marketing
+219
+MTH Mathematics
+220
+MUS Music
+222
+NSG Nursing
+223
+PHL Philosophy
+224
+PHS Phy Edu, Hlth, & Sport Studies
+225
+PHY Physics
+228
+PSY Psychology
+229
+SOC Sociology
+231
+SPA Speech Pathology & Audiology
+232
+SPN Spanish
+233
+THE Theatre
+234
+ZOO Zoology
+235

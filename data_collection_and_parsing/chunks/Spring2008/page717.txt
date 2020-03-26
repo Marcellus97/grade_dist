@@ -1,0 +1,260 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Hamilton Campus
+Page: 714 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CIT 154 H C Tenhundfeld Mary R. Personl Computr Concpts & Apps
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+2
+4
+3
+0
+4
+1
+0
+1
+1
+4
+1
+0
+0
+0
+0
+0
+0
+0
+2.18
+% 0.0 12.5 0.0 8.3 16.7 12.5 0.0 16.7 4.2 0.0 4.2 4.2 16.7 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CIT 154 HWA Bisson Michael A. Personl Computr Concpts & Apps
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+4
+0
+0
+2
+0
+0
+0
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+2.46
+% 0.0 26.7 0.0 0.0 26.7 0.0 0.0 13.3 0.0 0.0 0.0 0.0 20.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CIT 154
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+2
+4
+12
+5
+1
+9
+1
+2
+4
+2
+14
+14
+0
+0
+0
+0
+0
+0
+0
+2.06
+% 0.0 10.3 2.6 5.1 15.4 6.4 1.3 11.5 1.3 2.6 5.1 2.6 17.9 17.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CIT 162 HTB Harkins Ronald J. Fund Computer Program Design
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+1
+0
+2
+1
+0
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.70
+% 9.1 18.2 9.1 0.0 18.2 9.1 0.0 18.2 0.0 9.1 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CIT 162
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+1
+0
+2
+1
+0
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.70
+% 9.1 18.2 9.1 0.0 18.2 9.1 0.0 18.2 0.0 9.1 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Comp Information Technology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+10
+3
+4
+14
+6
+1
+11
+1
+3
+4
+2
+15
+41
+0
+0
+0
+78
+25
+0
+0
+2.16
+% 0.5 4.6 1.4 1.8 6.4 2.7 0.5 5.0 0.5 1.4 1.8 0.9 6.8 18.7 0.0 0.0 0.0 35.6 11.4 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

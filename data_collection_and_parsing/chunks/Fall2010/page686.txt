@@ -1,0 +1,309 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Middletown Campus
+Page: 682 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 111 M B Heilman Christine College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+4
+7
+3
+0
+1
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 4.8 9.5 19.0 33.3 14.3 0.0 4.8 4.8 4.8 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 M C Heilman Christine College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+2
+1
+2
+3
+0
+1
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 0.0 42.9 9.5 4.8 9.5 14.3 0.0 4.8 4.8 0.0 0.0 0.0 0.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 M D Heyda John F. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+0
+2
+2
+1
+0
+0
+1
+1
+0
+5
+5
+0
+0
+0
+0
+0
+0
+0
+2.06
+% 0.0 9.1 13.6 0.0 9.1 9.1 4.5 0.0 0.0 4.5 4.5 0.0 22.7 22.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 M E Wahlrab Ellenmarie College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+1
+3
+3
+0
+2
+1
+1
+0
+0
+2
+6
+0
+0
+0
+0
+0
+0
+0
+2.24
+% 0.0 5.0 0.0 5.0 15.0 15.0 0.0 10.0 5.0 5.0 0.0 0.0 10.0 30.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 M F Gilbert Laurel M. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+1
+0
+0
+3
+0
+0
+0
+0
+0
+5
+6
+0
+0
+0
+0
+0
+0
+0
+2.14
+% 0.0 20.0 5.0 5.0 0.0 0.0 15.0 0.0 0.0 0.0 0.0 0.0 25.0 30.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 M G Frye Barbara L. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+5
+4
+1
+0
+0
+1
+2
+1
+0
+0
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 14.3 23.8 19.0 4.8 0.0 0.0 4.8 9.5 4.8 0.0 0.0 0.0 14.3 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 M H Gilbert Laurel M. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+7
+1
+1
+2
+1
+1
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 0.0 27.3 31.8 4.5 4.5 9.1 4.5 4.5 0.0 4.5 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

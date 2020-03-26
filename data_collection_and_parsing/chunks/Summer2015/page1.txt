@@ -1,0 +1,121 @@
+testGTraabdlee DofisCtroinbtuetniotsn
+Oxford Campus
+1
+ACC Accountancy
+1
+AMS American Studies
+4
+ARC Architecture & Interior Design
+5
+ATH Anthropology
+6
+BIO Biology
+7
+BUS Business Analysis
+13
+BWS Black World Studies
+19
+CCA College Of Creative Arts
+20
+CHI Chinese
+22
+CHM Chemistry & Biochemistry
+23
+CLS Classics
+27
+COM Communication
+28
+CPB Chem, Paper & Biomed Engineer
+32
+CSE Comp Sci &Software Engineering
+33
+ECO Economics
+36
+EDL Educational Leadership
+39
+EDP Educational Psychology
+43
+EDT Teacher Education
+47
+EHS Education, Health And Society
+49
+ENG English
+50
+ESP Entrepreneurship
+54
+FIN Finance
+55
+FRE French
+57
+FSW Family Studies And Social Work
+59
+GEO Geography
+62
+GLG Geology
+63
+GTY Gerontology
+64
+HON Honors
+65
+HST History
+66
+IES Environmental Sciences
+67
+IMS Interactive Media Studies
+68
+ISA Information Systems& Analytics
+70
+ITL Italian
+71
+ITS International Studies
+72
+JRN Journalism
+73
+KNH Kinesiology And Health
+75
+MAC Media And Culture
+84
+MBI Microbiology
+85
+MGT Management
+86
+MKT Marketing
+88
+MME Mechan & Manufact Engineering
+90
+MTH Mathematics
+91
+MUS Music
+93
+NSG Nursing
+94
+PHL Philosophy
+95
+PHY Physics
+96
+POL Political Science
+99
+PSY Psychology
+101
+REL Religion, Comparative
+104
+SOC Sociology
+105
+SPA Speech Pathology & Audiology
+106
+SPN Spanish
+109
+STA Statistics
+113
+THE Theatre
+115
+WGS Women,Gender&Sexuality Studies
+116
+ACC Accountancy
+117
+ART Art
+118
+ATH Anthropology
+119
+BIO Biology
+120

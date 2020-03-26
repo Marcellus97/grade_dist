@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 452 Sections of 10
+POL Political Science
+Miami Plan
+Honors
+Cross Listing
+POL 133 UA Dawisha Karen L. Imagining Russia
+N
+N
+BE
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+8
+3
+1
+5
+0
+0
+2
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+3.18
+% 0.0 19.2 30.8 11.5 3.8 19.2 0.0 0.0 7.7 0.0 0.0 0.0 0.0 3.8 0.0 3.8 0.0 0.0 0.0 0.0 0.0
+Course Total POL 133
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+8
+3
+1
+5
+0
+0
+2
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+3.18
+% 0.0 19.2 30.8 11.5 3.8 19.2 0.0 0.0 7.7 0.0 0.0 0.0 0.0 3.8 0.0 3.8 0.0 0.0 0.0 0.0 0.0
+POL 141 A Wheeler Darren A. American Political System
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+5
+6
+5
+5
+9
+3
+0
+1
+1
+0
+2
+0
+0
+0
+2
+0
+0
+0
+2.61
+% 0.0 4.4 8.9 11.1 13.3 11.1 11.1 20.0 6.7 0.0 2.2 2.2 0.0 4.4 0.0 0.0 0.0 4.4 0.0 0.0 0.0
+POL 141 B Forgette Richard G. American Political System
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+4
+14
+6
+5
+6
+3
+0
+3
+0
+2
+2
+0
+0
+0
+3
+1
+0
+0
+2.55
+% 0.0 5.6 3.7 7.4 25.9 11.1 9.3 11.1 5.6 0.0 5.6 0.0 3.7 3.7 0.0 0.0 0.0 5.6 1.9 0.0 0.0
+POL 141 C Woolard John C. American Political System
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+5
+4
+7
+8
+9
+4
+1
+1
+0
+0
+0
+1
+1
+1
+0
+3
+0
+0
+0
+2.83
+% 0.0 11.8 9.8 7.8 13.7 15.7 17.6 7.8 2.0 2.0 0.0 0.0 0.0 2.0 2.0 2.0 0.0 5.9 0.0 0.0 0.0
+POL 141 D Kemper Jefferson M. American Political System
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+4
+7
+14
+5
+6
+3
+2
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+2.66
+% 0.0 4.2 6.3 8.3 14.6 29.2 10.4 12.5 6.3 4.2 0.0 0.0 0.0 2.1 2.1 0.0 0.0 0.0 0.0 0.0 0.0
+POL 141 E Cole Neil S. American Political System
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+9
+9
+17
+7
+4
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+3.13
+% 0.0 3.9 17.6 17.6 33.3 13.7 7.8 0.0 0.0 0.0 0.0 0.0 0.0 2.0 0.0 0.0 0.0 3.9 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

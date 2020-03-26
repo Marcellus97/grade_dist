@@ -1,0 +1,337 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Hamilton Campus
+Page: 715 Sections of 10
+Course Total KNH 242
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+10
+8
+3
+4
+2
+0
+1
+0
+0
+% 35.7 28.6 10.7 14.3 7.1 0.0 3.6 0.0 0.0
+KNH 243 H A Tomashot Pamela S. Womens Health:Prob & Practices
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+11
+0
+0
+0
+0
+0
+0
+0
+% 0.0 84.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 243
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+0
+11
+0
+0
+0
+0
+0
+0
+0
+% 0.0 84.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 244 H A Worthington Todd M. Functional Anatomy
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+5
+2
+1
+2
+1
+0
+0
+3
+1
+% 26.3 10.5 5.3 10.5 5.3 0.0 0.0 15.8 5.3
+Course Total KNH 244
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+5
+2
+1
+2
+1
+0
+0
+3
+1
+% 26.3 10.5 5.3 10.5 5.3 0.0 0.0 15.8 5.3
+KNH 244L H A Worthington Todd M. Functional Anatomy Laboratory
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+5
+3
+0
+2
+2
+1
+1
+0
+0
+% 26.3 15.8 0.0 10.5 10.5 5.3 5.3 0.0 0.0
+Course Total KNH 244L
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+5
+3
+0
+2
+2
+1
+1
+0
+0
+% 26.3 15.8 0.0 10.5 10.5 5.3 5.3 0.0 0.0
+D+ D
+D-
+0
+0
+0
+0.0 0.0 0.0
+D+ D
+D-
+0
+0
+0
+0.0 0.0 0.0
+D+ D
+D-
+0
+0
+0
+0.0 0.0 0.0
+D+ D
+D-
+0
+2
+0
+0.0 10.5 0.0
+D+ D
+D-
+0
+2
+0
+0.0 10.5 0.0
+D+ D
+D-
+3
+1
+0
+15.8 5.3 0.0
+D+ D
+D-
+3
+1
+0
+15.8 5.3 0.0
+F
+W
+WP WF
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 15.4 0.0 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 15.4 0.0 0.0
+F
+W
+2
+0
+10.5 0.0
+WP WF
+0
+0
+0.0 0.0
+F
+W
+2
+0
+10.5 0.0
+WP WF
+0
+0
+0.0 0.0
+F
+W
+WP WF
+1
+0
+0
+0
+5.3 0.0 0.0 0.0
+F
+W
+WP WF
+1
+0
+0
+0
+5.3 0.0 0.0 0.0
+Miami Plan
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+Avg GPA
+0
+3.74
+0.0
+15
+S
+Avg GPA
+0
+4.00
+0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+4.00
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.68
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.68
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.87
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.87
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,124 @@
+testMUS Music
+106
+NSG Nursing
+107
+PHL Philosophy
+108
+PHY Physics
+109
+POL Political Science
+112
+PSY Psychology
+114
+REL Religion, Comparative
+116
+SJS Social Justice Studies
+117
+SOC Sociology
+118
+SPA Speech Pathology & Audiology
+119
+SPN Spanish
+121
+STA Statistics
+124
+WGS Women,Gender&Sexuality Studies
+126
+ZOO Zoology
+127
+Middletown Campus
+131
+ACC Accountancy
+132
+ART Art
+133
+ATH Anthropology
+134
+BIS Integrative Studies
+135
+BOT Botany
+136
+BTE Business Technology
+137
+CHM Chemistry & Biochemistry
+138
+CLS Classics
+139
+COM Communication
+140
+ENG English
+141
+ENT Engineering Technology
+143
+GLG Geology
+144
+HST History
+145
+MBI Microbiology
+147
+MTH Mathematics
+148
+MUS Music
+150
+NSG Nursing
+151
+PHY Physics
+152
+PSY Psychology
+154
+SPN Spanish
+156
+STA Statistics
+158
+ZOO Zoology
+159
+Hamilton Campus
+160
+ACC Accountancy
+161
+ATH Anthropology
+162
+BIS Integrative Studies
+163
+BOT Botany
+164
+BTE Business Technology
+165
+CHM Chemistry & Biochemistry
+168
+COM Communication
+169
+CSE Comp Sci &Software Engineering
+170
+ECO Economics
+171
+EDP Educational Psychology
+172
+EDT Teacher Education
+173
+ENG English
+174
+ENT Engineering Technology
+177
+FST Film Studies
+179
+FSW Family Studies And Social Work
+180
+GEO Geography
+182
+GLG Geology
+183
+HST History
+184
+ITS International Studies
+185
+KNH Kinesiology And Health
+186
+MBI Microbiology
+188
+MTH Mathematics
+189
+MUS Music
+192
+NSG Nursing
+193

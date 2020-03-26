@@ -1,0 +1,354 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Oxford Campus
+Page: 63 Sections of 10
+BOT 255 A Barnum Susan R. Introduction To Biotechnology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+9
+0
+2
+1
+0
+0
+2
+0
+0
+% 0.0 64.3 0.0 14.3 7.1 0.0 0.0 14.3 0.0 0.0
+Course Total BOT 255
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+9
+0
+2
+1
+0
+0
+2
+0
+0
+% 0.0 64.3 0.0 14.3 7.1 0.0 0.0 14.3 0.0 0.0
+BOT 275 A Fisk Melany C. Prin of Environmental Science
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+1
+2
+1
+2
+3
+0
+1
+1
+% 0.0 0.0 7.7 15.4 7.7 15.4 23.1 0.0 7.7 7.7
+Course Total BOT 275
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+1
+2
+1
+2
+3
+0
+1
+1
+% 0.0 0.0 7.7 15.4 7.7 15.4 23.1 0.0 7.7 7.7
+BOT 306 A Keegan John F. Basic Horticulture
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+3
+0
+0
+4
+1
+0
+1
+1
+0
+% 0.0 30.0 0.0 0.0 40.0 10.0 0.0 10.0 10.0 0.0
+Course Total BOT 306
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+3
+0
+0
+4
+1
+0
+1
+1
+0
+% 0.0 30.0 0.0 0.0 40.0 10.0 0.0 10.0 10.0 0.0
+BOT 401 A Stevens Martin Henry H. Plant Ecology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+2
+1
+3
+0
+0
+1
+0
+1
+% 0.0 16.7 16.7 8.3 25.0 0.0 0.0 8.3 0.0 8.3
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+2
+0
+15.4 0.0
+D
+D-
+2
+0
+15.4 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+2
+0
+16.7 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.54
+0.0 0.0 0.0
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+Avg GPA
+0
+3.54
+0.0
+1C
+S
+Avg GPA
+0
+2.35
+0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.35
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.04
+0.0 0.0 0.0
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+0 0.0
+CD
+S
+0 0.0
+Avg GPA 3.04
+Avg GPA 2.58
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

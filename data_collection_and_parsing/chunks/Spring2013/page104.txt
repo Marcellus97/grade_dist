@@ -1,0 +1,302 @@
+testRun: 07/08/13 @ 16:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2012-13 Oxford Campus
+Page: 100 Sections of 10
+BWS Black World Studies
+Miami Plan
+Honors
+Cross Listing
+BWS 151 B Gaskins Adrian T. Intro To Black World Studies
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+21
+11
+3
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.54
+% 0.0 22.8 36.8 19.3 5.3 5.3 3.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.0 0.0 0.0 0.0
+BWS 151 C Gaskins Adrian T. Intro To Black World Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+13
+12
+4
+4
+3
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+6
+0
+0
+0
+3.35
+% 0.0 15.4 25.0 23.1 7.7 7.7 5.8 0.0 0.0 1.9 0.0 0.0 0.0 1.9 0.0 0.0 0.0 11.5 0.0 0.0 0.0
+Course Total BWS 151
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+34
+23
+7
+7
+5
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+10
+0
+0
+0
+3.45
+% 0.0 19.3 31.2 21.1 6.4 6.4 4.6 0.0 0.0 0.9 0.0 0.0 0.0 0.9 0.0 0.0 0.0 9.2 0.0 0.0 0.0
+BWS 225 A Olumwullah Osaak A. The Making Of Modern Africa
+Y
+N
+2M
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+0
+2
+2
+1
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+2.67
+% 0.0 15.4 7.7 0.0 15.4 15.4 7.7 15.4 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 15.4 0.0 0.0 0.0
+Course Total BWS 225
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+0
+2
+2
+1
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+2.67
+% 0.0 15.4 7.7 0.0 15.4 15.4 7.7 15.4 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 15.4 0.0 0.0 0.0
+BWS 265 A Coates Rodney D. Penny Lecture Series
+N
+N
+NR
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+42
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.3 0.0 0.0 0.0 97.7 0.0 0.0 0.0
+Course Total BWS 265
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+42
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.3 0.0 0.0 0.0 97.7 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

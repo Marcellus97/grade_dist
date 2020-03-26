@@ -1,0 +1,303 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Oxford Campus
+Page: 586 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total SPN 102
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+16
+14
+22
+14
+5
+6
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 0.0 12.0 17.4 15.2 23.9 15.2 5.4 6.5 0.0 0.0 0.0 0.0 2.2 2.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 111 B Ironstrack Tamise R. Intensive Basic Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+1
+8
+3
+2
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.87
+% 0.0 9.1 9.1 4.5 36.4 13.6 9.1 13.6 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 111 C Navarrete Jillian S. Intensive Basic Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+5
+7
+2
+3
+3
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 0.0 4.0 12.0 20.0 28.0 8.0 12.0 12.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 111 D Navarrete Jillian S. Intensive Basic Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+5
+4
+2
+1
+1
+1
+2
+1
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.48
+% 0.0 8.0 8.0 20.0 16.0 8.0 4.0 4.0 4.0 8.0 4.0 4.0 8.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 111 E Llamas Fraga Laura Intensive Basic Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+1
+4
+11
+2
+1
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 4.2 4.2 4.2 16.7 45.8 8.3 4.2 8.3 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 111 G Llamas Fraga Laura Intensive Basic Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+3
+3
+1
+0
+0
+0
+1
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.34
+% 0.0 6.7 6.7 6.7 20.0 20.0 6.7 0.0 0.0 0.0 6.7 13.3 6.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPN 111
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+9
+16
+33
+12
+8
+9
+2
+2
+2
+3
+4
+3
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.9 6.3 8.1 14.4 29.7 10.8 7.2 8.1 1.8 1.8 1.8 2.7 3.6 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

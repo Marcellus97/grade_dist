@@ -1,0 +1,302 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Oxford Campus
+Page: 275 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total FSW 281
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+34
+32
+9
+10
+9
+3
+0
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.54
+% 6.5 31.8 29.9 8.4 9.3 8.4 2.8 0.0 0.9 0.0 0.0 0.0 0.9 0.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 306 A Brubaker Ellie Social Work Practice I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+1
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+2
+0
+0
+0
+0
+3.53
+% 0.0 33.3 11.1 5.6 22.2 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 11.1 0.0 11.1 0.0 0.0 0.0 0.0
+Course Total FSW 306
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+1
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+2
+0
+0
+0
+0
+3.53
+% 0.0 33.3 11.1 5.6 22.2 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 11.1 0.0 11.1 0.0 0.0 0.0 0.0
+FSW 309 A Stone Glenn Advanced Social Welfare Policy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+30
+10
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.82
+% 0.0 62.5 20.8 10.4 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.1 0.0 0.0 0.0 0.0
+Course Total FSW 309
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+30
+10
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.82
+% 0.0 62.5 20.8 10.4 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.1 0.0 0.0 0.0 0.0
+FSW 361 A Thompson Elizabeth A. Couple Relatnshps:Divrsty&Chng
+N
+N
+DV
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+42
+30
+12
+16
+9
+2
+3
+2
+0
+1
+0
+1
+0
+0
+1
+0
+2
+0
+0
+0
+3.42
+% 0.8 34.4 24.6 9.8 13.1 7.4 1.6 2.5 1.6 0.0 0.8 0.0 0.8 0.0 0.0 0.8 0.0 1.6 0.0 0.0 0.0
+Course Total FSW 361
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+42
+30
+12
+16
+9
+2
+3
+2
+0
+1
+0
+1
+0
+0
+1
+0
+2
+0
+0
+0
+3.42
+% 0.8 34.4 24.6 9.8 13.1 7.4 1.6 2.5 1.6 0.0 0.8 0.0 0.8 0.0 0.0 0.8 0.0 1.6 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

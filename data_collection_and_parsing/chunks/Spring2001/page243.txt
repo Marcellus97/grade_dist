@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 240 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FRE 202 E Staples Amy J. Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+6
+4
+2
+4
+1
+0
+1
+0
+0
+1
+0
+0
+1
+1
+0
+1
+0
+0
+0
+2.90
+% 4.3 0.0 26.1 17.4 8.7 17.4 4.3 0.0 4.3 0.0 0.0 4.3 0.0 0.0 4.3 4.3 0.0 4.3 0.0 0.0 0.0
+FRE 202 F Nightingale Jeanne A. Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+3
+4
+3
+2
+0
+1
+0
+1
+0
+0
+0
+0
+2
+1
+0
+3
+0
+0
+0
+3.14
+% 7.7 15.4 11.5 15.4 11.5 7.7 0.0 3.8 0.0 3.8 0.0 0.0 0.0 0.0 7.7 3.8 0.0 11.5 0.0 0.0 0.0
+FRE 202 G Nesbitt Frank N. Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+9
+2
+7
+3
+0
+2
+1
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+3.03
+% 0.0 3.7 33.3 7.4 25.9 11.1 0.0 7.4 3.7 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0
+FRE 202 I Staples Amy J. Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+4
+6
+4
+2
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 19.2 7.7 15.4 23.1 15.4 7.7 0.0 0.0 0.0 7.7 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FRE 202 J Dickson Jesse D. Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+4
+1
+8
+5
+1
+4
+0
+0
+2
+1
+0
+0
+0
+0
+0
+4
+0
+0
+0
+2.64
+% 0.0 0.0 13.3 3.3 26.7 16.7 3.3 13.3 0.0 0.0 6.7 3.3 0.0 0.0 0.0 0.0 0.0 13.3 0.0 0.0 0.0
+FRE 202 K Nightingale Jeanne A. Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+7
+0
+2
+4
+2
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+3.21
+% 7.4 18.5 25.9 0.0 7.4 14.8 7.4 7.4 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 3.7 3.7 0.0 0.0
+FRE 202 L Sandro Paul D. Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+4
+9
+2
+4
+3
+0
+0
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+2.83
+% 0.0 7.1 3.6 14.3 32.1 7.1 14.3 10.7 0.0 0.0 3.6 0.0 0.0 3.6 0.0 0.0 0.0 3.6 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

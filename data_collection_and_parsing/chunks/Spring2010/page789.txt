@@ -1,0 +1,309 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Hamilton Campus
+Page: 785 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 112 H D Nell Doris J. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+3
+3
+2
+2
+2
+0
+0
+0
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 0.0 21.7 8.7 13.0 13.0 8.7 8.7 8.7 0.0 0.0 0.0 4.3 0.0 13.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H E Schmidlin Tom J. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+4
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+3.83
+% 0.0 63.0 14.8 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.4 0.0 0.0 3.7 0.0 0.0 0.0 0.0
+ENG 112 H G Kulbaga Theresa A. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+1
+1
+2
+2
+0
+1
+0
+2
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+2.36
+% 0.0 20.0 15.0 5.0 5.0 10.0 10.0 0.0 5.0 0.0 10.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H H Pelle Susan L. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+3
+2
+3
+0
+2
+1
+0
+1
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.02
+% 28.6 14.3 9.5 14.3 0.0 9.5 4.8 0.0 4.8 0.0 0.0 4.8 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H I Holcomb Gale A. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+2
+5
+3
+0
+0
+1
+0
+0
+0
+1
+3
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 9.5 19.0 9.5 23.8 14.3 0.0 0.0 4.8 0.0 0.0 0.0 4.8 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H J Nell Doris J. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+4
+2
+1
+3
+1
+0
+0
+0
+0
+1
+5
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 14.3 4.8 19.0 9.5 4.8 14.3 4.8 0.0 0.0 0.0 0.0 4.8 23.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H K Day Deborah R. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+1
+3
+4
+2
+4
+1
+1
+0
+1
+2
+4
+0
+0
+0
+0
+0
+0
+0
+2.17
+% 0.0 4.2 0.0 4.2 12.5 16.7 8.3 16.7 4.2 4.2 0.0 4.2 8.3 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

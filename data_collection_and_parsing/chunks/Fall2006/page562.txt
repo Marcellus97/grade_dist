@@ -1,0 +1,309 @@
+testRun: 01/23/07 @ 09:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2006-07 Oxford Campus
+Page: 559 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+STA 261 H Noble Robert B. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+7
+3
+7
+10
+2
+4
+4
+4
+3
+2
+0
+4
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 7.4 13.0 5.6 13.0 18.5 3.7 7.4 7.4 7.4 5.6 3.7 0.0 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 261 I Bogan Aaron W. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+0
+10
+0
+0
+3
+0
+0
+3
+0
+4
+6
+0
+0
+0
+1
+0
+0
+0
+2.76
+% 0.0 32.5 0.0 0.0 25.0 0.0 0.0 7.5 0.0 0.0 7.5 0.0 10.0 15.0 0.0 0.0 0.0 2.5 0.0 0.0 0.0
+STA 261 J Smith Shannon D. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+5
+4
+7
+2
+4
+3
+2
+0
+1
+0
+0
+1
+0
+0
+1
+1
+0
+0
+0
+3.07
+% 10.0 12.5 12.5 10.0 17.5 5.0 10.0 7.5 5.0 0.0 2.5 0.0 0.0 2.5 0.0 0.0 2.5 2.5 0.0 0.0 0.0
+STA 261 K Fadel William F. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+1
+3
+9
+1
+1
+2
+1
+0
+2
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 17.2 3.4 10.3 31.0 3.4 3.4 6.9 3.4 0.0 6.9 3.4 3.4 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 261 L Fenchel Matthew C. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+6
+2
+3
+2
+4
+1
+2
+2
+0
+3
+1
+0
+0
+1
+1
+0
+0
+0
+2.25
+% 0.0 6.7 0.0 20.0 6.7 10.0 6.7 13.3 3.3 6.7 6.7 0.0 10.0 3.3 0.0 0.0 3.3 3.3 0.0 0.0 0.0
+STA 261 M Denman Sarah E. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+7
+9
+1
+2
+2
+3
+1
+3
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.80
+% 0.0 20.0 0.0 17.5 22.5 2.5 5.0 5.0 7.5 2.5 7.5 2.5 0.0 7.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 261 N Stanev Stefan S. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+4
+2
+12
+1
+0
+3
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 0.0 26.5 11.8 5.9 35.3 2.9 0.0 8.8 0.0 8.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

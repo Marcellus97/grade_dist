@@ -1,0 +1,305 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Oxford Campus
+Page: 259 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FRE 202 F Ptolemy Nicole E. Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+1
+1
+1
+1
+0
+1
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 9.1 27.3 9.1 9.1 9.1 9.1 0.0 9.1 0.0 0.0 9.1 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FRE 202
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+19
+23
+15
+29
+12
+5
+8
+2
+2
+3
+1
+0
+1
+2
+1
+0
+9
+0
+0
+0
+3.08
+% 1.5 14.2 17.2 11.2 21.6 9.0 3.7 6.0 1.5 1.5 2.2 0.7 0.0 0.7 1.5 0.7 0.0 6.7 0.0 0.0 0.0
+FRE 301 A Dickson Jesse D. Intro/Fre Lit&Cult:Reading The
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+13
+3
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.50
+% 0.0 4.5 59.1 13.6 22.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FRE 301 B Gerwin Elisabeth Intro/Fre Lit&Cult:Reading The
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+2
+6
+2
+1
+1
+2
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+2.98
+% 0.0 13.0 17.4 8.7 26.1 8.7 4.3 4.3 8.7 0.0 4.3 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0
+FRE 301 C Bell Elissa J. Intro/Fre Lit&Cult:Reading The
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+5
+1
+6
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.09
+% 0.0 14.3 19.0 23.8 4.8 28.6 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0
+Course Total FRE 301
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+21
+10
+12
+8
+2
+1
+2
+0
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+3.19
+% 0.0 10.6 31.8 15.2 18.2 12.1 3.0 1.5 3.0 0.0 1.5 0.0 0.0 0.0 0.0 1.5 1.5 0.0 0.0 0.0 0.0
+FRE 302 A Creech James N. Intro Fre Lang&Cult:Rdng Narrt
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+4
+5
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.19
+% 0.0 25.0 15.0 20.0 25.0 5.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

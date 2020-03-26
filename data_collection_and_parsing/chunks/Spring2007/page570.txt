@@ -1,0 +1,306 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Oxford Campus
+Page: 567 Sections of 10
+WCP Interdisciplinary Studies- Wcp
+Miami Plan
+Honors
+Cross Listing
+WCP 112H E Harrison-Pepper Sally Creativity & Culture I
+Y
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+4
+6
+2
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 0.0 10.0 15.0 20.0 30.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total WCP 112H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+4
+6
+2
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 0.0 10.0 15.0 20.0 30.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+WCP 114H A Harrison-Pepper Sally Creativity & Culture I
+Y
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+5
+3
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 6.3 25.0 31.3 18.8 12.5 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+WCP 114H C Harrison-Pepper Sally Creativity & Culture I
+Y
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+4
+1
+2
+2
+1
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.72
+% 0.0 11.1 16.7 22.2 5.6 11.1 11.1 5.6 5.6 0.0 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+WCP 114H D Sano Yulonda E. Creativity & Culture I
+Y
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+0
+4
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 0.0 35.7 21.4 0.0 28.6 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total WCP 114H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+10
+9
+8
+5
+2
+2
+1
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 0.0 16.7 20.8 18.8 16.7 10.4 4.2 4.2 2.1 0.0 0.0 0.0 4.2 2.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+WCP 122 B Green William J. Natural Systems II
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+4
+1
+2
+6
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.51
+% 26.3 21.1 5.3 10.5 31.6 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

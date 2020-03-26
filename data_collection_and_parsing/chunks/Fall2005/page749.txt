@@ -1,0 +1,307 @@
+testRun: 01/25/06 @ 12:34 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2005-06 Hamilton Campus
+Page: 746 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDT 110R H C Wells Nancy M. College Study Skill
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.60
+% 30.0 10.0 10.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 20.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110R H E Wells Nancy M. College Study Skill
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+0
+1
+2
+2
+1
+1
+2
+0
+1
+0
+0
+4
+2
+0
+0
+0
+0
+0
+0
+0
+2.66
+% 33.3 0.0 4.2 8.3 8.3 4.2 4.2 8.3 0.0 4.2 0.0 0.0 16.7 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110R HUA Cole Karen L. College Study Skill
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+0
+0
+6
+0
+0
+2
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.42
+% 0.0 60.0 0.0 0.0 24.0 0.0 0.0 8.0 0.0 0.0 0.0 0.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110R HUB Jones Beth A. College Study Skill
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+0
+4
+3
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 16.7 16.7 0.0 33.3 25.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110R HWA Cole Karen L. College Study Skill
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+0
+0
+2
+0
+0
+3
+0
+0
+2
+0
+2
+3
+0
+0
+1
+0
+0
+0
+0
+3.15
+% 0.0 56.7 0.0 0.0 6.7 0.0 0.0 10.0 0.0 0.0 6.7 0.0 6.7 10.0 0.0 0.0 3.3 0.0 0.0 0.0 0.0
+Course Total EDT 110R
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+17
+45
+4
+6
+21
+4
+1
+16
+0
+1
+4
+1
+14
+11
+0
+0
+1
+0
+0
+0
+0
+2.96
+% 11.6 30.8 2.7 4.1 14.4 2.7 0.7 11.0 0.0 0.7 2.7 0.7 9.6 7.5 0.0 0.0 0.7 0.0 0.0 0.0 0.0
+EDT 181 H A VanNatta Sandra Physical Science
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+3
+1
+1
+2
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 16.7 0.0 0.0 25.0 8.3 8.3 16.7 0.0 0.0 0.0 0.0 0.0 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

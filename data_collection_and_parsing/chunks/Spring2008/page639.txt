@@ -1,0 +1,309 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Middletown Campus
+Page: 636 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 112 M K Androne Helane A. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+3
+0
+4
+4
+1
+1
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+2.44
+% 0.0 22.7 0.0 13.6 0.0 18.2 18.2 4.5 4.5 0.0 0.0 0.0 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M L Tayko D. G. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+3
+7
+1
+0
+0
+1
+0
+1
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.02
+% 0.0 15.0 0.0 15.0 35.0 5.0 0.0 0.0 5.0 0.0 5.0 0.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M M Androne Helane A. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+0
+4
+0
+6
+2
+3
+2
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.37
+% 4.8 0.0 0.0 19.0 0.0 28.6 9.5 14.3 9.5 0.0 0.0 0.0 9.5 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M O Androne Helane A. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+2
+0
+4
+4
+2
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 0.0 31.8 0.0 9.1 0.0 18.2 18.2 9.1 0.0 0.0 0.0 4.5 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M Q Tayko D. G. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+3
+5
+3
+0
+0
+3
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 26.1 13.0 21.7 13.0 0.0 0.0 13.0 4.3 0.0 0.0 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M T Miller Corinne L. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+2
+9
+2
+0
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.02
+% 0.0 21.7 8.7 8.7 39.1 8.7 0.0 0.0 0.0 0.0 0.0 0.0 8.7 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M U Miller Corinne L. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+3
+3
+5
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 6.3 6.3 18.8 18.8 31.3 6.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

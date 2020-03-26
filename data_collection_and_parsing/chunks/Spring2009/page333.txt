@@ -1,0 +1,305 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Oxford Campus
+Page: 330 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+IMS 201 C Resnis Eric W. Information Studies:DigitalAge
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+5
+3
+3
+1
+5
+1
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 12.5 20.8 12.5 12.5 4.2 20.8 4.2 0.0 4.2 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IMS 201 D Hartsell-Gundy Arianne A. Information Studies:DigitalAge
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+5
+2
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.61
+% 0.0 52.4 23.8 9.5 4.8 4.8 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total IMS 201
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+25
+26
+15
+7
+6
+3
+0
+1
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.45
+% 4.4 27.5 28.6 16.5 7.7 6.6 3.3 0.0 1.1 0.0 3.3 0.0 0.0 1.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IMS 224 A McKee Heidi A. Digital Writing & Rhetoric
+N
+N
+09
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.26
+% 0.0 50.0 0.0 10.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total IMS 224
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.26
+% 0.0 50.0 0.0 10.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IMS 259 A Greenberg Ira Aesthetics & Computation
+N
+N
+34
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 0.0 45.5 18.2 18.2 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total IMS 259
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 0.0 45.5 18.2 18.2 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

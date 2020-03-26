@@ -1,0 +1,304 @@
+testRun: 09/20/06 @ 09:52 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2005-06 Middletown Campus
+Page: 146 Sections of 10
+ATH Anthropology
+Miami Plan
+Honors
+Cross Listing
+ATH 175 MMA Greenberg Adolph M. Peoples Of The World
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+1
+0
+2
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.28
+% 7.1 42.9 7.1 0.0 14.3 0.0 0.0 14.3 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0
+ATH 175 MOA Esber George S. Peoples Of The World
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+1
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+3.69
+% 5.9 41.2 5.9 11.8 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 17.6 0.0 0.0 5.9 0.0 0.0 0.0 0.0
+Course Total ATH 175
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+13
+2
+2
+3
+1
+0
+2
+0
+0
+1
+0
+0
+3
+0
+0
+1
+1
+0
+0
+0
+3.49
+% 6.5 41.9 6.5 6.5 9.7 3.2 0.0 6.5 0.0 0.0 3.2 0.0 0.0 9.7 0.0 0.0 3.2 3.2 0.0 0.0 0.0
+ATH 231 MMA Greenberg Adolph M. Perspectives On Culture
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+6
+0
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 0.0 47.1 35.3 0.0 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ATH 231
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+6
+0
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 0.0 47.1 35.3 0.0 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ATH 303 MMA Esber George S. Native American Cultures
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+4
+0
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 6.3 43.8 25.0 0.0 18.8 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ATH 303
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+4
+0
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 6.3 43.8 25.0 0.0 18.8 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

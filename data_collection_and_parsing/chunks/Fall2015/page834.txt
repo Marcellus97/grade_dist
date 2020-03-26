@@ -1,0 +1,305 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 830 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CIT 262 M A Luczaj Jerome E. Tech,Ethics & Global Society
+Y
+N
+4X
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+0
+2
+1
+1
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 25.0 16.7 0.0 16.7 8.3 8.3 8.3 0.0 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CIT 262 M B Evans Donna M. Tech,Ethics & Global Society
+Y
+N
+6S
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+0
+0
+2
+0
+0
+1
+0
+2
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.26
+% 10.0 20.0 0.0 0.0 20.0 0.0 0.0 10.0 0.0 20.0 0.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CIT 262
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+2
+0
+4
+1
+1
+2
+0
+2
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 4.5 22.7 9.1 0.0 18.2 4.5 4.5 9.1 0.0 9.1 0.0 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CIT 268 M A Courte Jill E. Introduction to HCI
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+0
+2
+6
+3
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 4.8 33.3 0.0 9.5 28.6 14.3 4.8 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CIT 268
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+0
+2
+6
+3
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 4.8 33.3 0.0 9.5 28.6 14.3 4.8 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CIT 358 M A Rose Anthony W. IT Assurance & Security
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+1
+1
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.44
+% 9.1 36.4 9.1 9.1 0.0 18.2 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0
+CIT 358 M B Rose Anthony W. IT Assurance & Security
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+0
+4
+1
+0
+0
+1
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.02
+% 0.0 15.4 23.1 0.0 30.8 7.7 0.0 0.0 7.7 0.0 0.0 7.7 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

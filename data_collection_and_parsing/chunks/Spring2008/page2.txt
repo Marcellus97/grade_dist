@@ -1,0 +1,124 @@
+testNSC Naval Science
+431
+PCE Paper & Chemical Engineering
+434
+PHL Philosophy
+438
+PHS Phy Edu, Hlth, & Sport Studies
+443
+PHY Physics
+485
+POL Political Science
+496
+POR Portuguese
+510
+PSY Psychology
+511
+REL Comparative Religion
+527
+RUS Russian
+532
+SOC Sociology
+534
+SPA Speech Pathology & Audiology
+541
+SPN Spanish
+548
+STA Statistics
+561
+THE Theatre
+567
+WCP Interdisciplinary Studies- Wcp
+575
+WMS Women'S Studies
+577
+ZOO Zoology
+580
+Middletown Campus
+596
+ACC Accountancy
+597
+ART Art
+598
+ATH Anthropology
+602
+BOT Botany
+604
+BTE Business Technology
+606
+BUS Business Analysis
+612
+BWS Black World Studies
+613
+CHM Chemistry & Biochemistry
+614
+CIT Comp Information Technology
+617
+CJS Criminal Justice Studies
+618
+CLS Classics
+619
+COM Communication
+620
+CSA Computer Sci &Systems Analysis
+623
+EAS Engineering & App Science
+625
+ECO Economics
+626
+EDL Educational Leadership
+627
+EDP Educational Psychology
+629
+EDT Teacher Education
+630
+ENG English
+633
+ENT Engineering Technology
+641
+FRE French
+643
+FST Film Studies
+644
+FSW Family Studies And Social Work
+645
+GLG Geology
+646
+GTY Gerontology
+648
+HST History
+649
+IDS Interdisciplinary
+652
+MBI Microbiology
+653
+MGT Management
+655
+MKT Marketing
+656
+MTH Mathematics
+657
+MUS Music
+662
+NSG Nursing
+664
+PHL Philosophy
+667
+PHS Phy Edu, Hlth, & Sport Studies
+669
+PHY Physics
+675
+POL Political Science
+677
+PSY Psychology
+678
+REL Comparative Religion
+680
+SOC Sociology
+681
+SPN Spanish
+683
+STA Statistics
+685
+THE Theatre
+686

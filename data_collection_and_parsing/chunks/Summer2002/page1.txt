@@ -1,0 +1,121 @@
+testGTraabdlee DofisCtroinbtuetniotsn
+Oxford Campus
+1
+ACC Accountancy
+1
+ARC Architecture & Interior Design
+5
+ART Art
+6
+ATH Anthropology
+8
+BOT Botany
+10
+BUS Business Analysis
+14
+CHM Chemistry & Biochemistry
+16
+CLS Classics
+21
+COM Communication
+22
+CSA Computer Sci &Systems Analysis
+26
+DSC Decision Sciences
+28
+ECO Economics
+29
+EDL Educational Leadership
+32
+EDP Educational Psychology
+37
+EDT Teacher Education
+49
+EGR Manufacturing Engineering
+55
+ENG English
+56
+FIN Finance
+64
+FRE French
+67
+FST Film Studies
+70
+FSW Family Studies And Social Work
+71
+GEO Geography
+75
+GER German
+77
+GLG Geology
+78
+HST History
+81
+IES Environmental Sciences
+84
+ITL Italian
+85
+ITS International Studies
+86
+MBI Microbiology
+87
+MGT Management
+89
+MIS Management Information Systems
+92
+MKT Marketing
+95
+MTH Mathematics
+99
+MUS Music
+103
+PHL Philosophy
+104
+PHS Phy Edu, Hlth, & Sport Studies
+106
+PHY Physics
+112
+POL Political Science
+115
+PSY Psychology
+118
+REL Comparative Religion
+123
+SOC Sociology
+124
+SPA Speech Pathology & Audiology
+125
+SPN Spanish
+126
+STA Statistics
+128
+THE Theatre
+129
+ZOO Zoology
+130
+Middletown Campus
+136
+ACC Accountancy
+137
+ART Art
+139
+ATH Anthropology
+141
+BOT Botany
+143
+BTE Business Technology
+144
+CHM Chemistry & Biochemistry
+145
+COM Communication
+148
+CSA Computer Sci &Systems Analysis
+150
+DSC Decision Sciences
+152
+ECO Economics
+153
+EDL Educational Leadership
+154
+EDP Educational Psychology
+155

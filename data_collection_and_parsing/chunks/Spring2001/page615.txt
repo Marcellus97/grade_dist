@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Middletown Campus
+Page: 612 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 112 M L Sommers Jeffrey D. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+1
+1
+1
+1
+1
+1
+0
+2
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+2.65
+% 0.0 12.5 25.0 6.3 6.3 6.3 6.3 6.3 6.3 0.0 12.5 0.0 0.0 0.0 6.3 6.3 0.0 0.0 0.0 0.0 0.0
+ENG 112 M M Tayko D. G. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 0.0 60.0 20.0 10.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M N Tayko D. G. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+1
+2
+2
+0
+2
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+3.11
+% 0.0 29.4 17.6 5.9 11.8 11.8 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 5.9 5.9 0.0 0.0 0.0 0.0 0.0
+ENG 112 M O Cook Elizabeth S. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+0
+4
+2
+3
+2
+0
+0
+1
+0
+1
+1
+2
+2
+0
+0
+0
+0
+0
+2.44
+% 0.0 13.0 8.7 0.0 17.4 8.7 13.0 8.7 0.0 0.0 4.3 0.0 4.3 4.3 8.7 8.7 0.0 0.0 0.0 0.0 0.0
+ENG 112 M P Jakubovic Robert F. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+9
+2
+2
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 10.0 15.0 45.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M Q Heyda John F. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+6
+2
+2
+3
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+3.30
+% 22.7 27.3 9.1 9.1 13.6 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 9.1 0.0 0.0 0.0 0.0 0.0
+ENG 112 M R Jakubovic Robert F. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+5
+3
+2
+0
+1
+0
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.01
+% 0.0 18.2 18.2 22.7 13.6 9.1 0.0 4.5 0.0 9.1 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

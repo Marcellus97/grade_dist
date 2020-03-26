@@ -1,0 +1,304 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Oxford Campus
+Page: 301 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total GTY 154F
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+10
+9
+20
+5
+2
+3
+1
+0
+0
+0
+0
+1
+0
+2
+1
+0
+0
+0
+0
+3.04
+% 0.0 10.0 16.7 15.0 33.3 8.3 3.3 5.0 1.7 0.0 0.0 0.0 0.0 1.7 0.0 3.3 1.7 0.0 0.0 0.0 0.0
+GTY 318 A Wellin Christopher R. Sociology of Aging
+N
+N
+AU
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+3
+6
+2
+0
+0
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.51
+% 33.3 12.5 25.0 8.3 0.0 0.0 8.3 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0
+Course Total GTY 318
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+3
+6
+2
+0
+0
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.51
+% 33.3 12.5 25.0 8.3 0.0 0.0 8.3 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0
+GTY 456 A Kinney Jennifer M. Psychosocial Health and Aging
+N
+N
+HO
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+7
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 9.1 63.6 18.2 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GTY 456
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+7
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 9.1 63.6 18.2 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GTY 466 A Kinney Jennifer M. The Family In Later Life
+N
+N
+HP
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+5
+6
+7
+2
+3
+0
+0
+1
+0
+1
+0
+1
+0
+1
+0
+0
+0
+0
+2.75
+% 0.0 10.0 0.0 16.7 20.0 23.3 6.7 10.0 0.0 0.0 3.3 0.0 3.3 0.0 3.3 0.0 3.3 0.0 0.0 0.0 0.0
+Course Total GTY 466
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+5
+6
+7
+2
+3
+0
+0
+1
+0
+1
+0
+1
+0
+1
+0
+0
+0
+0
+2.75
+% 0.0 10.0 0.0 16.7 20.0 23.3 6.7 10.0 0.0 0.0 3.3 0.0 3.3 0.0 3.3 0.0 3.3 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

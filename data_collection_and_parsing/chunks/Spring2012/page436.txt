@@ -1,0 +1,303 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Oxford Campus
+Page: 432 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total MBI 121
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+12
+10
+10
+15
+12
+8
+4
+2
+2
+1
+0
+4
+0
+0
+0
+4
+1
+0
+0
+2.90
+% 0.0 15.0 12.0 10.0 10.0 15.0 12.0 8.0 4.0 2.0 2.0 1.0 0.0 4.0 0.0 0.0 0.0 4.0 1.0 0.0 0.0
+MBI 123 A Balish Rebecca S. Experimenting With Microbes
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+4
+5
+3
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3.13
+% 0.0 17.4 8.7 17.4 21.7 13.0 4.3 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.7 0.0 0.0 0.0
+MBI 123 B Lee Marcia R. Experimenting With Microbes
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+4
+2
+3
+2
+1
+0
+0
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.11
+% 0.0 13.0 21.7 17.4 8.7 13.0 8.7 4.3 0.0 0.0 4.3 0.0 0.0 4.3 0.0 0.0 0.0 4.3 0.0 0.0 0.0
+MBI 123 C Lee Marcia R. Experimenting With Microbes
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+3
+8
+1
+0
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.07
+% 0.0 20.8 8.3 12.5 33.3 4.2 0.0 8.3 4.2 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0
+MBI 123 D Balish Rebecca S. Experimenting With Microbes
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+6
+2
+1
+3
+1
+2
+2
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 4.2 16.7 25.0 8.3 4.2 12.5 4.2 8.3 8.3 0.0 0.0 0.0 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MBI 123
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+16
+15
+13
+16
+10
+4
+6
+4
+0
+2
+0
+1
+2
+0
+0
+0
+4
+0
+0
+0
+3.08
+% 1.1 17.0 16.0 13.8 17.0 10.6 4.3 6.4 4.3 0.0 2.1 0.0 1.1 2.1 0.0 0.0 0.0 4.3 0.0 0.0 0.0
+MBI 131 VA Abshire Kelly Z. Community Health Perspectives
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+16
+28
+23
+15
+2
+9
+1
+2
+0
+0
+0
+1
+0
+0
+0
+5
+0
+0
+0
+3.16
+% 0.0 15.0 13.3 23.3 19.2 12.5 1.7 7.5 0.8 1.7 0.0 0.0 0.0 0.8 0.0 0.0 0.0 4.2 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

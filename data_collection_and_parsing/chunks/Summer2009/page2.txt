@@ -1,0 +1,124 @@
+testCSA Computer Sci &Systems Analysis
+141
+ECO Economics
+142
+EDL Educational Leadership
+143
+EDP Educational Psychology
+144
+EDT Teacher Education
+145
+ENG English
+146
+ENT Engineering Technology
+148
+FST Film Studies
+149
+GLG Geology
+150
+HST History
+151
+KNH Kinesiology And Health
+153
+MBI Microbiology
+154
+MTH Mathematics
+155
+MUS Music
+157
+NSG Nursing
+158
+PHL Philosophy
+161
+PHY Physics
+162
+PSY Psychology
+164
+SOC Sociology
+165
+SPN Spanish
+166
+STA Statistics
+167
+THE Theatre
+168
+ZOO Zoology
+169
+Hamilton Campus
+170
+ACC Accountancy
+171
+ART Art
+172
+ATH Anthropology
+173
+BOT Botany
+175
+BTE Business Technology
+176
+BUS Business Analysis
+178
+CHI Chinese
+179
+CHM Chemistry & Biochemistry
+180
+CJS Criminal Justice Studies
+181
+CLS Classics
+182
+COM Communication
+183
+CSA Computer Sci &Systems Analysis
+184
+ECO Economics
+185
+EDL Educational Leadership
+186
+EDP Educational Psychology
+187
+EDT Teacher Education
+190
+ENG English
+192
+ENT Engineering Technology
+194
+FRE French
+195
+FSW Family Studies And Social Work
+196
+GEO Geography
+197
+GLG Geology
+198
+HST History
+199
+JRN Journalism
+201
+KNH Kinesiology And Health
+202
+MBI Microbiology
+203
+MGT Management
+204
+MKT Marketing
+205
+MTH Mathematics
+206
+MUS Music
+209
+NSG Nursing
+210
+PHY Physics
+211
+PSY Psychology
+212
+SOC Sociology
+213
+SPN Spanish
+214
+STA Statistics
+216
+THE Theatre
+217
+WMS Women'S Studies
+218

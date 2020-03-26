@@ -1,0 +1,306 @@
+testRun: 07/08/13 @ 16:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2012-13 Hamilton Campus
+Page: 775 Sections of 10
+COM Communication
+Miami Plan
+Honors
+Cross Listing
+COM 134 H A Shulman Carol H. Intro to Speech Communication
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+1
+4
+3
+0
+5
+1
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 4.2 25.0 4.2 16.7 12.5 0.0 20.8 4.2 4.2 0.0 4.2 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 134
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+1
+4
+3
+0
+5
+1
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 4.2 25.0 4.2 16.7 12.5 0.0 20.8 4.2 4.2 0.0 4.2 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 H A Shulman Carol H. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+2
+1
+2
+3
+1
+0
+0
+2
+0
+3
+4
+0
+0
+0
+0
+0
+0
+0
+2.38
+% 0.0 13.0 8.7 8.7 4.3 8.7 13.0 4.3 0.0 0.0 8.7 0.0 13.0 17.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 H B Shulman Carol H. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+5
+5
+2
+4
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+1
+0
+0
+2.37
+% 0.0 4.3 4.3 4.3 21.7 21.7 8.7 17.4 0.0 0.0 0.0 0.0 13.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0
+COM 135 H C Owens Maya J. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+8
+1
+1
+1
+1
+0
+1
+0
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.87
+% 0.0 17.4 4.3 34.8 4.3 4.3 4.3 4.3 0.0 4.3 0.0 0.0 8.7 13.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 H D Webb Stephanie D. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+6
+2
+0
+0
+1
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.32
+% 19.0 23.8 28.6 9.5 0.0 0.0 4.8 4.8 0.0 0.0 0.0 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 H E Derosa Karen L. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+5
+5
+2
+6
+0
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.41
+% 0.0 0.0 0.0 21.7 21.7 8.7 26.1 0.0 4.3 4.3 4.3 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

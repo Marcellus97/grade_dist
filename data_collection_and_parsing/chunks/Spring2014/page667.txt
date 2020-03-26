@@ -1,0 +1,255 @@
+testRun: 06/23/14 @ 07:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2013-14 Hamilton Campus
+Page: 663 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CSE 174
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+2
+3
+3
+2
+2
+3
+2
+0
+3
+3
+1
+10
+5
+0
+0
+0
+0
+0
+0
+0
+1.92
+% 7.1 4.8 7.1 7.1 4.8 4.8 7.1 4.8 0.0 7.1 7.1 2.4 23.8 11.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 262 H B Haake Mark R. Tech,Ethics & Global Society
+Y
+N
+0S
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 0.0 54.5 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSE 262
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 0.0 54.5 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 283 H A Werner Laurena A. Data Communications & Network
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+10
+1
+1
+2
+1
+0
+1
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.46
+% 9.5 47.6 4.8 4.8 9.5 4.8 0.0 4.8 0.0 0.0 0.0 0.0 4.8 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSE 283
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+10
+1
+1
+2
+1
+0
+1
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.46
+% 9.5 47.6 4.8 4.8 9.5 4.8 0.0 4.8 0.0 0.0 0.0 0.0 4.8 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Comp Sci &Software Engineering Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 12
+36
+15
+12
+24
+20
+18
+13
+4
+6
+11
+4
+35
+20
+0
+0
+1
+1
+0
+0
+0
+2.42
+% 5.2 15.5 6.5 5.2 10.3 8.6 7.8 5.6 1.7 2.6 4.7 1.7 15.1 8.6 0.0 0.0 0.4 0.4 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

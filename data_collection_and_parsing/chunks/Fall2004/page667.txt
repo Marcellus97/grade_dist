@@ -1,0 +1,306 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Middletown Campus
+Page: 664 Sections of 10
+GLG Geology
+Miami Plan
+Honors
+Cross Listing
+GLG 111 M A Morisen Krista L. The Dynamic Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+2
+1
+6
+9
+0
+1
+2
+2
+0
+1
+3
+1
+2
+0
+0
+0
+0
+0
+2.09
+% 0.0 0.0 3.2 6.5 3.2 19.4 29.0 0.0 3.2 6.5 6.5 0.0 3.2 9.7 3.2 6.5 0.0 0.0 0.0 0.0 0.0
+Course Total GLG 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+2
+1
+6
+9
+0
+1
+2
+2
+0
+1
+3
+1
+2
+0
+0
+0
+0
+0
+2.09
+% 0.0 0.0 3.2 6.5 3.2 19.4 29.0 0.0 3.2 6.5 6.5 0.0 3.2 9.7 3.2 6.5 0.0 0.0 0.0 0.0 0.0
+GLG 115L M A Morisen Krista L. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+1
+1
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 7.7 38.5 7.7 7.7 30.8 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 115L M B Morisen Krista L. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+0
+1
+5
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.50
+% 6.3 37.5 0.0 6.3 31.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 6.3 0.0 0.0 0.0
+Course Total GLG 115L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+11
+1
+2
+9
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.51
+% 6.9 37.9 3.4 6.9 31.0 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0 3.4 0.0 0.0 0.0
+GLG 121 M A Bamberger Mark J. Environmental Geology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+1
+1
+2
+0
+4
+3
+1
+2
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.35
+% 0.0 4.8 19.0 4.8 4.8 9.5 0.0 19.0 14.3 4.8 9.5 0.0 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 121 M C Elkin Robert R. Environmental Geology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+1
+3
+2
+1
+2
+1
+0
+1
+0
+0
+3
+0
+2
+0
+1
+0
+0
+0
+2.59
+% 0.0 22.7 0.0 4.5 13.6 9.1 4.5 9.1 4.5 0.0 4.5 0.0 0.0 13.6 0.0 9.1 0.0 4.5 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

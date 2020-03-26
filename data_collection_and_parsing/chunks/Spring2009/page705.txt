@@ -1,0 +1,348 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Hamilton Campus
+Page: 702 Sections of 10
+Course Total ART 171
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+9
+3
+0
+4
+4
+2
+2
+2
+1
+% 0.0 29.0 9.7 0.0 12.9 12.9 6.5 6.5 6.5 3.2
+ART 181 H A Purdum Jennifer V. Concepts In Art
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+8
+0
+0
+2
+0
+0
+0
+0
+0
+% 0.0 47.1 0.0 0.0 11.8 0.0 0.0 0.0 0.0 0.0
+ART 181 H B Smith Katherine K. Concepts In Art
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0 % 0.0
+2
+4
+3
+2
+2
+0
+10.5 21.1 15.8 10.5 10.5 0.0
+2
+2
+0
+10.5 10.5 0.0
+ART 181 H C Smith Katherine K. Concepts In Art
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+2
+4
+1
+0
+1
+1
+1
+0
+0
+0
+% 16.7 33.3 8.3 0.0 8.3 8.3 8.3 0.0 0.0 0.0
+ART 181 HWD Banta Gratia Concepts In Art
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+11
+1
+1
+0
+1
+0
+0
+0
+0
+% 5.0 55.0 5.0 5.0 0.0 5.0 0.0 0.0 0.0 0.0
+Course Total ART 181
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+3
+25
+6
+4
+5
+4
+1
+2
+2
+0
+% 4.4 36.8 8.8 5.9 7.4 5.9 1.5 2.9 2.9 0.0
+ART 188 H A Yamashiro Jennifer P. Hst Of West Art/Renais-Modern
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+2
+7
+0
+3
+5
+6
+0
+2
+4
+0
+% 5.4 18.9 0.0 8.1 13.5 16.2 0.0 5.4 10.8 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+2
+0
+11.8 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+3
+0
+15.0 0.0
+D
+D-
+5
+0
+7.4 0.0
+D
+D-
+0
+3
+0.0 8.1
+F
+W
+WP WF
+1
+3
+0
+0
+3.2 9.7 0.0 0.0
+F
+W
+WP WF
+2
+3
+0
+0
+11.8 17.6 0.0 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 10.5 0.0 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 16.7 0.0 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 10.0 0.0 0.0
+F
+W
+WP WF
+2
+9
+0
+0
+2.9 13.2 0.0 0.0
+F
+W
+WP WF
+0
+5
+0
+0
+0.0 13.5 0.0 0.0
+Miami Plan
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.97
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.86
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.03
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.57
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.37
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.18
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.81
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

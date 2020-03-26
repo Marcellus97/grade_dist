@@ -1,0 +1,307 @@
+testRun: 01/20/09 @ 12:44 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2008-09 Oxford Campus
+Page: 330 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+HST 122 A Chandler Dewitt S. Western Civilization
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+14
+1
+14
+8
+2
+6
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+3.06
+% 0.0 11.3 26.4 1.9 26.4 15.1 3.8 11.3 0.0 0.0 0.0 0.0 1.9 0.0 0.0 0.0 0.0 1.9 0.0 0.0 0.0
+Course Total HST 122
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+14
+1
+14
+8
+2
+6
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+3.06
+% 0.0 11.3 26.4 1.9 26.4 15.1 3.8 11.3 0.0 0.0 0.0 0.0 1.9 0.0 0.0 0.0 0.0 1.9 0.0 0.0 0.0
+HST 197 AA Gordon Matthew S. World History to 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+1
+3
+6
+2
+2
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 0.0 5.0 15.0 5.0 15.0 30.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 197 BA Gordon Matthew S. World History to 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+2
+4
+6
+5
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 0.0 9.1 4.5 9.1 18.2 27.3 22.7 0.0 4.5 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 197 BB Uhlman James T. World History to 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+3
+6
+10
+5
+5
+6
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 15.2 6.5 13.0 21.7 10.9 10.9 13.0 2.2 4.3 0.0 0.0 0.0 2.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 197 CA Gordon Matthew S. World History to 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+6
+4
+4
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 4.3 8.7 26.1 17.4 17.4 26.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 197 DA Gordon Matthew S. World History to 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+1
+10
+4
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 4.8 14.3 4.8 47.6 19.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

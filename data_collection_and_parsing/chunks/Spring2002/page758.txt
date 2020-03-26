@@ -1,0 +1,325 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Hamilton Campus
+Page: 755 Sections of 10
+MGT Management
+Miami Plan
+Honors
+Cross Listing
+MGT 291 H A Allen Paul S. Organizational Behavior&Theory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+0
+10
+8
+4
+5
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.56
+% 0.0 3.2 3.2 0.0 32.3 25.8 12.9 16.1 0.0 0.0 3.2 0.0 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 291
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+0
+10
+8
+4
+5
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.56
+% 0.0 3.2 3.2 0.0 32.3 25.8 12.9 16.1 0.0 0.0 3.2 0.0 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0
+MGT 302 H A Bouvin Christopher J. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+22
+0
+0
+5
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.87
+% 0.0 9.4 0.0 0.0 68.8 0.0 0.0 15.6 0.0 0.0 3.1 0.0 0.0 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 302
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+22
+0
+0
+5
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.87
+% 0.0 9.4 0.0 0.0 68.8 0.0 0.0 15.6 0.0 0.0 3.1 0.0 0.0 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 654 H A Hattersley Thomas J. Human Resource Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+1
+4
+6
+2
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 8.0 24.0 4.0 16.0 24.0 8.0 0.0 16.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 654
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+1
+4
+6
+2
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 8.0 24.0 4.0 16.0 24.0 8.0 0.0 16.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Management Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+4
+1
+0
+32
+8
+4
+10
+0
+0
+2
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+2.72
+% 0.0 6.3 1.6 0.0 50.8 12.7 6.3 15.9 0.0 0.0 3.2 0.0 0.0 1.6 0.0 1.6 0.0 0.0 0.0 0.0 0.0
+GR 2
+6
+1
+4
+6
+2
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 8.0 24.0 4.0 16.0 24.0 8.0 0.0 16.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

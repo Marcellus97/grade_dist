@@ -1,0 +1,174 @@
+testRun: 01/09/12 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Semester, 2010-11 Hamilton Campus
+Page: 206 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 313 HVA Lacey Kathryn C. Intro To Technical Writing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+1
+0
+3
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.22
+% 0.0 38.5 15.4 7.7 0.0 23.1 7.7 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 313 HWB Lacey Kathryn C. Intro To Technical Writing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+2
+2
+0
+2
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 0.0 0.0 27.3 18.2 18.2 0.0 18.2 9.1 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 313
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+8
+11
+3
+2
+3
+3
+1
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 8.3 22.2 30.6 8.3 5.6 8.3 8.3 2.8 0.0 0.0 0.0 2.8 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+English Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 5
+57
+36
+11
+7
+13
+7
+8
+0
+1
+2
+2
+12
+22
+0
+0
+0
+8
+1
+0
+0
+3.17
+% 2.6 29.7 18.8 5.7 3.6 6.8 3.6 4.2 0.0 0.5 1.0 1.0 6.3 11.5 0.0 0.0 0.0 4.2 0.5 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

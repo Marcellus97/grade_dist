@@ -1,0 +1,304 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Hamilton Campus
+Page: 811 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 133 H A Royer Diana A. Life&Thought In English Lit
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+2
+2
+2
+2
+0
+0
+1
+0
+0
+0
+1
+4
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 11.8 5.9 11.8 11.8 11.8 11.8 0.0 0.0 5.9 0.0 0.0 0.0 5.9 23.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 133
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+2
+2
+2
+2
+0
+0
+1
+0
+0
+0
+1
+4
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 11.8 5.9 11.8 11.8 11.8 11.8 0.0 0.0 5.9 0.0 0.0 0.0 5.9 23.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 134 H A Kickel Katherine E. Introduction To Shakespeare
+Y
+N
+0S
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+2
+2
+2
+2
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 6.7 26.7 13.3 13.3 13.3 13.3 0.0 0.0 0.0 0.0 0.0 0.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 134
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+2
+2
+2
+2
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 6.7 26.7 13.3 13.3 13.3 13.3 0.0 0.0 0.0 0.0 0.0 0.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 151 H A Middendorf-Samocki Michelle L. Intro to Critical Reading
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+2
+0
+3
+2
+0
+2
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 7.1 7.1 14.3 0.0 21.4 14.3 0.0 14.3 7.1 0.0 0.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 151 HWA Middendorf-Samocki Michelle L. Intro to Critical Reading
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+4
+1
+1
+2
+1
+1
+1
+0
+1
+0
+1
+13
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 0.0 15.4 3.8 3.8 7.7 3.8 3.8 3.8 0.0 3.8 0.0 3.8 50.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 151 HWB Simmons Nancy E. Intro to Critical Reading
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+1
+0
+1
+0
+0
+0
+1
+1
+0
+1
+2
+5
+0
+0
+0
+0
+0
+0
+0
+1.80
+% 7.7 0.0 7.7 0.0 7.7 0.0 0.0 0.0 7.7 7.7 0.0 7.7 15.4 38.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

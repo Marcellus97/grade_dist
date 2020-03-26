@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2002-03 Oxford Campus
+Page: 132 Sections of 10
+SPN Spanish
+Miami Plan
+Honors
+Cross Listing
+SPN 101 MA Ortiz Mario A. Beginners Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+2
+0
+1
+0
+1
+2
+1
+0
+1
+1
+1
+2
+1
+0
+0
+0
+0
+0
+2.03
+% 0.0 6.7 6.7 13.3 0.0 6.7 0.0 6.7 13.3 6.7 0.0 6.7 6.7 6.7 13.3 6.7 0.0 0.0 0.0 0.0 0.0
+Course Total SPN 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+2
+0
+1
+0
+1
+2
+1
+0
+1
+1
+1
+2
+1
+0
+0
+0
+0
+0
+2.03
+% 0.0 6.7 6.7 13.3 0.0 6.7 0.0 6.7 13.3 6.7 0.0 6.7 6.7 6.7 13.3 6.7 0.0 0.0 0.0 0.0 0.0
+SPN 102 OA Ianes Raul Beginners Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+5
+1
+5
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.55
+% 25.0 25.0 5.0 25.0 0.0 5.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0
+Course Total SPN 102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+5
+1
+5
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.55
+% 25.0 25.0 5.0 25.0 0.0 5.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0
+SPN 201 MA Rojas-Miesse Nohelia Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+2
+2
+0
+0
+2
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.62
+% 0.0 10.0 0.0 20.0 20.0 0.0 0.0 20.0 10.0 10.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 201 MB Layera Ramon Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+0
+1
+1
+0
+3
+0
+0
+1
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+1.83
+% 0.0 0.0 18.2 0.0 9.1 9.1 0.0 27.3 0.0 0.0 9.1 0.0 9.1 0.0 0.0 18.2 0.0 0.0 0.0 0.0 0.0
+Course Total SPN 201
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+2
+3
+1
+0
+5
+1
+1
+1
+0
+1
+0
+1
+2
+0
+0
+0
+0
+0
+2.19
+% 0.0 4.8 9.5 9.5 14.3 4.8 0.0 23.8 4.8 4.8 4.8 0.0 4.8 0.0 4.8 9.5 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

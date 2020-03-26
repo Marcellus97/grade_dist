@@ -1,0 +1,302 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2002-03 Oxford Campus
+Page: 108 Sections of 10
+PHL Philosophy
+Miami Plan
+Honors
+Cross Listing
+PHL 103 MA Pappu S. S. R. Society And The Individual
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+4
+1
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+3.43
+% 6.7 6.7 26.7 6.7 33.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 20.0 0.0 0.0 0.0
+Course Total PHL 103
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+4
+1
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+3.43
+% 6.7 6.7 26.7 6.7 33.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 20.0 0.0 0.0 0.0
+PHL 105 OA Goldman Michael Theories Of Human Nature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+5
+2
+1
+5
+3
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+2.85
+% 0.0 0.0 23.8 9.5 4.8 23.8 14.3 9.5 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.5 0.0 0.0 0.0
+Course Total PHL 105
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+5
+2
+1
+5
+3
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+2.85
+% 0.0 0.0 23.8 9.5 4.8 23.8 14.3 9.5 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.5 0.0 0.0 0.0
+PHL 273 MA Seidel Asher Formal Logic
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+7
+1
+0
+1
+1
+0
+1
+0
+0
+2
+2
+1
+0
+2
+0
+0
+0
+2.69
+% 0.0 4.5 9.1 4.5 31.8 4.5 0.0 4.5 4.5 0.0 4.5 0.0 0.0 9.1 9.1 4.5 0.0 9.1 0.0 0.0 0.0
+Course Total PHL 273
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+7
+1
+0
+1
+1
+0
+1
+0
+0
+2
+2
+1
+0
+2
+0
+0
+0
+2.69
+% 0.0 4.5 9.1 4.5 31.8 4.5 0.0 4.5 4.5 0.0 4.5 0.0 0.0 9.1 9.1 4.5 0.0 9.1 0.0 0.0 0.0
+Philosophy Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+2
+11
+4
+13
+6
+3
+3
+2
+0
+1
+0
+0
+2
+2
+1
+0
+7
+0
+0
+0
+2.94
+% 1.7 3.4 19.0 6.9 22.4 10.3 5.2 5.2 3.4 0.0 1.7 0.0 0.0 3.4 3.4 1.7 0.0 12.1 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

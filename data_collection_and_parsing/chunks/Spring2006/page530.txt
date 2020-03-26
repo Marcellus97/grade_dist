@@ -1,0 +1,303 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 527 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+SOC 454 A Lippmann Stephen Formal Organization
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+7
+2
+5
+2
+0
+3
+0
+0
+0
+0
+1
+4
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 0.0 11.1 25.9 7.4 18.5 7.4 0.0 11.1 0.0 0.0 0.0 0.0 3.7 14.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SOC 454
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+7
+2
+5
+2
+0
+3
+0
+0
+0
+0
+1
+4
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 0.0 11.1 25.9 7.4 18.5 7.4 0.0 11.1 0.0 0.0 0.0 0.0 3.7 14.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 459 A Phillips Kay P. Sociology Capstone
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+8
+4
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+3.52
+% 0.0 13.6 36.4 18.2 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 13.6 0.0 0.0 0.0 0.0
+Course Total SOC 459
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+8
+4
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+3.52
+% 0.0 13.6 36.4 18.2 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 13.6 0.0 0.0 0.0 0.0
+SOC 482 A Lippmann Stephen Sociological Theory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+4
+11
+3
+0
+3
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 0.0 12.9 12.9 12.9 35.5 9.7 0.0 9.7 0.0 0.0 3.2 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SOC 482
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+4
+11
+3
+0
+3
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 0.0 12.9 12.9 12.9 35.5 9.7 0.0 9.7 0.0 0.0 3.2 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 490 A Bulanda Ronald E. Horizons Of Sociology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+3
+1
+1
+3
+1
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 5.3 26.3 15.8 5.3 5.3 15.8 5.3 15.8 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 16 Sections of 10
+AER Aeronautics
+Miami Plan
+Honors
+Cross Listing
+AER 101 A Tamplin Gordon C. Introduction To Aeronautics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+20
+0
+0
+18
+0
+0
+6
+0
+0
+2
+0
+1
+6
+1
+0
+0
+3
+0
+0
+0
+3.15
+% 0.0 35.1 0.0 0.0 31.6 0.0 0.0 10.5 0.0 0.0 3.5 0.0 1.8 10.5 1.8 0.0 0.0 5.3 0.0 0.0 0.0
+Course Total AER 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+20
+0
+0
+18
+0
+0
+6
+0
+0
+2
+0
+1
+6
+1
+0
+0
+3
+0
+0
+0
+3.15
+% 0.0 35.1 0.0 0.0 31.6 0.0 0.0 10.5 0.0 0.0 3.5 0.0 1.8 10.5 1.8 0.0 0.0 5.3 0.0 0.0 0.0
+AER 118 A Schroeder Tom C. Intro To Atmospheric Science
+Y
+N
+AW
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+23
+0
+0
+48
+2
+0
+23
+1
+0
+4
+1
+0
+0
+1
+0
+0
+7
+0
+0
+0
+2.88
+% 0.0 20.9 0.0 0.0 43.6 1.8 0.0 20.9 0.9 0.0 3.6 0.9 0.0 0.0 0.9 0.0 0.0 6.4 0.0 0.0 0.0
+Course Total AER 118
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+23
+0
+0
+48
+2
+0
+23
+1
+0
+4
+1
+0
+0
+1
+0
+0
+7
+0
+0
+0
+2.88
+% 0.0 20.9 0.0 0.0 43.6 1.8 0.0 20.9 0.9 0.0 3.6 0.9 0.0 0.0 0.9 0.0 0.0 6.4 0.0 0.0 0.0
+AER 121 VA Schroeder Tom C. Flight Fundamentals
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+6
+2
+0
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 25.0 0.0 0.0 37.5 12.5 0.0 12.5 6.3 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total AER 121
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+6
+2
+0
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 25.0 0.0 0.0 37.5 12.5 0.0 12.5 6.3 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+AER 321 A Church Christopher R. Aerodynamics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+2
+1
+0
+2
+1
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+2.26
+% 0.0 9.1 9.1 18.2 9.1 0.0 18.2 9.1 0.0 0.0 9.1 0.0 0.0 0.0 0.0 18.2 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

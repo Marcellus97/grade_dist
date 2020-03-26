@@ -1,0 +1,306 @@
+testRun: 07/08/13 @ 16:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2012-13 Oxford Campus
+Page: 353 Sections of 10
+IMS Interactive Media Studies
+Miami Plan
+Honors
+Cross Listing
+IMS 201 A Hartsell-Gundy Arianne A. Information Studies:DigitalAge
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+4
+2
+6
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 0.0 45.8 16.7 8.3 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IMS 201 B Revelle Andrew A. Information Studies:DigitalAge
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+19
+4
+2
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 0.0 70.4 14.8 7.4 0.0 0.0 0.0 3.7 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IMS 201 C Kromer John D. Information Studies:DigitalAge
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+3
+10
+3
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.00
+% 0.0 11.5 7.7 11.5 38.5 11.5 3.8 7.7 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0
+IMS 201 D Withers Robert E. Information Studies:DigitalAge
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+13
+8
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 0.0 15.4 50.0 30.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IMS 201 E Millard John Information Studies:DigitalAge
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+13
+6
+2
+1
+1
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 0.0 7.4 48.1 22.2 7.4 3.7 3.7 0.0 0.0 0.0 0.0 3.7 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total IMS 201
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+39
+36
+21
+18
+4
+2
+3
+0
+2
+0
+1
+2
+1
+0
+0
+0
+1
+0
+0
+0
+3.42
+% 0.0 30.0 27.7 16.2 13.8 3.1 1.5 2.3 0.0 1.5 0.0 0.8 1.5 0.8 0.0 0.0 0.0 0.8 0.0 0.0 0.0
+IMS 211 A Soderman Anton B. The Analysis of Play
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+3
+8
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 0.0 8.7 26.1 13.0 34.8 4.3 4.3 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

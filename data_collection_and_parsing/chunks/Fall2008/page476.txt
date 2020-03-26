@@ -1,0 +1,304 @@
+testRun: 01/20/09 @ 12:44 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2008-09 Oxford Campus
+Page: 473 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MTH 331T A Farmer Thomas A. Discrete Mathematics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+1
+0
+5
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.32
+% 0.0 40.0 6.7 0.0 33.3 13.3 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 331T
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+1
+0
+5
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.32
+% 0.0 40.0 6.7 0.0 33.3 13.3 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 347 A Ishiu Tetsuya Differential Equations
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+2
+3
+3
+0
+1
+1
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 5.6 22.2 11.1 16.7 16.7 0.0 5.6 5.6 0.0 0.0 11.1 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 347 B Ishiu Tetsuya Differential Equations
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+4
+2
+1
+1
+2
+0
+3
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 15.8 21.1 10.5 5.3 5.3 10.5 0.0 15.8 5.3 0.0 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 347
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+8
+4
+4
+4
+2
+1
+4
+1
+0
+3
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 10.8 21.6 10.8 10.8 10.8 5.4 2.7 10.8 2.7 0.0 8.1 0.0 2.7 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 407 A Harper Suzanne R. Mathematical Structres-Inquiry
+N
+N
+R5
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+1
+4
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.51
+% 0.0 40.0 6.7 26.7 20.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 407
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+1
+4
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.51
+% 0.0 40.0 6.7 26.7 20.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

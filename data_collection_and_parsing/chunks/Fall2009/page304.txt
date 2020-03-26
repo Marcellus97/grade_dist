@@ -1,0 +1,303 @@
+testRun: 01/21/10 @ 13:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2009-10 Oxford Campus
+Page: 300 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+GLG 141 A Holm Paul E. Geology Of US National Parks
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+5
+7
+20
+14
+7
+11
+9
+3
+9
+5
+5
+8
+0
+0
+0
+6
+0
+0
+0
+2.36
+% 0.8 6.8 4.2 5.9 16.9 11.9 5.9 9.3 7.6 2.5 7.6 4.2 4.2 6.8 0.0 0.0 0.0 5.1 0.0 0.0 0.0
+Course Total GLG 141
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+5
+7
+20
+14
+7
+11
+9
+3
+9
+5
+5
+8
+0
+0
+0
+6
+0
+0
+0
+2.36
+% 0.8 6.8 4.2 5.9 16.9 11.9 5.9 9.3 7.6 2.5 7.6 4.2 4.2 6.8 0.0 0.0 0.0 5.1 0.0 0.0 0.0
+GLG 141H A Sikorski Janelle Geology Of US National Parks
+Y
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+16
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.92
+% 9.5 76.2 9.5 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GLG 141H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+16
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.92
+% 9.5 76.2 9.5 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 201 A Rakovan John Mineralogy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+5
+3
+1
+4
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.86
+% 0.0 15.8 0.0 26.3 15.8 5.3 21.1 10.5 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GLG 201
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+5
+3
+1
+4
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.86
+% 0.0 15.8 0.0 26.3 15.8 5.3 21.1 10.5 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 204 A Currano Ellen D. Earth History
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+3
+1
+0
+0
+0
+1
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 7.7 30.8 23.1 7.7 0.0 0.0 0.0 7.7 7.7 0.0 7.7 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

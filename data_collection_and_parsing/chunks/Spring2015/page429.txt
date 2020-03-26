@@ -1,0 +1,228 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Oxford Campus
+Page: 425 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+KNH 654 A Kimiecik John C. Physical Activity Motivation
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 0.0 89.5 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 654
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 0.0 89.5 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 673 A Horn Thelma S. Dev Perspc Yth Sprt Partcptn
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+5
+0
+3
+0
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 0.0 35.3 29.4 0.0 17.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 673
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+5
+0
+3
+0
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 0.0 35.3 29.4 0.0 17.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Kinesiology And Health Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 105 1,290 544 332 454 222 161 183 74
+37
+52
+28
+23
+95
+0
+0
+0
+1,744 71
+0
+0
+3.32
+% 1.9 23.8 10.0 6.1 8.4 4.1 3.0 3.4 1.4 0.7 1.0 0.5 0.4 1.8 0.0 0.0 0.0 32.2 1.3 0.0 0.0
+GR 2
+46
+18
+11
+8
+2
+2
+1
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.64
+% 2.2 49.5 19.4 11.8 8.6 2.2 2.2 1.1 0.0 0.0 0.0 0.0 1.1 2.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

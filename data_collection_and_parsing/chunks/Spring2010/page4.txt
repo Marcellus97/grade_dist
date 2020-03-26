@@ -1,0 +1,30 @@
+testMKT Marketing
+833
+MTH Mathematics
+834
+MUS Music
+843
+NSG Nursing
+845
+PHL Philosophy
+850
+PHY Physics
+851
+POL Political Science
+854
+PSY Psychology
+856
+REL Religion, Comparative
+858
+SOC Sociology
+859
+SPN Spanish
+861
+STA Statistics
+863
+THE Theatre
+865
+WMS Women'S Studies
+867
+ZOO Zoology
+868

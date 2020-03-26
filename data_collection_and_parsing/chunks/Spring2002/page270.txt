@@ -1,0 +1,306 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 267 Sections of 10
+FSW Family Studies And Social Work
+Miami Plan
+Honors
+Cross Listing
+FSW 160 A Uyeda Summer N. Fam Relatns:Hstrcl&Cmprtv Anly
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+31
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.88
+% 0.0 88.6 0.0 0.0 5.7 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0
+FSW 160 B Tindal Catherine K. Fam Relatns:Hstrcl&Cmprtv Anly
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+30
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.94
+% 0.0 90.9 0.0 0.0 6.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.0 0.0 0.0 0.0
+Course Total FSW 160
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+61
+0
+0
+4
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3.91
+% 0.0 89.7 0.0 0.0 5.9 0.0 0.0 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0
+FSW 162 A Townsend Christy M. Men In Families: Crit Analysis
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+10
+5
+3
+2
+2
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 38.5 19.2 11.5 7.7 7.7 7.7 3.8 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 162 B Woods Joi R. Men In Families: Crit Analysis
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+0
+0
+3
+0
+0
+2
+0
+0
+0
+0
+0
+3
+0
+0
+0
+1
+0
+0
+0
+3.70
+% 0.0 66.7 0.0 0.0 11.1 0.0 0.0 7.4 0.0 0.0 0.0 0.0 0.0 11.1 0.0 0.0 0.0 3.7 0.0 0.0 0.0
+Course Total FSW 162
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+10
+23
+3
+2
+5
+2
+1
+2
+1
+0
+0
+0
+0
+3
+0
+0
+0
+1
+0
+0
+0
+3.63
+% 18.9 43.4 5.7 3.8 9.4 3.8 1.9 3.8 1.9 0.0 0.0 0.0 0.0 5.7 0.0 0.0 0.0 1.9 0.0 0.0 0.0
+FSW 201 A Joseph Alfred L. Introduction To Social Work
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+9
+7
+9
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+3.47
+% 0.0 22.2 25.0 19.4 25.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.8 0.0 0.0 2.8 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

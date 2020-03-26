@@ -1,0 +1,303 @@
+testRun: 01/21/10 @ 13:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2009-10 Oxford Campus
+Page: 105 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CLS 212 A Rose Peter W. Greek And Roman Tragedy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+7
+4
+0
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.35
+% 0.0 9.1 27.3 31.8 18.2 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CLS 212
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+7
+4
+0
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.35
+% 0.0 9.1 27.3 31.8 18.2 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CLS 232 A Tuck Steven L. Discoveries of Archaeology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+4
+4
+3
+1
+0
+0
+1
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 30.4 17.4 17.4 13.0 4.3 0.0 0.0 4.3 0.0 0.0 0.0 4.3 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CLS 232
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+4
+4
+3
+1
+0
+0
+1
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 30.4 17.4 17.4 13.0 4.3 0.0 0.0 4.3 0.0 0.0 0.0 4.3 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CLS 316 A Torlone Zara M. Greek And Roman Lyric Poetry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+4
+4
+2
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 7.1 7.1 28.6 28.6 14.3 0.0 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CLS 316
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+4
+4
+2
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 7.1 7.1 28.6 28.6 14.3 0.0 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CLS 332 A Tuck Steven L. Mythology and the Arts
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+4
+2
+3
+3
+1
+2
+0
+0
+1
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 28.6 14.3 7.1 10.7 10.7 3.6 7.1 0.0 0.0 3.6 3.6 0.0 10.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

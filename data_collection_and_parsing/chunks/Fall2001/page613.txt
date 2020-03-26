@@ -1,0 +1,237 @@
+testRun: 06/30/04 @ 15:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2001-02 Middletown Campus
+Page: 610 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CHM 627C M A Sarquis Arlyne M. Science Literature Integration
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+113 0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.98
+% 0.0 98.3 0.0 0.0 1.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 627C
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+113 0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.98
+% 0.0 98.3 0.0 0.0 1.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 629 M A Sarquis Arlyne M. Research for Teachers:Chem Edu
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+69
+3
+1
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+17
+6
+0
+0
+0
+3.94
+% 0.0 69.7 3.0 1.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 17.2 6.1 0.0 0.0 0.0
+Course Total CHM 629
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+69
+3
+1
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+17
+6
+0
+0
+0
+3.94
+% 0.0 69.7 3.0 1.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 17.2 6.1 0.0 0.0 0.0
+Chemistry & Biochemistry Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+54
+2
+3
+51
+5
+6
+49
+5
+1
+23
+1
+15
+13
+29
+13
+0
+1
+0
+0
+0
+2.39
+% 0.0 19.9 0.7 1.1 18.8 1.8 2.2 18.1 1.8 0.4 8.5 0.4 5.5 4.8 10.7 4.8 0.0 0.4 0.0 0.0 0.0
+GR 1
+287 4
+2
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+18
+6
+0
+0
+0
+3.97
+% 0.3 88.6 1.2 0.6 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.3 0.0 5.6 1.9 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

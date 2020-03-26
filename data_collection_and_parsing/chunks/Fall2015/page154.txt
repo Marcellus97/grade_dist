@@ -1,0 +1,297 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 150 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CSE 148
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+121 114 62
+135 44
+26
+44
+21
+5
+19
+3
+17
+14
+0
+0
+1
+0
+0
+0
+0
+3.02
+% 0.0 19.3 18.2 9.9 21.6 7.0 4.2 7.0 3.4 0.8 3.0 0.5 2.7 2.2 0.0 0.0 0.2 0.0 0.0 0.0 0.0
+CSE 151 A Ferrenberg Alan M. Computers, Comp Sci & Society
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+4
+2
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.35
+% 0.0 33.3 11.1 22.2 11.1 11.1 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSE 151
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+4
+2
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.35
+% 0.0 33.3 11.1 22.2 11.1 11.1 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 163 A Magimai Sagaya Premila Intro-Computer Concepts & Prog
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+4
+4
+8
+3
+3
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 17.2 13.8 13.8 27.6 10.3 10.3 0.0 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSE 163
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+4
+4
+8
+3
+3
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 17.2 13.8 13.8 27.6 10.3 10.3 0.0 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 174 A Kiper James D. Fundmntls-Progrming&Prob Solvg
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+6
+5
+10
+1
+4
+3
+2
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.76
+% 0.0 8.1 16.2 13.5 27.0 2.7 10.8 8.1 5.4 0.0 0.0 0.0 8.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 174 B Kiper James D. Fundmntls-Progrming&Prob Solvg
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+4
+6
+2
+2
+3
+2
+1
+0
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 14.7 11.8 11.8 17.6 5.9 5.9 8.8 5.9 2.9 0.0 2.9 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

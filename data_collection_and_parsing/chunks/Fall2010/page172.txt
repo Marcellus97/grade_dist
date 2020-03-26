@@ -1,0 +1,301 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Oxford Campus
+Page: 168 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ECE 306
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+1
+0
+0
+5
+0
+0
+5
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 27.8 5.6 0.0 0.0 27.8 0.0 0.0 27.8 0.0 0.0 5.6 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 325 A Garmatyuk Dmitriy Applied Electromagnetics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+1
+0
+3
+2
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.98
+% 0.0 33.3 6.7 0.0 20.0 13.3 13.3 6.7 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECE 325
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+1
+0
+3
+2
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.98
+% 0.0 33.3 6.7 0.0 20.0 13.3 13.3 6.7 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 345 A Zhou Qihou Random Signal Processing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+1
+1
+0
+1
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 18.2 27.3 9.1 9.1 0.0 9.1 0.0 18.2 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECE 345
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+1
+1
+0
+1
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 18.2 27.3 9.1 9.1 0.0 9.1 0.0 18.2 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 448 A Ucci Donald R. Senior Design Project
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+10
+6
+1
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 16.7 41.7 25.0 4.2 4.2 4.2 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECE 448
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+10
+6
+1
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 16.7 41.7 25.0 4.2 4.2 4.2 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

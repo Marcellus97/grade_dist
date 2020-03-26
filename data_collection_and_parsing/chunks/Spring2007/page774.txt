@@ -1,0 +1,214 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Hamilton Campus
+Page: 771 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MTH 231 H A Horton Stacy A. Elements Of Discrete Math
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+1
+3
+1
+1
+1
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.28
+% 0.0 16.7 0.0 8.3 25.0 8.3 8.3 8.3 0.0 0.0 0.0 0.0 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 231
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+1
+3
+1
+1
+1
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.28
+% 0.0 16.7 0.0 8.3 25.0 8.3 8.3 8.3 0.0 0.0 0.0 0.0 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 251 H A Sobecki David M. Calculus II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+1
+1
+5
+2
+1
+5
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.70
+% 4.5 13.6 4.5 4.5 22.7 9.1 4.5 22.7 0.0 0.0 4.5 0.0 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 251
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+1
+1
+5
+2
+1
+5
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.70
+% 4.5 13.6 4.5 4.5 22.7 9.1 4.5 22.7 0.0 0.0 4.5 0.0 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Mathematics Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 13
+41
+14
+21
+72
+19
+38
+54
+27
+14
+37
+18
+53
+117 0
+0
+1
+151 144 0
+0
+2.17
+% 1.6 4.9 1.7 2.5 8.6 2.3 4.6 6.5 3.2 1.7 4.4 2.2 6.4 14.0 0.0 0.0 0.1 18.1 17.3 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,302 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 420 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total PHS 150E
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+28
+147 43
+0
+58
+1
+0
+2
+0
+0
+0
+0
+1
+8
+2
+2
+2
+1
+0
+0
+0
+3.69
+% 9.5 49.8 14.6 0.0 19.7 0.3 0.0 0.7 0.0 0.0 0.0 0.0 0.3 2.7 0.7 0.7 0.7 0.3 0.0 0.0 0.0
+PHS 150F TA Arrigon James R. Intermediate Horseback Riding
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+16
+3
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.83
+% 20.0 53.3 10.0 0.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 150F UA Arrigon James R. Intermediate Horseback Riding
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+37
+12
+0
+10
+1
+0
+4
+0
+0
+0
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+3.61
+% 5.6 52.1 16.9 0.0 14.1 1.4 0.0 5.6 0.0 0.0 0.0 0.0 0.0 1.4 0.0 1.4 1.4 0.0 0.0 0.0 0.0
+Course Total PHS 150F
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+10
+53
+15
+0
+14
+1
+0
+4
+0
+0
+0
+0
+0
+1
+1
+1
+1
+0
+0
+0
+0
+3.68
+% 9.9 52.5 14.9 0.0 13.9 1.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 1.0 1.0 1.0 1.0 0.0 0.0 0.0 0.0
+PHS 150G UA Arrigon James R. Advanced Horseback Riding
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+0
+6
+1
+0
+1
+0
+0
+0
+0
+1
+1
+1
+1
+0
+0
+0
+0
+0
+2.51
+% 0.0 0.0 14.3 0.0 42.9 7.1 0.0 7.1 0.0 0.0 0.0 0.0 7.1 7.1 7.1 7.1 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 150G
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+0
+6
+1
+0
+1
+0
+0
+0
+0
+1
+1
+1
+1
+0
+0
+0
+0
+0
+2.51
+% 0.0 0.0 14.3 0.0 42.9 7.1 0.0 7.1 0.0 0.0 0.0 0.0 7.1 7.1 7.1 7.1 0.0 0.0 0.0 0.0 0.0
+PHS 170A TA Gebert Kimberly A. Swimming
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+4
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 0.0 60.0 16.0 4.0 8.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,241 @@
+testRun: 12/01/08 @ 14:45 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2007-08 Middletown Campus
+Page: 137 Sections of 10
+BOT Botany
+Miami Plan
+Honors
+Cross Listing
+BOT 155 MMA Keiffer Carolyn H. Field Botany
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+2
+1
+0
+0
+0
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+1
+0
+0
+0
+3.51
+% 0.0 58.8 11.8 5.9 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 5.9 5.9 0.0 0.0 0.0 5.9 0.0 0.0 0.0
+Course Total BOT 155
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+2
+1
+0
+0
+0
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+1
+0
+0
+0
+3.51
+% 0.0 58.8 11.8 5.9 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 5.9 5.9 0.0 0.0 0.0 5.9 0.0 0.0 0.0
+BOT 699C MNA Keiffer Carolyn H. Botany for Teachers
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+4
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 0.0 50.0 25.0 6.3 6.3 6.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BOT 699C
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+4
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 0.0 50.0 25.0 6.3 6.3 6.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Botany Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+10
+2
+1
+0
+0
+0
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+1
+0
+0
+0
+3.51
+% 0.0 58.8 11.8 5.9 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 5.9 5.9 0.0 0.0 0.0 5.9 0.0 0.0 0.0
+GR 0
+8
+4
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 0.0 50.0 25.0 6.3 6.3 6.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

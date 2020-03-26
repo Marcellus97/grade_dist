@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 339 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MIS 385 C Rajkumar T. M. Mgt Info & Decision Sup Systm
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+2
+7
+5
+2
+7
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.65
+% 0.0 0.0 7.4 7.4 25.9 18.5 7.4 25.9 3.7 0.0 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 385 E Robb George L. Mgt Info & Decision Sup Systm
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+9
+5
+10
+7
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.44
+% 10.8 24.3 13.5 27.0 18.9 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.7 0.0 0.0 0.0 0.0 0.0
+MIS 385 F Young Larry D. Mgt Info & Decision Sup Systm
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+13
+12
+3
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 0.0 5.4 10.8 35.1 32.4 8.1 2.7 0.0 0.0 0.0 0.0 0.0 5.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MIS 385
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+10
+28
+34
+37
+42
+9
+4
+8
+1
+0
+0
+0
+2
+0
+1
+1
+0
+0
+0
+0
+0
+3.28
+% 5.6 15.8 19.2 20.9 23.7 5.1 2.3 4.5 0.6 0.0 0.0 0.0 1.1 0.0 0.6 0.6 0.0 0.0 0.0 0.0 0.0
+MIS 445 A Yen Chi Chung David Bus Data Communications & Apps
+N
+N
+4C
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+0
+6
+6
+3
+2
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+2.70
+% 0.0 9.1 4.5 0.0 27.3 27.3 13.6 9.1 0.0 0.0 0.0 0.0 0.0 4.5 0.0 4.5 0.0 0.0 0.0 0.0 0.0
+Course Total MIS 445
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+0
+6
+6
+3
+2
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+2.70
+% 0.0 9.1 4.5 0.0 27.3 27.3 13.6 9.1 0.0 0.0 0.0 0.0 0.0 4.5 0.0 4.5 0.0 0.0 0.0 0.0 0.0
+MIS 486 A Lee Sooun User Info System Development
+N
+N
+4D
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+8
+9
+12
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 8.6 22.9 25.7 34.3 2.9 2.9 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,93 @@
+testRun: 10/17/07 @ 09:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2006-07 Hamilton Campus
+Page: 201 Sections of 10
+GEO Geography
+Miami Plan
+Honors
+Cross Listing
+GEO 111 HMA Holt David H. World Regional Geography
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+0
+2
+0
+0
+3
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 0.0 10.0 20.0 0.0 20.0 0.0 0.0 30.0 0.0 0.0 10.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Geography Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+1
+2
+0
+2
+0
+0
+3
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 0.0 10.0 20.0 0.0 20.0 0.0 0.0 30.0 0.0 0.0 10.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,325 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Hamilton Campus
+Page: 712 Sections of 10
+FIN Finance
+Miami Plan
+Honors
+Cross Listing
+FIN 301 H A Demmel Rick K. Intro To Business Finance
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+8
+0
+0
+4
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 0.0 43.5 0.0 0.0 34.8 0.0 0.0 17.4 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 301
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+8
+0
+0
+4
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 0.0 43.5 0.0 0.0 34.8 0.0 0.0 17.4 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 342 H A Newlin Joseph E. Legal Environment Of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+0
+12
+0
+0
+7
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.80
+% 0.0 20.0 0.0 0.0 48.0 0.0 0.0 28.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 342
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+0
+12
+0
+0
+7
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.80
+% 0.0 20.0 0.0 0.0 48.0 0.0 0.0 28.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 618 H A Shull David M. Financial Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+1
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 0.0 26.7 20.0 6.7 46.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 618
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+1
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 0.0 26.7 20.0 6.7 46.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Finance Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+15
+0
+0
+20
+0
+0
+11
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.02
+% 0.0 31.3 0.0 0.0 41.7 0.0 0.0 22.9 0.0 0.0 0.0 0.0 2.1 2.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GR 0
+4
+3
+1
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 0.0 26.7 20.0 6.7 46.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

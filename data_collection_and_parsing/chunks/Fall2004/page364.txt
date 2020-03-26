@@ -1,0 +1,309 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Oxford Campus
+Page: 361 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MGT 302 F Newman William E. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+25
+0
+0
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.83
+% 0.0 5.7 0.0 0.0 71.4 0.0 0.0 22.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 G Gattiker Thomas F. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+8
+3
+3
+2
+4
+5
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.87
+% 0.0 14.7 23.5 8.8 8.8 5.9 11.8 14.7 2.9 0.0 5.9 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 H Gattiker Thomas F. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+6
+5
+7
+2
+4
+0
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 0.0 22.2 0.0 16.7 13.9 19.4 5.6 11.1 0.0 2.8 0.0 5.6 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 I Newman William E. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+20
+0
+0
+12
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 8.3 0.0 0.0 55.6 0.0 0.0 33.3 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 J Huang Xiaowen Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+5
+4
+5
+6
+0
+3
+2
+2
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.87
+% 0.0 16.7 13.9 11.1 13.9 16.7 0.0 8.3 5.6 5.6 2.8 2.8 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 K Huang Xiaowen Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+7
+5
+3
+7
+4
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.48
+% 0.0 5.6 5.6 5.6 19.4 13.9 8.3 19.4 11.1 8.3 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 L Seyfarth Hugh M. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+3
+9
+7
+2
+6
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.72
+% 0.0 0.0 6.5 9.7 29.0 22.6 6.5 19.4 3.2 0.0 0.0 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

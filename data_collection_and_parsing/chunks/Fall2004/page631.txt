@@ -1,0 +1,90 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Middletown Campus
+Page: 628 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CIT 154
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+4
+6
+7
+1
+2
+3
+1
+2
+3
+0
+2
+6
+1
+2
+0
+0
+0
+0
+0
+2.61
+% 0.0 14.9 8.5 12.8 14.9 2.1 4.3 6.4 2.1 4.3 6.4 0.0 4.3 12.8 2.1 4.3 0.0 0.0 0.0 0.0 0.0
+Comp Information Technology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+7
+4
+6
+7
+1
+2
+3
+1
+2
+3
+0
+2
+9
+2
+2
+0
+12
+6
+0
+0
+2.61
+% 0.0 10.1 5.8 8.7 10.1 1.4 2.9 4.3 1.4 2.9 4.3 0.0 2.9 13.0 2.9 2.9 0.0 17.4 8.7 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

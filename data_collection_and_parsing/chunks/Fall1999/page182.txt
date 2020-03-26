@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Oxford Campus
+Page: 179 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total EGR 314
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+5
+5
+6
+0
+4
+2
+0
+0
+1
+0
+0
+1
+1
+2
+0
+0
+0
+0
+0
+2.87
+% 3.2 9.7 16.1 16.1 19.4 0.0 12.9 6.5 0.0 0.0 3.2 0.0 0.0 3.2 3.2 6.5 0.0 0.0 0.0 0.0 0.0
+EGR 334 A McKeever Richard F. Quality Planning And Control
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.47
+% 0.0 80.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0
+Course Total EGR 334
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.47
+% 0.0 80.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0
+EGR 341 A Gundler Errol A. Engineering Economics
+N
+N
+E3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+7
+2
+2
+1
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.28
+% 0.0 31.8 0.0 31.8 9.1 9.1 4.5 9.1 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0
+EGR 341 B Schmahl Karen E. Engineering Economics
+N
+N
+E4
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+1
+4
+0
+1
+3
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 23.1 0.0 7.7 30.8 0.0 7.7 23.1 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EGR 341
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+8
+6
+2
+2
+5
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+3.07
+% 0.0 28.6 0.0 22.9 17.1 5.7 5.7 14.3 0.0 0.0 0.0 0.0 2.9 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0
+EGR 411 B Stenger James B. Machine And Tool Design
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+5
+2
+7
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.29
+% 0.0 30.8 19.2 7.7 26.9 7.7 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

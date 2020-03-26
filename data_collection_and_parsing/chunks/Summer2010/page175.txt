@@ -1,0 +1,218 @@
+testRun: 10/08/10 @ 11:34 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2009-10 Middletown Campus
+Page: 172 Sections of 10
+PHL Philosophy
+Miami Plan
+Honors
+Cross Listing
+PHL 221 MMA Yesh Angela Problems-Metaphysics&Knowledge
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+1
+4
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 20.0 0.0 10.0 40.0 0.0 10.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHL 221
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+1
+4
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 20.0 0.0 10.0 40.0 0.0 10.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHL 273 MMA Yesh Angela Formal Logic
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+0
+0
+1
+1
+1
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 0.0 30.0 10.0 0.0 0.0 10.0 10.0 10.0 10.0 0.0 0.0 0.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHL 273
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+0
+0
+1
+1
+1
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 0.0 30.0 10.0 0.0 0.0 10.0 10.0 10.0 10.0 0.0 0.0 0.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Philosophy Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+5
+1
+1
+4
+1
+2
+3
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 25.0 5.0 5.0 20.0 5.0 10.0 15.0 5.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

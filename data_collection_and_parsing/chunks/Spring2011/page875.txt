@@ -1,0 +1,304 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Hamilton Campus
+Page: 871 Sections of 10
+REL Religion, Comparative
+Miami Plan
+Honors
+Cross Listing
+REL 101 H A Rees Myev A. American Religious Encounters
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+0
+2
+1
+1
+0
+0
+0
+0
+0
+3
+6
+0
+0
+0
+1
+0
+0
+0
+2.70
+% 0.0 14.3 19.0 0.0 9.5 4.8 4.8 0.0 0.0 0.0 0.0 0.0 14.3 28.6 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+REL 101 H B Rees Myev A. American Religious Encounters
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+1
+0
+2
+1
+1
+0
+2
+0
+0
+5
+3
+0
+0
+0
+0
+0
+0
+0
+2.15
+% 0.0 14.3 14.3 4.8 0.0 9.5 4.8 4.8 0.0 9.5 0.0 0.0 23.8 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total REL 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+7
+1
+2
+3
+2
+1
+0
+2
+0
+0
+8
+9
+0
+0
+0
+1
+0
+0
+0
+2.39
+% 0.0 14.3 16.7 2.4 4.8 7.1 4.8 2.4 0.0 4.8 0.0 0.0 19.0 21.4 0.0 0.0 0.0 2.4 0.0 0.0 0.0
+REL 103 H A Brehm Stephanie N. Themes: History of Religion
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+2
+4
+0
+0
+1
+0
+0
+0
+0
+7
+2
+0
+0
+1
+0
+0
+0
+0
+2.19
+% 0.0 13.0 13.0 8.7 17.4 0.0 0.0 4.3 0.0 0.0 0.0 0.0 30.4 8.7 0.0 0.0 4.3 0.0 0.0 0.0 0.0
+REL 103 H B Rees Myev A. Themes: History of Religion
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+1
+1
+2
+0
+0
+0
+0
+0
+0
+12
+3
+0
+0
+0
+0
+0
+0
+0
+1.37
+% 0.0 13.0 4.3 4.3 4.3 8.7 0.0 0.0 0.0 0.0 0.0 0.0 52.2 13.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total REL 103
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+4
+3
+5
+2
+0
+1
+0
+0
+0
+0
+19
+5
+0
+0
+1
+0
+0
+0
+0
+1.78
+% 0.0 13.0 8.7 6.5 10.9 4.3 0.0 2.2 0.0 0.0 0.0 0.0 41.3 10.9 0.0 0.0 2.2 0.0 0.0 0.0 0.0
+Religion, Comparative Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+12
+11
+4
+7
+5
+2
+2
+0
+2
+0
+0
+27
+14
+0
+0
+1
+1
+0
+0
+0
+2.05
+% 0.0 13.6 12.5 4.5 8.0 5.7 2.3 2.3 0.0 2.3 0.0 0.0 30.7 15.9 0.0 0.0 1.1 1.1 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

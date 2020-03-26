@@ -1,0 +1,355 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 711 Sections of 10
+EDP Educational Psychology
+EDP 201 H A Tomashot Pamela S. Human Dvlpmnt&Learng/Ed Envir
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+11
+2
+2
+2
+0
+0
+1
+0
+0
+0
+% 57.9 10.5 10.5 10.5 0.0 0.0 5.3 0.0 0.0 0.0
+EDP 201 H C Hoover Robert A. Human Dvlpmnt&Learng/Ed Envir
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+2
+0
+1
+2
+1
+2
+1
+0
+% 0.0 12.5 12.5 0.0 6.3 12.5 6.3 12.5 6.3 0.0
+EDP 201 H D Hoover Robert A. Human Dvlpmnt&Learng/Ed Envir
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+2
+0
+7
+4
+3
+6
+0
+1
+% 0.0 7.4 7.4 0.0 25.9 14.8 11.1 22.2 0.0 3.7
+Course Total EDP 201
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+11
+6
+6
+2
+8
+6
+5
+8
+1
+1
+% 17.7 9.7 9.7 3.2 12.9 9.7 8.1 12.9 1.6 1.6
+EDP 256 H A Vermillion Judith A. Psy/Learners With Exception
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+6
+4
+3
+3
+3
+0
+2
+0
+0
+% 0.0 27.3 18.2 13.6 13.6 13.6 0.0 9.1 0.0 0.0
+EDP 256 H B Catania Charles A. Psy/Learners With Exception
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+10
+1
+1
+0
+0
+0
+0
+0
+0
+% 7.1 71.4 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 256 H C Vermillion Judith A. Psy/Learners With Exception
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+4
+8
+1
+5
+3
+0
+2
+0
+0
+% 0.0 16.7 33.3 4.2 20.8 12.5 0.0 8.3 0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+2
+1
+12.5 6.3
+D
+D-
+1
+0
+3.7 0.0
+D
+D-
+3
+1
+4.8 1.6
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+F
+W
+0
+1
+0.0 5.3
+F
+W
+2
+0
+12.5 0.0
+F
+W
+0
+1
+0.0 3.7
+F
+W
+2
+2
+3.2 3.2
+F
+W
+1
+0
+4.5 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+1
+0.0 4.2
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+1
+0
+7.1 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.79
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.16
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.63
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.85
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.17
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.92
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.30
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

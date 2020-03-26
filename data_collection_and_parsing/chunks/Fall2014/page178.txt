@@ -1,0 +1,309 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 174 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ECO 201 H Kinghorn Janice R. Principles Of Microeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+5
+11
+6
+4
+4
+4
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.62
+% 0.0 0.0 2.6 13.2 28.9 15.8 10.5 10.5 10.5 0.0 2.6 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 201 I Shao Ling Principles Of Microeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+5
+7
+4
+3
+6
+5
+1
+2
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.54
+% 0.0 2.6 7.7 12.8 17.9 10.3 7.7 15.4 12.8 2.6 5.1 0.0 0.0 5.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 201 J Even William E. Principles Of Microeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+11
+6
+8
+6
+6
+4
+1
+2
+7
+1
+11
+0
+0
+0
+0
+0
+0
+0
+2.43
+% 0.0 2.9 7.1 15.7 8.6 11.4 8.6 8.6 5.7 1.4 2.9 10.0 1.4 15.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 201 K Even William E. Principles Of Microeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+4
+15
+9
+7
+4
+8
+9
+2
+3
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.52
+% 2.9 2.9 5.7 21.4 12.9 10.0 5.7 11.4 12.9 2.9 4.3 2.9 2.9 1.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 201 L Gao Xiaoxun Principles Of Microeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+8
+5
+3
+5
+4
+2
+4
+0
+2
+2
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.63
+% 0.0 5.0 20.0 12.5 7.5 12.5 10.0 5.0 10.0 0.0 5.0 5.0 2.5 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 201 M Gao Xiaoxun Principles Of Microeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+6
+5
+5
+2
+5
+2
+0
+2
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.72
+% 0.0 10.5 10.5 15.8 13.2 13.2 5.3 13.2 5.3 0.0 5.3 5.3 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 201 N Thomasson Melissa A. Principles Of Microeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+7
+8
+13
+13
+11
+11
+6
+6
+5
+2
+8
+3
+0
+0
+0
+1
+0
+0
+0
+2.31
+% 1.0 5.0 7.0 8.0 13.0 13.0 11.0 11.0 6.0 6.0 5.0 2.0 8.0 3.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

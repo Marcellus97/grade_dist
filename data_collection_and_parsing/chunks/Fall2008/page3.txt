@@ -1,0 +1,124 @@
+testPSY Psychology
+706
+REL Comparative Religion
+708
+SOC Sociology
+709
+SPN Spanish
+711
+STA Statistics
+713
+THE Theatre
+714
+WMS Women'S Studies
+715
+ZOO Zoology
+716
+Hamilton Campus
+720
+ACC Accountancy
+721
+ART Art
+722
+ATH Anthropology
+726
+BIS Integrative Studies
+728
+BOT Botany
+729
+BTE Business Technology
+731
+BWS Black World Studies
+738
+CHI Chinese
+739
+CHM Chemistry & Biochemistry
+740
+CIT Comp Information Technology
+743
+CJS Criminal Justice Studies
+746
+CLS Classics
+748
+COM Communication
+749
+CSA Computer Sci &Systems Analysis
+754
+DSC Decision Sciences
+757
+EAS Engineering & App Science
+758
+ECO Economics
+759
+EDL Educational Leadership
+760
+EDP Educational Psychology
+763
+EDT Teacher Education
+765
+ENG English
+769
+ENT Engineering Technology
+782
+FIN Finance
+786
+FRE French
+787
+FST Film Studies
+788
+FSW Family Studies And Social Work
+789
+GEO Geography
+792
+GER German
+793
+GLG Geology
+794
+GTY Gerontology
+797
+HST History
+798
+IDS Interdisciplinary
+802
+ITL Italian
+803
+JRN Journalism
+804
+KNH Kinesiology And Health
+805
+LAS Latin American Studies
+813
+MBI Microbiology
+814
+MGT Management
+816
+MIS Management Information Systems
+817
+MKT Marketing
+818
+MTH Mathematics
+819
+MUS Music
+827
+NSG Nursing
+829
+PHL Philosophy
+833
+PHY Physics
+835
+POL Political Science
+837
+PSY Psychology
+839
+REL Comparative Religion
+841
+SOC Sociology
+842
+SPN Spanish
+844
+STA Statistics
+846
+THE Theatre
+847
+ZOO Zoology
+849

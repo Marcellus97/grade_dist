@@ -1,0 +1,131 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Hamilton Campus
+Page: 675 Sections of 10
+CEC Col Of Engineering & Computing
+Miami Plan
+Honors
+Cross Listing
+CEC 101 H A Speckert Robert E. Computing, Engineering &Societ
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+0
+11
+0
+0
+8
+0
+0
+5
+0
+8
+3
+0
+0
+0
+0
+0
+0
+0
+2.00
+% 0.0 12.5 0.0 0.0 27.5 0.0 0.0 20.0 0.0 0.0 12.5 0.0 20.0 7.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CEC 101
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+0
+11
+0
+0
+8
+0
+0
+5
+0
+8
+3
+0
+0
+0
+0
+0
+0
+0
+2.00
+% 0.0 12.5 0.0 0.0 27.5 0.0 0.0 20.0 0.0 0.0 12.5 0.0 20.0 7.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Col Of Engineering & Computing Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+5
+0
+0
+11
+0
+0
+8
+0
+0
+5
+0
+8
+3
+0
+0
+0
+0
+0
+0
+0
+2.00
+% 0.0 12.5 0.0 0.0 27.5 0.0 0.0 20.0 0.0 0.0 12.5 0.0 20.0 7.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

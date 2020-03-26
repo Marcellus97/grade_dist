@@ -1,0 +1,356 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Oxford Campus
+Page: 582 Sections of 10
+ZOO 161 DB Dinkelacker Stephen A. Principles Of Human Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+0
+0
+8
+0
+0
+6
+0
+0
+% 0.0 11.1 0.0 0.0 44.4 0.0 0.0 33.3 0.0 0.0
+ZOO 161 EA Russell Jill F. Principles Of Human Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+9
+0
+1
+6
+0
+0
+2
+0
+0
+% 0.0 40.9 0.0 4.5 27.3 0.0 0.0 9.1 0.0 0.0
+ZOO 161 EB Russell Jill F. Principles Of Human Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+7
+0
+2
+7
+0
+1
+0
+0
+0
+% 0.0 36.8 0.0 10.5 36.8 0.0 5.3 0.0 0.0 0.0
+ZOO 161 EC Russell Jill F. Principles Of Human Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+10
+0
+2
+7
+0
+0
+0
+0
+0
+% 4.8 47.6 0.0 9.5 33.3 0.0 0.0 0.0 0.0 0.0
+ZOO 161 ED Russell Jill F. Principles Of Human Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+7
+0
+4
+3
+0
+3
+1
+0
+1
+% 4.8 33.3 0.0 19.0 14.3 0.0 14.3 4.8 0.0 4.8
+Course Total ZOO 161
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+5
+60
+1
+20
+71
+12
+9
+37
+3
+7
+% 1.8 21.7 0.4 7.2 25.7 4.3 3.3 13.4 1.1 2.5
+ZOO 161H A Sherman Robert G. Human Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+8
+0
+1
+0
+0
+0
+1
+0
+0
+% 0.0 72.7 0.0 9.1 0.0 0.0 0.0 9.1 0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+3
+0
+13.6 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+16
+6
+5.8 2.2
+D
+D-
+0
+0
+0.0 0.0
+F
+W
+2
+0
+11.1 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+1
+0
+5.3 0.0
+F
+W
+1
+0
+4.8 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+10
+2
+3.6 0.7
+F
+W
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+1
+0
+4.8 0.0
+WP WF
+4
+0
+1.4 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+1
+0.0 4.5
+Y
+I
+X
+0
+1
+0.0 5.3
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+I
+X
+1
+10
+0.4 3.6
+Y
+I
+X
+0
+1
+0.0 9.1
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.44
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.06
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.22
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.41
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.22
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+2
+0
+0
+2.74
+0.7 0.0 0.0
+Y
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.73
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

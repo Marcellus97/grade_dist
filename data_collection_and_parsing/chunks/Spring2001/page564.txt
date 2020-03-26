@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 561 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ZOO 116 CL Norris Steven M. Biological Concepts: Structure
+Y
+N
+ZJ
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+7
+0
+0
+3
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 21.4 0.0 0.0 50.0 0.0 0.0 21.4 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ZOO 116
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+24
+0
+0
+95
+0
+0
+91
+0
+0
+35
+0
+3
+5
+8
+3
+0
+0
+0
+0
+0
+2.38
+% 0.0 9.1 0.0 0.0 36.0 0.0 0.0 34.5 0.0 0.0 13.3 0.0 1.1 1.9 3.0 1.1 0.0 0.0 0.0 0.0 0.0
+ZOO 116H AA Pennock David G. Biological Concepts: Structure
+Y
+Y
+Y1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+2
+0
+0
+2
+0
+0
+2
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+2.50
+% 0.0 20.0 0.0 0.0 20.0 0.0 0.0 20.0 0.0 0.0 20.0 0.0 0.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116H AB Pennock David G. Biological Concepts: Structure
+Y
+Y
+Y2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+7
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.10
+% 0.0 18.2 0.0 0.0 63.6 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116H AC Pennock David G. Biological Concepts: Structure
+Y
+Y
+Y3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+0
+6
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 38.5 0.0 0.0 46.2 0.0 0.0 7.7 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ZOO 116H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+0
+0
+15
+0
+0
+4
+0
+0
+3
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+2.97
+% 0.0 26.5 0.0 0.0 44.1 0.0 0.0 11.8 0.0 0.0 8.8 0.0 0.0 2.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 121 A Oris James T. Environmental Biology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+3
+13
+16
+13
+10
+9
+1
+1
+1
+0
+1
+1
+0
+2
+0
+0
+0
+0
+0
+2.73
+% 0.0 9.0 3.8 16.7 20.5 16.7 12.8 11.5 1.3 1.3 1.3 0.0 1.3 1.3 0.0 2.6 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

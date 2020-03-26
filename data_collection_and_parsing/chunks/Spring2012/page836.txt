@@ -1,0 +1,306 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Hamilton Campus
+Page: 832 Sections of 10
+HST History
+Miami Plan
+Honors
+Cross Listing
+HST 111 H B Smith Matthew D. Survey Of American History
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+8
+10
+5
+3
+4
+0
+0
+1
+1
+0
+5
+2
+0
+0
+0
+0
+0
+0
+0
+2.66
+% 0.0 2.5 20.0 25.0 12.5 7.5 10.0 0.0 0.0 2.5 2.5 0.0 12.5 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 111 HS2 Moyer Johanna B. Survey Of American History
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+2
+1
+1
+0
+2
+0
+0
+0
+0
+13
+2
+0
+0
+2
+0
+0
+0
+0
+1.26
+% 0.0 3.8 7.7 7.7 3.8 3.8 0.0 7.7 0.0 0.0 0.0 0.0 50.0 7.7 0.0 0.0 7.7 0.0 0.0 0.0 0.0
+HST 111 HTA Spellman Susan V. Survey Of American History
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+2
+1
+2
+0
+0
+1
+0
+1
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+2.39
+% 0.0 20.0 6.7 13.3 6.7 13.3 0.0 0.0 6.7 0.0 6.7 0.0 20.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total HST 111
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+11
+14
+7
+6
+4
+2
+1
+1
+2
+0
+21
+5
+0
+0
+2
+0
+0
+0
+0
+2.19
+% 0.0 6.2 13.6 17.3 8.6 7.4 4.9 2.5 1.2 1.2 2.5 0.0 25.9 6.2 0.0 0.0 2.5 0.0 0.0 0.0 0.0
+HST 112 H A Meckley Robert C. Survey Of American History
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+1
+5
+1
+2
+1
+2
+0
+2
+0
+4
+1
+0
+0
+0
+0
+0
+0
+0
+2.14
+% 0.0 13.6 0.0 4.5 22.7 4.5 9.1 4.5 9.1 0.0 9.1 0.0 18.2 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 112 H C Carrafiello Michael L. Survey Of American History
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+3
+3
+1
+4
+3
+1
+4
+0
+3
+1
+4
+6
+0
+0
+0
+0
+0
+0
+0
+2.46
+% 0.0 19.5 7.3 7.3 2.4 9.8 7.3 2.4 9.8 0.0 7.3 2.4 9.8 14.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 112 H D Carrafiello Michael L. Survey Of American History
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+13
+5
+5
+5
+1
+2
+3
+1
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 2.5 32.5 12.5 12.5 12.5 2.5 5.0 7.5 2.5 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

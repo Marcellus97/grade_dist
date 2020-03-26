@@ -1,0 +1,52 @@
+testCSE Comp Sci &Software Engineering
+90
+ECO Economics
+91
+ENG English
+92
+FST Film Studies
+93
+FSW Family Studies And Social Work
+94
+GLG Geology
+95
+HST History
+96
+KNH Kinesiology And Health
+98
+MAC Media And Culture
+99
+NSG Nursing
+100
+SOC Sociology
+101
+Middletown Campus
+102
+ART Art
+103
+ATH Anthropology
+104
+BIO Biology
+105
+CHM Chemistry & Biochemistry
+106
+CLS Classics
+107
+ENG English
+108
+HST History
+109
+PSY Psychology
+110
+SOC Sociology
+111
+SPN Spanish
+112
+Voa - West Chester Campus
+113
+EDL Educational Leadership
+114
+EDP Educational Psychology
+115
+NSG Nursing
+116

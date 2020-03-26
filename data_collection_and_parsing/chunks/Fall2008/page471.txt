@@ -1,0 +1,305 @@
+testRun: 01/20/09 @ 12:44 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2008-09 Oxford Campus
+Page: 468 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MTH 153 F Kullman David E. Calculus I
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+1
+2
+14
+2
+2
+4
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 3.0 15.2 3.0 6.1 42.4 6.1 6.1 12.1 0.0 0.0 6.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 153 G Randrianantoanina Narcisse Calculus I
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+7
+0
+0
+6
+0
+4
+12
+0
+0
+1
+0
+1
+6
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 5.1 17.9 0.0 0.0 15.4 0.0 10.3 30.8 0.0 0.0 2.6 0.0 2.6 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 153
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+39
+7
+9
+51
+9
+11
+34
+1
+1
+4
+0
+1
+7
+0
+0
+0
+0
+0
+0
+0
+2.98
+% 4.4 21.4 3.8 4.9 28.0 4.9 6.0 18.7 0.5 0.5 2.2 0.0 0.5 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 218 A Naresh Nirmala Geometry/Middle Chldhd Teacher
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+1
+4
+4
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 9.5 19.0 4.8 19.0 19.0 19.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 218 B Cox Dana C. Geometry/Middle Chldhd Teacher
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+1
+2
+5
+4
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 4.5 22.7 4.5 9.1 22.7 18.2 4.5 9.1 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 218
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+5
+3
+9
+8
+5
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 2.3 16.3 11.6 7.0 20.9 18.6 11.6 9.3 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 222 A Gass Frederick S. Introduction To Linear Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+5
+3
+6
+8
+6
+5
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+2.91
+% 2.5 10.0 12.5 7.5 15.0 20.0 15.0 12.5 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.5 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

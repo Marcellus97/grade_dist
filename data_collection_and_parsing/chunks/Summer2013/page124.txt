@@ -1,0 +1,304 @@
+testRun: 01/15/14 @ 15:10 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Term, 2012-13 Hamilton Campus
+Page: 121 Sections of 10
+BTE Business Technology
+Miami Plan
+Honors
+Cross Listing
+BTE 105 HUA Light Theodore B. Introduction to Marketing
+N
+N
+SA
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+2
+1
+1
+0
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.22
+% 0.0 16.7 25.0 16.7 8.3 8.3 0.0 16.7 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 105
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+2
+1
+1
+0
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.22
+% 0.0 16.7 25.0 16.7 8.3 8.3 0.0 16.7 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 106 HTA Mobley Thomas L. Intro to Business&the Economy
+N
+N
+CL
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+3
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 15.4 38.5 7.7 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.7 23.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 106
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+3
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 15.4 38.5 7.7 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.7 23.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 108 HUA Feldmann Steven M. Introduction To Business Law
+N
+N
+02
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+0
+3
+0
+2
+1
+2
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.10
+% 0.0 7.1 7.1 0.0 21.4 0.0 14.3 7.1 14.3 7.1 0.0 14.3 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 108
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+0
+3
+0
+2
+1
+2
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.10
+% 0.0 7.1 7.1 0.0 21.4 0.0 14.3 7.1 14.3 7.1 0.0 14.3 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 181 HTA Mays Thomas A. Computers And Business
+N
+N
+CM
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+2
+0
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 27.3 18.2 0.0 9.1 9.1 9.1 9.1 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

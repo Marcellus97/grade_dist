@@ -1,0 +1,124 @@
+testART Art
+145
+ATH Anthropology
+146
+BOT Botany
+148
+BTE Business Technology
+149
+CHM Chemistry & Biochemistry
+150
+CLS Classics
+151
+COM Communication
+152
+CSA Computer Sci &Systems Analysis
+153
+ECO Economics
+154
+EDL Educational Leadership
+155
+EDP Educational Psychology
+156
+ENG English
+157
+FRE French
+159
+FST Film Studies
+160
+FSW Family Studies And Social Work
+161
+GLG Geology
+162
+HST History
+164
+MBI Microbiology
+166
+MIS Management Information Systems
+167
+MTH Mathematics
+168
+MUS Music
+170
+NSG Nursing
+171
+PHS Phy Edu, Hlth, & Sport Studies
+173
+PHY Physics
+174
+POL Political Science
+175
+PSY Psychology
+176
+SOC Sociology
+178
+SPN Spanish
+179
+STA Statistics
+180
+ZOO Zoology
+181
+Hamilton Campus
+182
+ACC Accountancy
+183
+ART Art
+184
+ATH Anthropology
+185
+BOT Botany
+186
+BTE Business Technology
+187
+CHM Chemistry & Biochemistry
+188
+CIT Comp Information Technology
+189
+CLS Classics
+190
+COM Communication
+191
+CSA Computer Sci &Systems Analysis
+192
+DSC Decision Sciences
+193
+ECO Economics
+194
+EDL Educational Leadership
+195
+EDP Educational Psychology
+197
+EDT Teacher Education
+198
+ENG English
+199
+ENT Engineering Technology
+201
+FRE French
+203
+FSW Family Studies And Social Work
+204
+GEO Geography
+205
+GLG Geology
+206
+HST History
+207
+LAS Latin American Studies
+209
+MBI Microbiology
+210
+MGT Management
+211
+MIS Management Information Systems
+212
+MKT Marketing
+213
+MTH Mathematics
+214
+MUS Music
+216
+NSG Nursing
+217
+PHL Philosophy
+219

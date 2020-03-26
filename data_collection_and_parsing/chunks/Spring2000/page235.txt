@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 232 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FIN 342 N Becker Paul A. Legal Environment Of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+10
+0
+0
+15
+0
+0
+5
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+2.34
+% 0.0 15.8 0.0 0.0 26.3 0.0 0.0 39.5 0.0 0.0 13.2 0.0 2.6 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 342
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+84
+5
+17
+215 27
+19
+150 6
+2
+20
+0
+4
+2
+3
+1
+0
+1
+0
+0
+0
+2.74
+% 0.4 15.1 0.9 3.0 38.5 4.8 3.4 26.9 1.1 0.4 3.6 0.0 0.7 0.4 0.5 0.2 0.0 0.2 0.0 0.0 0.0
+FIN 351 A Cross Mark L. Principles Of Insurance
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+7
+8
+10
+4
+2
+2
+1
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+2.71
+% 0.0 0.0 5.1 17.9 20.5 25.6 10.3 5.1 5.1 2.6 2.6 0.0 0.0 2.6 2.6 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 351 B Cross Mark L. Principles Of Insurance
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+5
+11
+7
+7
+5
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 0.0 0.0 2.6 13.2 28.9 18.4 18.4 13.2 0.0 0.0 0.0 2.6 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 351
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+12
+19
+17
+11
+7
+2
+1
+1
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 0.0 3.9 15.6 24.7 22.1 14.3 9.1 2.6 1.3 1.3 1.3 0.0 2.6 1.3 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 401 B Marshall David W. Prin Of Investmnt&Securty Mkts
+N
+N
+2E
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+1
+9
+21
+17
+11
+15
+8
+7
+2
+4
+0
+1
+5
+0
+0
+1
+0
+0
+0
+2.45
+% 0.0 4.7 0.9 8.4 19.6 15.9 10.3 14.0 7.5 6.5 1.9 3.7 0.0 0.9 4.7 0.0 0.0 0.9 0.0 0.0 0.0
+FIN 401 E Walsh Thomas J. Prin Of Investmnt&Securty Mkts
+N
+N
+TX
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+2
+7
+3
+7
+6
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 5.9 17.6 5.9 20.6 8.8 20.6 17.6 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

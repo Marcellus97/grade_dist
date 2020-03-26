@@ -1,0 +1,306 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 114 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CSA 180B
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+10
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.92
+% 7.7 76.9 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 271 A Zmuda Michael A. Object-Oriented Programming
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+3
+4
+0
+3
+0
+0
+1
+1
+2
+0
+3
+0
+2
+0
+0
+0
+0
+0
+2.53
+% 0.0 12.0 12.0 12.0 16.0 0.0 12.0 0.0 0.0 4.0 4.0 8.0 0.0 12.0 0.0 8.0 0.0 0.0 0.0 0.0 0.0
+CSA 271 B Zmuda Michael A. Object-Oriented Programming
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+0
+1
+4
+4
+5
+1
+0
+2
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.63
+% 4.5 9.1 0.0 4.5 18.2 18.2 22.7 4.5 0.0 9.1 4.5 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 271 C Can Fazli Object-Oriented Programming
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+0
+8
+0
+0
+1
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 36.8 0.0 0.0 42.1 0.0 0.0 5.3 0.0 0.0 10.5 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 271 D Can Fazli Object-Oriented Programming
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+0
+10
+0
+0
+5
+0
+0
+2
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+2.92
+% 0.0 26.9 0.0 0.0 38.5 0.0 0.0 19.2 0.0 0.0 7.7 0.0 0.0 3.8 3.8 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSA 271
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+19
+3
+4
+26
+4
+8
+7
+0
+3
+6
+2
+1
+4
+2
+2
+0
+0
+0
+0
+0
+2.75
+% 1.1 20.7 3.3 4.3 28.3 4.3 8.7 7.6 0.0 3.3 6.5 2.2 1.1 4.3 2.2 2.2 0.0 0.0 0.0 0.0 0.0
+CSA 273 A Jaworski Roberta K. Analysis Of Deterministic Sys
+N
+N
+RU
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+4
+10
+0
+2
+4
+0
+0
+1
+0
+0
+2
+0
+2
+0
+0
+0
+0
+0
+2.59
+% 0.0 7.4 0.0 14.8 37.0 0.0 7.4 14.8 0.0 0.0 3.7 0.0 0.0 7.4 0.0 7.4 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

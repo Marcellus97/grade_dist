@@ -1,0 +1,324 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Oxford Campus
+Page: 293 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+GTY 641 A McGrew Kathryn B. Gerontology Pre-Practicum
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.97
+% 0.0 90.9 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GTY 641
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.97
+% 0.0 90.9 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GTY 705 A Wagenaar Theodore C. Communicating GTY Knowledge
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+0
+3.00
+% 16.7 25.0 8.3 16.7 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0
+Course Total GTY 705
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+0
+3.00
+% 16.7 25.0 8.3 16.7 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0
+GTY 767 A Applebaum Robert A. Policy Anlys in Aging Society
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+3.96
+% 0.0 60.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 30.0 0.0 0.0 0.0 0.0
+Course Total GTY 767
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+3.96
+% 0.0 60.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 30.0 0.0 0.0 0.0 0.0
+Gerontology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 37
+90
+43
+27
+68
+18
+7
+14
+1
+1
+1
+0
+3
+1
+0
+0
+1
+11
+0
+0
+0
+3.41
+% 11.5 27.9 13.3 8.4 21.1 5.6 2.2 4.3 0.3 0.3 0.3 0.0 0.9 0.3 0.0 0.0 0.3 3.4 0.0 0.0 0.0
+GR 2
+30
+3
+3
+0
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+4
+0
+0
+0
+0
+3.70
+% 4.4 66.7 6.7 6.7 0.0 2.2 0.0 0.0 0.0 0.0 0.0 0.0 4.4 0.0 0.0 0.0 8.9 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

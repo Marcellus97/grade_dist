@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 142 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDL 204 T Knight Abowitz Kathleen Sociocultural Studies In Educ
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+9
+5
+2
+0
+1
+0
+0
+0
+0
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+3.67
+% 16.7 37.5 20.8 8.3 0.0 4.2 0.0 0.0 0.0 0.0 4.2 0.0 0.0 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 204 U Knight Abowitz Kathleen Sociocultural Studies In Educ
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.82
+% 0.0 72.7 9.1 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 204 V Knight Abowitz Kathleen Sociocultural Studies In Educ
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+10
+1
+2
+2
+0
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 9.1 9.1 45.5 4.5 9.1 9.1 0.0 9.1 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 204 W Knight Abowitz Kathleen Sociocultural Studies In Educ
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+4
+3
+6
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+3.60
+% 0.0 51.5 12.1 9.1 18.2 0.0 0.0 0.0 0.0 0.0 3.0 0.0 0.0 0.0 3.0 0.0 0.0 3.0 0.0 0.0 0.0
+Course Total EDL 204
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+29
+226 37
+14
+19
+4
+2
+2
+0
+0
+3
+0
+0
+2
+3
+0
+0
+2
+0
+0
+0
+3.82
+% 8.5 65.9 10.8 4.1 5.5 1.2 0.6 0.6 0.0 0.0 0.9 0.0 0.0 0.6 0.9 0.0 0.0 0.6 0.0 0.0 0.0
+EDL 282 A Carlson Dennis L. Cultural Studies Power & Educ
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+6
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 5.0 45.0 30.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDL 282
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+6
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 5.0 45.0 30.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

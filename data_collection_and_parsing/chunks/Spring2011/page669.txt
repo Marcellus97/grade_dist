@@ -1,0 +1,251 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Middletown Campus
+Page: 665 Sections of 10
+ECO Economics
+ECO 201 M A Kinghorn Janice R. Principles Of Microeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+0
+5
+2
+0
+2
+2
+2
+0
+% 0.0 2.9 0.0 14.7 5.9 0.0 5.9 5.9 5.9 0.0
+Course Total ECO 201
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+0
+5
+2
+0
+2
+2
+2
+0
+% 0.0 2.9 0.0 14.7 5.9 0.0 5.9 5.9 5.9 0.0
+ECO 202 M B Kinghorn Janice R. Principles Of Macroeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+1
+0
+3
+4
+2
+3
+6
+1
+% 0.0 3.6 3.6 0.0 10.7 14.3 7.1 10.7 21.4 3.6
+Course Total ECO 202
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+1
+0
+3
+4
+2
+3
+6
+1
+% 0.0 3.6 3.6 0.0 10.7 14.3 7.1 10.7 21.4 3.6
+Economics Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+UG 0
+2
+1
+5
+5
+4
+4
+5
+8
+1
+% 0.0 3.2 1.6 8.1 8.1 6.5 6.5 8.1 12.9 1.6
+D
+D-
+6
+3
+17.6 8.8
+D
+D-
+6
+3
+17.6 8.8
+D
+D-
+2
+2
+7.1 7.1
+D
+D-
+2
+2
+7.1 7.1
+D
+D-
+8
+5
+12.9 8.1
+F
+W
+WP WF
+7
+4
+0
+0
+20.6 11.8 0.0 0.0
+F
+W
+WP WF
+7
+4
+0
+0
+20.6 11.8 0.0 0.0
+F
+W
+3
+0
+10.7 0.0
+WP WF
+0
+0
+0.0 0.0
+F
+W
+3
+0
+10.7 0.0
+WP WF
+0
+0
+0.0 0.0
+F
+W
+10
+4
+16.1 6.5
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.55
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.55
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.89
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.89
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.72
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

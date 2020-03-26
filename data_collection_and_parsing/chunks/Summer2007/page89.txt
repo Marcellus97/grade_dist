@@ -1,0 +1,305 @@
+testRun: 10/17/07 @ 09:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2006-07 Oxford Campus
+Page: 87 Sections of 10
+MGT Management
+Miami Plan
+Honors
+Cross Listing
+MGT 111 OA Schloemer Ronald F. Microorganisms & Human Disease
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+2
+1
+7
+1
+0
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 33.3 9.5 4.8 33.3 4.8 0.0 0.0 0.0 0.0 4.8 0.0 0.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+2
+1
+7
+1
+0
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 33.3 9.5 4.8 33.3 4.8 0.0 0.0 0.0 0.0 4.8 0.0 0.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 291 MA Wesolowski Mark A. Organizational Behavior&Theory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+3
+9
+4
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 12.5 16.7 12.5 37.5 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 291 OA Wesolowski Mark A. Organizational Behavior&Theory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+2
+6
+2
+1
+0
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 0.0 13.6 22.7 9.1 27.3 9.1 4.5 0.0 4.5 0.0 4.5 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 291
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+9
+5
+15
+6
+1
+0
+1
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 0.0 13.0 19.6 10.9 32.6 13.0 2.2 0.0 2.2 0.0 2.2 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 291E MA Snavely William B. School of Bus: France/England
+N
+N
+AL
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+3
+3
+9
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 0.0 37.9 10.3 10.3 31.0 6.9 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 291E
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+3
+3
+9
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 0.0 37.9 10.3 10.3 31.0 6.9 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

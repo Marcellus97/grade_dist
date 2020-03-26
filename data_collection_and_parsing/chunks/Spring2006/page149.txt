@@ -1,0 +1,306 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 146 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDL 100 UF Pasquini Laura A. Career Devlp College Student
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+4
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.65
+% 5.9 23.5 23.5 11.8 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 23.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 100 UG Miller Mark E. Career Devlp College Student
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+3
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.82
+% 0.0 70.6 17.6 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 100 UH Lambert Harold E. Career Devlp College Student
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+1
+1
+1
+1
+2
+2
+1
+0
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 31.6 5.3 5.3 5.3 5.3 10.5 10.5 5.3 0.0 10.5 0.0 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDL 100 UI Rhoades Laura M. Career Devlp College Student
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+4
+0
+2
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.66
+% 0.0 52.9 23.5 0.0 11.8 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDL 100
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+31
+151 30
+10
+16
+5
+4
+7
+3
+0
+2
+0
+7
+11
+0
+0
+2
+0
+0
+0
+0
+3.62
+% 11.1 54.1 10.8 3.6 5.7 1.8 1.4 2.5 1.1 0.0 0.7 0.0 2.5 3.9 0.0 0.0 0.7 0.0 0.0 0.0 0.0
+EDL 204 A Campbell James H. Sociocultural Studies In Educ
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.80
+% 0.0 77.3 0.0 0.0 9.1 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 4.5 0.0 0.0 0.0
+EDL 204 B Goldner Yolanda Sociocultural Studies In Educ
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+14
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.98
+% 21.1 73.7 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

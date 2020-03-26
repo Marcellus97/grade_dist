@@ -1,0 +1,307 @@
+testRun: 01/21/10 @ 13:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2009-10 Middletown Campus
+Page: 651 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDT 110R M B Rieger George T. College Study Skill
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 40.0 10.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 20.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110R MRA Rieger George T. College Study Skill
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+8
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 42.1 0.0 0.0 42.1 5.3 0.0 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110R MRU Foley Jeanne A. College Study Skill
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+2
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.60
+% 14.3 42.9 14.3 7.1 14.3 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110R MTA Dille Mary L. College Study Skill
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+0
+0
+1
+2
+0
+3
+0
+0
+0
+4
+4
+0
+0
+0
+0
+0
+0
+0
+2.24
+% 0.0 20.0 10.0 0.0 0.0 5.0 10.0 0.0 15.0 0.0 0.0 0.0 20.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110R MUA Dille Mary L. College Study Skill
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+6
+10
+0
+0
+0
+0
+0
+0
+0
+1.48
+% 9.5 4.8 0.0 0.0 0.0 0.0 4.8 4.8 0.0 0.0 0.0 0.0 28.6 47.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110R MUB McEwen Marina College Study Skill
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+2
+0
+2
+0
+0
+0
+0
+0
+3
+9
+0
+0
+0
+0
+0
+0
+0
+2.26
+% 0.0 15.8 0.0 0.0 10.5 0.0 10.5 0.0 0.0 0.0 0.0 0.0 15.8 47.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDT 110R
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+29
+7
+2
+16
+3
+5
+3
+4
+0
+1
+0
+15
+26
+0
+0
+0
+0
+0
+0
+0
+2.76
+% 3.5 25.2 6.1 1.7 13.9 2.6 4.3 2.6 3.5 0.0 0.9 0.0 13.0 22.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

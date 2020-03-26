@@ -1,0 +1,296 @@
+testRun: 01/15/14 @ 15:10 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Term, 2012-13 Hamilton Campus
+Page: 120 Sections of 10
+BOT Botany
+BOT 131 HTA Gilliand Tina L. Plants Humanity & Environment
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+2
+2
+1
+2
+2
+0
+1
+1
+0
+% 0.0 12.5 12.5 6.3 12.5 12.5 0.0 6.3 6.3 0.0
+Course Total BOT 131
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+2
+2
+1
+2
+2
+0
+1
+1
+0
+% 0.0 12.5 12.5 6.3 12.5 12.5 0.0 6.3 6.3 0.0
+BOT 155 HTA Munson Richard H. Field Botany
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+3
+5
+1
+1
+1
+0
+1
+0
+0
+0
+% 21.4 35.7 7.1 7.1 7.1 0.0 7.1 0.0 0.0 0.0
+BOT 155 HUA Bauman Jenise M. Field Botany
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+2
+1
+0
+% 20.0 10.0 0.0
+1
+0
+10.0 0.0
+2
+0
+20.0 0.0
+1
+1
+0
+10.0 10.0 0.0
+Course Total BOT 155
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+5
+6
+1
+2
+1
+2
+1
+1
+1
+0
+% 20.8 25.0 4.2 8.3 4.2 8.3 4.2 4.2 4.2 0.0
+Botany Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+UG 5
+8
+3
+3
+3
+4
+1
+2
+2
+0
+% 12.5 20.0 7.5 7.5 7.5 10.0 2.5 5.0 5.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+1
+0
+10.0 0.0
+D
+D-
+1
+0
+4.2 0.0
+D
+D-
+1
+0
+2.5 0.0
+F
+W
+1
+0
+6.3 0.0
+F
+W
+1
+0
+6.3 0.0
+F
+W
+1
+1
+7.1 7.1
+F
+W
+1
+0
+10.0 0.0
+F
+W
+2
+1
+8.3 4.2
+F
+W
+3
+1
+7.5 2.5
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+Honors
+Cross Listing
+Y
+N
+I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+0
+2.82
+0.0 25.0 0.0 0.0 0.0
+I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+0
+2.82
+0.0 25.0 0.0 0.0 0.0
+Y
+N
+I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+3.41
+0.0 0.0 0.0 0.0 0.0
+Y
+N
+I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+2.54
+0.0 0.0 0.0 0.0 0.0
+I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+3.03
+0.0 0.0 0.0 0.0 0.0
+I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+0
+2.96
+0.0 10.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

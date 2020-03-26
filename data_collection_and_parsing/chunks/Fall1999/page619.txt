@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Middletown Campus
+Page: 616 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 111 M Z Blake Jo B. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+3
+2
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.41
+% 5.6 44.4 16.7 11.1 5.6 5.6 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0
+ENG 111 MCA Smith Sandra L. College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+1
+3
+2
+0
+3
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+2.65
+% 0.0 0.0 7.7 7.7 23.1 15.4 0.0 23.1 7.7 0.0 0.0 0.0 0.0 0.0 15.4 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+69
+62
+37
+67
+56
+18
+39
+26
+5
+12
+7
+20
+27
+33
+40
+5
+0
+0
+0
+0
+2.58
+% 1.7 13.0 11.7 7.0 12.6 10.5 3.4 7.3 4.9 0.9 2.3 1.3 3.8 5.1 6.2 7.5 0.9 0.0 0.0 0.0 0.0
+ENG 112 M A Helton Edwina L. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+4
+3
+1
+0
+1
+0
+0
+1
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+2.87
+% 0.0 5.9 17.6 23.5 17.6 5.9 0.0 5.9 0.0 0.0 5.9 0.0 5.9 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M B Helton Edwina L. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+2
+3
+0
+0
+1
+0
+0
+1
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+2.65
+% 0.0 11.1 27.8 11.1 16.7 0.0 0.0 5.6 0.0 0.0 5.6 0.0 16.7 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M C Miller Corinne L. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+0
+2
+3
+2
+0
+1
+0
+0
+0
+0
+0
+2
+2
+2
+0
+0
+0
+0
+0
+0
+3.10
+% 30.0 0.0 10.0 15.0 10.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 10.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M D Showalter Judith M. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+0
+4
+0
+0
+4
+0
+0
+2
+0
+1
+2
+1
+5
+0
+0
+0
+0
+0
+1.65
+% 0.0 4.8 4.8 0.0 19.0 0.0 0.0 19.0 0.0 0.0 9.5 0.0 4.8 9.5 4.8 23.8 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

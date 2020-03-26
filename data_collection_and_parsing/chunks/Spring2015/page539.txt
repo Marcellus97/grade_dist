@@ -1,0 +1,303 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Oxford Campus
+Page: 535 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+POL 271 A Attar Riad A. World Politics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+4
+8
+18
+9
+3
+2
+3
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 1.8 10.7 7.1 14.3 32.1 16.1 5.4 3.6 5.4 1.8 0.0 0.0 1.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+POL 271 B Saine Abdoulaye World Politics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+9
+5
+10
+3
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 10.5 23.7 13.2 26.3 7.9 13.2 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+POL 271 C Rothgeb John M. World Politics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+4
+4
+7
+1
+1
+2
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 7.7 7.7 15.4 15.4 26.9 3.8 3.8 7.7 3.8 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+POL 271 D Daddieh Cyril K. World Politics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+1
+0
+4
+4
+3
+7
+5
+0
+1
+8
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.11
+% 0.0 14.6 2.4 0.0 9.8 9.8 7.3 17.1 12.2 0.0 2.4 19.5 4.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total POL 271
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+23
+14
+22
+32
+19
+9
+11
+9
+1
+1
+8
+3
+2
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 4.3 14.3 8.7 13.7 19.9 11.8 5.6 6.8 5.6 0.6 0.6 5.0 1.9 1.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+POL 329 A Ninenko Ivan Corruption and Media Oversight
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+4
+7
+1
+4
+4
+2
+2
+1
+0
+0
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 17.1 11.4 20.0 2.9 11.4 11.4 5.7 5.7 2.9 0.0 0.0 5.7 2.9 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total POL 329
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+4
+7
+1
+4
+4
+2
+2
+1
+0
+0
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 17.1 11.4 20.0 2.9 11.4 11.4 5.7 5.7 2.9 0.0 0.0 5.7 2.9 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

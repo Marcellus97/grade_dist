@@ -1,0 +1,303 @@
+testRun: 01/21/10 @ 13:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2009-10 Oxford Campus
+Page: 459 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total MTH 245
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+17
+12
+8
+24
+13
+5
+7
+3
+3
+5
+2
+5
+8
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 4.3 14.5 10.3 6.8 20.5 11.1 4.3 6.0 2.6 2.6 4.3 1.7 4.3 6.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 249 A Farley Daniel S. Calculus II
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+14
+8
+3
+4
+2
+1
+0
+1
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+3.58
+% 7.7 35.9 20.5 7.7 10.3 5.1 2.6 0.0 2.6 0.0 0.0 0.0 0.0 5.1 0.0 0.0 2.6 0.0 0.0 0.0 0.0
+MTH 249 B Pritikin Daniel Calculus II
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+3
+4
+8
+1
+0
+3
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 0.0 40.5 8.1 10.8 21.6 2.7 0.0 8.1 0.0 0.0 2.7 0.0 2.7 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 249 C Jiang Tao Calculus II
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+5
+4
+1
+0
+3
+0
+1
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.11
+% 0.0 12.0 16.0 20.0 16.0 4.0 0.0 12.0 0.0 4.0 0.0 0.0 0.0 16.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 249
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+32
+15
+12
+16
+4
+1
+6
+1
+1
+1
+0
+1
+7
+0
+0
+1
+0
+0
+0
+0
+3.36
+% 3.0 31.7 14.9 11.9 15.8 4.0 1.0 5.9 1.0 1.0 1.0 0.0 1.0 6.9 0.0 0.0 1.0 0.0 0.0 0.0 0.0
+MTH 249H A Burke Dennis K. Calculus II
+Y
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+1
+1
+1
+1
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 0.0 46.2 0.0 7.7 7.7 7.7 7.7 15.4 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 249H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+1
+1
+1
+1
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 0.0 46.2 0.0 7.7 7.7 7.7 7.7 15.4 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,215 @@
+testRun: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 45 Sections of 10
+GLG Geology
+Miami Plan
+Honors
+Cross Listing
+GLG 121 A Brudzinski Michael R. Environmental Geology
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+5
+9
+8
+7
+5
+3
+3
+1
+1
+0
+0
+2
+0
+0
+0
+6
+1
+0
+0
+2.89
+% 0.0 8.9 8.9 16.1 14.3 12.5 8.9 5.4 5.4 1.8 1.8 0.0 0.0 3.6 0.0 0.0 0.0 10.7 1.8 0.0 0.0
+Course Total GLG 121
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+5
+9
+8
+7
+5
+3
+3
+1
+1
+0
+0
+2
+0
+0
+0
+6
+1
+0
+0
+2.89
+% 0.0 8.9 8.9 16.1 14.3 12.5 8.9 5.4 5.4 1.8 1.8 0.0 0.0 3.6 0.0 0.0 0.0 10.7 1.8 0.0 0.0
+GLG 412 A Cummins R. Hays Tropical Ecosystems:Costa Rica
+N
+N
+2R
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+7
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 0.0 9.1 63.6 9.1 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GLG 412
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+7
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 0.0 9.1 63.6 9.1 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Geology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+6
+12
+10
+10
+7
+5
+3
+3
+1
+1
+0
+0
+2
+0
+0
+0
+6
+1
+0
+0
+3.02
+% 0.0 9.0 17.9 14.9 14.9 10.4 7.5 4.5 4.5 1.5 1.5 0.0 0.0 3.0 0.0 0.0 0.0 9.0 1.5 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

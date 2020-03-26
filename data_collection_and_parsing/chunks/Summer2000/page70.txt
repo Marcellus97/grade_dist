@@ -1,0 +1,302 @@
+testRun: 06/30/04 @ 11:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 1999-2000 Oxford Campus
+Page: 68 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total FIN 331
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+2
+4
+0
+3
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.19
+% 0.0 13.3 20.0 13.3 26.7 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 342 MA Mawer William T. Legal Environment Of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+0
+8
+0
+0
+13
+0
+0
+2
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+2.40
+% 0.0 16.1 0.0 0.0 25.8 0.0 0.0 41.9 0.0 0.0 6.5 0.0 0.0 3.2 0.0 6.5 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 342
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+0
+8
+0
+0
+13
+0
+0
+2
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+2.40
+% 0.0 16.1 0.0 0.0 25.8 0.0 0.0 41.9 0.0 0.0 6.5 0.0 0.0 3.2 0.0 6.5 0.0 0.0 0.0 0.0 0.0
+FIN 342E MA Sullivan Dennis H. SBA Intl Program:England
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+4
+21
+4
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 0.0 12.2 7.3 9.8 51.2 9.8 7.3 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 342E
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+4
+21
+4
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 0.0 12.2 7.3 9.8 51.2 9.8 7.3 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 401 MA Olson Bruce H. Prin Of Investmnt&Securty Mkts
+N
+N
+D1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+7
+0
+0
+6
+0
+0
+2
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+2.44
+% 0.0 5.3 0.0 0.0 36.8 0.0 0.0 31.6 0.0 0.0 10.5 0.0 0.0 5.3 10.5 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 401
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+7
+0
+0
+6
+0
+0
+2
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+2.44
+% 0.0 5.3 0.0 0.0 36.8 0.0 0.0 31.6 0.0 0.0 10.5 0.0 0.0 5.3 10.5 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

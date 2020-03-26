@@ -1,0 +1,349 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Hamilton Campus
+Page: 848 Sections of 10
+KNH 188 H B Neyer Deborah S. Physical Activity and Health
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+1
+4
+1
+1
+1
+1
+4
+0
+% 0.0 9.5 4.8 19.0 4.8 4.8 4.8 4.8 19.0 0.0
+KNH 188 H C Rack Cynthia C. Physical Activity and Health
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+1
+2
+1
+1
+1
+0
+2
+0
+% 0.0 0.0 7.1 14.3 7.1 7.1 7.1 0.0 14.3 0.0
+Course Total KNH 188
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+7
+4
+7
+5
+5
+8
+2
+10
+0
+% 0.0 10.3 5.9 10.3 7.4 7.4 11.8 2.9 14.7 0.0
+KNH 194 H A Wetzel Richard D. Standard First Aid & CPR
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+2
+5
+7
+4
+1
+0
+1
+0
+% 0.0 0.0 10.0 25.0 35.0 20.0 5.0 0.0 5.0 0.0
+Course Total KNH 194
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+0
+2
+5
+7
+4
+1
+0
+1
+0
+% 0.0 0.0 10.0 25.0 35.0 20.0 5.0 0.0 5.0 0.0
+KNH 194L H A Wetzel Richard D. Standard First Aid & CPR Lab
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+2
+5
+7
+4
+1
+0
+1
+0
+% 0.0 0.0 10.0 25.0 35.0 20.0 5.0 0.0 5.0 0.0
+Course Total KNH 194L
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+0
+2
+5
+7
+4
+1
+0
+1
+0
+% 0.0 0.0 10.0 25.0 35.0 20.0 5.0 0.0 5.0 0.0
+D
+D-
+2
+0
+9.5 0.0
+D
+D-
+2
+0
+14.3 0.0
+D
+D-
+4
+0
+5.9 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+F
+W
+3
+1
+14.3 4.8
+F
+W
+2
+1
+14.3 7.1
+F
+W
+10
+5
+14.7 7.4
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+1
+0.0 7.1
+I
+X
+0
+1
+0.0 1.5
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.19
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.98
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.22
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.99
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.99
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.99
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.99
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

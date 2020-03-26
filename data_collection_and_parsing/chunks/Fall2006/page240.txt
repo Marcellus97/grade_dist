@@ -1,0 +1,148 @@
+testRun: 01/23/07 @ 09:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2006-07 Oxford Campus
+Page: 237 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG H102 A Fuller Mary J. First Year Honors Core
+Y
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+18
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.99
+% 5.0 90.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG H102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+18
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.99
+% 5.0 90.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+English Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 188 1,753 1,348 771 578 251 124 94
+37
+12
+21
+7
+58
+62
+0
+0
+33
+10
+1
+0
+0
+3.49
+% 3.5 32.8 25.2 14.4 10.8 4.7 2.3 1.8 0.7 0.2 0.4 0.1 1.1 1.2 0.0 0.0 0.6 0.2 0.0 0.0 0.0
+GR 2
+172 25
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+2
+23
+0
+49
+0
+3.95
+% 0.7 61.6 9.0 1.1 0.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.7 0.0 0.0 0.7 8.2 0.0 17.6 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

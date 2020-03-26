@@ -1,0 +1,306 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 108 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CHM 144H A Danielson Neil D. College Chemistry Laboratory
+Y
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.61
+% 0.0 41.7 16.7 25.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 144H B Danielson Neil D. College Chemistry Laboratory
+Y
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.79
+% 0.0 64.3 7.1 14.3 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 144H C Danielson Neil D. College Chemistry Laboratory
+Y
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+2
+4
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 0.0 43.8 12.5 25.0 6.3 6.3 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 144H
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+5
+9
+4
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 0.0 50.0 11.9 21.4 9.5 2.4 0.0 2.4 0.0 0.0 0.0 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 144M A Danielson Neil D. College Chem Lab for Majors
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+6
+1
+10
+3
+2
+1
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 0.0 25.7 17.1 2.9 28.6 8.6 5.7 2.9 0.0 0.0 5.7 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 144M B Danielson Neil D. College Chem Lab for Majors
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+2
+10
+11
+0
+1
+3
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 5.4 13.5 5.4 27.0 29.7 0.0 2.7 8.1 0.0 0.0 5.4 0.0 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 144M C Danielson Neil D. College Chem Lab for Majors
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+11
+2
+2
+8
+3
+1
+1
+1
+1
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 8.1 29.7 5.4 5.4 21.6 8.1 2.7 2.7 2.7 2.7 2.7 0.0 2.7 5.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

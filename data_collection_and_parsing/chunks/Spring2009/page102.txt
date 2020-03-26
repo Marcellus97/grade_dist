@@ -1,0 +1,309 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Oxford Campus
+Page: 99 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+COM 135 F Vallade Jessalyn I. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+4
+6
+6
+2
+1
+0
+0
+0
+0
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 0.0 16.7 25.0 25.0 8.3 4.2 0.0 0.0 0.0 0.0 4.2 8.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 G Vallade Jessalyn I. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+2
+5
+3
+5
+0
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.62
+% 0.0 0.0 13.6 9.1 22.7 13.6 22.7 0.0 0.0 0.0 0.0 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 H Jarad Lina Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+3
+7
+6
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.83
+% 0.0 0.0 12.5 12.5 29.2 25.0 4.2 8.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 I Gennaria Janice K. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+6
+4
+2
+3
+0
+2
+0
+2
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.47
+% 0.0 0.0 8.3 25.0 16.7 8.3 12.5 0.0 8.3 0.0 8.3 0.0 8.3 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 J Gennaria Janice K. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+4
+10
+3
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 0.0 0.0 13.0 17.4 43.5 13.0 4.3 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 K Figurski Dina M. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+3
+10
+5
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 0.0 8.7 13.0 43.5 21.7 0.0 4.3 4.3 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 L Moser Gregory E. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+4
+5
+7
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+2.99
+% 0.0 8.7 4.3 17.4 21.7 30.4 13.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

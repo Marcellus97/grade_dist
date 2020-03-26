@@ -1,0 +1,46 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Hamilton Campus
+Page: 746 Sections of 10
+Engineering Technology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 6
+21
+16
+9
+23
+9
+2
+5
+3
+0
+3
+0
+1
+2
+1
+2
+1
+0
+0
+0
+0
+3.13
+% 5.8 20.2 15.4 8.7 22.1 8.7 1.9 4.8 2.9 0.0 2.9 0.0 1.0 1.9 1.0 1.9 1.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

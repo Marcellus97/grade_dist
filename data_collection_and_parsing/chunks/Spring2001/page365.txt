@@ -1,0 +1,62 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 362 Sections of 10
+Marketing Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 16
+309 365 399 810 359 157 278 48
+12
+22
+7
+7
+18
+20
+9
+2
+1
+0
+0
+0
+3.00
+% 0.6 10.9 12.9 14.1 28.5 12.6 5.5 9.8 1.7 0.4 0.8 0.2 0.2 0.6 0.7 0.3 0.1 0.0 0.0 0.0 0.0
+GR 0
+22
+23
+11
+21
+4
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.45
+% 0.0 26.2 27.4 13.1 25.0 4.8 2.4 1.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,299 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 424 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHL 390 A Zakin Emily A. Existentialism
+N
+N
+C2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+5
+2
+0
+4
+1
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 5.0 10.0 25.0 10.0 0.0 20.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 25.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHL 390
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+5
+2
+0
+4
+1
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 5.0 10.0 25.0 10.0 0.0 20.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 25.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHL 410R A Schuller Peter M. Renaissance Philosphy
+N
+N
+RP
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+1
+1
+3
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.09
+% 10.0 0.0 10.0 10.0 30.0 10.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0
+Course Total PHL 410R
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+1
+1
+3
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.09
+% 10.0 0.0 10.0 10.0 30.0 10.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0
+PHL 477 D Quinn Carol V. Independent Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 0.0 83.3 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHL 477
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 0.0 83.3 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Philosophy Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 11
+134 132 132 140 74
+44
+41
+12
+1
+6
+1
+1
+10
+16
+10
+5
+24
+0
+0
+0
+3.16
+% 1.4 16.9 16.6 16.6 17.6 9.3 5.5 5.2 1.5 0.1 0.8 0.1 0.1 1.3 2.0 1.3 0.6 3.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,308 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Oxford Campus
+Page: 252 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FIN 401 D Shrider David G. Prin Of Investmnt&Securty Mkts
+N
+N
+TR
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+7
+5
+2
+6
+3
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 0.0 28.6 0.0 0.0 20.0 14.3 5.7 17.1 8.6 0.0 0.0 0.0 0.0 5.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 401 E Shrider David G. Prin Of Investmnt&Securty Mkts
+N
+N
+7G
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+13
+2
+1
+6
+2
+0
+1
+0
+0
+8
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 10.8 0.0 0.0 35.1 5.4 2.7 16.2 5.4 0.0 2.7 0.0 0.0 21.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 401 F Leonard David C. Prin Of Investmnt&Securty Mkts
+N
+N
+SW
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+0
+0
+10
+0
+0
+10
+1
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 0.0 41.9 0.0 0.0 23.3 0.0 0.0 23.3 2.3 0.0 0.0 0.0 0.0 9.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 401
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+39
+6
+1
+58
+17
+10
+33
+9
+0
+4
+2
+1
+16
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 0.0 19.9 3.1 0.5 29.6 8.7 5.1 16.8 4.6 0.0 2.0 1.0 0.5 8.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 402 A Wyatt Steve B. Fixed-Income Portflio Managmnt
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+9
+6
+13
+10
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 2.2 8.7 19.6 13.0 28.3 21.7 0.0 4.3 2.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 402
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+9
+6
+13
+10
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 2.2 8.7 19.6 13.0 28.3 21.7 0.0 4.3 2.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 403 A Leonard David C. Portfolio Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+4
+0
+8
+0
+0
+5
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 0.0 25.0 16.7 0.0 33.3 0.0 0.0 20.8 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

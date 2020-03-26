@@ -1,0 +1,124 @@
+testNSG Nursing
+779
+PHL Philosophy
+784
+PHY Physics
+785
+POL Political Science
+787
+PSY Psychology
+788
+SOC Sociology
+790
+SPN Spanish
+793
+STA Statistics
+795
+STC Strategic Communication
+797
+THE Theatre
+800
+UNV University
+802
+WGS Women,Gender&Sexuality Studies
+805
+AAA Asian/Asian American Studies
+806
+ACE American Culture & English Prg
+807
+ART Art
+809
+ATH Anthropology
+812
+BIO Biology
+814
+BIS Integrative Studies
+818
+BTE Business Technology
+819
+BWS Black World Studies
+824
+CEC Col Of Engineering & Computing
+825
+CHM Chemistry & Biochemistry
+826
+CIT Comp Information Technology
+829
+CJS Criminal Justice Studies
+832
+CLS Classics
+835
+CRD Civic And Regional Development
+836
+CSE Comp Sci &Software Engineering
+837
+ECO Economics
+839
+EDL Educational Leadership
+840
+EDP Educational Psychology
+841
+EDT Teacher Education
+842
+ENG English
+845
+ENT Engineering Technology
+854
+FST Film Studies
+858
+FSW Family Studies And Social Work
+859
+GLG Geology
+863
+HST History
+865
+IDS Interdisciplinary
+868
+JRN Journalism
+869
+KNH Kinesiology And Health
+870
+MAC Media And Culture
+873
+MBI Microbiology
+874
+MTH Mathematics
+875
+MUS Music
+880
+NSG Nursing
+882
+PHL Philosophy
+886
+PHY Physics
+887
+POL Political Science
+890
+PSY Psychology
+891
+SOC Sociology
+894
+SPN Spanish
+896
+STA Statistics
+898
+STC Strategic Communication
+900
+THE Theatre
+902
+UNV University
+903
+WGS Women,Gender&Sexuality Studies
+905
+ACC Accountancy
+906
+AMS American Studies
+907
+BIO Biology
+908
+BIS Integrative Studies
+909
+BTE Business Technology
+910
+BUS Business Analysis
+911

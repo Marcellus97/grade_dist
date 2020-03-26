@@ -1,0 +1,215 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Oxford Campus
+Page: 125 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CSA 486 A Zmuda Michael A. Intro Artificial Intelligence
+N
+N
+CS
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+4
+1
+1
+2
+0
+0
+0
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 7.1 7.1 28.6 7.1 7.1 14.3 0.0 0.0 0.0 7.1 14.3 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSA 486
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+4
+1
+1
+2
+0
+0
+0
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 7.1 7.1 28.6 7.1 7.1 14.3 0.0 0.0 0.0 7.1 14.3 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 487 A Zmuda Michael A. Game Design and Implementation
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+0
+2
+5
+0
+2
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.66
+% 6.7 13.3 0.0 13.3 33.3 0.0 13.3 0.0 0.0 0.0 6.7 6.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSA 487
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+0
+2
+5
+0
+2
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.66
+% 6.7 13.3 0.0 13.3 33.3 0.0 13.3 0.0 0.0 0.0 6.7 6.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Computer Sci &Systems Analysis Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 29
+110 46
+65
+135 30
+27
+69
+23
+13
+20
+14
+25
+73
+0
+0
+2
+735 42
+0
+0
+2.83
+% 2.0 7.5 3.2 4.5 9.3 2.1 1.9 4.7 1.6 0.9 1.4 1.0 1.7 5.0 0.0 0.0 0.1 50.4 2.9 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

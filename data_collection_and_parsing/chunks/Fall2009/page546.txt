@@ -1,0 +1,308 @@
+testRun: 01/21/10 @ 13:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2009-10 Oxford Campus
+Page: 542 Sections of 10
+REL Comparative Religion
+Miami Plan
+Honors
+Cross Listing
+REL 102 A Hart Jennifer A. Religion & Modern Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+7
+4
+6
+4
+2
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 0.0 10.3 24.1 13.8 20.7 13.8 6.9 0.0 0.0 0.0 0.0 0.0 3.4 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+REL 102 B Hart Jennifer A. Religion & Modern Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+9
+2
+6
+2
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3.20
+% 0.0 14.3 32.1 7.1 21.4 7.1 0.0 3.6 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0
+Course Total REL 102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+16
+6
+12
+6
+2
+1
+0
+0
+2
+0
+1
+2
+0
+0
+0
+2
+0
+0
+0
+3.17
+% 0.0 12.3 28.1 10.5 21.1 10.5 3.5 1.8 0.0 0.0 3.5 0.0 1.8 3.5 0.0 0.0 0.0 3.5 0.0 0.0 0.0
+REL 103 BA Hanges James C. Themes: History of Religion
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+5
+2
+3
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.09
+% 0.0 6.3 18.8 31.3 12.5 18.8 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0
+REL 103 BB Hanges James C. Themes: History of Religion
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+0
+1
+3
+0
+0
+2
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.72
+% 0.0 15.4 15.4 0.0 7.7 23.1 0.0 0.0 15.4 0.0 0.0 0.0 7.7 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+REL 103 BC Hanges James C. Themes: History of Religion
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+3
+3
+2
+0
+0
+1
+0
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.09
+% 0.0 17.6 11.8 17.6 17.6 11.8 0.0 0.0 5.9 0.0 5.9 0.0 0.0 5.9 0.0 0.0 0.0 5.9 0.0 0.0 0.0
+REL 103 BD Hanges James C. Themes: History of Religion
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+3
+1
+3
+0
+2
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 17.6 11.8 17.6 5.9 17.6 0.0 11.8 5.9 0.0 0.0 0.0 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

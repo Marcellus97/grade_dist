@@ -1,0 +1,124 @@
+testZOO Zoology
+561
+Middletown Campus
+575
+ACC Accountancy
+576
+AMS American Studies
+578
+ART Art
+579
+ATH Anthropology
+581
+BOT Botany
+583
+BTE Business Technology
+585
+CHM Chemistry & Biochemistry
+591
+CLS Classics
+595
+COM Communication
+596
+DSC Decision Sciences
+599
+ECO Economics
+600
+EDL Educational Leadership
+601
+EDP Educational Psychology
+604
+EDT Teacher Education
+605
+ENG English
+612
+ENT Engineering Technology
+620
+FIN Finance
+623
+FRE French
+624
+FSW Family Studies And Social Work
+625
+GEO Geography
+626
+GER German
+628
+GLG Geology
+629
+GTY Gerontology
+630
+HST History
+631
+IDS Interdisciplinary
+634
+MBI Microbiology
+635
+MGT Management
+636
+MIS Management Information Systems
+637
+MKT Marketing
+638
+MTH Mathematics
+639
+MUS Music
+646
+NSG Nursing
+648
+PHL Philosophy
+649
+PHS Phy Edu, Hlth, & Sport Studies
+650
+PHY Physics
+655
+POL Political Science
+658
+PSY Psychology
+659
+SAN Systems Analysis
+661
+SOC Sociology
+665
+SPN Spanish
+667
+STA Statistics
+669
+THE Theatre
+670
+ZOO Zoology
+671
+Hamilton Campus
+674
+ACC Accountancy
+675
+ART Art
+677
+ATH Anthropology
+680
+BOT Botany
+681
+BTE Business Technology
+683
+BWS Black World Studies
+690
+CHM Chemistry & Biochemistry
+691
+CLS Classics
+693
+COM Communication
+694
+DSC Decision Sciences
+697
+ECO Economics
+698
+EDL Educational Leadership
+699
+EDP Educational Psychology
+703
+EDT Teacher Education
+704
+ENG English
+711
+ENT Engineering Technology
+720

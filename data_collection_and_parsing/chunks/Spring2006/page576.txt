@@ -1,0 +1,308 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 573 Sections of 10
+WMS Women'S Studies
+Miami Plan
+Honors
+Cross Listing
+WMS 201 A McGough Sarah M. Intro To Womens Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+9
+11
+4
+4
+1
+1
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+3.43
+% 5.6 25.0 30.6 11.1 11.1 2.8 2.8 0.0 2.8 0.0 0.0 0.0 2.8 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0
+WMS 201 B Sircar Arpana Intro To Womens Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+8
+1
+9
+9
+3
+3
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 0.0 22.9 2.9 25.7 25.7 8.6 8.6 2.9 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+WMS 201 C Sircar Arpana Intro To Womens Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+10
+2
+7
+8
+1
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+3.00
+% 0.0 5.7 28.6 5.7 20.0 22.9 2.9 2.9 5.7 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0
+WMS 201 D Safier Kristen L. Intro To Womens Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+15
+8
+7
+2
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+3.69
+% 2.8 41.7 22.2 19.4 5.6 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.8 0.0 0.0 2.8 0.0 0.0 0.0 0.0
+WMS 201 E Safier Kristen L. Intro To Womens Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+12
+13
+7
+3
+2
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+1
+2
+0
+0
+0
+3.51
+% 8.5 25.5 27.7 14.9 6.4 4.3 2.1 0.0 2.1 0.0 0.0 2.1 0.0 0.0 0.0 0.0 2.1 4.3 0.0 0.0 0.0
+WMS 201 F Pelle Susan L. Intro To Womens Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+21
+10
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.97
+% 61.8 29.4 8.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total WMS 201
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+28
+48
+53
+21
+25
+21
+6
+4
+5
+0
+0
+1
+2
+2
+0
+0
+2
+5
+0
+0
+0
+3.42
+% 12.6 21.5 23.8 9.4 11.2 9.4 2.7 1.8 2.2 0.0 0.0 0.4 0.9 0.9 0.0 0.0 0.9 2.2 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

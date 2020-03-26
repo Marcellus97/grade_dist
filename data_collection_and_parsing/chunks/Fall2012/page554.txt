@@ -1,0 +1,308 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Oxford Campus
+Page: 550 Sections of 10
+PSY Psychology
+Miami Plan
+Honors
+Cross Listing
+PSY 111 A Beeman Christopher L. Accelerated Elem Portuguese
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+12
+6
+6
+8
+2
+3
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.20
+% 4.3 12.8 25.5 12.8 12.8 17.0 4.3 6.4 0.0 0.0 2.1 0.0 0.0 0.0 0.0 0.0 2.1 0.0 0.0 0.0 0.0
+PSY 111 B Olzak Lynn A. Accelerated Elem Portuguese
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+1
+12
+7
+3
+1
+2
+2
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.61
+% 0.0 2.8 8.3 2.8 33.3 19.4 8.3 2.8 5.6 5.6 8.3 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 111 D Oswald Barbara B. Accelerated Elem Portuguese
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+104 34
+16
+20
+10
+4
+7
+1
+0
+2
+0
+1
+0
+0
+0
+1
+2
+0
+0
+0
+3.56
+% 0.5 51.2 16.7 7.9 9.9 4.9 2.0 3.4 0.5 0.0 1.0 0.0 0.5 0.0 0.0 0.0 0.5 1.0 0.0 0.0 0.0
+PSY 111 E Palladino Joseph J. Accelerated Elem Portuguese
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+43
+0
+27
+23
+0
+12
+9
+0
+2
+1
+0
+6
+7
+0
+0
+0
+0
+0
+0
+0
+3.11
+% 2.3 32.3 0.0 20.3 17.3 0.0 9.0 6.8 0.0 1.5 0.8 0.0 4.5 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 111 G Oswald Barbara B. Accelerated Elem Portuguese
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+77
+16
+18
+13
+1
+4
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.64
+% 0.0 58.3 12.1 13.6 9.8 0.8 3.0 0.0 0.0 0.8 0.0 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 111 CA Wessels Peter M. Accelerated Elem Portuguese
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+3
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 0.0 15.4 15.4 15.4 23.1 15.4 7.7 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 111 CB Wessels Peter M. Accelerated Elem Portuguese
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+4
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.26
+% 0.0 10.0 20.0 40.0 20.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

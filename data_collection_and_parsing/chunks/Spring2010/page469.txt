@@ -1,0 +1,307 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Oxford Campus
+Page: 465 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MTH 116 A Naresh Nirmala Math for Teachers Grades P-6
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+5
+5
+9
+0
+5
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 2.8 19.4 13.9 13.9 25.0 0.0 13.9 8.3 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 116 B Cox Dana C. Math for Teachers Grades P-6
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+5
+5
+11
+2
+2
+2
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 19.4 13.9 13.9 30.6 5.6 5.6 5.6 0.0 0.0 0.0 0.0 2.8 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 116 C Cox Dana C. Math for Teachers Grades P-6
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+7
+2
+8
+5
+2
+4
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 13.9 19.4 5.6 22.2 13.9 5.6 11.1 2.8 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 116
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+19
+17
+12
+28
+7
+9
+9
+2
+0
+2
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 0.9 17.6 15.7 11.1 25.9 6.5 8.3 8.3 1.9 0.0 1.9 0.0 0.9 0.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 121 A Byrkett Paula H. Finite Mathematical Models
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+3
+5
+0
+1
+5
+1
+2
+1
+0
+1
+7
+0
+0
+0
+0
+0
+0
+0
+2.39
+% 0.0 3.6 3.6 10.7 17.9 0.0 3.6 17.9 3.6 7.1 3.6 0.0 3.6 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 121 B Frase Ryan W. Finite Mathematical Models
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+0
+2
+7
+1
+2
+2
+1
+0
+0
+3
+3
+1
+0
+0
+0
+2
+1
+0
+0
+2.47
+% 3.2 16.1 0.0 6.5 22.6 3.2 6.5 6.5 3.2 0.0 0.0 9.7 9.7 3.2 0.0 0.0 0.0 6.5 3.2 0.0 0.0
+MTH 121 C Frase Ryan W. Finite Mathematical Models
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+4
+3
+3
+2
+0
+0
+0
+0
+0
+1
+2
+1
+0
+0
+0
+6
+0
+0
+0
+3.16
+% 3.2 25.8 12.9 9.7 9.7 6.5 0.0 0.0 0.0 0.0 0.0 3.2 6.5 3.2 0.0 0.0 0.0 19.4 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

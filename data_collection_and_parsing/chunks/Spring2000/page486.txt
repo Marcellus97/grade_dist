@@ -1,0 +1,45 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 483 Sections of 10
+Comparative Religion Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 7
+46
+55
+55
+104 50
+39
+44
+13
+6
+6
+2
+5
+17
+12
+3
+1
+32
+5
+0
+0
+2.89
+% 1.4 9.2 11.0 11.0 20.7 10.0 7.8 8.8 2.6 1.2 1.2 0.4 1.0 3.4 2.4 0.6 0.2 6.4 1.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,260 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 752 Sections of 10
+IDS Interdisciplinary
+Miami Plan
+Honors
+Cross Listing
+IDS 159 H A Emlemdi Fatima Strength Thru Culturl Diversty
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+21
+3
+5
+3
+1
+0
+0
+1
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 56.8 8.1 13.5 8.1 2.7 0.0 0.0 2.7 0.0 0.0 0.0 2.7 0.0 5.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IDS 159 H B Abatan Adetutu A. Strength Thru Culturl Diversty
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+5
+4
+1
+8
+0
+1
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.61
+% 0.0 3.8 7.7 19.2 15.4 3.8 30.8 0.0 3.8 0.0 0.0 0.0 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IDS 159 H C Emlemdi Fatima Strength Thru Culturl Diversty
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+20
+7
+0
+3
+2
+1
+2
+0
+0
+0
+0
+0
+1
+1
+0
+0
+1
+0
+0
+0
+0
+3.64
+% 52.6 18.4 0.0 7.9 5.3 2.6 5.3 0.0 0.0 0.0 0.0 0.0 2.6 2.6 0.0 0.0 2.6 0.0 0.0 0.0 0.0
+IDS 159 HWA Emlemdi Fatima Strength Thru Culturl Diversty
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+17
+10
+2
+0
+3
+1
+0
+0
+1
+0
+0
+0
+4
+1
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 43.6 25.6 5.1 0.0 7.7 2.6 0.0 0.0 2.6 0.0 0.0 0.0 10.3 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total IDS 159
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+58
+21
+9
+11
+10
+3
+10
+1
+2
+0
+0
+1
+7
+6
+0
+0
+1
+0
+0
+0
+0
+3.40
+% 41.4 15.0 6.4 7.9 7.1 2.1 7.1 0.7 1.4 0.0 0.0 0.7 5.0 4.3 0.0 0.0 0.7 0.0 0.0 0.0 0.0
+Interdisciplinary Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 12
+48
+11
+6
+4
+3
+1
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.76
+% 13.6 54.5 12.5 6.8 4.5 3.4 1.1 2.3 0.0 0.0 0.0 0.0 0.0 1.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

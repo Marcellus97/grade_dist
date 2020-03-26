@@ -1,0 +1,304 @@
+testRun: 01/17/08 @ 12:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2007-08 Hamilton Campus
+Page: 819 Sections of 10
+SOC Sociology
+Miami Plan
+Honors
+Cross Listing
+SOC 151 H A Campbell Roberta M. Social Relations
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+0
+0
+17
+0
+0
+7
+0
+0
+7
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+2.52
+% 0.0 23.9 0.0 0.0 37.0 0.0 0.0 15.2 0.0 0.0 15.2 0.0 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 151 H B Campbell Roberta M. Social Relations
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+0
+0
+15
+0
+0
+8
+0
+0
+1
+0
+4
+3
+0
+0
+0
+0
+0
+0
+0
+2.86
+% 0.0 34.0 0.0 0.0 31.9 0.0 0.0 17.0 0.0 0.0 2.1 0.0 8.5 6.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SOC 151
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+27
+0
+0
+32
+0
+0
+15
+0
+0
+8
+0
+8
+3
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 29.0 0.0 0.0 34.4 0.0 0.0 16.1 0.0 0.0 8.6 0.0 8.6 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 152 H A Subedi Shubhasree Social Relations & US Cultures
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+3
+4
+3
+4
+5
+3
+2
+2
+1
+6
+5
+0
+0
+1
+0
+0
+0
+0
+1.91
+% 0.0 0.0 4.9 7.3 9.8 7.3 9.8 12.2 7.3 4.9 4.9 2.4 14.6 12.2 0.0 0.0 2.4 0.0 0.0 0.0 0.0
+Course Total SOC 152
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+3
+4
+3
+4
+5
+3
+2
+2
+1
+6
+5
+0
+0
+1
+0
+0
+0
+0
+1.91
+% 0.0 0.0 4.9 7.3 9.8 7.3 9.8 12.2 7.3 4.9 4.9 2.4 14.6 12.2 0.0 0.0 2.4 0.0 0.0 0.0 0.0
+SOC 352 H A Peguero Anthony A. Criminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+2
+1
+1
+0
+2
+0
+0
+0
+0
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 15.4 7.7 15.4 7.7 7.7 0.0 15.4 0.0 0.0 0.0 0.0 7.7 15.4 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SOC 352
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+2
+1
+1
+0
+2
+0
+0
+0
+0
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 15.4 7.7 15.4 7.7 7.7 0.0 15.4 0.0 0.0 0.0 0.0 7.7 15.4 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

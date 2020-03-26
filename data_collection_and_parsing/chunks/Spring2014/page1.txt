@@ -1,0 +1,121 @@
+testGTraabdlee DofisCtroinbtuetniotsn
+Oxford Campus
+1
+AAA Asian/Asian American Studies
+1
+ACC Accountancy
+1
+ACE American Culture & English Prg
+14
+AER Aeronautics
+16
+AES Aerospace Studies
+17
+AMS American Studies
+19
+ARB Arabic
+23
+ARC Architecture & Interior Design
+25
+ART Art
+35
+ATH Anthropology
+53
+BIO Biology
+60
+BLS Business Legal Studies
+83
+BUS Business Analysis
+87
+BWS Black World Studies
+93
+CAS College Of Arts And Science
+95
+CHI Chinese
+96
+CHM Chemistry & Biochemistry
+100
+CLS Classics
+114
+CMS Comparative Media Studies
+116
+COM Communication
+117
+CPE Chemical & Paper Engineering
+134
+CSE Comp Sci &Software Engineering
+141
+DST Disability Studies
+154
+EAS Engineering & App Science
+155
+ECE Electrical & Computer Engineer
+158
+ECO Economics
+163
+EDL Educational Leadership
+175
+EDP Educational Psychology
+189
+EDT Teacher Education
+201
+EGM Engineering Management
+218
+ENG English
+219
+ESP Entrepreneurship
+261
+FIN Finance
+266
+FRE French
+275
+FST Film Studies
+282
+FSW Family Studies And Social Work
+285
+GEO Geography
+295
+GER German
+303
+GHS Global Health Studies
+308
+GLG Geology
+309
+GSC Graduate School Community
+316
+GTY Gerontology
+317
+HBW Hebrew
+321
+HIN Hindi
+322
+HON Honors
+323
+HST History
+325
+IDS Interdisciplinary
+338
+IES Environmental Sciences
+340
+IMS Interactive Media Studies
+343
+ISA Information Systems& Analytics
+353
+ITL Italian
+365
+ITS International Studies
+368
+JPN Japanese
+373
+JRN Journalism
+375
+KNH Kinesiology And Health
+381
+KOR Korean
+422
+LAS Latin American Studies
+423
+LAT Latin Language & Literature
+426
+MBI Microbiology
+427

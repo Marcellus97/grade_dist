@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 226 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 226 B Ward Julia Intro/Creat Wrt:Sht Fctn&Poet
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+3
+5
+3
+1
+0
+2
+0
+1
+1
+1
+0
+0
+0
+0
+1
+1
+0
+0
+2.58
+% 0.0 0.0 13.6 13.6 22.7 13.6 4.5 0.0 9.1 0.0 4.5 4.5 4.5 0.0 0.0 0.0 0.0 4.5 4.5 0.0 0.0
+ENG 226 C Sloan Susan K. Intro/Creat Wrt:Sht Fctn&Poet
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+5
+7
+2
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.29
+% 4.3 13.0 21.7 30.4 8.7 4.3 0.0 13.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0
+ENG 226 D Schloss David Intro/Creat Wrt:Sht Fctn&Poet
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+8
+8
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 9.1 9.1 36.4 36.4 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 226 E Heisler Christian M. Intro/Creat Wrt:Sht Fctn&Poet
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+21
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.99
+% 20.7 72.4 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 226
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+32
+23
+23
+10
+8
+2
+3
+2
+0
+1
+1
+1
+1
+1
+0
+0
+2
+1
+0
+0
+3.41
+% 7.5 26.7 19.2 19.2 8.3 6.7 1.7 2.5 1.7 0.0 0.8 0.8 0.8 0.8 0.8 0.0 0.0 1.7 0.8 0.0 0.0
+ENG 230L L A Tomarken Edward L. Youth in European Literature
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+5
+8
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.57
+% 0.0 26.3 26.3 42.1 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 230L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+5
+8
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.57
+% 0.0 26.3 26.3 42.1 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

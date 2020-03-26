@@ -1,0 +1,309 @@
+testRun: 06/23/14 @ 07:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2013-14 Middletown Campus
+Page: 808 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 112 GQA Merman Kathy R. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 30.0 20.0 30.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M A Tyahur Pamela M. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+3
+1
+1
+3
+0
+0
+1
+1
+1
+1
+2
+4
+0
+0
+0
+0
+0
+0
+0
+2.48
+% 4.8 9.5 14.3 4.8 4.8 14.3 0.0 0.0 4.8 4.8 4.8 4.8 9.5 19.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M B Heilman Christine Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+9
+3
+0
+2
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 4.8 19.0 42.9 14.3 0.0 9.5 0.0 0.0 0.0 0.0 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M C Heyda John F. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+4
+1
+0
+4
+0
+0
+3
+2
+0
+2
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.50
+% 13.6 18.2 4.5 0.0 18.2 0.0 0.0 13.6 9.1 0.0 9.1 0.0 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M D Tyahur Pamela M. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+2
+6
+3
+2
+1
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 9.1 13.6 9.1 27.3 13.6 9.1 4.5 4.5 0.0 0.0 0.0 0.0 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M E Keith Jennifer M. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+6
+2
+5
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.54
+% 4.3 30.4 26.1 8.7 21.7 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M F Tyahur Pamela M. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+2
+6
+4
+0
+1
+1
+0
+1
+0
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 8.3 8.3 8.3 25.0 16.7 0.0 4.2 4.2 0.0 4.2 0.0 0.0 8.3 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 15:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2001-02 Oxford Campus
+Page: 322 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+IDS 153O B Johnson Robert C. American and World Cultures
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+5
+3
+2
+1
+2
+1
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+3.36
+% 15.8 26.3 15.8 10.5 5.3 10.5 5.3 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 5.3 0.0 0.0 0.0 0.0 0.0
+IDS 153O C Crutcher Ronald A. American and World Cultures
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.91
+% 0.0 64.7 29.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total IDS 153O
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+16
+8
+2
+1
+2
+1
+0
+0
+0
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+3.61
+% 8.3 44.4 22.2 5.6 2.8 5.6 2.8 0.0 0.0 0.0 0.0 0.0 0.0 2.8 2.8 2.8 0.0 0.0 0.0 0.0 0.0
+IDS 159 A Heuberger Barbara Strength Thru Culturl Diversty
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+5
+8
+1
+0
+0
+1
+0
+0
+0
+1
+1
+1
+0
+0
+0
+1
+0
+0
+0
+3.21
+% 0.0 20.8 20.8 33.3 4.2 0.0 0.0 4.2 0.0 0.0 0.0 4.2 4.2 4.2 0.0 0.0 0.0 4.2 0.0 0.0 0.0
+IDS 159 B McElwain Brian A. Strength Thru Culturl Diversty
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+7
+4
+5
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.62
+% 9.1 31.8 18.2 22.7 9.1 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0
+IDS 159 C Hinga Gilbert Strength Thru Culturl Diversty
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+11
+1
+1
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 23.8 52.4 4.8 4.8 0.0 9.5 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IDS 159 D Bennett Mary A. Strength Thru Culturl Diversty
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+8
+0
+0
+2
+1
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 36.4 36.4 0.0 0.0 9.1 4.5 0.0 0.0 4.5 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

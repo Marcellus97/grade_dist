@@ -1,0 +1,306 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Oxford Campus
+Page: 197 Sections of 10
+ENG English
+Miami Plan
+Honors
+Cross Listing
+ENG 109 A Ward Julia English For Intrnat'l Students
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2
+0
+0
+2
+0
+3
+1
+1
+0
+0
+2
+0
+0
+0
+0
+1
+0
+0
+2.07
+% 0.0 0.0 0.0 16.7 0.0 0.0 16.7 0.0 25.0 8.3 8.3 0.0 0.0 16.7 0.0 0.0 0.0 0.0 8.3 0.0 0.0
+ENG 109 B Ward Julia English For Intrnat'l Students
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+1
+0
+3
+1
+2
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.26
+% 0.0 0.0 8.3 8.3 0.0 25.0 8.3 16.7 16.7 8.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 109 C Infalvi Linda E. English For Intrnat'l Students
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+5
+2
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.02
+% 0.0 15.4 0.0 38.5 15.4 7.7 7.7 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 109
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+8
+2
+4
+4
+3
+6
+2
+2
+0
+0
+2
+0
+0
+0
+0
+1
+0
+0
+2.50
+% 0.0 5.4 2.7 21.6 5.4 10.8 10.8 8.1 16.2 5.4 5.4 0.0 0.0 5.4 0.0 0.0 0.0 0.0 2.7 0.0 0.0
+ENG 111 A Lewiecki-Wilson Cynthia College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+7
+4
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.32
+% 0.0 16.7 38.9 22.2 0.0 0.0 11.1 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 B Lewiecki-Wilson Cynthia College Composition
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+2
+4
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 0.0 17.6 29.4 11.8 23.5 11.8 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+12
+6
+4
+2
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 0.0 17.1 34.3 17.1 11.4 5.7 5.7 5.7 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

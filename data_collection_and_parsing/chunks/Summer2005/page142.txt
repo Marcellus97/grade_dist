@@ -1,0 +1,326 @@
+testRun: 12/19/05 @ 10:10 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2004-05 Middletown Campus
+Page: 139 Sections of 10
+BOT Botany
+Miami Plan
+Honors
+Cross Listing
+BOT 131 MOA Smyser Cheryl A. Plants Humanity & Environment
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+0
+0
+5
+0
+0
+4
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 0.0 47.4 0.0 0.0 26.3 0.0 0.0 21.1 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BOT 131
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+0
+0
+5
+0
+0
+4
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 0.0 47.4 0.0 0.0 26.3 0.0 0.0 21.1 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BOT 155 MOA Keiffer Carolyn H. Field Botany
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+2
+1
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+2.67
+% 0.0 18.2 9.1 18.2 9.1 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 18.2 0.0 0.0 0.0 0.0 0.0
+Course Total BOT 155
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+2
+1
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+2.67
+% 0.0 18.2 9.1 18.2 9.1 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 18.2 0.0 0.0 0.0 0.0 0.0
+BOT 599H MNA Keiffer Carolyn H. Ecology:N American Vegetation
+N
+N
+FP
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+3
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.51
+% 0.0 46.2 15.4 23.1 0.0 0.0 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BOT 599H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+3
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.51
+% 0.0 46.2 15.4 23.1 0.0 0.0 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Botany Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+11
+1
+2
+6
+2
+0
+4
+0
+0
+0
+0
+0
+2
+0
+2
+0
+0
+0
+0
+0
+3.06
+% 0.0 36.7 3.3 6.7 20.0 6.7 0.0 13.3 0.0 0.0 0.0 0.0 0.0 6.7 0.0 6.7 0.0 0.0 0.0 0.0 0.0
+GR 0
+6
+2
+3
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.51
+% 0.0 46.2 15.4 23.1 0.0 0.0 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

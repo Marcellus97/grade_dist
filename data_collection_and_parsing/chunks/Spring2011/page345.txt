@@ -1,0 +1,307 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Oxford Campus
+Page: 341 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+HST 198 GA Baernstein P. Renee World History Since 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+3
+2
+1
+2
+1
+0
+2
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+2.83
+% 0.0 15.8 15.8 15.8 10.5 5.3 10.5 5.3 0.0 10.5 0.0 0.0 5.3 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0
+HST 198 IA Baernstein P. Renee World History Since 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1
+5
+8
+4
+2
+1
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.38
+% 0.0 0.0 0.0 4.2 20.8 33.3 16.7 8.3 4.2 0.0 0.0 0.0 8.3 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 198 JA Baernstein P. Renee World History Since 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+2
+4
+4
+2
+0
+0
+2
+1
+0
+1
+3
+0
+0
+0
+0
+0
+0
+0
+2.64
+% 0.0 4.3 13.0 8.7 17.4 17.4 8.7 0.0 0.0 8.7 4.3 0.0 4.3 13.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 198 KA Baernstein P. Renee World History Since 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+0
+3
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+2.93
+% 0.0 10.0 20.0 0.0 30.0 10.0 0.0 10.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0
+Course Total HST 198
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+24
+29
+39
+26
+17
+18
+6
+9
+5
+0
+11
+9
+0
+0
+1
+4
+0
+0
+0
+2.68
+% 0.0 6.6 11.3 13.7 18.4 12.3 8.0 8.5 2.8 4.2 2.4 0.0 5.2 4.2 0.0 0.0 0.5 1.9 0.0 0.0 0.0
+HST 206 A Olumwullah Osaak A. Intro to Historical Inquiry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+2
+3
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 10.0 10.0 20.0 30.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 206 B Pan Yihong Intro to Historical Inquiry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+7
+3
+2
+0
+2
+1
+0
+0
+1
+0
+2
+1
+0
+0
+2
+0
+0
+0
+0
+3.02
+% 3.8 15.4 26.9 11.5 7.7 0.0 7.7 3.8 0.0 0.0 3.8 0.0 7.7 3.8 0.0 0.0 7.7 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

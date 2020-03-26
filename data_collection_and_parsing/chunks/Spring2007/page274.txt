@@ -1,0 +1,308 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Oxford Campus
+Page: 271 Sections of 10
+GEO Geography
+Miami Plan
+Honors
+Cross Listing
+GEO 101 A D'Arcus Bruce Global Forces, Local Diversity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+14
+12
+16
+10
+8
+2
+3
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 0.0 23.6 15.7 13.5 18.0 11.2 9.0 2.2 3.4 1.1 0.0 0.0 1.1 1.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GEO 101 B D'Arcus Bruce Global Forces, Local Diversity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+26
+12
+14
+9
+10
+7
+2
+3
+0
+0
+0
+2
+2
+0
+0
+0
+1
+0
+0
+0
+3.24
+% 2.2 28.9 13.3 15.6 10.0 11.1 7.8 2.2 3.3 0.0 0.0 0.0 2.2 2.2 0.0 0.0 0.0 1.1 0.0 0.0 0.0
+GEO 101 C Yeboah Ian E. Global Forces, Local Diversity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+6
+10
+21
+10
+12
+7
+8
+4
+1
+0
+2
+2
+0
+0
+0
+1
+1
+0
+0
+2.60
+% 0.0 3.4 6.8 11.4 23.9 11.4 13.6 8.0 9.1 4.5 1.1 0.0 2.3 2.3 0.0 0.0 0.0 1.1 1.1 0.0 0.0
+GEO 101 D Healy Stephen R. Global Forces, Local Diversity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+25
+17
+10
+6
+5
+6
+1
+1
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+3.22
+% 0.0 19.4 26.9 18.3 10.8 6.5 5.4 6.5 1.1 1.1 0.0 0.0 2.2 2.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GEO 101 E Healy Stephen R. Global Forces, Local Diversity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+22
+19
+16
+12
+6
+3
+1
+1
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 1.1 7.7 24.2 20.9 17.6 13.2 6.6 3.3 1.1 1.1 1.1 1.1 0.0 1.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GEO 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+75
+79
+72
+72
+48
+38
+20
+16
+7
+2
+1
+7
+8
+0
+0
+0
+2
+1
+0
+0
+3.08
+% 0.7 16.6 17.5 16.0 16.0 10.6 8.4 4.4 3.5 1.6 0.4 0.2 1.6 1.8 0.0 0.0 0.0 0.4 0.2 0.0 0.0
+GEO 111 A Nim Carl J. World Regional Geography
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+26
+0
+0
+34
+0
+0
+19
+0
+0
+3
+0
+0
+4
+0
+0
+0
+1
+0
+0
+0
+3.01
+% 0.0 29.9 0.0 0.0 39.1 0.0 0.0 21.8 0.0 0.0 3.4 0.0 0.0 4.6 0.0 0.0 0.0 1.1 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

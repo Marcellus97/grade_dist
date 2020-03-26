@@ -1,0 +1,306 @@
+testRun: 07/07/05 @ 10:09 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2004-05 Oxford Campus
+Page: 513 Sections of 10
+SOC Sociology
+Miami Plan
+Honors
+Cross Listing
+SOC 151 A Weaver Susan J. Social Relations
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+4
+6
+9
+3
+3
+7
+2
+0
+0
+0
+0
+1
+1
+2
+0
+0
+0
+0
+0
+2.94
+% 0.0 22.4 8.2 12.2 18.4 6.1 6.1 14.3 4.1 0.0 0.0 0.0 0.0 2.0 2.0 4.1 0.0 0.0 0.0 0.0 0.0
+SOC 151 B Weaver Susan J. Social Relations
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+5
+8
+17
+2
+3
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3.19
+% 0.0 19.6 9.8 15.7 33.3 3.9 5.9 7.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.9 0.0 0.0 0.0
+SOC 151 C Eichenberger Susan E. Social Relations
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+27
+7
+6
+5
+3
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 51.9 13.5 11.5 9.6 5.8 5.8 1.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 151 D Eichenberger Susan E. Social Relations
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+17
+11
+0
+4
+4
+5
+0
+2
+0
+4
+1
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+3.35
+% 34.0 22.0 0.0 8.0 8.0 10.0 0.0 4.0 0.0 8.0 2.0 0.0 0.0 2.0 0.0 0.0 2.0 0.0 0.0 0.0 0.0
+Course Total SOC 151
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+44
+39
+15
+23
+33
+13
+7
+13
+2
+4
+1
+0
+0
+2
+1
+2
+1
+2
+0
+0
+0
+3.31
+% 21.8 19.3 7.4 11.4 16.3 6.4 3.5 6.4 1.0 2.0 0.5 0.0 0.0 1.0 0.5 1.0 0.5 1.0 0.0 0.0 0.0
+SOC 152 A Bulanda Ronald E. Social Relations & US Cultures
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+7
+4
+3
+7
+4
+3
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.99
+% 0.0 16.7 19.4 11.1 8.3 19.4 11.1 8.3 0.0 2.8 0.0 0.0 0.0 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0
+Course Total SOC 152
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+7
+4
+3
+7
+4
+3
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.99
+% 0.0 16.7 19.4 11.1 8.3 19.4 11.1 8.3 0.0 2.8 0.0 0.0 0.0 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

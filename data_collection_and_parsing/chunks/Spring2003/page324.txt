@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 321 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+HST 365 A Jackson W. Sherman Civil War & Reconstruction Era
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+9
+24
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.40
+% 0.0 0.0 26.5 70.6 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total HST 365
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+9
+24
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.40
+% 0.0 0.0 26.5 70.6 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 368 A Wolcott David B. 20th Century America 1900-1933
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+9
+7
+9
+3
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 0.0 23.1 23.1 17.9 23.1 7.7 0.0 5.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total HST 368
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+9
+7
+9
+3
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 0.0 23.1 23.1 17.9 23.1 7.7 0.0 5.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 375 A Thurston Robert W. Rus And The USSR/1855 To Pres
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+4
+1
+13
+4
+0
+2
+2
+0
+0
+0
+0
+1
+1
+0
+2
+0
+0
+0
+0
+3.24
+% 0.0 28.6 9.5 2.4 31.0 9.5 0.0 4.8 4.8 0.0 0.0 0.0 0.0 2.4 2.4 0.0 4.8 0.0 0.0 0.0 0.0
+Course Total HST 375
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+4
+1
+13
+4
+0
+2
+2
+0
+0
+0
+0
+1
+1
+0
+2
+0
+0
+0
+0
+3.24
+% 0.0 28.6 9.5 2.4 31.0 9.5 0.0 4.8 4.8 0.0 0.0 0.0 0.0 2.4 2.4 0.0 4.8 0.0 0.0 0.0 0.0
+HST 375L L A Haag Emile Rus And The USSR/1855-Pres-Lux
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+7
+5
+3
+5
+3
+4
+1
+0
+1
+0
+0
+0
+0
+0
+0
+8
+3
+0
+0
+2.95
+% 0.0 7.0 16.3 11.6 7.0 11.6 7.0 9.3 2.3 0.0 2.3 0.0 0.0 0.0 0.0 0.0 0.0 18.6 7.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

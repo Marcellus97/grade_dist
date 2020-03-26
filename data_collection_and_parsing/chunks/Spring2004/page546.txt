@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Oxford Campus
+Page: 543 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total SPN 312
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+18
+11
+5
+4
+0
+0
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+3.51
+% 0.0 19.6 35.3 21.6 9.8 7.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.9 2.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 313 A Bollo-Panadero Maria D. Intro To Literary Texts:Spain
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+2
+1
+0
+0
+2
+0
+0
+0
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+3.21
+% 0.0 37.5 12.5 12.5 6.3 0.0 0.0 12.5 0.0 0.0 0.0 0.0 0.0 12.5 0.0 6.3 0.0 0.0 0.0 0.0 0.0
+SPN 313 B Bollo-Panadero Maria D. Intro To Literary Texts:Spain
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+1
+2
+2
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 0.0 30.8 15.4 7.7 15.4 15.4 0.0 7.7 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 313 C Bayliss Robert Intro To Literary Texts:Spain
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+6
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 5.0 25.0 30.0 25.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 313 D Bayliss Robert Intro To Literary Texts:Spain
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+6
+5
+5
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.45
+% 0.0 19.0 28.6 23.8 23.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPN 313
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+15
+14
+13
+5
+0
+3
+0
+1
+0
+0
+0
+2
+1
+1
+0
+0
+0
+0
+0
+3.31
+% 0.0 21.4 21.4 20.0 18.6 7.1 0.0 4.3 0.0 1.4 0.0 0.0 0.0 2.9 1.4 1.4 0.0 0.0 0.0 0.0 0.0
+SPN 314 A Bollo-Panadero Maria D. Intro/Lit Texts:Spn America
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+3
+2
+6
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 31.6 15.8 10.5 31.6 0.0 0.0 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,309 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Oxford Campus
+Page: 153 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+DSC 205 E Taylor Sylvia L. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+3
+9
+1
+0
+9
+2
+0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+2.65
+% 0.0 6.3 0.0 9.4 28.1 3.1 0.0 28.1 6.3 0.0 0.0 0.0 0.0 18.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+DSC 205 F Taylor Sylvia L. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+3
+1
+15
+1
+0
+7
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.04
+% 0.0 23.1 7.7 2.6 38.5 2.6 0.0 17.9 5.1 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+DSC 205 G Taylor Sylvia L. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+3
+0
+17
+2
+0
+5
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 2.9 11.4 8.6 0.0 48.6 5.7 0.0 14.3 5.7 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+DSC 205 H Bowerman Bruce L. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+2
+4
+13
+5
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.22
+% 2.7 24.3 5.4 10.8 35.1 13.5 0.0 8.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+DSC 205 I O'Connell Richard T. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+5
+4
+6
+5
+2
+2
+6
+0
+0
+4
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 7.9 13.2 10.5 15.8 13.2 5.3 5.3 15.8 0.0 0.0 10.5 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+DSC 205 J Jobe John M. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+18
+0
+0
+7
+0
+0
+1
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+2.83
+% 0.0 11.1 0.0 0.0 50.0 0.0 0.0 19.4 0.0 0.0 2.8 0.0 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+DSC 205 K Basu Dipankar Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+2
+14
+3
+0
+5
+2
+2
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 7.7 12.8 5.1 35.9 7.7 0.0 12.8 5.1 5.1 2.6 0.0 2.6 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

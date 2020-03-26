@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 16:03 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2001-02 Hamilton Campus
+Page: 198 Sections of 10
+COM Communication
+Miami Plan
+Honors
+Cross Listing
+COM 135 HMA Friedenberg Robert V. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+3
+5
+2
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+3.36
+% 0.0 10.0 30.0 15.0 25.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 HMB Friedenberg Robert V. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+5
+2
+7
+2
+1
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.32
+% 0.0 16.7 20.8 8.3 29.2 8.3 4.2 0.0 0.0 0.0 0.0 0.0 0.0 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 135
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+11
+5
+12
+4
+1
+0
+0
+0
+0
+0
+0
+4
+1
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 13.6 25.0 11.4 27.3 9.1 2.3 0.0 0.0 0.0 0.0 0.0 0.0 9.1 2.3 0.0 0.0 0.0 0.0 0.0 0.0
+COM 136 HOA Vogel Sandra Intro:Interpersnal Communicatn
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+6
+3
+5
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+3.36
+% 0.0 23.8 28.6 14.3 23.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0
+Course Total COM 136
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+6
+3
+5
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+3.36
+% 0.0 23.8 28.6 14.3 23.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0
+COM 143 HMA Vogel Robert A. Intro To Mass Communication
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+5
+1
+1
+3
+1
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+2.39
+% 0.0 0.0 0.0 0.0 35.7 7.1 7.1 21.4 7.1 0.0 7.1 0.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 143
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+5
+1
+1
+3
+1
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+2.39
+% 0.0 0.0 0.0 0.0 35.7 7.1 7.1 21.4 7.1 0.0 7.1 0.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

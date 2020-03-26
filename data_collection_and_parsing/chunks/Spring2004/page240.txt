@@ -1,0 +1,302 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Oxford Campus
+Page: 237 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ENG 354
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+8
+8
+5
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 0.0 14.7 11.8 23.5 23.5 14.7 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 364 A Kovacevic Predrag Italian Humanism & Renaissance
+N
+N
+5Q
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+3.39
+% 0.0 46.2 15.4 7.7 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.7 0.0 7.7 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 364
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+3.39
+% 0.0 46.2 15.4 7.7 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.7 0.0 7.7 0.0 0.0 0.0 0.0 0.0
+ENG 370 A Rutledge Rebecka R. Literary And Cultural Theory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+5
+6
+3
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+4
+0
+0
+0
+0
+3.26
+% 4.2 8.3 20.8 25.0 12.5 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.2 0.0 4.2 16.7 0.0 0.0 0.0 0.0
+Course Total ENG 370
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+5
+6
+3
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+4
+0
+0
+0
+0
+3.26
+% 4.2 8.3 20.8 25.0 12.5 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.2 0.0 4.2 16.7 0.0 0.0 0.0 0.0
+ENG 372 A Hurley Alison E. Shakespeares Principal Plays
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+8
+11
+13
+3
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 5.1 20.5 28.2 33.3 7.7 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 372
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+8
+11
+13
+3
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 5.1 20.5 28.2 33.3 7.7 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

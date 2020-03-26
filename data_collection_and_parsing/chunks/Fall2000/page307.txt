@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 11:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2000-01 Oxford Campus
+Page: 304 Sections of 10
+LAS Latin American Studies
+Miami Plan
+Honors
+Cross Listing
+LAS 180A A Layera Ramon Tradition&Modernity:Latin Amer
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+0
+1
+2
+3
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.14
+% 38.9 0.0 5.6 11.1 16.7 5.6 11.1 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0
+Course Total LAS 180A
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+0
+1
+2
+3
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.14
+% 38.9 0.0 5.6 11.1 16.7 5.6 11.1 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0
+LAS 207 A Chandler Dewitt S. Latin American Civilization
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+10
+13
+13
+9
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.19
+% 0.0 5.9 19.6 25.5 25.5 17.6 2.0 2.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.0 0.0 0.0 0.0
+Course Total LAS 207
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+10
+13
+13
+9
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.19
+% 0.0 5.9 19.6 25.5 25.5 17.6 2.0 2.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.0 0.0 0.0 0.0
+LAS 208 A Paulson Susan A. Latin American Civilization
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+8
+7
+4
+1
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+8
+0
+0
+0
+3.38
+% 2.4 22.0 19.5 17.1 9.8 2.4 0.0 2.4 0.0 2.4 2.4 0.0 0.0 0.0 0.0 0.0 0.0 19.5 0.0 0.0 0.0
+Course Total LAS 208
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+8
+7
+4
+1
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+8
+0
+0
+0
+3.38
+% 2.4 22.0 19.5 17.1 9.8 2.4 0.0 2.4 0.0 2.4 2.4 0.0 0.0 0.0 0.0 0.0 0.0 19.5 0.0 0.0 0.0
+LAS 390J A Paulson Susan A. Gender,Culture&Env in Lat Amer
+N
+N
+F9
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+2
+2
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 14.3 21.4 14.3 14.3 14.3 21.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

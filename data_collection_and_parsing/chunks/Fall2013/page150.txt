@@ -1,0 +1,309 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 146 Sections of 10
+CSE Comp Sci &Software Engineering
+Miami Plan
+Honors
+Cross Listing
+CSE 148 A Black Robert W. Business Computing
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+2
+1
+3
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.70
+% 0.0 64.0 8.0 4.0 12.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 148 B Foster Drew W. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+9
+1
+3
+3
+1
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 0.0 28.6 32.1 3.6 10.7 10.7 3.6 3.6 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 148 C Henebry Brian M. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+8
+1
+6
+0
+1
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 26.9 30.8 3.8 23.1 0.0 3.8 0.0 0.0 0.0 3.8 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 148 D Ledford Carolyn H. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+6
+4
+3
+1
+0
+1
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 35.7 21.4 14.3 10.7 3.6 0.0 3.6 0.0 0.0 0.0 0.0 7.1 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 148 E Ledford Carolyn H. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+6
+1
+3
+2
+2
+0
+0
+0
+2
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 24.0 24.0 4.0 12.0 8.0 8.0 0.0 0.0 0.0 8.0 0.0 8.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 148 F Ehrman Mitchell J. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+5
+0
+5
+1
+2
+3
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 30.8 19.2 0.0 19.2 3.8 7.7 11.5 0.0 0.0 0.0 0.0 3.8 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 148 K Ucci Frances Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+2
+6
+4
+2
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 0.0 20.0 12.0 8.0 24.0 16.0 8.0 0.0 4.0 0.0 0.0 0.0 0.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Oxford Campus
+Page: 62 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BOT 191 I Negron-Ortiz Vivian General Botany
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+0
+0
+2
+0
+4
+0
+0
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+1.98
+% 0.0 0.0 18.2 0.0 0.0 18.2 0.0 36.4 0.0 0.0 9.1 0.0 9.1 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0
+Course Total BOT 191
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+6
+0
+13
+5
+0
+29
+3
+0
+12
+5
+5
+2
+0
+1
+0
+6
+1
+0
+0
+2.09
+% 1.1 5.3 6.4 0.0 13.8 5.3 0.0 30.9 3.2 0.0 12.8 5.3 5.3 2.1 0.0 1.1 0.0 6.4 1.1 0.0 0.0
+BOT 204 A Hickey Ralph J. Evolution of Plant Diversity
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+1
+0
+7
+5
+0
+1
+0
+0
+1
+1
+2
+4
+1
+1
+0
+0
+0
+0
+0
+2.45
+% 3.7 7.4 3.7 0.0 25.9 18.5 0.0 3.7 0.0 0.0 3.7 3.7 7.4 14.8 3.7 3.7 0.0 0.0 0.0 0.0 0.0
+Course Total BOT 204
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+1
+0
+7
+5
+0
+1
+0
+0
+1
+1
+2
+4
+1
+1
+0
+0
+0
+0
+0
+2.45
+% 3.7 7.4 3.7 0.0 25.9 18.5 0.0 3.7 0.0 0.0 3.7 3.7 7.4 14.8 3.7 3.7 0.0 0.0 0.0 0.0 0.0
+BOT 244 A Keegan John F. Viticulture And Enology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+1
+1
+16
+2
+0
+5
+0
+0
+0
+0
+0
+1
+5
+0
+0
+53
+0
+0
+0
+3.01
+% 0.0 5.6 1.1 1.1 18.0 2.2 0.0 5.6 0.0 0.0 0.0 0.0 0.0 1.1 5.6 0.0 0.0 59.6 0.0 0.0 0.0
+BOT 244 B Keegan John F. Viticulture And Enology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+1
+23
+3
+0
+7
+0
+0
+0
+0
+0
+0
+8
+0
+0
+46
+2
+0
+0
+2.95
+% 0.0 4.2 2.1 1.0 24.0 3.1 0.0 7.3 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 47.9 2.1 0.0 0.0
+Course Total BOT 244
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+3
+2
+39
+5
+0
+12
+0
+0
+0
+0
+0
+1
+13
+0
+0
+99
+2
+0
+0
+2.97
+% 0.0 4.9 1.6 1.1 21.1 2.7 0.0 6.5 0.0 0.0 0.0 0.0 0.0 0.5 7.0 0.0 0.0 53.5 1.1 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,308 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Oxford Campus
+Page: 110 Sections of 10
+ECO Economics
+Miami Plan
+Honors
+Cross Listing
+ECO 180A A Miller Gerald M. Prin Of Microeconomics-Honors
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+1
+6
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+3.40
+% 4.5 22.7 4.5 27.3 22.7 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 180A B Miller Gerald M. Prin Of Microeconomics-Honors
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+1
+4
+5
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.21
+% 0.0 23.8 14.3 4.8 19.0 23.8 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 180A
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+10
+4
+7
+9
+7
+1
+1
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+3.30
+% 2.3 23.3 9.3 16.3 20.9 16.3 2.3 2.3 0.0 0.0 0.0 0.0 0.0 0.0 7.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 201 C Miller Norman C. Principles Of Microeconomics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+1
+10
+2
+2
+5
+2
+0
+2
+2
+2
+2
+2
+0
+0
+0
+0
+0
+0
+2.48
+% 0.0 7.7 10.3 2.6 25.6 5.1 5.1 12.8 5.1 0.0 5.1 5.1 5.1 5.1 5.1 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 201 D Platt Glenn J. Principles Of Microeconomics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+5
+6
+14
+3
+3
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 9.5 9.5 11.9 14.3 33.3 7.1 7.1 0.0 4.8 0.0 0.0 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 201 E Stewart Jeffrey T. Principles Of Microeconomics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+1
+0
+2
+6
+5
+1
+0
+0
+5
+9
+2
+0
+2
+0
+0
+0
+0
+0
+1.52
+% 0.0 5.4 5.4 2.7 0.0 5.4 16.2 13.5 2.7 0.0 0.0 13.5 24.3 5.4 0.0 5.4 0.0 0.0 0.0 0.0 0.0
+ECO 201 F Miller Norman C. Principles Of Microeconomics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+1
+5
+13
+2
+1
+6
+1
+0
+4
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 2.4 16.7 2.4 11.9 31.0 4.8 2.4 14.3 2.4 0.0 9.5 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

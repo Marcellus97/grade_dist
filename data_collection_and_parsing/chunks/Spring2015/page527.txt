@@ -1,0 +1,303 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Oxford Campus
+Page: 523 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total PHY 131
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+2
+0
+11
+2
+0
+14
+2
+0
+1
+0
+3
+3
+0
+0
+0
+1
+0
+0
+0
+2.63
+% 0.0 20.4 4.1 0.0 22.4 4.1 0.0 28.6 4.1 0.0 2.0 0.0 6.1 6.1 0.0 0.0 0.0 2.0 0.0 0.0 0.0
+PHY 172 A Divaratne Dilupama A. College Physics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+1
+9
+14
+9
+15
+8
+3
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 7.5 1.5 13.4 20.9 13.4 22.4 11.9 4.5 3.0 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 172 B Vishwanath Karthik College Physics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+8
+8
+3
+3
+6
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.03
+% 2.9 2.9 23.5 23.5 8.8 8.8 17.6 5.9 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0
+PHY 172 C Divaratne Dilupama A. College Physics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+5
+10
+12
+14
+15
+12
+4
+3
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 6.2 6.2 12.3 14.8 17.3 18.5 14.8 4.9 3.7 0.0 0.0 0.0 0.0 1.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHY 172
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+11
+7
+27
+34
+26
+33
+26
+9
+5
+1
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.00
+% 6.0 3.8 14.8 18.7 14.3 18.1 14.3 4.9 2.7 0.5 0.5 0.0 0.0 0.5 0.0 0.0 0.0 0.5 0.0 0.0 0.0
+PHY 174 A Divaratne Dilupama A. Physics Laboratory
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+43
+21
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.98
+% 64.2 31.3 3.0 0.0 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 174 B Vishwanath Karthik Physics Laboratory
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+15
+7
+2
+2
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.67
+% 14.7 44.1 20.6 5.9 5.9 0.0 0.0 2.9 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

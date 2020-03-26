@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 362 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MIS 235 V Serve Patrick D. Info Systems:Cncpts/Tech/Applc
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+9
+4
+8
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.35
+% 0.0 8.3 37.5 16.7 33.3 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 W Serve Patrick D. Info Systems:Cncpts/Tech/Applc
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+7
+4
+0
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 12.5 20.8 29.2 16.7 0.0 4.2 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 X Serve Patrick D. Info Systems:Cncpts/Tech/Applc
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+5
+8
+2
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 0.0 8.3 16.7 20.8 33.3 8.3 8.3 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 AA Strunk Peter A. Info Systems:Cncpts/Tech/Applc
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+9
+5
+4
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 0.0 8.3 37.5 20.8 16.7 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MIS 235
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+58
+113 117 181 51
+21
+27
+4
+1
+3
+0
+2
+3
+5
+0
+1
+0
+0
+0
+0
+3.18
+% 1.2 9.8 19.0 19.7 30.5 8.6 3.5 4.5 0.7 0.2 0.5 0.0 0.3 0.5 0.8 0.0 0.2 0.0 0.0 0.0 0.0
+MIS 281 B Strunk Peter A. Bus Microcomputer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+3.63
+% 0.0 50.0 8.3 16.7 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 8.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 281 C Havelka Douglas Bus Microcomputer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+0
+7
+0
+0
+4
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 0.0 21.1 10.5 0.0 36.8 0.0 0.0 21.1 0.0 0.0 5.3 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

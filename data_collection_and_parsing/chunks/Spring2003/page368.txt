@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 365 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MIS 235 H Robb George L. Info Systems:Cncpts/Tech/Applc
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+1
+5
+2
+3
+5
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.44
+% 0.0 0.0 4.8 4.8 23.8 9.5 14.3 23.8 9.5 0.0 4.8 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 I Robb George L. Info Systems:Cncpts/Tech/Applc
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+2
+3
+6
+4
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 4.5 9.1 9.1 13.6 27.3 18.2 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 J Robb George L. Info Systems:Cncpts/Tech/Applc
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+6
+3
+3
+4
+1
+3
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 4.0 8.0 24.0 12.0 12.0 16.0 4.0 12.0 0.0 0.0 0.0 0.0 0.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 K Robb George L. Info Systems:Cncpts/Tech/Applc
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+4
+1
+6
+3
+4
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 0.0 17.4 4.3 26.1 13.0 17.4 13.0 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 L Robb George L. Info Systems:Cncpts/Tech/Applc
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+3
+3
+6
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 4.5 18.2 13.6 13.6 27.3 13.6 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 M Serve Patrick D. Info Systems:Cncpts/Tech/Applc
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+6
+9
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 4.8 19.0 28.6 42.9 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 N Serve Patrick D. Info Systems:Cncpts/Tech/Applc
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+5
+6
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.07
+% 0.0 8.7 21.7 21.7 26.1 8.7 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 474 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PSY 294L F Hammerly Mark D. Research Methods Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 95.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 294L G Kraan Egon Research Methods Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+12
+5
+0
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.66
+% 9.1 54.5 22.7 0.0 0.0 4.5 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 294L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+10
+52
+15
+4
+5
+8
+0
+2
+5
+0
+0
+0
+0
+0
+6
+1
+0
+0
+0
+0
+0
+3.59
+% 9.3 48.1 13.9 3.7 4.6 7.4 0.0 1.9 4.6 0.0 0.0 0.0 0.0 0.0 5.6 0.9 0.0 0.0 0.0 0.0 0.0
+PSY 320L L A Fraser Rosemary A. Advanced Topics in Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+10
+4
+9
+3
+1
+5
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 4.9 7.3 24.4 9.8 22.0 7.3 2.4 12.2 7.3 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 320L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+10
+4
+9
+3
+1
+5
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 4.9 7.3 24.4 9.8 22.0 7.3 2.4 12.2 7.3 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 325 A Neumann Sandra L. Psy-Prejudice&Minority Exprnce
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+11
+5
+3
+1
+1
+0
+0
+3
+0
+1
+0
+4
+0
+2
+0
+1
+1
+0
+0
+0
+3.14
+% 19.5 26.8 12.2 7.3 2.4 2.4 0.0 0.0 7.3 0.0 2.4 0.0 9.8 0.0 4.9 0.0 2.4 2.4 0.0 0.0 0.0
+Course Total PSY 325
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+11
+5
+3
+1
+1
+0
+0
+3
+0
+1
+0
+4
+0
+2
+0
+1
+1
+0
+0
+0
+3.14
+% 19.5 26.8 12.2 7.3 2.4 2.4 0.0 0.0 7.3 0.0 2.4 0.0 9.8 0.0 4.9 0.0 2.4 2.4 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

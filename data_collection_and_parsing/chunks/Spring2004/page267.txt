@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Oxford Campus
+Page: 264 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FRE 202 D Hogg Chloe Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+2
+6
+3
+3
+1
+2
+0
+1
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+2.84
+% 0.0 14.3 14.3 7.1 21.4 10.7 10.7 3.6 7.1 0.0 3.6 0.0 0.0 0.0 0.0 3.6 0.0 3.6 0.0 0.0 0.0
+FRE 202 E Trachli Badia Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+5
+5
+3
+0
+0
+4
+1
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+3.30
+% 7.1 21.4 17.9 17.9 10.7 0.0 0.0 14.3 3.6 0.0 0.0 0.0 0.0 0.0 3.6 0.0 0.0 3.6 0.0 0.0 0.0
+FRE 202 F Trachli Badia Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+2
+3
+5
+1
+1
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+4
+1
+0
+0
+3.23
+% 13.8 17.2 6.9 10.3 17.2 3.4 3.4 3.4 0.0 3.4 3.4 0.0 0.0 0.0 0.0 0.0 0.0 13.8 3.4 0.0 0.0
+FRE 202 G Runyon Randolph Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+2
+4
+4
+2
+2
+2
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3.17
+% 15.4 7.7 15.4 15.4 7.7 7.7 7.7 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0
+FRE 202 H Hogg Chloe Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+2
+3
+2
+3
+1
+1
+1
+0
+0
+0
+2
+3
+1
+0
+0
+0
+0
+0
+2.70
+% 0.0 13.0 4.3 8.7 13.0 8.7 13.0 4.3 4.3 4.3 0.0 0.0 0.0 8.7 13.0 4.3 0.0 0.0 0.0 0.0 0.0
+FRE 202 I Gerwin Elisabeth Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+1
+4
+0
+3
+2
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.80
+% 0.0 13.6 22.7 4.5 18.2 0.0 13.6 9.1 4.5 4.5 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FRE 202 J Runyon Randolph Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+7
+2
+2
+3
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.40
+% 4.3 26.1 30.4 8.7 8.7 13.0 0.0 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

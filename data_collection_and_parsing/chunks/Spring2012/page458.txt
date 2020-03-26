@@ -1,0 +1,41 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Oxford Campus
+Page: 454 Sections of 10
+Management Information Systems Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 6
+52
+103 118 286 160 92
+88
+31
+12
+10
+5
+2
+11
+0
+0
+2
+0
+0
+0
+0
+2.86
+% 0.6 5.3 10.5 12.1 29.2 16.4 9.4 9.0 3.2 1.2 1.0 0.5 0.2 1.1 0.0 0.0 0.2 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

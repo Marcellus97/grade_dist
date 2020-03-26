@@ -1,0 +1,121 @@
+testGTraabdlee DofisCtroinbtuetniotsn
+Oxford Campus
+1
+ACC Accountancy
+1
+AMS American Studies
+3
+ARC Architecture & Interior Design
+4
+ATH Anthropology
+5
+BLS Business Legal Studies
+6
+BOT Botany
+7
+BUS Business Analysis
+8
+BWS Black World Studies
+13
+CHI Chinese
+14
+CHM Chemistry & Biochemistry
+15
+CLS Classics
+19
+COM Communication
+20
+CPE Chemical & Paper Engineering
+23
+CSE Comp Sci &Software Engineering
+24
+ECO Economics
+26
+EDL Educational Leadership
+28
+EDP Educational Psychology
+30
+EDT Teacher Education
+35
+ENG English
+40
+ESP Entrepreneurship
+46
+FIN Finance
+47
+FRE French
+50
+FSW Family Studies And Social Work
+51
+GEO Geography
+54
+GER German
+55
+GLG Geology
+56
+GTY Gerontology
+58
+HON Honors
+59
+HST History
+60
+IMS Interactive Media Studies
+61
+ISA Information Systems& Analytics
+62
+ITL Italian
+64
+JRN Journalism
+65
+KNH Kinesiology And Health
+67
+LAS Latin American Studies
+74
+MBI Microbiology
+75
+MGT Management
+76
+MKT Marketing
+79
+MME Manufact & Mechan Engineering
+82
+MTH Mathematics
+83
+MUS Music
+86
+PHL Philosophy
+87
+PHY Physics
+88
+POL Political Science
+91
+PSY Psychology
+93
+SCA School Of Creative Arts
+95
+SOC Sociology
+96
+SPA Speech Pathology & Audiology
+97
+SPN Spanish
+99
+STA Statistics
+103
+THE Theatre
+104
+WGS Women,Gender&Sexuality Studies
+105
+ZOO Zoology
+106
+Hamilton Campus
+116
+ACC Accountancy
+117
+ART Art
+118
+ATH Anthropology
+119
+BOT Botany
+120
+BTE Business Technology
+121

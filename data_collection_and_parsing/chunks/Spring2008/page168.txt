@@ -1,0 +1,310 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Oxford Campus
+Page: 165 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDP 440 B Dickey Michele D. Practicum Integrate Technology
+N
+N
+TM
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+0
+0
+2
+0
+0
+0
+0
+0
+2
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 0.0 69.6 0.0 0.0 8.7 0.0 0.0 0.0 0.0 0.0 8.7 0.0 8.7 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 440 C Dickey Michele D. Practicum Integrate Technology
+N
+N
+YP
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+0
+1
+0
+0
+1
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.22
+% 0.0 72.2 0.0 0.0 5.6 0.0 0.0 5.6 0.0 0.0 5.6 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 440 D Dickey Michele D. Practicum Integrate Technology
+N
+N
+RF
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+19
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.80
+% 0.0 95.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDP 440
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+48
+0
+0
+3
+0
+0
+1
+0
+0
+3
+0
+5
+1
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 0.0 78.7 0.0 0.0 4.9 0.0 0.0 1.6 0.0 0.0 4.9 0.0 8.2 1.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 440E A Swartz James D. Practicum Integrate Technology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+25
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 440E B Davis Darrel R. Practicum Integrate Technology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+24
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.96
+% 0.0 96.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 440E C Swartz James D. Practicum Integrate Technology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

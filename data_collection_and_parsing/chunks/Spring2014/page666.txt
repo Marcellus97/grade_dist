@@ -1,0 +1,334 @@
+testRun: 06/23/14 @ 07:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2013-14 Hamilton Campus
+Page: 662 Sections of 10
+CSE 153 H A Cook John Intro to "C" Programming
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+1
+2
+2
+2
+5
+1
+0
+0
+0
+1
+0
+% 0.0 4.5 9.1 9.1 9.1 22.7 4.5 0.0 0.0 0.0 4.5 0.0
+Course Total CSE 153
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+1
+2
+2
+2
+5
+1
+0
+0
+0
+1
+0
+% 0.0 4.5 9.1 9.1 9.1 22.7 4.5 0.0 0.0 0.0 4.5 0.0
+CSE 163 H A Seibold Pam Intro-Computer Concepts & Prog
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+1
+0
+1
+2
+1
+2
+2
+0
+0
+2
+0
+% 0.0 5.6 0.0 5.6 11.1 5.6 11.1 11.1 0.0 0.0 11.1 0.0
+CSE 163 H B Seibold Pam Intro-Computer Concepts & Prog
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+1
+0
+0
+2
+1
+2
+0
+2
+2
+0
+1
+% 0.0 6.7 0.0 0.0 13.3 6.7 13.3 0.0 13.3 13.3 0.0 6.7
+Course Total CSE 163
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+2
+0
+1
+4
+2
+4
+2
+2
+2
+2
+1
+% 0.0 6.1 0.0 3.0 12.1 6.1 12.1 6.1 6.1 6.1 6.1 3.0
+CSE 174 H A Ghosh Krishnendu Fundmntls-Progrming&Prob Solvg
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+1
+1
+1
+1
+2
+1
+1
+1
+0
+1
+3
+0
+% 5.0 5.0 5.0 5.0 10.0 5.0 5.0 5.0 0.0 5.0 15.0 0.0
+CSE 174 H B Ghosh Krishnendu Fundmntls-Progrming&Prob Solvg
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+2
+1
+2
+2
+0
+1
+2
+1
+0
+2
+0
+1
+% 9.1 4.5 9.1 9.1 0.0 4.5 9.1 4.5 0.0 9.1 0.0 4.5
+F
+W
+WP WF
+5
+3
+0
+0
+22.7 13.6 0.0 0.0
+F
+W
+WP WF
+5
+3
+0
+0
+22.7 13.6 0.0 0.0
+F
+W
+WP WF
+5
+2
+0
+0
+27.8 11.1 0.0 0.0
+F
+W
+4
+0
+26.7 0.0
+WP WF
+0
+0
+0.0 0.0
+F
+W
+9
+2
+27.3 6.1
+WP WF
+0
+0
+0.0 0.0
+F
+W
+WP WF
+4
+3
+0
+0
+20.0 15.0 0.0 0.0
+F
+W
+6
+2
+27.3 9.1
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.15
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.15
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.66
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.60
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.63
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.90
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.93
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

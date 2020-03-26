@@ -1,0 +1,304 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Oxford Campus
+Page: 90 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CHM 363
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+9
+0
+0
+5
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 0.0 20.0 0.0 0.0 45.0 0.0 0.0 25.0 0.0 0.0 5.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 426 A Hartley Christopher S. Spectroscopic Id Of Structure
+N
+N
+C1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.56
+% 0.0 60.0 0.0 0.0 20.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0
+Course Total CHM 426
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.56
+% 0.0 60.0 0.0 0.0 20.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0
+CHM 434 A Smith Amanda C. Biochemistry
+N
+N
+H3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+12
+0
+0
+2
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.04
+% 0.0 33.3 0.0 0.0 50.0 0.0 0.0 8.3 0.0 0.0 4.2 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 434
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+12
+0
+0
+2
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.04
+% 0.0 33.3 0.0 0.0 50.0 0.0 0.0 8.3 0.0 0.0 4.2 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 454 A Zou Shouzhong Instrumental Analysis
+N
+N
+N0
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+0
+4
+0
+0
+3
+0
+0
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.23
+% 0.0 7.7 7.7 0.0 30.8 0.0 0.0 23.1 0.0 0.0 7.7 0.0 15.4 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 454
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+0
+4
+0
+0
+3
+0
+0
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.23
+% 0.0 7.7 7.7 0.0 30.8 0.0 0.0 23.1 0.0 0.0 7.7 0.0 15.4 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

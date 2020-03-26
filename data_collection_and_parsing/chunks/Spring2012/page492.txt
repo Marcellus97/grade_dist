@@ -1,0 +1,302 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Oxford Campus
+Page: 488 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MTH 441 A Smith Mark A. Real Analysis
+N
+N
+07
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+2
+0
+0
+3
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.57
+% 0.0 6.7 13.3 20.0 13.3 0.0 0.0 20.0 6.7 13.3 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 441
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+2
+0
+0
+3
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.57
+% 0.0 6.7 13.3 20.0 13.3 0.0 0.0 20.0 6.7 13.3 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 447 A Miller Zevi Topics in Mathematical Finance
+N
+N
+25
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+0
+9
+1
+2
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 22.7 9.1 0.0 40.9 4.5 9.1 0.0 0.0 0.0 0.0 0.0 0.0 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 447
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+0
+9
+1
+2
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 22.7 9.1 0.0 40.9 4.5 9.1 0.0 0.0 0.0 0.0 0.0 0.0 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 453 A Jeong Jae W. Numerical Analysis
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+5
+0
+0
+4
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 21.4 0.0 0.0 35.7 0.0 0.0 28.6 0.0 0.0 0.0 0.0 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 453
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+5
+0
+0
+4
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 21.4 0.0 0.0 35.7 0.0 0.0 28.6 0.0 0.0 0.0 0.0 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 482 A Keiser Jane M. Great Theorems Of Mathematics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+5
+3
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.70
+% 0.0 52.2 21.7 13.0 8.7 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

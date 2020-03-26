@@ -1,0 +1,306 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Oxford Campus
+Page: 468 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total MME 315
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+2
+6
+2
+8
+4
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 0.0 12.1 9.1 6.1 18.2 6.1 24.2 12.1 6.1 0.0 3.0 0.0 0.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MME 334 A Hamilton Benjamin C. Quality Planning And Control
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+5
+6
+3
+3
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 0.0 10.0 25.0 30.0 15.0 15.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MME 334
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+5
+6
+3
+3
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 0.0 10.0 25.0 30.0 15.0 15.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MME 341 A Modirrousta Mostafa Engineering Economics
+N
+N
+49
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+1
+4
+5
+1
+0
+1
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.53
+% 0.0 44.4 3.7 14.8 18.5 3.7 0.0 3.7 0.0 0.0 0.0 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MME 341 B Modirrousta Mostafa Engineering Economics
+N
+N
+50
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+0
+2
+4
+4
+2
+1
+1
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 3.7 33.3 0.0 7.4 14.8 14.8 7.4 3.7 3.7 0.0 0.0 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MME 341
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+21
+1
+6
+9
+5
+2
+2
+1
+0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 1.9 38.9 1.9 11.1 16.7 9.3 3.7 3.7 1.9 0.0 0.0 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MME 403 A VanKuren James T. Heat Transfer
+N
+N
+72
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+1
+2
+1
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.20
+% 10.0 20.0 10.0 20.0 10.0 10.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 15:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2001-02 Oxford Campus
+Page: 49 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ART 480X
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+25
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2
+2
+1
+0
+1
+0
+0
+0
+3.78
+% 0.0 78.1 0.0 0.0 0.0 0.0 0.0 3.1 0.0 0.0 0.0 0.0 0.0 6.3 6.3 3.1 0.0 3.1 0.0 0.0 0.0
+ART 483 A Golan Steven Baroque Art
+N
+N
+AD
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+0
+4
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+3.23
+% 0.0 20.0 33.3 0.0 26.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0
+Course Total ART 483
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+0
+4
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+3.23
+% 0.0 20.0 33.3 0.0 26.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0
+ART 485 A Dietrich Linnea S. Art Of The Early 19th Century
+N
+N
+H1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+5
+1
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 0.0 26.7 33.3 6.7 20.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ART 485
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+5
+1
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 0.0 26.7 33.3 6.7 20.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 487 A Getty Clive F. Art Of The Early 20th Century
+N
+N
+H2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3
+4
+6
+1
+3
+0
+2
+2
+0
+0
+2
+1
+1
+0
+0
+0
+0
+0
+2.32
+% 0.0 0.0 0.0 12.0 16.0 24.0 4.0 12.0 0.0 8.0 8.0 0.0 0.0 8.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0
+Course Total ART 487
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3
+4
+6
+1
+3
+0
+2
+2
+0
+0
+2
+1
+1
+0
+0
+0
+0
+0
+2.32
+% 0.0 0.0 0.0 12.0 16.0 24.0 4.0 12.0 0.0 8.0 8.0 0.0 0.0 8.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

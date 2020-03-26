@@ -1,0 +1,308 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 57 Sections of 10
+BLS Business Legal Studies
+Miami Plan
+Honors
+Cross Listing
+BLS 235 A Herron Daniel J. Mock Trial Practicum
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BLS 235 B Haughey Daniel E. Mock Trial Practicum
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+14
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 6.7 93.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BLS 235
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+30
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 3.2 96.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BLS 342 A Staton Wayne Legal Environment of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+14
+19
+17
+30
+6
+9
+5
+3
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 0.9 12.8 17.4 15.6 27.5 5.5 8.3 4.6 2.8 0.9 1.8 1.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BLS 342 B Wines William A. Legal Environment of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+2
+19
+6
+4
+3
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 0.0 2.7 5.4 51.4 16.2 10.8 8.1 2.7 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BLS 342 C Herron Daniel J. Legal Environment of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+8
+12
+17
+1
+2
+32
+0
+0
+1
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.70
+% 0.0 9.3 9.3 14.0 19.8 1.2 2.3 37.2 0.0 0.0 1.2 0.0 2.3 3.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BLS 342 D Bailey Todd H. Legal Environment of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+1
+7
+6
+10
+3
+4
+3
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.80
+% 0.0 11.9 2.4 16.7 14.3 23.8 7.1 9.5 7.1 0.0 0.0 0.0 2.4 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

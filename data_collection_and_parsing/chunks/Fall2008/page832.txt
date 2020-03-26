@@ -1,0 +1,305 @@
+testRun: 01/20/09 @ 12:44 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2008-09 Hamilton Campus
+Page: 829 Sections of 10
+NSG Nursing
+Miami Plan
+Honors
+Cross Listing
+NSG 101 H A Burger Carolyn M. Intro To Nutrition And Pharm
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+5
+2
+5
+5
+5
+6
+5
+2
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+2.99
+% 11.6 11.6 4.7 11.6 11.6 11.6 14.0 11.6 4.7 0.0 0.0 0.0 0.0 4.7 0.0 0.0 2.3 0.0 0.0 0.0 0.0
+Course Total NSG 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+5
+2
+5
+5
+5
+6
+5
+2
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+2.99
+% 11.6 11.6 4.7 11.6 11.6 11.6 14.0 11.6 4.7 0.0 0.0 0.0 0.0 4.7 0.0 0.0 2.3 0.0 0.0 0.0 0.0
+NSG 103 HPF Beyer Deborah A. Intro-Calc Medication Dosage
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+7
+3
+0
+0
+0
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 22.2 38.9 16.7 0.0 0.0 0.0 11.1 5.6 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total NSG 103
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+7
+3
+0
+0
+0
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 22.2 38.9 16.7 0.0 0.0 0.0 11.1 5.6 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+NSG 105 H A Stevison Deborah A. Intro To Art & Science Of Nsg
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+9
+9
+6
+4
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+3.45
+% 0.0 22.5 22.5 22.5 15.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 2.5 0.0 0.0 0.0 0.0
+Course Total NSG 105
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+9
+9
+6
+4
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+3.45
+% 0.0 22.5 22.5 22.5 15.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 2.5 0.0 0.0 0.0 0.0
+NSG 232 H A Berry Chris L. Health Issues/Children & Youth
+N
+N
+58
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+3
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 27.3 36.4 27.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

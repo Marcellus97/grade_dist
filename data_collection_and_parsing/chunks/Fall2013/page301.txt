@@ -1,0 +1,302 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 297 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FSW 312 A Roberts Amy R. Human Behavior/Soc Environment
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+4
+0
+0
+3
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.57
+% 0.0 61.9 19.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FSW 312
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+4
+0
+0
+3
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.57
+% 0.0 61.9 19.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 361 A Kuvalanka Katherine A. Couple Relatnshps:Divrsty&Chng
+N
+N
+DR
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+13
+14
+18
+8
+3
+7
+2
+4
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 19.1 14.6 15.7 20.2 9.0 3.4 7.9 2.2 4.5 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FSW 361
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+13
+14
+18
+8
+3
+7
+2
+4
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 19.1 14.6 15.7 20.2 9.0 3.4 7.9 2.2 4.5 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 362 A Sellers Sherrill L. Family Poverty
+N
+N
+HH
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+4
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.71
+% 0.0 50.0 25.0 12.5 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FSW 362
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+4
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.71
+% 0.0 50.0 25.0 12.5 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 365 A Frabotta Richelle R. Family Life Sexuality Educatn
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+52
+0
+0
+56
+0
+0
+20
+0
+0
+3
+0
+7
+0
+0
+0
+1
+0
+0
+0
+0
+3.04
+% 0.0 37.4 0.0 0.0 40.3 0.0 0.0 14.4 0.0 0.0 2.2 0.0 5.0 0.0 0.0 0.0 0.7 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

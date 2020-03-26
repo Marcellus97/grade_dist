@@ -1,0 +1,336 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Hamilton Campus
+Page: 773 Sections of 10
+COM 136 H E Smith Marcia B. Intro:Interpersnal Communicatn
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+0
+1
+2
+1
+2
+2
+2
+0
+1
+0
+0
+% 0.0 4.5 9.1 4.5 9.1 9.1 9.1 0.0 4.5 0.0 0.0
+COM 136 H F Acheson Stephanie M. Intro:Interpersnal Communicatn
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+0
+2
+3
+2
+0
+1
+1
+0
+1
+0
+1
+% 0.0 8.7 13.0 8.7 0.0 4.3 4.3 0.0 4.3 0.0 4.3
+Course Total COM 136
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+6
+7
+11
+8
+17
+19
+8
+6
+2
+3
+1
+% 4.3 5.1 8.0 5.8 12.3 13.8 5.8 4.3 1.4 2.2 0.7
+COM 143 H A Suhr Hiesun C. Intro To Mass Communication
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+0
+1
+1
+0
+2
+5
+1
+2
+0
+0
+0
+% 0.0 5.9 5.9 0.0 11.8 29.4 5.9 11.8 0.0 0.0 0.0
+COM 143 H B Vaughn John H. Intro To Mass Communication
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+0
+3
+1
+0
+0
+1
+0
+0
+3
+0
+0
+% 0.0 21.4 7.1 0.0 0.0 7.1 0.0 0.0 21.4 0.0 0.0
+COM 143 H C Suhr Hiesun C. Intro To Mass Communication
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+0
+0
+0
+5
+3
+5
+1
+1
+4
+1
+0
+% 0.0 0.0 0.0 20.8 12.5 20.8 4.2 4.2 16.7 4.2 0.0
+COM 143 H D Owens Maya J. Intro To Mass Communication
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+0
+0
+3
+4
+1
+1
+2
+1
+1
+2
+0
+% 0.0 0.0 15.0 20.0 5.0 5.0 10.0 5.0 5.0 10.0 0.0
+D-
+F
+W
+WP WF
+0
+6
+5
+0
+0
+0.0 27.3 22.7 0.0 0.0
+D-
+F
+W
+WP WF
+0
+4
+8
+0
+0
+0.0 17.4 34.8 0.0 0.0
+D-
+F
+W
+WP WF
+3
+16
+28
+0
+0
+2.2 11.6 20.3 0.0 0.0
+D-
+F
+W
+2
+2
+1
+11.8 11.8 5.9
+WP WF
+0
+0
+0.0 0.0
+D-
+F
+W
+WP WF
+1
+2
+2
+0
+0
+7.1 14.3 14.3 0.0 0.0
+D-
+F
+W
+WP WF
+0
+2
+2
+0
+0
+0.0 8.3 8.3 0.0 0.0
+D-
+F
+W
+WP WF
+0
+1
+4
+0
+0
+0.0 5.0 20.0 0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+3
+0
+2.2 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+1
+0.0 7.1
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.91
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.23
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.45
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.18
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.20
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.34
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.56
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

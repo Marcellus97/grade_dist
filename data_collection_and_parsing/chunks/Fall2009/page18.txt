@@ -1,0 +1,46 @@
+testRun: 01/21/10 @ 13:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2009-10 Oxford Campus
+Page: 14 Sections of 10
+Aeronautics Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+28
+10
+14
+60
+8
+1
+30
+6
+0
+6
+0
+2
+4
+0
+0
+2
+4
+0
+0
+0
+2.89
+% 1.1 15.8 5.6 7.9 33.9 4.5 0.6 16.9 3.4 0.0 3.4 0.0 1.1 2.3 0.0 0.0 1.1 2.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

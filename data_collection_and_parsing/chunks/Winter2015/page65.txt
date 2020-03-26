@@ -1,0 +1,303 @@
+testRun: 03/25/15 @ 11:46 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2014-15 Oxford Campus
+Page: 63 Sections of 10
+MGT Management
+Miami Plan
+Honors
+Cross Listing
+MGT 111 A Finch Byron J. Introduction To Business
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+3
+4
+2
+4
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 0.0 51.6 9.7 12.9 6.5 12.9 0.0 0.0 3.2 0.0 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 111
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+3
+4
+2
+4
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 0.0 51.6 9.7 12.9 6.5 12.9 0.0 0.0 3.2 0.0 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 291 A Gerhardt Megan M. Intro to Management&Leadership
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+6
+1
+5
+1
+0
+4
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 24.0 24.0 4.0 20.0 4.0 0.0 16.0 0.0 0.0 0.0 4.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 291 B Hogan John T. Intro to Management&Leadership
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+8
+5
+2
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 0.0 16.7 33.3 20.8 8.3 4.2 8.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 291 C Wesolowski Mark A. Intro to Management&Leadership
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+6
+8
+3
+1
+1
+2
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 22.6 19.4 25.8 9.7 3.2 3.2 6.5 3.2 0.0 3.2 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 291 D Gerhardt Megan M. Intro to Management&Leadership
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+1
+6
+3
+3
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 4.2 25.0 4.2 25.0 12.5 12.5 12.5 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 291
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+26
+15
+16
+6
+6
+11
+2
+0
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 17.3 25.0 14.4 15.4 5.8 5.8 10.6 1.9 0.0 1.0 1.9 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

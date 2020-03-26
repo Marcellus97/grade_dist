@@ -1,0 +1,60 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 549 Sections of 10
+Physics Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 68
+311 214 180 257 159 127 159 84
+50
+53
+16
+80
+100 0
+0
+4
+21
+2
+0
+0
+2.84
+% 3.6 16.5 11.4 9.5 13.6 8.4 6.7 8.4 4.5 2.7 2.8 0.8 4.2 5.3 0.0 0.0 0.2 1.1 0.1 0.0 0.0
+GR 1
+24
+2
+1
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+12
+0
+0
+0
+3.77
+% 2.2 52.2 4.3 2.2 8.7 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 26.1 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

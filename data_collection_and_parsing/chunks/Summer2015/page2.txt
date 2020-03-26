@@ -1,0 +1,116 @@
+testBIS Integrative Studies
+121
+BTE Business Technology
+122
+CJS Criminal Justice Studies
+123
+COM Communication
+124
+CSE Comp Sci &Software Engineering
+125
+ECO Economics
+126
+EDT Teacher Education
+127
+ENG English
+128
+ENT Engineering Technology
+130
+FST Film Studies
+132
+FSW Family Studies And Social Work
+133
+HST History
+135
+KNH Kinesiology And Health
+137
+MAC Media And Culture
+138
+MBI Microbiology
+139
+MTH Mathematics
+140
+MUS Music
+142
+NSG Nursing
+143
+PSY Psychology
+144
+SOC Sociology
+145
+SPN Spanish
+146
+STA Statistics
+147
+WGS Women,Gender&Sexuality Studies
+148
+ACE American Culture & English Prg
+149
+ART Art
+150
+BIO Biology
+151
+BIS Integrative Studies
+153
+CHM Chemistry & Biochemistry
+154
+CLS Classics
+156
+EDL Educational Leadership
+157
+EDT Teacher Education
+158
+ENG English
+159
+ENT Engineering Technology
+162
+FSW Family Studies And Social Work
+163
+GLG Geology
+164
+HST History
+165
+MAC Media And Culture
+167
+MTH Mathematics
+168
+PHY Physics
+170
+PSY Psychology
+172
+SOC Sociology
+173
+SPN Spanish
+174
+STA Statistics
+176
+WGS Women,Gender&Sexuality Studies
+177
+ECO Economics
+178
+EDL Educational Leadership
+179
+EDP Educational Psychology
+180
+EDT Teacher Education
+182
+ENG English
+183
+FIN Finance
+184
+ISA Information Systems& Analytics
+185
+MGT Management
+186
+MKT Marketing
+187
+MTH Mathematics
+188
+SPA Speech Pathology & Audiology
+189
+CLS Classics
+190
+GEO Geography
+191
+GLG Geology
+192

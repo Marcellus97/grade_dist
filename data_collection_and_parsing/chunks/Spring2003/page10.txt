@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 7 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ACC 333 D Presutti Anthony H. Managerial Cost Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+10
+9
+15
+2
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+3.27
+% 0.0 2.6 25.6 23.1 38.5 5.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.6 2.6 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 333 E Campbell Robert J. Managerial Cost Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+7
+8
+8
+1
+5
+3
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.04
+% 0.0 12.5 17.5 20.0 20.0 2.5 12.5 7.5 7.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 333
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+19
+27
+27
+54
+5
+8
+15
+7
+2
+3
+0
+2
+4
+22
+0
+0
+0
+0
+0
+0
+3.00
+% 0.5 9.7 13.8 13.8 27.6 2.6 4.1 7.7 3.6 1.0 1.5 0.0 1.0 2.0 11.2 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 361 A Eighme Jan E. Modeling Bus Proc in AIS
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+15
+3
+5
+1
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 0.0 30.0 37.5 7.5 12.5 2.5 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 361 B Eighme Jan E. Modeling Bus Proc in AIS
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+6
+1
+7
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.42
+% 0.0 26.1 26.1 4.3 30.4 13.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 361 C Blankley Alan I. Modeling Bus Proc in AIS
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+2
+7
+14
+13
+2
+0
+1
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 14.3 4.1 14.3 28.6 26.5 4.1 0.0 2.0 2.0 2.0 0.0 0.0 0.0 2.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 361 D Blankley Alan I. Modeling Bus Proc in AIS
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+3
+7
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.19
+% 0.0 14.3 19.0 14.3 33.3 4.8 9.5 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

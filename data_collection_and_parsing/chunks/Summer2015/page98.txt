@@ -1,0 +1,300 @@
+testRun: 09/11/15 @ 08:38 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Term, 2014-15 Oxford Campus
+Page: 96 Sections of 10
+PHY Physics
+Miami Plan
+Honors
+Cross Listing
+PHY 141 UA Walsh Mark S. Physics In Sports
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+10
+0
+0
+3
+0
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+2.77
+% 0.0 0.0 0.0 0.0 62.5 0.0 0.0 18.8 0.0 0.0 0.0 0.0 0.0 12.5 0.0 0.0 0.0 6.3 0.0 0.0 0.0
+Course Total PHY 141
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+10
+0
+0
+3
+0
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+2.77
+% 0.0 0.0 0.0 0.0 62.5 0.0 0.0 18.8 0.0 0.0 0.0 0.0 0.0 12.5 0.0 0.0 0.0 6.3 0.0 0.0 0.0
+PHY 171 TA Blue Jennifer M. College Physics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+3
+0
+2
+0
+0
+4
+1
+0
+0
+1
+0
+4
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 10.0 15.0 15.0 0.0 10.0 0.0 0.0 20.0 5.0 0.0 0.0 5.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHY 171
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+3
+0
+2
+0
+0
+4
+1
+0
+0
+1
+0
+4
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 10.0 15.0 15.0 0.0 10.0 0.0 0.0 20.0 5.0 0.0 0.0 5.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 172 UA Divaratne Dilupama A. College Physics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+0
+3
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 25.0 16.7 0.0 25.0 16.7 8.3 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHY 172
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+0
+3
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 25.0 16.7 0.0 25.0 16.7 8.3 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 173 TA Blue Jennifer M. Physics Laboratory
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.88
+% 0.0 75.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

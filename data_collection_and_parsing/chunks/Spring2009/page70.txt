@@ -1,0 +1,316 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Oxford Campus
+Page: 67 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BUS 101 EC Elliott Steven R. Fdtns Business Decision Making
+N
+N
+9X
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1
+11
+5
+2
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 0.0 0.0 0.0 4.3 47.8 21.7 8.7 17.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 101 FA Leonard Joseph W. Fdtns Business Decision Making
+N
+N
+9V
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+3
+5
+2
+2
+5
+4
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 4.2 4.2 12.5 20.8 8.3 8.3 20.8 16.7 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 101 FB Leonard Joseph W. Fdtns Business Decision Making
+N
+N
+9V
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+4
+7
+4
+2
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 0.0 4.3 4.3 17.4 30.4 17.4 8.7 13.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 101 FC Leonard Joseph W. Fdtns Business Decision Making
+N
+N
+9V
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+5
+4
+4
+5
+0
+0
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 0.0 22.7 18.2 18.2 22.7 0.0 0.0 0.0 9.1 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 101 GA Barr Terri F. Fdtns Business Decision Making
+N
+N
+VF
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+5
+4
+3
+2
+8
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.24
+% 0.0 0.0 0.0 0.0 21.7 17.4 13.0 8.7 34.8 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 101 GB Barr Terri F. Fdtns Business Decision Making
+N
+N
+VF
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2
+4
+6
+4
+5
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.57
+% 0.0 0.0 0.0 9.1 18.2 27.3 18.2 22.7 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 101 GC Barr Terri F. Fdtns Business Decision Making
+N
+N
+VF
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+6
+6
+1
+3
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.43
+% 0.0 0.0 0.0 0.0 30.0 30.0 5.0 15.0 15.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

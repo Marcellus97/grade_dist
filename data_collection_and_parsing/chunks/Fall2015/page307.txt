@@ -1,0 +1,306 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 303 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+GEO 121 C Green Jerry E. Earth's Physical Environments
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+2
+1
+2
+0
+7
+2
+2
+3
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+1.87
+% 0.0 0.0 7.7 7.7 3.8 7.7 0.0 26.9 7.7 7.7 11.5 7.7 7.7 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GEO 121 D Grudzinski Bartosz P. Earth's Physical Environments
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+3
+0
+4
+3
+1
+3
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 8.7 17.4 13.0 0.0 17.4 13.0 4.3 13.0 4.3 0.0 4.3 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GEO 121 E Grudzinski Bartosz P. Earth's Physical Environments
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+1
+1
+3
+0
+2
+3
+1
+1
+0
+1
+1
+0
+0
+0
+2
+0
+0
+0
+2.57
+% 0.0 13.6 13.6 4.5 4.5 13.6 0.0 9.1 13.6 4.5 4.5 0.0 4.5 4.5 0.0 0.0 0.0 9.1 0.0 0.0 0.0
+GEO 121 F Grudzinski Bartosz P. Earth's Physical Environments
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+3
+1
+2
+1
+2
+3
+2
+0
+3
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.61
+% 4.2 16.7 12.5 4.2 8.3 4.2 8.3 12.5 8.3 0.0 12.5 0.0 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GEO 121 G Henry Mary C. Earth's Physical Environments
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+42
+12
+8
+17
+2
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 0.0 49.4 14.1 9.4 20.0 2.4 1.2 2.4 0.0 0.0 0.0 1.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GEO 121
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+56
+27
+16
+31
+17
+7
+27
+11
+8
+9
+6
+10
+5
+0
+0
+0
+3
+0
+0
+0
+2.81
+% 1.3 23.7 11.4 6.8 13.1 7.2 3.0 11.4 4.7 3.4 3.8 2.5 4.2 2.1 0.0 0.0 0.0 1.3 0.0 0.0 0.0
+GEO 201 A Prytherch David L. Geography of Urban Diversity
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+24
+20
+15
+4
+5
+2
+2
+1
+2
+0
+0
+1
+4
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 7.0 27.9 23.3 17.4 4.7 5.8 2.3 2.3 1.2 2.3 0.0 0.0 1.2 4.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

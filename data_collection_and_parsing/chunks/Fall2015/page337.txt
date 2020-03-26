@@ -1,0 +1,344 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 333 Sections of 10
+HST History
+HST 111 AA McVety Amanda K. Survey Of American History
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+0
+3
+6
+4
+1
+1
+0
+0
+1
+% 0.0 16.7 33.3 22.2 5.6 5.6 0.0 0.0 5.6
+HST 111 BA McVety Amanda K. Survey Of American History
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+3
+4
+4
+1
+0
+1
+1
+0
+% 0.0 15.8 21.1 21.1 5.3 0.0 5.3 5.3 0.0
+HST 111 CA McVety Amanda K. Survey Of American History
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+7
+6
+3
+1
+1
+0
+1
+1
+% 0.0 35.0 30.0 15.0 5.0 5.0 0.0 5.0 5.0
+HST 111 DA McVety Amanda K. Survey Of American History
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+6
+4
+3
+1
+1
+1
+2
+0
+% 0.0 30.0 20.0 15.0 5.0 5.0 5.0 10.0 0.0
+HST 111 EA McVety Amanda K. Survey Of American History
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+1
+4
+8
+2
+0
+0
+1
+0
+% 0.0 5.0 20.0 40.0 10.0 0.0 0.0 5.0 0.0
+HST 111 FA McVety Amanda K. Survey Of American History
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+2
+1
+2
+5
+3
+1
+0
+0
+% 0.0 11.1 5.6 11.1 27.8 16.7 5.6 0.0 0.0
+HST 111 GA McVety Amanda K. Survey Of American History
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+0
+4
+2
+3
+0
+0
+0
+0
+% 0.0 0.0 22.2 11.1 16.7 0.0 0.0 0.0 0.0
+D+ D
+D-
+F
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+D+ D
+D-
+F
+0
+1
+1
+1
+0.0 5.3 5.3 5.3
+D+ D
+D-
+F
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+D+ D
+D-
+F
+0
+1
+0
+1
+0.0 5.0 0.0 5.0
+D+ D
+D-
+F
+1
+2
+0
+1
+5.0 10.0 0.0 5.0
+D+ D
+D-
+F
+2
+1
+0
+1
+11.1 5.6 0.0 5.6
+D+ D
+D-
+F
+0
+0
+2
+1
+0.0 0.0 11.1 5.6
+W
+WP WF
+1
+0
+0
+5.6 0.0 0.0
+W
+WP WF
+2
+0
+0
+10.5 0.0 0.0
+W
+WP WF
+0
+0
+0
+0.0 0.0 0.0
+W
+WP WF
+0
+0
+0
+0.0 0.0 0.0
+W
+WP WF
+0
+0
+0
+0.0 0.0 0.0
+W
+WP WF
+0
+0
+0
+0.0 0.0 0.0
+W
+WP WF
+5
+0
+0
+27.8 0.0 0.0
+Miami Plan
+Y
+I
+X
+0
+1
+0.0 5.6
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+1
+0.0 5.6
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.43
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.88
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.48
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.09
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.83
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.63
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.65
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

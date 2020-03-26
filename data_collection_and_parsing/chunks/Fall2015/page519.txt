@@ -1,0 +1,353 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 515 Sections of 10
+MTH 451 A Randrianantoanina Narcisse Intro To Complex Variables
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+3
+0
+0
+0
+2
+0
+0
+2
+0
+0
+% 18.8 0.0 0.0 0.0 12.5 0.0 0.0 12.5 0.0 0.0
+Course Total MTH 451
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+3
+0
+0
+0
+2
+0
+0
+2
+0
+0
+% 18.8 0.0 0.0 0.0 12.5 0.0 0.0 12.5 0.0 0.0
+MTH 453 A Pogan Alexandru Alin Numerical Analysis
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+3
+2
+2
+0
+3
+0
+1
+1
+0
+0
+% 25.0 16.7 16.7 0.0 25.0 0.0 8.3 8.3 0.0 0.0
+Course Total MTH 453
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+3
+2
+2
+0
+3
+0
+1
+1
+0
+0
+% 25.0 16.7 16.7 0.0 25.0 0.0 8.3 8.3 0.0 0.0
+MTH 482 A Keiser Jane M. Great Theorems Of Mathematics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+4
+10
+3
+0
+3
+0
+0
+0
+0
+0
+% 20.0 50.0 15.0 0.0 15.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 482
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+4
+10
+3
+0
+3
+0
+0
+0
+0
+0
+% 20.0 50.0 15.0 0.0 15.0 0.0 0.0 0.0 0.0 0.0
+MTH 632 A Brezhneva Olga Advanced Optimization
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+5
+0
+0
+0
+0
+1
+4
+1
+0
+% 0.0 45.5 0.0 0.0 0.0 0.0 9.1 36.4 9.1 0.0
+D
+D-
+2
+0
+12.5 0.0
+D
+D-
+2
+0
+12.5 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+F
+W
+6
+1
+37.5 6.3
+F
+W
+6
+1
+37.5 6.3
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+JF
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.60
+0.0 0.0 0.0
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+Avg GPA
+0
+1.60
+0.0
+Q0
+S
+Avg GPA
+0
+3.39
+0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.39
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.81
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.81
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.91
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

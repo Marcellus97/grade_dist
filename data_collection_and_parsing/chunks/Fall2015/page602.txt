@@ -1,0 +1,305 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 598 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+SPA 127 A Hasselbeck Emily E. Intro To Communicatn Disorders
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+14
+3
+10
+5
+1
+1
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 10.0 35.0 7.5 25.0 12.5 2.5 2.5 0.0 0.0 2.5 0.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPA 127 B Corcoran Briana C. Intro To Communicatn Disorders
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+7
+7
+5
+5
+1
+1
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 2.6 18.4 18.4 18.4 13.2 13.2 2.6 2.6 7.9 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPA 127
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+21
+10
+15
+10
+2
+2
+3
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 1.3 14.1 26.9 12.8 19.2 12.8 2.6 2.6 3.8 0.0 1.3 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPA 201 A Gross Megan E. Intermediate ASL I
+N
+N
+6V
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+17
+3
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.85
+% 23.3 56.7 10.0 0.0 3.3 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPA 201 B Gross Megan E. Intermediate ASL I
+N
+N
+6W
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+11
+15
+2
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.88
+% 36.7 50.0 6.7 0.0 0.0 3.3 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPA 201
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+18
+32
+5
+0
+1
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.87
+% 30.0 53.3 8.3 0.0 1.7 5.0 1.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPA 222 A Gottliebson Renee C. Anatomy and Physiology Speech
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+11
+14
+6
+4
+3
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 6.8 25.0 31.8 13.6 9.1 6.8 2.3 2.3 0.0 0.0 0.0 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

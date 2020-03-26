@@ -1,0 +1,306 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Hamilton Campus
+Page: 635 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BIO 155 HVA Munson Richard H. Field Botany
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+4
+3
+4
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.72
+% 0.0 5.3 10.5 5.3 21.1 15.8 21.1 15.8 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BIO 155
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+4
+3
+4
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.72
+% 0.0 5.3 10.5 5.3 21.1 15.8 21.1 15.8 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 161 H A Vaughn Ashley R. Principles of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+0
+3
+6
+3
+0
+1
+1
+2
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.51
+% 0.0 12.0 12.0 0.0 12.0 24.0 12.0 0.0 4.0 4.0 8.0 0.0 8.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 161 H B Vaughn Ashley R. Principles of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+3
+2
+2
+2
+0
+1
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.56
+% 0.0 10.5 15.8 15.8 10.5 10.5 10.5 0.0 5.3 5.3 0.0 5.3 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 161 H D Broomall Kathleen Principles of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+2
+1
+2
+1
+1
+2
+1
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.59
+% 17.6 11.8 5.9 11.8 5.9 5.9 11.8 5.9 0.0 0.0 0.0 11.8 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 161 H E Broomall Kathleen Principles of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+0
+0
+2
+0
+0
+2
+1
+0
+0
+1
+2
+3
+1
+0
+0
+0
+0
+0
+0
+0
+2.23
+% 29.4 0.0 0.0 11.8 0.0 0.0 11.8 5.9 0.0 0.0 5.9 11.8 17.6 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 161 H H Copas Joseph L. Principles of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+2
+0
+0
+4
+3
+1
+2
+1
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.66
+% 19.0 9.5 0.0 0.0 19.0 14.3 4.8 9.5 4.8 4.8 4.8 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,308 @@
+testRun: 01/21/10 @ 13:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2009-10 Oxford Campus
+Page: 357 Sections of 10
+JRN Journalism
+Miami Plan
+Honors
+Cross Listing
+JRN 101 A Gibbs Cheryl J. Introduction to Journalism
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+12
+0
+1
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.51
+% 4.0 28.0 48.0 0.0 4.0 8.0 4.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+JRN 101 B Newberry Patricia G. Introduction to Journalism
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+2
+6
+4
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 3.8 34.6 7.7 23.1 15.4 7.7 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+JRN 101 C Ryan Kathleen M. Introduction to Journalism
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+5
+4
+3
+5
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.41
+% 13.0 21.7 17.4 13.0 21.7 0.0 0.0 0.0 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0
+JRN 101 D O'Brien Keith M. Introduction to Journalism
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+0
+6
+5
+3
+3
+1
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+1
+0
+0
+0
+3.19
+% 12.5 0.0 25.0 20.8 12.5 12.5 4.2 0.0 0.0 0.0 0.0 0.0 4.2 4.2 0.0 0.0 0.0 4.2 0.0 0.0 0.0
+Course Total JRN 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+21
+24
+14
+13
+7
+2
+2
+2
+0
+0
+1
+1
+1
+0
+0
+0
+2
+0
+0
+0
+3.39
+% 8.2 21.4 24.5 14.3 13.3 7.1 2.0 2.0 2.0 0.0 0.0 1.0 1.0 1.0 0.0 0.0 0.0 2.0 0.0 0.0 0.0
+JRN 101H A Siff Stephen Introduction to Journalism
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+3
+6
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 6.3 18.8 18.8 37.5 18.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+JRN 101H B Tobin James E. Introduction to Journalism
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+11
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 0.0 31.8 50.0 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,306 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Oxford Campus
+Page: 351 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+HST 433 A Frazier Nishani Oral Tradition:History & Prac
+N
+N
+0C
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+6
+4
+6
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+3.09
+% 0.0 0.0 30.0 20.0 30.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0
+Course Total HST 433
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+6
+4
+6
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+3.09
+% 0.0 0.0 30.0 20.0 30.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0
+HST 452 A Baernstein P. Renee Florence, 1250-1550
+N
+N
+0A
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+4
+2
+4
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.36
+% 0.0 30.0 20.0 10.0 20.0 10.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0
+Course Total HST 452
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+4
+2
+4
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.36
+% 0.0 30.0 20.0 10.0 20.0 10.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0
+HST 495 A Olumwullah Osaak A. Mod African Environmental Hist
+N
+N
+88
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+1
+1
+1
+0
+3
+0
+0
+0
+1
+4
+1
+0
+0
+1
+0
+0
+0
+0
+1.78
+% 0.0 0.0 13.3 6.7 6.7 6.7 0.0 20.0 0.0 0.0 0.0 6.7 26.7 6.7 0.0 0.0 6.7 0.0 0.0 0.0 0.0
+Course Total HST 495
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+1
+1
+1
+0
+3
+0
+0
+0
+1
+4
+1
+0
+0
+1
+0
+0
+0
+0
+1.78
+% 0.0 0.0 13.3 6.7 6.7 6.7 0.0 20.0 0.0 0.0 0.0 6.7 26.7 6.7 0.0 0.0 6.7 0.0 0.0 0.0 0.0
+HST 794 A de Boer Wietse T. History and Theories
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+8
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.79
+% 0.0 40.0 53.3 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

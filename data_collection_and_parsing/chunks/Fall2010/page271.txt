@@ -1,0 +1,305 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Oxford Campus
+Page: 267 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 298 A Mandell Laura C. Intro:Literary&Cultural Study
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+4
+9
+4
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.65
+% 16.7 16.7 37.5 16.7 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 298 B Peterson Kaara L. Intro:Literary&Cultural Study
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+6
+5
+2
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+2
+0
+0
+0
+0
+2.97
+% 0.0 8.3 16.7 25.0 20.8 8.3 4.2 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0
+ENG 298 C Menely Tobias C. Intro:Literary&Cultural Study
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+4
+2
+2
+0
+0
+0
+1
+1
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 20.0 10.0 20.0 10.0 10.0 0.0 0.0 0.0 5.0 5.0 0.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 298
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+10
+15
+14
+10
+4
+1
+0
+0
+1
+1
+0
+2
+4
+0
+0
+2
+0
+0
+0
+0
+3.28
+% 5.9 14.7 22.1 20.6 14.7 5.9 1.5 0.0 0.0 1.5 1.5 0.0 2.9 5.9 0.0 0.0 2.9 0.0 0.0 0.0 0.0
+ENG 301 A Palozzi Vincent J. History Of English Language
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+5
+2
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 0.0 61.5 19.2 7.7 7.7 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 301 B Palozzi Vincent J. History Of English Language
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+13
+7
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.75
+% 3.8 50.0 26.9 11.5 3.8 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 301
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+29
+12
+5
+3
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 1.9 55.8 23.1 9.6 5.8 1.9 0.0 1.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

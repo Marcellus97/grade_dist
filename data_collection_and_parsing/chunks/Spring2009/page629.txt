@@ -1,0 +1,333 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Middletown Campus
+Page: 626 Sections of 10
+ECO Economics
+ECO 201 M A Kinghorn Janice R. Principles Of Microeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+0
+1
+0
+0
+3
+1
+2
+2
+3
+0
+0
+% 0.0 0.0 5.0 0.0 0.0 15.0 5.0 10.0 10.0 15.0 0.0 0.0
+ECO 201 M B Kinghorn Janice R. Principles Of Microeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+0
+1
+1
+2
+3
+1
+2
+1
+2
+1
+0
+% 0.0 0.0 5.0 5.0 10.0 15.0 5.0 10.0 5.0 10.0 5.0 0.0
+ECO 201 M C Kinghorn Janice R. Principles Of Microeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+0
+2
+2
+0
+0
+2
+3
+1
+0
+2
+0
+% 0.0 0.0 11.8 11.8 0.0 0.0 11.8 17.6 5.9 0.0 11.8 0.0
+Course Total ECO 201
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+0
+4
+3
+2
+6
+4
+7
+4
+5
+3
+0
+% 0.0 0.0 7.0 5.3 3.5 10.5 7.0 12.3 7.0 8.8 5.3 0.0
+ECO 202 M B Kinghorn Janice R. Principles Of Macroeconomics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+1
+1
+4
+5
+2
+2
+4
+3
+5
+5
+1
+% 0.0 2.8 2.8 11.1 13.9 5.6 5.6 11.1 8.3 13.9 13.9 2.8
+Course Total ECO 202
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+1
+1
+4
+5
+2
+2
+4
+3
+5
+5
+1
+% 0.0 2.8 2.8 11.1 13.9 5.6 5.6 11.1 8.3 13.9 13.9 2.8
+Economics Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+UG 0
+1
+5
+7
+7
+8
+6
+11
+7
+10
+8
+1
+% 0.0 1.1 5.4 7.5 7.5 8.6 6.5 11.8 7.5 10.8 8.6 1.1
+F
+W
+WP WF
+1
+7
+0
+0
+5.0 35.0 0.0 0.0
+F
+W
+WP WF
+4
+2
+0
+0
+20.0 10.0 0.0 0.0
+F
+W
+4
+1
+23.5 5.9
+WP WF
+0
+0
+0.0 0.0
+F
+W
+WP WF
+9
+10
+0
+0
+15.8 17.5 0.0 0.0
+F
+W
+WP WF
+0
+3
+0
+0
+0.0 8.3 0.0 0.0
+F
+W
+WP WF
+0
+3
+0
+0
+0.0 8.3 0.0 0.0
+F
+W
+WP WF
+9
+13
+0
+0
+9.7 14.0 0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.95
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.82
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.77
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.84
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.16
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.16
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.97
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

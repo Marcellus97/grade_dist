@@ -1,0 +1,306 @@
+testRun: 11/24/14 @ 09:11 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Term, 2013-14 Hamilton Campus
+Page: 130 Sections of 10
+ENG English
+Miami Plan
+Honors
+Cross Listing
+ENG 111 HTA Allen Sheri L. Composition and Rhetoric
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+2
+1
+0
+2
+1
+1
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+2.76
+% 0.0 6.7 13.3 6.7 13.3 6.7 0.0 13.3 6.7 6.7 0.0 0.0 0.0 26.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 HTB Schmidlin Tom J. Composition and Rhetoric
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+3.48
+% 20.0 50.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0
+ENG 111 HUA Kulbaga Theresa A. Composition and Rhetoric
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+2
+3
+1
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.55
+% 0.0 9.1 9.1 18.2 27.3 9.1 0.0 9.1 0.0 0.0 0.0 0.0 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 111
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+7
+3
+4
+5
+2
+0
+3
+1
+1
+0
+0
+3
+4
+0
+0
+1
+0
+0
+0
+0
+2.89
+% 5.6 19.4 8.3 11.1 13.9 5.6 0.0 8.3 2.8 2.8 0.0 0.0 8.3 11.1 0.0 0.0 2.8 0.0 0.0 0.0 0.0
+ENG 112 HTA Weber Robert S. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+2
+0
+5
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 6.7 33.3 13.3 0.0 33.3 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 HUA Schmidlin Tom J. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+5
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.65
+% 35.7 35.7 21.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 HUB Frey Renea C. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+0
+2
+1
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 0.0 33.3 16.7 0.0 16.7 8.3 0.0 0.0 0.0 0.0 0.0 0.0 8.3 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

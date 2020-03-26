@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2003-04 Oxford Campus
+Page: 435 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHL 131 D Schuller Peter M. Prob Of Moral & Social Values
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+5
+7
+5
+2
+5
+1
+0
+0
+1
+0
+2
+1
+0
+0
+2
+0
+0
+0
+2.62
+% 0.0 0.0 0.0 16.1 22.6 16.1 6.5 16.1 3.2 0.0 0.0 3.2 0.0 6.5 3.2 0.0 0.0 6.5 0.0 0.0 0.0
+Course Total PHL 131
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+5
+16
+17
+21
+14
+13
+2
+0
+0
+1
+0
+3
+1
+3
+0
+3
+0
+0
+0
+2.62
+% 0.0 0.0 5.1 16.2 17.2 21.2 14.1 13.1 2.0 0.0 0.0 1.0 0.0 3.0 1.0 3.0 0.0 3.0 0.0 0.0 0.0
+PHL 273 B Seidel Asher Formal Logic
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+5
+4
+12
+5
+3
+13
+1
+0
+2
+0
+1
+3
+4
+0
+0
+11
+1
+0
+0
+2.93
+% 0.0 19.8 6.2 4.9 14.8 6.2 3.7 16.0 1.2 0.0 2.5 0.0 1.2 3.7 4.9 0.0 0.0 13.6 1.2 0.0 0.0
+Course Total PHL 273
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+5
+4
+12
+5
+3
+13
+1
+0
+2
+0
+1
+3
+4
+0
+0
+11
+1
+0
+0
+2.93
+% 0.0 19.8 6.2 4.9 14.8 6.2 3.7 16.0 1.2 0.0 2.5 0.0 1.2 3.7 4.9 0.0 0.0 13.6 1.2 0.0 0.0
+PHL 301 A Schuller Peter M. Ancient Philosophy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+3
+4
+9
+5
+1
+2
+2
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+2.74
+% 0.0 6.1 9.1 9.1 12.1 27.3 15.2 3.0 6.1 6.1 0.0 0.0 0.0 0.0 3.0 0.0 0.0 3.0 0.0 0.0 0.0
+Course Total PHL 301
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+3
+4
+9
+5
+1
+2
+2
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+2.74
+% 0.0 6.1 9.1 9.1 12.1 27.3 15.2 3.0 6.1 6.1 0.0 0.0 0.0 0.0 3.0 0.0 0.0 3.0 0.0 0.0 0.0
+PHL 311 A Wright John R. Ethical Theory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+5
+2
+4
+1
+2
+0
+1
+0
+2
+0
+2
+0
+3
+0
+0
+0
+0
+0
+0
+2.79
+% 0.0 15.4 19.2 7.7 15.4 3.8 7.7 0.0 3.8 0.0 7.7 0.0 7.7 0.0 11.5 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Oxford Campus
+Page: 462 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHS 188L I Wellbery Laura M. Exercise And Health Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+2
+5
+1
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 0.0 15.4 7.7 15.4 38.5 7.7 0.0 7.7 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 188L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+54
+24
+12
+26
+11
+1
+9
+2
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 5.3 35.8 15.9 7.9 17.2 7.3 0.7 6.0 1.3 1.3 0.7 0.0 0.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 190 A Chase Melissa A. Intro To Teaching Physical Ed
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+2
+4
+0
+0
+2
+1
+0
+1
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+3.12
+% 0.0 20.0 20.0 10.0 20.0 0.0 0.0 10.0 5.0 0.0 5.0 0.0 0.0 0.0 5.0 0.0 5.0 0.0 0.0 0.0 0.0
+Course Total PHS 190
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+2
+4
+0
+0
+2
+1
+0
+1
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+3.12
+% 0.0 20.0 20.0 10.0 20.0 0.0 0.0 10.0 5.0 0.0 5.0 0.0 0.0 0.0 5.0 0.0 5.0 0.0 0.0 0.0 0.0
+PHS 194 A Mandrell Warren H. Standard First Aid & Cpr
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+5
+5
+4
+3
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.04
+% 0.0 13.0 4.3 21.7 21.7 17.4 13.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 194 B Mandrell Warren H. Standard First Aid & Cpr
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+4
+7
+10
+3
+4
+0
+3
+0
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+3.06
+% 0.0 17.1 9.8 17.1 24.4 7.3 9.8 0.0 7.3 0.0 2.4 0.0 0.0 2.4 2.4 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 194
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+5
+12
+15
+7
+7
+1
+3
+0
+1
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+3.05
+% 0.0 15.6 7.8 18.8 23.4 10.9 10.9 1.6 4.7 0.0 1.6 0.0 0.0 1.6 3.1 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,301 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 85 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BIO 342 A Cochrane Bruce J. Genetics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+6
+4
+7
+1
+2
+15
+0
+2
+3
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+2.77
+% 0.0 20.4 11.1 7.4 13.0 1.9 3.7 27.8 0.0 3.7 5.6 1.9 0.0 1.9 0.0 0.0 1.9 0.0 0.0 0.0 0.0
+Course Total BIO 342
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+6
+4
+7
+1
+2
+15
+0
+2
+3
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+2.77
+% 0.0 20.4 11.1 7.4 13.0 1.9 3.7 27.8 0.0 3.7 5.6 1.9 0.0 1.9 0.0 0.0 1.9 0.0 0.0 0.0 0.0
+BIO 342W A Hoffman Susan M. Genetics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+3
+2
+6
+9
+2
+3
+2
+0
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.86
+% 0.0 18.4 7.9 5.3 15.8 23.7 5.3 7.9 5.3 0.0 2.6 0.0 2.6 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BIO 342W
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+3
+2
+6
+9
+2
+3
+2
+0
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.86
+% 0.0 18.4 7.9 5.3 15.8 23.7 5.3 7.9 5.3 0.0 2.6 0.0 2.6 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 395 A Marchant Linda F. Primate Biology and Behavior
+N
+N
+TP
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+2
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.64
+% 14.3 42.9 14.3 7.1 14.3 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BIO 395
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+2
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.64
+% 14.3 42.9 14.3 7.1 14.3 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 400 A Tadjuidje Emmanuel Capstone: Contemporary Issues
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+19
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.64
+% 0.0 76.0 0.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

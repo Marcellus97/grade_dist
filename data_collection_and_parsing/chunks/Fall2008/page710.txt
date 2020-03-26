@@ -1,0 +1,301 @@
+testRun: 01/20/09 @ 12:44 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2008-09 Middletown Campus
+Page: 707 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PSY 231 MS1 Soh Raymond Developmental Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+2
+2
+3
+0
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.76
+% 0.0 8.3 8.3 16.7 16.7 25.0 0.0 8.3 0.0 0.0 0.0 0.0 8.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 231
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+2
+2
+3
+0
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.76
+% 0.0 8.3 8.3 16.7 16.7 25.0 0.0 8.3 0.0 0.0 0.0 0.0 8.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 242 M A McGuire Keith Abnormal Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+4
+4
+3
+0
+3
+1
+0
+1
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.63
+% 0.0 11.5 11.5 15.4 15.4 11.5 0.0 11.5 3.8 0.0 3.8 3.8 7.7 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 242
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+4
+4
+3
+0
+3
+1
+0
+1
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.63
+% 0.0 11.5 11.5 15.4 15.4 11.5 0.0 11.5 3.8 0.0 3.8 3.8 7.7 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 271 M A Uhler Beth D. Cognitive Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+3
+0
+4
+0
+3
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.49
+% 0.0 13.3 0.0 20.0 0.0 26.7 0.0 20.0 0.0 6.7 0.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 271
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+3
+0
+4
+0
+3
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.49
+% 0.0 13.3 0.0 20.0 0.0 26.7 0.0 20.0 0.0 6.7 0.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Psychology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 10
+28
+19
+27
+27
+20
+20
+18
+4
+12
+4
+5
+29
+21
+0
+0
+0
+1
+0
+0
+0
+2.50
+% 4.1 11.4 7.8 11.0 11.0 8.2 8.2 7.3 1.6 4.9 1.6 2.0 11.8 8.6 0.0 0.0 0.0 0.4 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

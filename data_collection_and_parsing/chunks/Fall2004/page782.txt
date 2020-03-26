@@ -1,0 +1,301 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Hamilton Campus
+Page: 779 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+HST 309 H A Vascik George S. Holocaust & Genocide Mdrn Hist
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+12
+7
+14
+11
+7
+4
+2
+5
+0
+0
+0
+0
+0
+4
+3
+1
+0
+0
+0
+2.68
+% 0.0 4.1 16.4 9.6 19.2 15.1 9.6 5.5 2.7 6.8 0.0 0.0 0.0 0.0 0.0 5.5 4.1 1.4 0.0 0.0 0.0
+Course Total HST 309
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+12
+7
+14
+11
+7
+4
+2
+5
+0
+0
+0
+0
+0
+4
+3
+1
+0
+0
+0
+2.68
+% 0.0 4.1 16.4 9.6 19.2 15.1 9.6 5.5 2.7 6.8 0.0 0.0 0.0 0.0 0.0 5.5 4.1 1.4 0.0 0.0 0.0
+HST 361 H A Meckley Robert C. Colonial America
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+7
+3
+5
+1
+2
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+2.64
+% 0.0 12.5 0.0 0.0 29.2 12.5 20.8 4.2 8.3 0.0 0.0 0.0 0.0 0.0 8.3 4.2 0.0 0.0 0.0 0.0 0.0
+Course Total HST 361
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+7
+3
+5
+1
+2
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+2.64
+% 0.0 12.5 0.0 0.0 29.2 12.5 20.8 4.2 8.3 0.0 0.0 0.0 0.0 0.0 8.3 4.2 0.0 0.0 0.0 0.0 0.0
+HST 381 H A Moyer Johanna B. Women In Pre-Industrial Europe
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+1
+1
+2
+1
+0
+0
+0
+0
+0
+0
+1
+1
+2
+0
+0
+0
+0
+0
+2.81
+% 0.0 28.6 7.1 7.1 7.1 14.3 7.1 0.0 0.0 0.0 0.0 0.0 0.0 7.1 7.1 14.3 0.0 0.0 0.0 0.0 0.0
+Course Total HST 381
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+1
+1
+2
+1
+0
+0
+0
+0
+0
+0
+1
+1
+2
+0
+0
+0
+0
+0
+2.81
+% 0.0 28.6 7.1 7.1 7.1 14.3 7.1 0.0 0.0 0.0 0.0 0.0 0.0 7.1 7.1 14.3 0.0 0.0 0.0 0.0 0.0
+History Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 5
+45
+44
+52
+94
+63
+54
+48
+24
+19
+13
+7
+22
+19
+10
+49
+6
+1
+0
+0
+0
+2.39
+% 0.9 7.8 7.7 9.0 16.3 11.0 9.4 8.3 4.2 3.3 2.3 1.2 3.8 3.3 1.7 8.5 1.0 0.2 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

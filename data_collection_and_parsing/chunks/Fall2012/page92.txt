@@ -1,0 +1,305 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Oxford Campus
+Page: 88 Sections of 10
+BLS Business Legal Studies
+Miami Plan
+Honors
+Cross Listing
+BLS 342 A Staton Wayne C. Legal Environment of Business
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+23
+20
+32
+18
+11
+8
+3
+0
+1
+0
+1
+4
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.8 6.2 17.7 15.4 24.6 13.8 8.5 6.2 2.3 0.0 0.8 0.0 0.8 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BLS 342 B Staton Wayne C. Legal Environment of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+24
+41
+56
+61
+37
+10
+12
+8
+3
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 0.4 9.4 16.0 21.9 23.8 14.5 3.9 4.7 3.1 1.2 0.0 0.4 0.0 0.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BLS 342 C Schuett Neal D. Legal Environment of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+4
+2
+2
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 0.0 7.1 7.1 28.6 14.3 14.3 14.3 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BLS 342 D Miller Fred S. Legal Environment of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+5
+9
+6
+4
+2
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 5.9 11.8 14.7 26.5 17.6 11.8 5.9 0.0 2.9 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BLS 342 E Becker Paul A. Legal Environment of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+2
+3
+8
+4
+4
+11
+0
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+2.61
+% 2.6 5.3 5.3 7.9 21.1 10.5 10.5 28.9 0.0 2.6 0.0 0.0 2.6 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0
+BLS 342 F Humbach Thomas E. Legal Environment of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+6
+9
+4
+8
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.83
+% 0.0 2.9 8.6 17.1 25.7 11.4 22.9 11.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BLS 342
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+38
+74
+94
+121 71
+39
+38
+12
+5
+1
+1
+2
+7
+0
+0
+1
+0
+0
+0
+0
+3.00
+% 0.6 7.5 14.6 18.5 23.9 14.0 7.7 7.5 2.4 1.0 0.2 0.2 0.4 1.4 0.0 0.0 0.2 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,302 @@
+testRun: 06/30/04 @ 16:03 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2001-02 Hamilton Campus
+Page: 222 Sections of 10
+MUS Music
+Miami Plan
+Honors
+Cross Listing
+MUS 135 HOA Bercaw John B. Historical Survey Of Jazz
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+1
+11
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+3.14
+% 0.0 43.3 0.0 3.3 36.7 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0
+Course Total MUS 135
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+1
+11
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+3.14
+% 0.0 43.3 0.0 3.3 36.7 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0
+MUS 185 HMA Fenton Shawn M. The Diverse Worlds Of Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+7
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+3.29
+% 12.5 43.8 12.5 6.3 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 12.5 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MUS 185
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+7
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+3.29
+% 12.5 43.8 12.5 6.3 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 12.5 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0
+MUS 189 HOA Rusbosin Sharon P. Great Ideas In Western Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+0
+5
+0
+0
+1
+0
+0
+0
+0
+0
+2
+1
+0
+0
+1
+0
+0
+0
+3.09
+% 0.0 8.3 8.3 0.0 41.7 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 16.7 8.3 0.0 0.0 8.3 0.0 0.0 0.0
+Course Total MUS 189
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+0
+5
+0
+0
+1
+0
+0
+0
+0
+0
+2
+1
+0
+0
+1
+0
+0
+0
+3.09
+% 0.0 8.3 8.3 0.0 41.7 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 16.7 8.3 0.0 0.0 8.3 0.0 0.0 0.0
+Music Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+21
+3
+2
+16
+1
+0
+4
+0
+0
+0
+0
+2
+2
+2
+2
+0
+1
+0
+0
+0
+3.18
+% 3.4 36.2 5.2 3.4 27.6 1.7 0.0 6.9 0.0 0.0 0.0 0.0 3.4 3.4 3.4 3.4 0.0 1.7 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

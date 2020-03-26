@@ -1,0 +1,108 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Oxford Campus
+Page: 384 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total MIS 625
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+8
+5
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 9.1 18.2 36.4 22.7 9.1 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Management Information Systems Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 12
+181 153 200 465 139 95
+83
+23
+6
+6
+0
+6
+22
+21
+3
+3
+0
+0
+0
+0
+3.07
+% 0.8 12.8 10.8 14.1 32.8 9.8 6.7 5.9 1.6 0.4 0.4 0.0 0.4 1.6 1.5 0.2 0.2 0.0 0.0 0.0 0.0
+GR 2
+6
+12
+7
+7
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.50
+% 5.4 16.2 32.4 18.9 18.9 5.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

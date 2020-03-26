@@ -1,0 +1,300 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Oxford Campus
+Page: 291 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FIN 461 A Boulton Thomas J. Fin Anal Mergers Buyouts Restr
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+6
+8
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 0.0 32.5 15.0 20.0 32.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 461
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+6
+8
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 0.0 32.5 15.0 20.0 32.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 475 A Shrider David G. Case Problems In Finance
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+5
+0
+15
+0
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 3.4 6.9 17.2 0.0 51.7 0.0 13.8 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 475 B Shrider David G. Case Problems In Finance
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+0
+8
+0
+7
+4
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 13.8 10.3 0.0 27.6 0.0 24.1 13.8 10.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 475
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+8
+0
+23
+0
+11
+6
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 1.7 10.3 13.8 0.0 39.7 0.0 19.0 10.3 5.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 481 A Griffiths Mark D. Student Run Investment Fund
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+5
+8
+5
+1
+1
+1
+0
+0
+1
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 0.0 13.3 16.7 26.7 16.7 3.3 3.3 3.3 0.0 0.0 3.3 3.3 6.7 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 481
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+5
+8
+5
+1
+1
+1
+0
+0
+1
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 0.0 13.3 16.7 26.7 16.7 3.3 3.3 3.3 0.0 0.0 3.3 3.3 6.7 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

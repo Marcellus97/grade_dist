@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2002-03 Oxford Campus
+Page: 134 Sections of 10
+STA Statistics
+Miami Plan
+Honors
+Cross Listing
+STA 261 OA Ward Douglas E. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+5
+0
+4
+5
+2
+1
+2
+0
+2
+0
+0
+2
+1
+1
+0
+1
+0
+0
+0
+3.16
+% 0.0 38.1 11.9 0.0 9.5 11.9 4.8 2.4 4.8 0.0 4.8 0.0 0.0 4.8 2.4 2.4 0.0 2.4 0.0 0.0 0.0
+Course Total STA 261
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+5
+0
+4
+5
+2
+1
+2
+0
+2
+0
+0
+2
+1
+1
+0
+1
+0
+0
+0
+3.16
+% 0.0 38.1 11.9 0.0 9.5 11.9 4.8 2.4 4.8 0.0 4.8 0.0 0.0 4.8 2.4 2.4 0.0 2.4 0.0 0.0 0.0
+STA 261S MA Noble Robert B. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+1
+1
+0
+1
+0
+0
+1
+1
+5
+3
+2
+2
+0
+1
+0
+0
+0
+2
+0
+0
+1.87
+% 13.0 4.3 4.3 0.0 4.3 0.0 0.0 4.3 4.3 21.7 13.0 8.7 8.7 0.0 4.3 0.0 0.0 0.0 8.7 0.0 0.0
+Course Total STA 261S
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+1
+1
+0
+1
+0
+0
+1
+1
+5
+3
+2
+2
+0
+1
+0
+0
+0
+2
+0
+0
+1.87
+% 13.0 4.3 4.3 0.0 4.3 0.0 0.0 4.3 4.3 21.7 13.0 8.7 8.7 0.0 4.3 0.0 0.0 0.0 8.7 0.0 0.0
+STA 301 MA Schaefer Robert L. Applied Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+4
+0
+2
+3
+3
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.05
+% 0.0 0.0 0.0 0.0 28.6 0.0 14.3 21.4 21.4 0.0 7.1 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0
+Course Total STA 301
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+4
+0
+2
+3
+3
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.05
+% 0.0 0.0 0.0 0.0 28.6 0.0 14.3 21.4 21.4 0.0 7.1 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0
+STA 668 MA Waikar Vasant B. Sampling Theory And Techniques
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 20.0 40.0 30.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

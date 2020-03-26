@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2003-04 Oxford Campus
+Page: 579 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+WMS 201 E Harrison Denise A. Intro To Womens Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+4
+4
+7
+2
+4
+3
+1
+1
+1
+0
+0
+0
+3
+1
+0
+0
+0
+0
+0
+0
+3.18
+% 11.4 11.4 11.4 20.0 5.7 11.4 8.6 2.9 2.9 2.9 0.0 0.0 0.0 8.6 2.9 0.0 0.0 0.0 0.0 0.0 0.0
+WMS 201 F Pavithra Narayanan E. Intro To Womens Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+32
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.98
+% 2.8 88.9 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total WMS 201
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+116 25
+27
+14
+8
+5
+1
+1
+1
+0
+0
+0
+5
+1
+1
+0
+3
+0
+0
+0
+3.66
+% 3.3 54.0 11.6 12.6 6.5 3.7 2.3 0.5 0.5 0.5 0.0 0.0 0.0 2.3 0.5 0.5 0.0 1.4 0.0 0.0 0.0
+WMS 221 A Harrington C. Lee Human Sexuality
+N
+N
+SG
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+0
+1
+1
+0
+0
+1
+0
+1
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+2.78
+% 0.0 25.0 16.7 0.0 8.3 8.3 0.0 0.0 8.3 0.0 8.3 0.0 8.3 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0
+Course Total WMS 221
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+0
+1
+1
+0
+0
+1
+0
+1
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+2.78
+% 0.0 25.0 16.7 0.0 8.3 8.3 0.0 0.0 8.3 0.0 8.3 0.0 8.3 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0
+WMS 301 A Detloff Madelyn M. Women & Difference
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+9
+3
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.56
+% 0.0 19.0 42.9 14.3 19.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0
+Course Total WMS 301
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+9
+3
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.56
+% 0.0 19.0 42.9 14.3 19.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Oxford Campus
+Page: 9 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ACC 443
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+14
+7
+9
+34
+5
+5
+20
+3
+0
+7
+0
+1
+1
+7
+0
+1
+0
+0
+0
+0
+2.78
+% 0.9 12.2 6.1 7.8 29.6 4.3 4.3 17.4 2.6 0.0 6.1 0.0 0.9 0.9 6.1 0.0 0.9 0.0 0.0 0.0 0.0
+ACC 453 A Rankin Larry J. Financial Statement Auditing
+N
+N
+BS
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+4
+15
+1
+3
+6
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.78
+% 0.0 3.1 3.1 12.5 46.9 3.1 9.4 18.8 0.0 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 453 B Rankin Larry J. Financial Statement Auditing
+N
+N
+SB
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+11
+7
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 3.4 6.9 10.3 37.9 24.1 6.9 10.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 453 C Rankin Larry J. Financial Statement Auditing
+N
+N
+BK
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+0
+12
+4
+3
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 3.4 10.3 0.0 41.4 13.8 10.3 13.8 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 453
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+6
+7
+38
+12
+8
+13
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 0.0 3.3 6.7 7.8 42.2 13.3 8.9 14.4 2.2 1.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 468 VA Cumming John Acc Governmental Organizations
+N
+N
+X4
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+1
+8
+1
+1
+3
+0
+0
+1
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.59
+% 0.0 5.3 0.0 5.3 42.1 5.3 5.3 15.8 0.0 0.0 5.3 5.3 0.0 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 468
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+1
+8
+1
+1
+3
+0
+0
+1
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.59
+% 0.0 5.3 0.0 5.3 42.1 5.3 5.3 15.8 0.0 0.0 5.3 5.3 0.0 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,301 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 856 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENT 310 M A Amin Mazyar Fluid Mechanics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+0
+3
+2
+3
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 11.8 29.4 0.0 17.6 11.8 17.6 0.0 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENT 310
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+0
+3
+2
+3
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 11.8 29.4 0.0 17.6 11.8 17.6 0.0 5.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENT 312 M A Amin Mazyar Thermodynamics And Heat Power
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+3
+0
+0
+5
+3
+1
+1
+2
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.46
+% 5.6 0.0 16.7 0.0 0.0 27.8 16.7 5.6 5.6 11.1 0.0 0.0 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENT 312
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+3
+0
+0
+5
+3
+1
+1
+2
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.46
+% 5.6 0.0 16.7 0.0 0.0 27.8 16.7 5.6 5.6 11.1 0.0 0.0 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENT 416 M A Ranatunga Padmasiri V. Topics in Mechanical Vibration
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+2
+2
+2
+2
+2
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.62
+% 7.1 0.0 14.3 14.3 14.3 14.3 14.3 7.1 0.0 0.0 0.0 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENT 416
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+2
+2
+2
+2
+2
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.62
+% 7.1 0.0 14.3 14.3 14.3 14.3 14.3 7.1 0.0 0.0 0.0 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENT 497 M A Drigel Gary S. Senior Design Project
+N
+N
+55
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+6
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.50
+% 25.0 50.0 0.0 0.0 0.0 0.0 0.0 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

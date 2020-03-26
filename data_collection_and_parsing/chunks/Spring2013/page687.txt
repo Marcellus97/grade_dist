@@ -1,0 +1,328 @@
+testRun: 07/08/13 @ 16:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2012-13 Middletown Campus
+Page: 683 Sections of 10
+Course Total ENG 151
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+4
+0
+6
+0
+1
+1
+0
+1
+0
+0
+0
+0
+% 22.2 0.0 33.3 0.0 5.6 5.6 0.0 5.6 0.0 0.0 0.0 0.0
+ENG 215 M A Dich Linh L. Workplace Writing
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+1
+1
+2
+1
+2
+0
+3
+2
+0
+2
+0
+% 0.0 5.9 5.9 11.8 5.9 11.8 0.0 17.6 11.8 0.0 11.8 0.0
+Course Total ENG 215
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+1
+1
+2
+1
+2
+0
+3
+2
+0
+2
+0
+% 0.0 5.9 5.9 11.8 5.9 11.8 0.0 17.6 11.8 0.0 11.8 0.0
+ENG 224 M A Dich Linh L. Digital Writing and Rhetoric
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+2
+3
+0
+3
+1
+1
+1
+0
+0
+0
+0
+% 0.0 16.7 25.0 0.0 25.0 8.3 8.3 8.3 0.0 0.0 0.0 0.0
+Course Total ENG 224
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+2
+3
+0
+3
+1
+1
+1
+0
+0
+0
+0
+% 0.0 16.7 25.0 0.0 25.0 8.3 8.3 8.3 0.0 0.0 0.0 0.0
+ENG 226 M A Nordgren Sarah R. Intro/Creat Wrt:Sht Fctn&Poet
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+1
+2
+3
+1
+0
+1
+1
+0
+0
+1
+0
+1
+% 9.1 18.2 27.3 9.1 0.0 9.1 9.1 0.0 0.0 9.1 0.0 9.1
+ENG 226 M B Melbye Eric Intro/Creat Wrt:Sht Fctn&Poet
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+4
+5
+0
+1
+1
+0
+1
+0
+2
+0
+0
+% 0.0 22.2 27.8 0.0 5.6 5.6 0.0 5.6 0.0 11.1 0.0 0.0
+F
+W
+WP WF
+3
+2
+0
+0
+16.7 11.1 0.0 0.0
+F
+W
+WP WF
+1
+2
+0
+0
+5.9 11.8 0.0 0.0
+F
+W
+WP WF
+1
+2
+0
+0
+5.9 11.8 0.0 0.0
+F
+W
+WP WF
+1
+0
+0
+0
+8.3 0.0 0.0 0.0
+F
+W
+WP WF
+1
+0
+0
+0
+8.3 0.0 0.0 0.0
+F
+W
+WP WF
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+F
+W
+WP WF
+2
+2
+0
+0
+11.1 11.1 0.0 0.0
+Miami Plan
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.87
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.27
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.27
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.93
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.93
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.04
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.80
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

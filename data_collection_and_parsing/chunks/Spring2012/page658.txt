@@ -1,0 +1,339 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Middletown Campus
+Page: 654 Sections of 10
+Course Total BTE 281
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+1
+2
+1
+0
+1
+0
+0
+1
+0
+% 0.0 10.0 20.0 10.0 0.0 10.0 0.0 0.0 10.0 0.0
+BTE 282 M A Sommer Jeffrey M. Computer-Based Business Anlys
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+10
+1
+8
+2
+0
+2
+1
+0
+1
+% 0.0 33.3 3.3 26.7 6.7 0.0 6.7 3.3 0.0 3.3
+Course Total BTE 282
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+10
+1
+8
+2
+0
+2
+1
+0
+1
+% 0.0 33.3 3.3 26.7 6.7 0.0 6.7 3.3 0.0 3.3
+BTE 286 M A Bantz Orville L. Business and the Internet
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+2
+1
+2
+1
+1
+0
+0
+1
+% 0.0 0.0 14.3 7.1 14.3 7.1 7.1 0.0 0.0 7.1
+Course Total BTE 286
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+0
+2
+1
+2
+1
+1
+0
+0
+1
+% 0.0 0.0 14.3 7.1 14.3 7.1 7.1 0.0 0.0 7.1
+BTE 301 M A Baim Susan A. Personal Organization Skills
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+9
+6
+0
+0
+4
+0
+0
+1
+0
+0
+% 39.1 26.1 0.0 0.0 17.4 0.0 0.0 4.3 0.0 0.0
+Course Total BTE 301
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+9
+6
+0
+0
+4
+0
+0
+1
+0
+0
+% 39.1 26.1 0.0 0.0 17.4 0.0 0.0 4.3 0.0 0.0
+D
+D-
+2
+0
+20.0 0.0
+D
+D-
+0
+1
+0.0 3.3
+D
+D-
+0
+1
+0.0 3.3
+D
+D-
+0
+1
+0.0 7.1
+D
+D-
+0
+1
+0.0 7.1
+D
+D-
+1
+0
+4.3 0.0
+D
+D-
+1
+0
+4.3 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 20.0 0.0 0.0
+F
+W
+WP WF
+0
+4
+0
+0
+0.0 13.3 0.0 0.0
+F
+W
+WP WF
+0
+4
+0
+0
+0.0 13.3 0.0 0.0
+F
+W
+WP WF
+2
+3
+0
+0
+14.3 21.4 0.0 0.0
+F
+W
+WP WF
+2
+3
+0
+0
+14.3 21.4 0.0 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 8.7 0.0 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 8.7 0.0 0.0
+Miami Plan
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.64
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.26
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.26
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.15
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.15
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.57
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.57
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

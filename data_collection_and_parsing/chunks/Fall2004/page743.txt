@@ -1,0 +1,301 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Hamilton Campus
+Page: 740 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+COM 136 H G Brinkman Cherylann Intro:Interpersnal Communicatn
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+5
+3
+2
+1
+0
+1
+0
+1
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+3.02
+% 0.0 23.8 23.8 14.3 9.5 4.8 0.0 4.8 0.0 4.8 0.0 0.0 0.0 0.0 4.8 9.5 0.0 0.0 0.0 0.0 0.0
+Course Total COM 136
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+30
+22
+8
+24
+4
+0
+15
+1
+1
+5
+0
+2
+4
+3
+5
+0
+0
+0
+0
+0
+2.99
+% 0.8 24.0 17.6 6.4 19.2 3.2 0.0 12.0 0.8 0.8 4.0 0.0 1.6 3.2 2.4 4.0 0.0 0.0 0.0 0.0 0.0
+COM 143 H A Sennet Frederick A. Intro To Mass Communication
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+0
+1
+5
+2
+1
+2
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+3.00
+% 0.0 39.1 0.0 4.3 21.7 8.7 4.3 8.7 0.0 0.0 0.0 0.0 0.0 4.3 0.0 8.7 0.0 0.0 0.0 0.0 0.0
+Course Total COM 143
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+0
+1
+5
+2
+1
+2
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+3.00
+% 0.0 39.1 0.0 4.3 21.7 8.7 4.3 8.7 0.0 0.0 0.0 0.0 0.0 4.3 0.0 8.7 0.0 0.0 0.0 0.0 0.0
+COM 337 H A Hertzog Robert Intercultural Communication
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+3
+1
+1
+1
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 0.0 15.4 23.1 23.1 7.7 7.7 7.7 0.0 0.0 0.0 0.0 0.0 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total COM 337
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+3
+1
+1
+1
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 0.0 15.4 23.1 23.1 7.7 7.7 7.7 0.0 0.0 0.0 0.0 0.0 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Communication Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 8
+90
+82
+47
+79
+17
+21
+41
+4
+4
+11
+4
+7
+18
+7
+17
+0
+0
+0
+0
+0
+2.98
+% 1.8 19.7 17.9 10.3 17.3 3.7 4.6 9.0 0.9 0.9 2.4 0.9 1.5 3.9 1.5 3.7 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

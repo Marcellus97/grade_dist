@@ -1,0 +1,177 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Hamilton Campus
+Page: 775 Sections of 10
+IDS Interdisciplinary
+Miami Plan
+Honors
+Cross Listing
+IDS 159 H A Bennett Craig J. Strength Thru Culturl Diversty
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+8
+4
+2
+2
+1
+0
+1
+0
+0
+0
+0
+0
+2
+0
+0
+2
+0
+0
+0
+0
+3.61
+% 8.3 33.3 16.7 8.3 8.3 4.2 0.0 4.2 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 8.3 0.0 0.0 0.0 0.0
+IDS 159 HWB McDowell Kenneth Strength Thru Culturl Diversty
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+1
+0
+0
+1
+1
+0
+1
+1
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.31
+% 27.3 9.1 0.0 0.0 9.1 9.1 0.0 9.1 9.1 0.0 0.0 0.0 27.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total IDS 159
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+9
+4
+2
+3
+2
+0
+2
+1
+0
+0
+0
+3
+2
+0
+0
+2
+0
+0
+0
+0
+3.15
+% 14.3 25.7 11.4 5.7 8.6 5.7 0.0 5.7 2.9 0.0 0.0 0.0 8.6 5.7 0.0 0.0 5.7 0.0 0.0 0.0 0.0
+Interdisciplinary Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 5
+9
+4
+2
+3
+2
+0
+2
+1
+0
+0
+0
+3
+2
+0
+0
+2
+0
+0
+0
+0
+3.15
+% 14.3 25.7 11.4 5.7 8.6 5.7 0.0 5.7 2.9 0.0 0.0 0.0 8.6 5.7 0.0 0.0 5.7 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

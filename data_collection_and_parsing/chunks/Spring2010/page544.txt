@@ -1,0 +1,342 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Oxford Campus
+Page: 540 Sections of 10
+PSY 293 AA Waller David A. Intro:Psychological Statistics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+0
+1
+2
+5
+1
+5
+2
+0
+% 0.0 0.0 5.3 10.5 26.3 5.3 26.3 10.5 0.0
+PSY 293 AB Waller David A. Intro:Psychological Statistics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+0
+2
+4
+0
+1
+2
+4
+2
+% 4.5 0.0 9.1 18.2 0.0 4.5 9.1 18.2 9.1
+PSY 293 AC Waller David A. Intro:Psychological Statistics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+2
+1
+5
+1
+0
+2
+1
+0
+% 0.0 11.1 5.6 27.8 5.6 0.0 11.1 5.6 0.0
+PSY 293 AD Waller David A. Intro:Psychological Statistics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+0
+1
+0
+2
+0
+2
+4
+1
+% 0.0 0.0 7.7 0.0 15.4 0.0 15.4 30.8 7.7
+PSY 293 AF Waller David A. Intro:Psychological Statistics
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+1
+0
+3
+0
+1
+5
+3
+1
+% 5.6 5.6 0.0 16.7 0.0 5.6 27.8 16.7 5.6
+Course Total PSY 293
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+2
+3
+5
+14
+8
+3
+16
+14
+4
+% 2.2 3.3 5.6 15.6 8.9 3.3 17.8 15.6 4.4
+PSY 294 AA Olzak Lynn A. Research Methods
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+1
+5
+3
+5
+2
+1
+2
+2
+% 0.0 4.2 20.8 12.5 20.8 8.3 4.2 8.3 8.3
+D+ D
+D-
+F
+2
+0
+0
+0
+10.5 0.0 0.0 0.0
+D+ D
+D-
+F
+1
+1
+1
+2
+4.5 4.5 4.5 9.1
+D+ D
+D-
+F
+1
+0
+2
+1
+5.6 0.0 11.1 5.6
+D+ D
+D-
+F
+0
+0
+0
+1
+0.0 0.0 0.0 7.7
+D+ D
+D-
+F
+1
+2
+0
+0
+5.6 11.1 0.0 0.0
+D+ D
+D-
+F
+5
+3
+3
+4
+5.6 3.3 3.3 4.4
+D+ D
+D-
+F
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+W
+WP WF
+0
+0
+0
+0.0 0.0 0.0
+W
+WP WF
+1
+0
+0
+4.5 0.0 0.0
+W
+WP WF
+2
+0
+0
+11.1 0.0 0.0
+W
+WP WF
+2
+0
+0
+15.4 0.0 0.0
+W
+WP WF
+0
+0
+0
+0.0 0.0 0.0
+W
+WP WF
+5
+0
+0
+5.6 0.0 0.0
+W
+WP WF
+3
+0
+0
+12.5 0.0 0.0
+Miami Plan
+N
+I
+X
+1
+0
+5.3 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+1
+0
+1.1 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.56
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.20
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.53
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.18
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.39
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.38
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.98
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

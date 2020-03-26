@@ -1,0 +1,112 @@
+testTHE Theatre
+692
+WMS Women'S Studies
+693
+ZOO Zoology
+694
+Hamilton Campus
+697
+ACC Accountancy
+698
+AMS American Studies
+700
+ART Art
+701
+ATH Anthropology
+706
+BOT Botany
+708
+BTE Business Technology
+709
+BWS Black World Studies
+716
+CHM Chemistry & Biochemistry
+717
+CIT Comp Information Technology
+719
+CJS Criminal Justice Studies
+722
+CLS Classics
+723
+COM Communication
+724
+CSA Computer Sci &Systems Analysis
+728
+DSC Decision Sciences
+730
+EAS Engineering & App Science
+731
+ECO Economics
+732
+EDL Educational Leadership
+733
+EDP Educational Psychology
+737
+EDT Teacher Education
+738
+ENG English
+742
+ENT Engineering Technology
+753
+FIN Finance
+756
+FRE French
+757
+FST Film Studies
+758
+FSW Family Studies And Social Work
+759
+GEO Geography
+762
+GER German
+763
+GLG Geology
+764
+GTY Gerontology
+766
+HST History
+767
+ITL Italian
+772
+JRN Journalism
+773
+LAS Latin American Studies
+774
+MBI Microbiology
+775
+MGT Management
+777
+MIS Management Information Systems
+778
+MKT Marketing
+779
+MTH Mathematics
+780
+MUS Music
+787
+NSG Nursing
+789
+PHL Philosophy
+793
+PHS Phy Edu, Hlth, & Sport Studies
+794
+PHY Physics
+800
+POL Political Science
+802
+PSY Psychology
+804
+REL Comparative Religion
+806
+SOC Sociology
+807
+SPN Spanish
+808
+STA Statistics
+809
+THE Theatre
+811
+WCP Interdisciplinary Studies- Wcp
+812
+ZOO Zoology
+813

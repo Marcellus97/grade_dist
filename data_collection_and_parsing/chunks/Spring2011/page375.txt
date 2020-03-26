@@ -1,0 +1,306 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Oxford Campus
+Page: 371 Sections of 10
+JRN Journalism
+Miami Plan
+Honors
+Cross Listing
+JRN 101 A Tobin James E. Introduction to Journalism
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+20
+27
+14
+6
+0
+0
+0
+1
+0
+0
+2
+5
+0
+0
+1
+1
+0
+0
+0
+3.34
+% 0.0 18.1 21.3 28.7 14.9 6.4 0.0 0.0 0.0 1.1 0.0 0.0 2.1 5.3 0.0 0.0 1.1 1.1 0.0 0.0 0.0
+JRN 101 B Newberry Patricia G. Introduction to Journalism
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+4
+2
+2
+2
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 0.0 45.8 16.7 8.3 8.3 8.3 0.0 0.0 0.0 0.0 8.3 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+JRN 101 D Arnone Edward J. Introduction to Journalism
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+3
+4
+4
+1
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.42
+% 0.0 37.5 12.5 16.7 16.7 4.2 0.0 4.2 4.2 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total JRN 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+37
+27
+33
+20
+9
+0
+1
+1
+1
+2
+0
+2
+7
+0
+0
+1
+1
+0
+0
+0
+3.37
+% 0.0 26.1 19.0 23.2 14.1 6.3 0.0 0.7 0.7 0.7 1.4 0.0 1.4 4.9 0.0 0.0 0.7 0.7 0.0 0.0 0.0
+JRN 101H A Siff Stephen Introduction to Journalism
+Y
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+4
+2
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 0.0 27.8 22.2 22.2 11.1 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total JRN 101H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+4
+2
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 0.0 27.8 22.2 22.2 11.1 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+JRN 101L L A Pleimling Nico R. Introduction to Journalism
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+11
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.83
+% 0.0 42.1 57.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

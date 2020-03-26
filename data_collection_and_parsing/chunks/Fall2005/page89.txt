@@ -1,0 +1,304 @@
+testRun: 01/25/06 @ 12:34 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2005-06 Oxford Campus
+Page: 86 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CHM 351
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+6
+0
+0
+4
+0
+0
+1
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+2.39
+% 0.0 20.0 0.0 0.0 30.0 0.0 0.0 20.0 0.0 0.0 5.0 0.0 15.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 363 A Cox James A. Analytical Chemistry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+8
+0
+0
+7
+1
+0
+2
+0
+1
+4
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 25.8 0.0 0.0 25.8 0.0 0.0 22.6 3.2 0.0 6.5 0.0 3.2 12.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 363
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+8
+0
+0
+7
+1
+0
+2
+0
+1
+4
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 25.8 0.0 0.0 25.8 0.0 0.0 22.6 3.2 0.0 6.5 0.0 3.2 12.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 364 A Riechel Thomas L. Analytical Chemistry Laboratry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+7
+0
+0
+1
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 0.0 20.0 0.0 0.0 46.7 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 26.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 364 B Riechel Thomas L. Analytical Chemistry Laboratry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+8
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 0.0 25.0 0.0 0.0 66.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 364
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+15
+0
+0
+1
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 22.2 0.0 0.0 55.6 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 18.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 417 A Zhou Hongcai Advanced Inorganic Chemistry
+N
+N
+M7
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+9
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 0.0 0.0 0.0 81.8 0.0 0.0 9.1 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

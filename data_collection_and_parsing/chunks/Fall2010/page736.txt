@@ -1,0 +1,46 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Middletown Campus
+Page: 732 Sections of 10
+Physics Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 27
+25
+9
+15
+19
+5
+9
+14
+8
+2
+3
+1
+11
+16
+0
+0
+0
+1
+0
+0
+0
+2.90
+% 16.4 15.2 5.5 9.1 11.5 3.0 5.5 8.5 4.8 1.2 1.8 0.6 6.7 9.7 0.0 0.0 0.0 0.6 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

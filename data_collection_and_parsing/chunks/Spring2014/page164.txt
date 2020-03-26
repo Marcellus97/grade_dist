@@ -1,0 +1,305 @@
+testRun: 06/23/14 @ 07:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2013-14 Oxford Campus
+Page: 160 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ECE 303 A Herdtner Jeffrey D. Computer-Aided Experimentation
+N
+N
+HU
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+0
+4
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 0.0 30.0 10.0 0.0 40.0 0.0 10.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 303 B Herdtner Jeffrey D. Computer-Aided Experimentation
+N
+N
+8M
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+1
+1
+1
+0
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 20.0 20.0 10.0 10.0 10.0 0.0 10.0 10.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECE 303
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+2
+1
+5
+0
+2
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 10.0 25.0 10.0 5.0 25.0 0.0 10.0 5.0 5.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 306 A Ucci Donald R. Signals and Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+0
+0
+2
+3
+0
+2
+1
+0
+2
+0
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.68
+% 30.0 0.0 0.0 10.0 15.0 0.0 10.0 5.0 0.0 10.0 0.0 15.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECE 306
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+0
+0
+2
+3
+0
+2
+1
+0
+2
+0
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.68
+% 30.0 0.0 0.0 10.0 15.0 0.0 10.0 5.0 0.0 10.0 0.0 15.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 387 B Jamieson Peter A. Embedded Systems Design
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 0.0 81.8 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 387 C Jamieson Peter A. Embedded Systems Design
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+4
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.71
+% 6.3 43.8 25.0 12.5 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

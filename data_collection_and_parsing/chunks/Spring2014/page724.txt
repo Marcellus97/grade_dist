@@ -1,0 +1,301 @@
+testRun: 06/23/14 @ 07:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2013-14 Hamilton Campus
+Page: 720 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+KNH 242 H A Scherzinger Lamia Personal Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+4
+0
+3
+1
+0
+0
+1
+0
+0
+3
+4
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 0.0 13.6 13.6 18.2 0.0 13.6 4.5 0.0 0.0 4.5 0.0 0.0 13.6 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 242
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+4
+0
+3
+1
+0
+0
+1
+0
+0
+3
+4
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 0.0 13.6 13.6 18.2 0.0 13.6 4.5 0.0 0.0 4.5 0.0 0.0 13.6 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 243 H A Tomashot Pamela S. Womens Health:Prob & Practices
+N
+N
+15
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 90.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 243
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 90.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 244 H A Worthington Todd M. Functional Anatomy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+2
+2
+2
+0
+2
+0
+4
+3
+0
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.55
+% 13.6 9.1 9.1 9.1 0.0 9.1 0.0 18.2 13.6 0.0 4.5 0.0 9.1 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 244
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+2
+2
+2
+0
+2
+0
+4
+3
+0
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.55
+% 13.6 9.1 9.1 9.1 0.0 9.1 0.0 18.2 13.6 0.0 4.5 0.0 9.1 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 244L H A Worthington Todd M. Functional Anatomy Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+0
+1
+2
+2
+1
+1
+1
+2
+3
+0
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+2.06
+% 14.3 0.0 4.8 9.5 9.5 4.8 4.8 4.8 9.5 14.3 0.0 4.8 19.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

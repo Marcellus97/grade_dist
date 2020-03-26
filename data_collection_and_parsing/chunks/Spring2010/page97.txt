@@ -1,0 +1,308 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Oxford Campus
+Page: 93 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BUS 101 FF Rollins Robert R. Fdtns Business Decision Making
+N
+N
+TU
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+5
+4
+4
+1
+2
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 4.8 0.0 23.8 19.0 19.0 4.8 9.5 14.3 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 101 FG Rollins Robert R. Fdtns Business Decision Making
+N
+N
+TU
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+2
+3
+4
+2
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.45
+% 0.0 5.0 10.0 5.0 10.0 15.0 20.0 10.0 10.0 10.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BUS 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+17
+33
+44
+73
+132 86
+50
+78
+32
+15
+14
+4
+6
+3
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 2.9 5.6 7.5 12.4 22.5 14.7 8.5 13.3 5.5 2.6 2.4 0.7 1.0 0.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 102 AA Finnerty Susan M. Writing for Bus.DecisionMaking
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+5
+3
+3
+3
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.62
+% 0.0 0.0 0.0 27.8 16.7 16.7 16.7 5.6 11.1 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 102 AB Finnerty Susan M. Writing for Bus.DecisionMaking
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+4
+3
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.22
+% 0.0 5.3 31.6 21.1 15.8 15.8 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 102 AC Finnerty Susan M. Writing for Bus.DecisionMaking
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3
+5
+3
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 0.0 0.0 0.0 21.4 35.7 21.4 7.1 7.1 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 102 BA Finnerty Susan M. Writing for Bus.DecisionMaking
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+4
+1
+6
+2
+1
+2
+2
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 0.0 20.0 5.0 30.0 10.0 5.0 10.0 10.0 0.0 0.0 5.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

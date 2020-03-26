@@ -1,0 +1,299 @@
+testRun: 11/24/14 @ 09:11 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Term, 2013-14 Oxford Campus
+Page: 25 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CHM 245 UA Al-Abdul-Wahid Mohamed S. Organic Chemistry Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+1
+2
+2
+0
+1
+1
+1
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 7.1 7.1 7.1 14.3 14.3 0.0 7.1 7.1 7.1 7.1 14.3 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 245
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+1
+2
+2
+0
+1
+1
+1
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 7.1 7.1 7.1 14.3 14.3 0.0 7.1 7.1 7.1 7.1 14.3 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 332 TA Tai Heeyoung Outlines Of Biochemistry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+3
+5
+1
+1
+2
+1
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.63
+% 0.0 19.0 0.0 14.3 23.8 4.8 4.8 9.5 4.8 9.5 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 332
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+3
+5
+1
+1
+2
+1
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.63
+% 0.0 19.0 0.0 14.3 23.8 4.8 4.8 9.5 4.8 9.5 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 600 TA Scaffidi Jonathan P. Seminar In Chemistry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+52
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+CHM 600 UA Page Richard C. Seminar In Chemistry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+52
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+Course Total CHM 600
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+104 0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

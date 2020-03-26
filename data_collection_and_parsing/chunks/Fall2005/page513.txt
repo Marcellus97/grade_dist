@@ -1,0 +1,307 @@
+testRun: 01/25/06 @ 12:34 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2005-06 Oxford Campus
+Page: 510 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total PSY 293
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+8
+6
+10
+15
+13
+10
+20
+8
+7
+9
+9
+16
+8
+0
+0
+0
+0
+0
+0
+0
+2.08
+% 1.4 5.7 4.3 7.1 10.6 9.2 7.1 14.2 5.7 5.0 6.4 6.4 11.3 5.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 293L AA Housley Meghan K. Intro To Psy Statistics Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+5
+3
+3
+2
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.80
+% 0.0 14.3 0.0 23.8 14.3 14.3 9.5 9.5 9.5 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 293L AB Housley Meghan K. Intro To Psy Statistics Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+2
+5
+5
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 10.0 15.0 10.0 25.0 25.0 5.0 5.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 293L AC Kramer Michael L. Intro To Psy Statistics Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+5
+2
+1
+1
+4
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 0.0 10.0 20.0 25.0 10.0 5.0 5.0 20.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 293L BD Evans Clifford D. Intro To Psy Statistics Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+2
+3
+0
+0
+1
+1
+2
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.38
+% 0.0 5.0 10.0 15.0 10.0 15.0 0.0 0.0 5.0 5.0 10.0 0.0 10.0 15.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 293L BE Walker David P. Intro To Psy Statistics Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+1
+6
+1
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 0.0 6.3 31.3 6.3 37.5 6.3 0.0 0.0 0.0 0.0 0.0 0.0 6.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 293L BF Walker David P. Intro To Psy Statistics Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+4
+3
+3
+1
+2
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.35
+% 0.0 27.3 18.2 13.6 13.6 4.5 9.1 4.5 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

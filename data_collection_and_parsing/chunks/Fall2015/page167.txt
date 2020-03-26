@@ -1,0 +1,306 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 163 Sections of 10
+ECE Electrical & Computer Engineer
+Miami Plan
+Honors
+Cross Listing
+ECE 205 A Herdtner Jeffrey D. Electric Circuit Analysis - I
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+5
+1
+1
+0
+3
+1
+2
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.79
+% 0.0 4.8 23.8 23.8 4.8 4.8 0.0 14.3 4.8 9.5 0.0 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 205 B Herdtner Jeffrey D. Electric Circuit Analysis - I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+1
+2
+2
+3
+2
+2
+1
+0
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.53
+% 0.0 4.5 18.2 4.5 9.1 9.1 13.6 9.1 9.1 4.5 0.0 9.1 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 205 C Sahin Gokhan Electric Circuit Analysis - I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+0
+2
+4
+2
+0
+1
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 18.2 22.7 0.0 9.1 18.2 9.1 0.0 4.5 0.0 0.0 0.0 0.0 0.0 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 205 D Sahin Gokhan Electric Circuit Analysis - I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+3
+1
+1
+4
+0
+1
+4
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 25.0 15.0 5.0 5.0 20.0 0.0 5.0 20.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 205 E Yang Hengzhao Electric Circuit Analysis - I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+0
+5
+3
+4
+1
+0
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 0.0 5.3 10.5 0.0 26.3 15.8 21.1 5.3 0.0 0.0 5.3 0.0 0.0 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 205 F Yang Hengzhao Electric Circuit Analysis - I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+0
+2
+1
+4
+2
+4
+2
+0
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.65
+% 9.5 0.0 9.5 4.8 19.0 9.5 19.0 9.5 0.0 9.5 4.8 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECE 205
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+11
+11
+14
+10
+20
+10
+12
+13
+3
+5
+2
+3
+0
+11
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 8.8 8.8 11.2 8.0 16.0 8.0 9.6 10.4 2.4 4.0 1.6 2.4 0.0 8.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

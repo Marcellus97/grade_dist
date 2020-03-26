@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Oxford Campus
+Page: 466 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHS 242 C Sliger Jennifer Personal Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+2
+0
+10
+1
+0
+6
+0
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 22.6 6.5 0.0 32.3 3.2 0.0 19.4 0.0 3.2 3.2 3.2 3.2 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 242 D Sliger Jennifer Personal Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+2
+1
+6
+1
+0
+5
+0
+0
+3
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.87
+% 0.0 31.0 6.9 3.4 20.7 3.4 0.0 17.2 0.0 0.0 10.3 0.0 3.4 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 242
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+23
+6
+3
+37
+5
+2
+24
+0
+1
+9
+2
+4
+2
+0
+2
+0
+0
+0
+0
+0
+2.65
+% 0.0 19.2 5.0 2.5 30.8 4.2 1.7 20.0 0.0 0.8 7.5 1.7 3.3 1.7 0.0 1.7 0.0 0.0 0.0 0.0 0.0
+PHS 244 A Nelson Richard L. Functional Anatomy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+7
+0
+0
+8
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.29
+% 0.0 12.5 0.0 0.0 29.2 0.0 0.0 33.3 0.0 0.0 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 244 B Nelson Richard L. Functional Anatomy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+10
+0
+0
+11
+0
+0
+2
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+2.44
+% 0.0 10.7 0.0 0.0 35.7 0.0 0.0 39.3 0.0 0.0 7.1 0.0 0.0 0.0 0.0 3.6 3.6 0.0 0.0 0.0 0.0
+PHS 244 C Walsh Mark S. Functional Anatomy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+6
+0
+0
+9
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 0.0 29.6 0.0 0.0 22.2 0.0 0.0 33.3 0.0 0.0 14.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 244
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+0
+0
+23
+0
+0
+28
+0
+0
+12
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+2.47
+% 0.0 17.7 0.0 0.0 29.1 0.0 0.0 35.4 0.0 0.0 15.2 0.0 0.0 0.0 0.0 1.3 1.3 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,174 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 16 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total AER 130
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+2
+0
+0
+3
+4.00
+% 0.0 40.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 20.0 0.0 0.0 30.0
+AER 321 A Church Christopher R. Aerodynamics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+1
+0
+0
+3
+1
+2
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 9.1 9.1 9.1 0.0 0.0 27.3 9.1 18.2 0.0 0.0 9.1 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total AER 321
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+1
+0
+0
+3
+1
+2
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 9.1 9.1 9.1 0.0 0.0 27.3 9.1 18.2 0.0 0.0 9.1 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Aeronautics Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+27
+7
+8
+68
+15
+4
+32
+3
+1
+8
+1
+0
+3
+9
+0
+1
+13
+3
+0
+3
+2.84
+% 0.5 13.0 3.4 3.9 32.9 7.2 1.9 15.5 1.4 0.5 3.9 0.5 0.0 1.4 4.3 0.0 0.5 6.3 1.4 0.0 1.4
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

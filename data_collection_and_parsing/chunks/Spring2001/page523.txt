@@ -1,0 +1,310 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 520 Sections of 10
+SPN Spanish
+Miami Plan
+Honors
+Cross Listing
+SPN 102 A Ferrer Joshua S. Beginners Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+0
+2
+2
+1
+2
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 11.8 29.4 0.0 11.8 11.8 5.9 11.8 5.9 0.0 5.9 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 102 B Mead Yolanda M. Beginners Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+3
+2
+3
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 0.0 18.8 12.5 18.8 12.5 18.8 6.3 6.3 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 102 C Steffanell Alexander A. Beginners Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+6
+5
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+3.32
+% 8.7 13.0 26.1 21.7 8.7 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.7 4.3 0.0 0.0 0.0 0.0 0.0
+SPN 102 D Guerrero Carmen J. Beginners Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+8
+4
+2
+1
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+3.03
+% 0.0 0.0 9.5 38.1 19.0 9.5 4.8 9.5 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 4.8 0.0 0.0
+SPN 102 E McCloskey Jason A. Beginners Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+2
+6
+4
+2
+2
+5
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 6.9 13.8 6.9 20.7 13.8 6.9 6.9 17.2 0.0 3.4 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 102 F Heslep Matthew T. Beginners Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+3
+0
+3
+1
+2
+2
+3
+1
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+2.94
+% 0.0 26.1 13.0 0.0 13.0 4.3 8.7 8.7 13.0 4.3 0.0 0.0 0.0 4.3 0.0 0.0 0.0 4.3 0.0 0.0 0.0
+SPN 102 G Veitz Ann M. Beginners Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+6
+8
+1
+1
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 8.0 16.0 24.0 32.0 4.0 4.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

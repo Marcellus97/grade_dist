@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Oxford Campus
+Page: 508 Sections of 10
+PSE Paper Science & Engineering
+Miami Plan
+Honors
+Cross Listing
+PSE 101 B Herbet A. J. Intro To Paper Sci&Engineering
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+3
+3
+4
+2
+0
+0
+1
+0
+2
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+3.22
+% 0.0 30.8 11.5 11.5 15.4 7.7 0.0 0.0 3.8 0.0 7.7 0.0 0.0 3.8 7.7 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PSE 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+3
+3
+4
+2
+0
+0
+1
+0
+2
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+3.22
+% 0.0 30.8 11.5 11.5 15.4 7.7 0.0 0.0 3.8 0.0 7.7 0.0 0.0 3.8 7.7 0.0 0.0 0.0 0.0 0.0 0.0
+PSE 203 TB Sikora Martin D. Papermaking Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+1
+2
+0
+0
+1
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 18.2 9.1 9.1 18.2 0.0 0.0 9.1 18.2 0.0 9.1 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PSE 203
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+1
+2
+0
+0
+1
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 18.2 9.1 9.1 18.2 0.0 0.0 9.1 18.2 0.0 9.1 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSE 204 A Almquist Catherine Material & Energy Balances
+N
+N
+XC
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+2
+4
+1
+0
+0
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.48
+% 0.0 9.1 0.0 18.2 36.4 9.1 0.0 0.0 0.0 0.0 18.2 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PSE 204
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+2
+4
+1
+0
+0
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.48
+% 0.0 9.1 0.0 18.2 36.4 9.1 0.0 0.0 0.0 0.0 18.2 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSE 404 A Waller Michael H. Papermaking
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+2
+6
+0
+0
+8
+0
+0
+4
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.17
+% 0.0 4.2 0.0 8.3 25.0 0.0 0.0 33.3 0.0 0.0 16.7 8.3 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

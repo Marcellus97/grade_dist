@@ -1,0 +1,309 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 582 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ZOO 161 CB Russell Jill M. Principles Of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+4
+4
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 0.0 47.6 0.0 19.0 19.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 161 CC Russell Jill M. Principles Of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+0
+2
+5
+0
+0
+0
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.22
+% 0.0 52.4 0.0 9.5 23.8 0.0 0.0 0.0 0.0 0.0 9.5 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 161 CD Russell Jill M. Principles Of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+2
+4
+0
+2
+3
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 0.0 38.1 0.0 9.5 19.0 0.0 9.5 14.3 0.0 0.0 0.0 0.0 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 161 EA Russell Jill M. Principles Of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+1
+7
+0
+0
+2
+0
+0
+1
+0
+2
+0
+0
+0
+1
+0
+0
+0
+0
+2.87
+% 0.0 33.3 0.0 4.8 33.3 0.0 0.0 9.5 0.0 0.0 4.8 0.0 9.5 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0
+ZOO 161 EB Russell Jill M. Principles Of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+1
+11
+0
+0
+2
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 0.0 23.8 0.0 4.8 52.4 0.0 0.0 9.5 0.0 0.0 4.8 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 161 EC Russell Jill M. Principles Of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+5
+7
+0
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 0.0 28.6 0.0 23.8 33.3 0.0 0.0 9.5 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 161 ED Russell Jill M. Principles Of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+2
+8
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 38.1 0.0 9.5 38.1 0.0 9.5 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

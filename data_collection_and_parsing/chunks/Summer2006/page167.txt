@@ -1,0 +1,304 @@
+testRun: 09/20/06 @ 09:52 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2005-06 Middletown Campus
+Page: 164 Sections of 10
+HST History
+Miami Plan
+Honors
+Cross Listing
+HST 111 MMA Lerman Hilary J. Survey Of American History
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+1
+0
+4
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.22
+% 0.0 12.5 37.5 6.3 0.0 25.0 6.3 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0
+Course Total HST 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+1
+0
+4
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.22
+% 0.0 12.5 37.5 6.3 0.0 25.0 6.3 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0
+HST 112 MMA Lerman Hilary J. Survey Of American History
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+0
+4
+0
+3
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.00
+% 0.0 21.4 14.3 0.0 28.6 0.0 21.4 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0
+HST 112 MOA Morris Jennifer M. Survey Of American History
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 0.0 93.3 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total HST 112
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+2
+1
+4
+0
+3
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.51
+% 0.0 58.6 6.9 3.4 13.8 0.0 10.3 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0
+HST 121 MOA Liu Wenxi Western Civilization
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+1
+2
+1
+1
+2
+0
+0
+0
+0
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 5.3 36.8 5.3 10.5 5.3 5.3 10.5 0.0 0.0 0.0 0.0 0.0 15.8 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total HST 121
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+1
+2
+1
+1
+2
+0
+0
+0
+0
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 5.3 36.8 5.3 10.5 5.3 5.3 10.5 0.0 0.0 0.0 0.0 0.0 15.8 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

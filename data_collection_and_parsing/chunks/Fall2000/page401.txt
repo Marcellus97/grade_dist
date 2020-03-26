@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 11:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2000-01 Oxford Campus
+Page: 398 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHL 105 A Fritsch Matthias Theories Of Human Nature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+10
+8
+6
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 0.0 8.1 13.5 27.0 21.6 16.2 8.1 5.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHL 105 B Sigrist Michael J. Theories Of Human Nature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+10
+16
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.18
+% 0.0 10.0 10.0 25.0 40.0 7.5 2.5 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.5 0.0 0.0 0.0
+PHL 105 C Schuller Peter M. Theories Of Human Nature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1
+3
+5
+7
+3
+2
+1
+0
+0
+0
+2
+1
+1
+0
+1
+1
+0
+0
+2.29
+% 0.0 0.0 0.0 3.6 10.7 17.9 25.0 10.7 7.1 3.6 0.0 0.0 0.0 7.1 3.6 3.6 0.0 3.6 3.6 0.0 0.0
+Course Total PHL 105
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+9
+21
+27
+14
+11
+6
+2
+1
+0
+0
+0
+2
+1
+1
+0
+2
+1
+0
+0
+2.94
+% 0.0 6.7 8.6 20.0 25.7 13.3 10.5 5.7 1.9 1.0 0.0 0.0 0.0 1.9 1.0 1.0 0.0 1.9 1.0 0.0 0.0
+PHL 106 A Pappu S. S. R. Thought And Culture Of India
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+0
+8
+3
+4
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.22
+% 2.9 32.4 0.0 23.5 8.8 11.8 0.0 17.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0
+PHL 106 B Pappu S. S. R. Thought And Culture Of India
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+9
+0
+9
+2
+4
+0
+4
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+3.28
+% 6.3 28.1 0.0 28.1 6.3 12.5 0.0 12.5 0.0 0.0 0.0 0.0 0.0 0.0 3.1 0.0 0.0 3.1 0.0 0.0 0.0
+Course Total PHL 106
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+20
+0
+17
+5
+8
+0
+10
+0
+0
+0
+0
+0
+0
+1
+0
+1
+1
+0
+0
+0
+3.25
+% 4.5 30.3 0.0 25.8 7.6 12.1 0.0 15.2 0.0 0.0 0.0 0.0 0.0 0.0 1.5 0.0 1.5 1.5 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

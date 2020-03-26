@@ -1,0 +1,70 @@
+testCSA Computer Sci &Systems Analysis
+715
+DSC Decision Sciences
+720
+ECO Economics
+721
+EDL Educational Leadership
+722
+EDP Educational Psychology
+725
+EDT Teacher Education
+727
+ENG English
+730
+ENT Engineering Technology
+739
+FIN Finance
+741
+FRE French
+742
+FST Film Studies
+743
+FSW Family Studies And Social Work
+744
+GEO Geography
+745
+GER German
+746
+GLG Geology
+747
+GTY Gerontology
+749
+HST History
+750
+IDS Interdisciplinary
+753
+MBI Microbiology
+754
+MGT Management
+755
+MIS Management Information Systems
+756
+MKT Marketing
+757
+MTH Mathematics
+758
+MUS Music
+764
+NSG Nursing
+766
+PHL Philosophy
+769
+PHS Phy Edu, Hlth, & Sport Studies
+770
+PHY Physics
+775
+POL Political Science
+777
+PSY Psychology
+778
+SOC Sociology
+780
+SPN Spanish
+782
+STA Statistics
+783
+THE Theatre
+784
+ZOO Zoology
+786

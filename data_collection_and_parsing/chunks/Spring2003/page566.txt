@@ -1,0 +1,301 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 563 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+THE 191 D Fousek Amanda P. Theatre Appreciation
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+22
+0
+0
+9
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.66
+% 0.0 68.8 0.0 0.0 28.1 0.0 0.0 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+THE 191 E Pauna Steven R. Theatre Appreciation
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+23
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.81
+% 6.5 74.2 0.0 0.0 19.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total THE 191
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+199 2
+2
+108 1
+1
+27
+0
+1
+5
+0
+2
+4
+4
+3
+1
+19
+0
+0
+0
+3.42
+% 0.8 52.1 0.5 0.5 28.3 0.3 0.3 7.1 0.0 0.3 1.3 0.0 0.5 1.0 1.0 0.8 0.3 5.0 0.0 0.0 0.0
+THE 200A WA Pauna Steven R. Prod & Performance:Acting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+25
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 96.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total THE 200A
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+25
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 96.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0
+THE 233 A Guichard Julia M. Voice and Speech for the Actor
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+0
+4
+1
+1
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 17.6 29.4 0.0 23.5 5.9 5.9 0.0 0.0 0.0 5.9 0.0 0.0 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total THE 233
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+0
+4
+1
+1
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 17.6 29.4 0.0 23.5 5.9 5.9 0.0 0.0 0.0 5.9 0.0 0.0 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

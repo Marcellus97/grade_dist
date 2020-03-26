@@ -1,0 +1,316 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 560 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ZOO 116 CE Norris Steven M. Biological Concepts: Structure
+Y
+N
+X2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+2
+0
+0
+5
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.36
+% 0.0 16.7 0.0 0.0 16.7 0.0 0.0 41.7 0.0 0.0 16.7 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 CF Norris Steven M. Biological Concepts: Structure
+Y
+N
+X3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+5
+0
+0
+4
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.23
+% 0.0 7.7 0.0 0.0 38.5 0.0 0.0 30.8 0.0 0.0 15.4 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 CG Norris Steven M. Biological Concepts: Structure
+Y
+N
+X4
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+2
+0
+0
+4
+0
+0
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.27
+% 0.0 16.7 0.0 0.0 16.7 0.0 0.0 33.3 0.0 0.0 25.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 CH Norris Steven M. Biological Concepts: Structure
+Y
+N
+X5
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+6
+0
+0
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 18.2 0.0 0.0 54.5 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 CI Norris Steven M. Biological Concepts: Structure
+Y
+N
+X6
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+6
+0
+0
+5
+0
+0
+2
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+2.14
+% 0.0 0.0 0.0 0.0 40.0 0.0 0.0 33.3 0.0 0.0 13.3 0.0 0.0 0.0 6.7 6.7 0.0 0.0 0.0 0.0 0.0
+ZOO 116 CJ Norris Steven M. Biological Concepts: Structure
+Y
+N
+X7
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+5
+0
+0
+4
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 0.0 16.7 0.0 0.0 41.7 0.0 0.0 33.3 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 CK Norris Steven M. Biological Concepts: Structure
+Y
+N
+X8
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+4
+0
+0
+6
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.17
+% 0.0 0.0 0.0 0.0 33.3 0.0 0.0 50.0 0.0 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

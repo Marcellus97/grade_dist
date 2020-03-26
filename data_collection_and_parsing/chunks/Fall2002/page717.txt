@@ -1,0 +1,306 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Hamilton Campus
+Page: 714 Sections of 10
+ART Art
+Miami Plan
+Honors
+Cross Listing
+ART 111 H A McWilliams Elise K. Visual Fundamentals
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+3
+3
+3
+3
+1
+1
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+3.04
+% 0.0 13.0 13.0 13.0 13.0 13.0 13.0 4.3 4.3 0.0 0.0 0.0 0.0 4.3 8.7 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ART 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+3
+3
+3
+3
+1
+1
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+3.04
+% 0.0 13.0 13.0 13.0 13.0 13.0 13.0 4.3 4.3 0.0 0.0 0.0 0.0 4.3 8.7 0.0 0.0 0.0 0.0 0.0 0.0
+ART 121 H A Montgomery Edward K. Drawing I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+3
+4
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+3.14
+% 0.0 33.3 11.1 16.7 22.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 11.1 0.0 0.0 0.0 0.0 0.0
+ART 121 H B Sherman Leslye J. Drawing I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+3
+3
+3
+1
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+1
+0
+0
+0
+3.29
+% 0.0 21.1 10.5 15.8 15.8 15.8 5.3 0.0 0.0 0.0 0.0 0.0 0.0 5.3 5.3 0.0 0.0 5.3 0.0 0.0 0.0
+Course Total ART 121
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+4
+6
+7
+3
+1
+0
+0
+0
+0
+0
+0
+2
+1
+2
+0
+1
+0
+0
+0
+3.21
+% 0.0 27.0 10.8 16.2 18.9 8.1 2.7 0.0 0.0 0.0 0.0 0.0 0.0 5.4 2.7 5.4 0.0 2.7 0.0 0.0 0.0
+ART 147 HXA Brown Patrick B. Beginning Art Photography
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.83
+% 36.4 45.5 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 147 HYA Brown Patrick B. Beginning Art Photography
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+3
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.34
+% 8.3 41.7 25.0 0.0 8.3 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

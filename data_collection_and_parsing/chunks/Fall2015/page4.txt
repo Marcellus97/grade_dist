@@ -1,0 +1,62 @@
+testECO Economics
+912
+EDL Educational Leadership
+913
+EDP Educational Psychology
+915
+EDT Teacher Education
+917
+ENG English
+918
+ENT Engineering Technology
+919
+GLG Geology
+920
+ISA Information Systems& Analytics
+921
+MGT Management
+922
+MKT Marketing
+923
+PSY Psychology
+924
+SPA Speech Pathology & Audiology
+925
+SPN Spanish
+926
+STC Strategic Communication
+927
+ARC Architecture & Interior Design
+928
+ART Art
+929
+ECO Economics
+930
+ENG English
+931
+FRE French
+932
+GEO Geography
+933
+GER German
+934
+HST History
+935
+ITS International Studies
+936
+JRN Journalism
+937
+KNH Kinesiology And Health
+938
+LUX Luxembourg
+939
+MGT Management
+940
+MKT Marketing
+941
+MUS Music
+942
+POL Political Science
+943
+SOC Sociology
+944

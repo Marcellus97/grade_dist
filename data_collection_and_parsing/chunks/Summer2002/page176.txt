@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 16:03 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2001-02 Middletown Campus
+Page: 174 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MTH 116 MMJ de Saint-Rat Mark E. Math For Elementary Teachers
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+4
+5
+4
+1
+2
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 7.7 15.4 15.4 19.2 15.4 3.8 7.7 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 116
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+4
+5
+4
+1
+2
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 7.7 15.4 15.4 19.2 15.4 3.8 7.7 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 123 MOA Gustin Leah C. Precalculus
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+4
+0
+0
+3
+0
+0
+0
+1
+0
+1
+4
+0
+0
+1
+0
+0
+0
+2.67
+% 0.0 12.5 0.0 0.0 25.0 0.0 0.0 18.8 0.0 0.0 0.0 6.3 0.0 6.3 25.0 0.0 0.0 6.3 0.0 0.0 0.0
+Course Total MTH 123
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+4
+0
+0
+3
+0
+0
+0
+1
+0
+1
+4
+0
+0
+1
+0
+0
+0
+2.67
+% 0.0 12.5 0.0 0.0 25.0 0.0 0.0 18.8 0.0 0.0 0.0 6.3 0.0 6.3 25.0 0.0 0.0 6.3 0.0 0.0 0.0
+MTH 151 MMJ de Saint-Rat Mark E. Calculus I
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+2
+4
+1
+0
+5
+0
+0
+1
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+2.52
+% 0.0 11.8 0.0 11.8 23.5 5.9 0.0 29.4 0.0 0.0 5.9 0.0 5.9 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0
+MTH 151 MNJ Dieffenbach Robert M. Calculus I
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+4
+4
+0
+1
+1
+0
+7
+0
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+3.08
+% 16.7 16.7 16.7 0.0 4.2 4.2 0.0 29.2 0.0 4.2 0.0 0.0 0.0 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 151
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+6
+4
+2
+5
+2
+0
+12
+0
+1
+1
+0
+1
+1
+1
+0
+0
+1
+0
+0
+0
+2.84
+% 9.8 14.6 9.8 4.9 12.2 4.9 0.0 29.3 0.0 2.4 2.4 0.0 2.4 2.4 2.4 0.0 0.0 2.4 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

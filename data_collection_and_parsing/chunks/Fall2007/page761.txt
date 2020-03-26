@@ -1,0 +1,302 @@
+testRun: 01/17/08 @ 12:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2007-08 Hamilton Campus
+Page: 758 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ENG 233
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+8
+1
+2
+0
+0
+1
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.26
+% 0.0 11.8 47.1 5.9 11.8 0.0 0.0 5.9 0.0 0.0 0.0 0.0 5.9 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 246 H A Johnson Kelli Native American Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+1
+0
+0
+0
+1
+0
+0
+0
+1
+6
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 7.7 15.4 7.7 7.7 0.0 0.0 0.0 7.7 0.0 0.0 0.0 7.7 46.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 246
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+1
+0
+0
+0
+1
+0
+0
+0
+1
+6
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 7.7 15.4 7.7 7.7 0.0 0.0 0.0 7.7 0.0 0.0 0.0 7.7 46.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 330 H A Schmidlin Tom J. Intermed Creat Writing: Poetry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+4
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.62
+% 0.0 50.0 33.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 330
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+4
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.62
+% 0.0 50.0 33.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 337 H A Abatan Adetutu A. African Amer Writing 1878-1945
+N
+N
+5G
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+4
+1
+0
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 0.0 7.1 14.3 21.4 28.6 7.1 0.0 7.1 0.0 0.0 0.0 0.0 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 337
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+4
+1
+0
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 0.0 7.1 14.3 21.4 28.6 7.1 0.0 7.1 0.0 0.0 0.0 0.0 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

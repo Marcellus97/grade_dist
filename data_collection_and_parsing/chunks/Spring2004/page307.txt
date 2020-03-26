@@ -1,0 +1,147 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Oxford Campus
+Page: 304 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+GLG 699Z A McCollum Terry L. Impl Inquiry Based Instr II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+145 3
+7
+14
+2
+0
+6
+0
+0
+1
+0
+3
+3
+3
+0
+14
+0
+0
+0
+0
+3.73
+% 0.0 72.1 1.5 3.5 7.0 1.0 0.0 3.0 0.0 0.0 0.5 0.0 1.5 1.5 1.5 0.0 7.0 0.0 0.0 0.0 0.0
+Course Total GLG 699Z
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+145 3
+7
+14
+2
+0
+6
+0
+0
+1
+0
+3
+3
+3
+0
+14
+0
+0
+0
+0
+3.73
+% 0.0 72.1 1.5 3.5 7.0 1.0 0.0 3.0 0.0 0.0 0.5 0.0 1.5 1.5 1.5 0.0 7.0 0.0 0.0 0.0 0.0
+Geology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 27
+296 187 125 194 108 78
+101 54
+42
+37
+14
+32
+17
+20
+15
+2
+23
+3
+0
+0
+2.93
+% 2.0 21.5 13.6 9.1 14.1 7.9 5.7 7.3 3.9 3.1 2.7 1.0 2.3 1.2 1.5 1.1 0.1 1.7 0.2 0.0 0.0
+GR 0
+183 4
+7
+16
+3
+0
+7
+0
+0
+1
+0
+3
+3
+4
+0
+22
+0
+0
+24
+0
+3.75
+% 0.0 66.1 1.4 2.5 5.8 1.1 0.0 2.5 0.0 0.0 0.4 0.0 1.1 1.1 1.4 0.0 7.9 0.0 0.0 8.7 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

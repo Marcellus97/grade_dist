@@ -1,0 +1,309 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Oxford Campus
+Page: 313 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+GEO 121 C Green Jerry E. Earth's Physical Environments
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+1
+8
+2
+5
+6
+0
+1
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.47
+% 0.0 0.0 7.1 3.6 28.6 7.1 17.9 21.4 0.0 3.6 3.6 3.6 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GEO 121 D Henry Mary C. Earth's Physical Environments
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+4
+5
+3
+3
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+3.54
+% 0.0 35.7 14.3 17.9 10.7 10.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.6 0.0 0.0 0.0 7.1 0.0 0.0 0.0
+GEO 121 E Henry Mary C. Earth's Physical Environments
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+5
+6
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.64
+% 0.0 46.4 17.9 21.4 10.7 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GEO 121 F Henry Mary C. Earth's Physical Environments
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+5
+5
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.54
+% 0.0 40.0 20.0 20.0 4.0 4.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0
+GEO 121 G Berland Adam M. Earth's Physical Environments
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+4
+2
+6
+5
+2
+1
+2
+0
+0
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.19
+% 10.7 14.3 7.1 21.4 17.9 7.1 3.6 7.1 0.0 0.0 3.6 0.0 0.0 3.6 0.0 0.0 0.0 3.6 0.0 0.0 0.0
+GEO 121 H Berland Adam M. Earth's Physical Environments
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+1
+4
+4
+7
+3
+1
+0
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 3.6 10.7 3.6 14.3 14.3 25.0 10.7 3.6 0.0 3.6 7.1 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GEO 121 I Berland Adam M. Earth's Physical Environments
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+3
+3
+5
+3
+2
+1
+1
+1
+0
+0
+1
+0
+0
+0
+3
+0
+0
+0
+2.77
+% 0.0 7.1 10.7 10.7 10.7 17.9 10.7 7.1 3.6 3.6 3.6 0.0 0.0 3.6 0.0 0.0 0.0 10.7 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

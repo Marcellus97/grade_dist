@@ -1,0 +1,308 @@
+testRun: 01/21/10 @ 13:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2009-10 Oxford Campus
+Page: 123 Sections of 10
+CSA Computer Sci &Systems Analysis
+Miami Plan
+Honors
+Cross Listing
+CSA 141 M Foster Drew W. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+17
+2
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 89.5 10.5 0.0 0.0
+Course Total CSA 141
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+17
+2
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 89.5 10.5 0.0 0.0
+CSA 148 A Black Robert W. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+4
+5
+4
+2
+2
+0
+2
+1
+0
+0
+1
+1
+0
+0
+1
+0
+0
+0
+0
+3.07
+% 0.0 23.3 13.3 16.7 13.3 6.7 6.7 0.0 6.7 3.3 0.0 0.0 3.3 3.3 0.0 0.0 3.3 0.0 0.0 0.0 0.0
+CSA 148 B Foster Drew W. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+6
+4
+4
+0
+3
+2
+0
+1
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+2.56
+% 0.0 14.3 0.0 21.4 14.3 14.3 0.0 10.7 7.1 0.0 3.6 0.0 10.7 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 148 C Foster Drew W. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+3
+5
+4
+3
+1
+2
+2
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 20.7 10.3 17.2 13.8 10.3 3.4 6.9 6.9 6.9 0.0 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 148 D Byrkett Donald L. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+5
+5
+5
+6
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 0.0 17.2 17.2 17.2 17.2 20.7 10.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 148 E Byrkett Donald L. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+4
+6
+4
+3
+3
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 0.0 20.7 13.8 20.7 13.8 10.3 10.3 3.4 0.0 0.0 0.0 0.0 3.4 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

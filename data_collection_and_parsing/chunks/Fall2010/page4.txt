@@ -1,0 +1,46 @@
+testIDS Interdisciplinary
+845
+IES Environmental Sciences
+846
+ITL Italian
+847
+JRN Journalism
+848
+KNH Kinesiology And Health
+849
+MBI Microbiology
+859
+MGT Management
+862
+MIS Management Information Systems
+863
+MKT Marketing
+864
+MTH Mathematics
+865
+MUS Music
+875
+NSG Nursing
+877
+PHL Philosophy
+882
+PHY Physics
+883
+POL Political Science
+886
+PSY Psychology
+888
+REL Religion, Comparative
+891
+SOC Sociology
+892
+SPN Spanish
+894
+STA Statistics
+896
+THE Theatre
+897
+WMS Women'S Studies
+899
+ZOO Zoology
+900

@@ -1,0 +1,42 @@
+testRun: 06/30/04 @ 11:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2000-01 Oxford Campus
+Page: 271 Sections of 10
+Geology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 19
+263 120 108 182 79
+78
+94
+49
+20
+46
+19
+14
+22
+17
+13
+2
+73
+13
+0
+0
+2.92
+% 1.5 21.4 9.7 8.8 14.8 6.4 6.3 7.6 4.0 1.6 3.7 1.5 1.1 1.8 1.4 1.1 0.2 5.9 1.1 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

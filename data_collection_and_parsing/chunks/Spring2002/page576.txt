@@ -1,0 +1,344 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 573 Sections of 10
+ZOO 161 DB Killian Kathleen A. Principles Of Human Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+1
+0
+0
+3
+3
+3
+2
+2
+0
+1
+2
+0
+% 5.0 0.0 0.0 15.0 15.0 15.0 10.0 10.0 0.0 5.0 10.0 0.0
+ZOO 161 DC Killian Kathleen A. Principles Of Human Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+2
+0
+0
+1
+0
+0
+3
+4
+2
+2
+2
+% 0.0 9.5 0.0 0.0 4.8 0.0 0.0 14.3 19.0 9.5 9.5 9.5
+ZOO 161 DD Killian Kathleen A. Principles Of Human Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+0
+0
+1
+5
+0
+2
+3
+2
+2
+0
+0
+% 0.0 0.0 0.0 5.6 27.8 0.0 11.1 16.7 11.1 11.1 0.0 0.0
+ZOO 161 EA Russell David E. Principles Of Human Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+3
+0
+1
+1
+0
+0
+8
+0
+0
+1
+0
+% 0.0 16.7 0.0 5.6 5.6 0.0 0.0 44.4 0.0 0.0 5.6 0.0
+ZOO 161 EB Russell David E. Principles Of Human Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+2
+0
+0
+8
+0
+0
+6
+0
+0
+3
+0
+% 0.0 10.5 0.0 0.0 42.1 0.0 0.0 31.6 0.0 0.0 15.8 0.0
+ZOO 161 EC Russell David E. Principles Of Human Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+3
+0
+0
+6
+0
+0
+6
+0
+0
+1
+0
+% 0.0 15.0 0.0 0.0 30.0 0.0 0.0 30.0 0.0 0.0 5.0 0.0
+ZOO 161 ED Russell David E. Principles Of Human Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+5
+0
+2
+3
+0
+1
+8
+0
+0
+0
+0
+% 0.0 23.8 0.0 9.5 14.3 0.0 4.8 38.1 0.0 0.0 0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+3
+0
+14.3 0.0
+F
+W
+1
+0
+5.6 0.0
+F
+W
+2
+0
+11.1 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+1
+0.0 5.0
+F
+W
+0
+0
+0.0 0.0
+WP WF
+1
+1
+5.0 5.0
+WP WF
+1
+1
+4.8 4.8
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+1
+0.0 5.6
+WP WF
+0
+0
+0.0 0.0
+WP WF
+1
+0
+5.0 0.0
+WP WF
+1
+0
+4.8 0.0
+Miami Plan
+Y
+I
+X
+0
+1
+0.0 5.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+2
+0.0 11.1
+Y
+I
+X
+0
+1
+0.0 5.6
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+1
+1
+5.0 5.0
+Y
+I
+X
+0
+1
+0.0 4.8
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.38
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.49
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.18
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.08
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.47
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.69
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.84
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

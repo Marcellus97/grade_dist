@@ -1,0 +1,306 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 345 Sections of 10
+LAT Latin Language & Literature
+Miami Plan
+Honors
+Cross Listing
+LAT 102 A McCoskey Denise E. Beginning Latin
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+1
+3
+3
+4
+1
+4
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 3.8 23.1 3.8 11.5 11.5 15.4 3.8 15.4 7.7 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+LAT 102 B Berkowitz Gary Beginning Latin
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+4
+1
+4
+0
+0
+4
+0
+0
+1
+3
+0
+0
+0
+0
+0
+1
+1
+0
+0
+2.78
+% 8.3 12.5 16.7 4.2 16.7 0.0 0.0 16.7 0.0 0.0 4.2 12.5 0.0 0.0 0.0 0.0 0.0 4.2 4.2 0.0 0.0
+Course Total LAT 102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+9
+5
+4
+7
+4
+1
+8
+2
+0
+1
+3
+0
+1
+0
+0
+0
+1
+1
+0
+0
+2.90
+% 6.0 18.0 10.0 8.0 14.0 8.0 2.0 16.0 4.0 0.0 2.0 6.0 0.0 2.0 0.0 0.0 0.0 2.0 2.0 0.0 0.0
+LAT 202 A Galsworthy Carrie L. Representative Latin Authors
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+0
+2
+3
+2
+2
+0
+1
+2
+0
+1
+1
+1
+1
+0
+0
+0
+3
+0
+0
+0
+2.66
+% 13.6 0.0 9.1 13.6 9.1 9.1 0.0 4.5 9.1 0.0 4.5 4.5 4.5 4.5 0.0 0.0 0.0 13.6 0.0 0.0 0.0
+LAT 202 C Lyons Deborah Representative Latin Authors
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+3
+4
+1
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 0.0 21.4 21.4 28.6 7.1 7.1 7.1 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+LAT 202 D Berkowitz Gary Representative Latin Authors
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+3
+0
+1
+1
+7
+2
+1
+0
+1
+0
+3
+0
+0
+0
+1
+0
+0
+0
+2.68
+% 0.0 18.5 7.4 11.1 0.0 3.7 3.7 25.9 7.4 3.7 0.0 3.7 0.0 11.1 0.0 0.0 0.0 3.7 0.0 0.0 0.0
+Course Total LAT 202
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+5
+7
+9
+6
+4
+2
+9
+4
+1
+2
+2
+1
+4
+0
+0
+0
+4
+0
+0
+0
+2.74
+% 4.8 7.9 11.1 14.3 9.5 6.3 3.2 14.3 6.3 1.6 3.2 3.2 1.6 6.3 0.0 0.0 0.0 6.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

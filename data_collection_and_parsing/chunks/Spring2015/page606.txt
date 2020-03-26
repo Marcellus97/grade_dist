@@ -1,0 +1,307 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Oxford Campus
+Page: 602 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+STA 363 A Kim Seonjin Intro to Statistical Modeling
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+1
+7
+4
+3
+2
+3
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 3.8 7.7 3.8 26.9 15.4 11.5 7.7 11.5 3.8 0.0 0.0 0.0 3.8 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total STA 363
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+1
+7
+4
+3
+2
+3
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 3.8 7.7 3.8 26.9 15.4 11.5 7.7 11.5 3.8 0.0 0.0 0.0 3.8 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 401 A Smucker Byran J. Probability
+N
+N
+1H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+0
+4
+2
+2
+1
+2
+0
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 17.4 21.7 0.0 17.4 8.7 8.7 4.3 8.7 0.0 4.3 0.0 4.3 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 401 B Noe Douglas A. Probability
+N
+N
+89
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+3
+1
+0
+0
+3
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.98
+% 0.0 25.0 18.8 18.8 6.3 0.0 0.0 18.8 6.3 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 401 C Noe Douglas A. Probability
+N
+N
+7X
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+1
+3
+4
+4
+1
+1
+1
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.76
+% 4.5 13.6 4.5 13.6 18.2 18.2 4.5 4.5 4.5 4.5 4.5 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total STA 401
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+12
+4
+10
+7
+6
+2
+6
+2
+2
+1
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 8.2 19.7 6.6 16.4 11.5 9.8 3.3 9.8 3.3 3.3 1.6 1.6 3.3 1.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 402 A Wright Stephen E. Statistical Programming
+N
+N
+4D
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+2
+1
+4
+3
+1
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 4.3 34.8 8.7 4.3 17.4 13.0 4.3 0.0 8.7 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

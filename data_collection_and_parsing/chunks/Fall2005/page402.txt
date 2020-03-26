@@ -1,0 +1,352 @@
+testRun: 01/25/06 @ 12:34 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2005-06 Oxford Campus
+Page: 399 Sections of 10
+MTH 151 A Andrews Eric S. Calculus I
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+11
+2
+2
+4
+1
+3
+2
+0
+0
+% 3.4 37.9 6.9 6.9 13.8 3.4 10.3 6.9 0.0 0.0
+MTH 151 C Dowling Patrick N. Calculus I
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+10
+3
+3
+6
+4
+4
+8
+0
+0
+% 0.0 18.2 5.5 5.5 10.9 7.3 7.3 14.5 0.0 0.0
+MTH 151 D Chamblin Robert N. Calculus I
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+3
+1
+4
+7
+6
+1
+3
+3
+2
+% 0.0 8.3 2.8 11.1 19.4 16.7 2.8 8.3 8.3 5.6
+MTH 151 E Miller Zevi Calculus I
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+5
+9
+1
+12
+8
+5
+10
+4
+0
+% 0.0 8.3 15.0 1.7 20.0 13.3 8.3 16.7 6.7 0.0
+MTH 151 F Chamblin Robert N. Calculus I
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+2
+1
+2
+3
+2
+5
+5
+3
+4
+0
+% 5.4 2.7 5.4 8.1 5.4 13.5 13.5 8.1 10.8 0.0
+MTH 151 G Smith Robert S. Calculus I
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+1
+3
+3
+5
+2
+3
+0
+3
+2
+% 2.2 2.2 6.5 6.5 10.9 4.3 6.5 0.0 6.5 4.3
+MTH 151 H Ketchersid Richard O. Calculus I
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+3
+2
+3
+3
+2
+1
+3
+5
+0
+% 3.1 9.4 6.3 9.4 9.4 6.3 3.1 9.4 15.6 0.0
+D
+D-
+1
+0
+3.4 0.0
+D
+D-
+7
+3
+12.7 5.5
+D
+D-
+1
+2
+2.8 5.6
+D
+D-
+1
+0
+1.7 0.0
+D
+D-
+1
+1
+2.7 2.7
+D
+D-
+5
+4
+10.9 8.7
+D
+D-
+0
+1
+0.0 3.1
+F
+W
+WP WF
+2
+0
+0
+0
+6.9 0.0 0.0 0.0
+F
+W
+WP WF
+0
+7
+0
+0
+0.0 12.7 0.0 0.0
+F
+W
+WP WF
+0
+3
+0
+0
+0.0 8.3 0.0 0.0
+F
+W
+WP WF
+0
+4
+0
+0
+0.0 6.7 0.0 0.0
+F
+W
+WP WF
+2
+5
+0
+0
+5.4 13.5 0.0 0.0
+F
+W
+WP WF
+3
+11
+0
+0
+6.5 23.9 0.0 0.0
+F
+W
+5
+2
+15.6 6.3
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+1
+0
+1.7 0.0
+Y
+I
+X
+1
+0
+2.7 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+1
+0.0 3.1
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.06
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.59
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.56
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.79
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.41
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.05
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.25
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

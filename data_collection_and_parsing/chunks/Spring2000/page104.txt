@@ -1,0 +1,310 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 101 Sections of 10
+DSC Decision Sciences
+Miami Plan
+Honors
+Cross Listing
+DSC 205 A Basu Dipankar Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+2
+14
+2
+1
+9
+4
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+2.76
+% 0.0 19.0 0.0 4.8 33.3 4.8 2.4 21.4 9.5 0.0 0.0 0.0 0.0 0.0 2.4 2.4 0.0 0.0 0.0 0.0 0.0
+DSC 205 B Cramer Susan K. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+15
+1
+2
+11
+1
+1
+4
+0
+0
+2
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+3.08
+% 2.4 36.6 2.4 4.9 26.8 2.4 2.4 9.8 0.0 0.0 4.9 2.4 2.4 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0
+DSC 205 C Cramer Susan K. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+13
+0
+8
+6
+2
+1
+2
+1
+1
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+3.16
+% 7.5 32.5 0.0 20.0 15.0 5.0 2.5 5.0 2.5 2.5 0.0 0.0 2.5 0.0 2.5 2.5 0.0 0.0 0.0 0.0 0.0
+DSC 205 D Cramer Susan K. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+17
+0
+1
+8
+0
+3
+2
+0
+0
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+3.38
+% 17.1 41.5 0.0 2.4 19.5 0.0 7.3 4.9 0.0 0.0 2.4 0.0 0.0 0.0 2.4 2.4 0.0 0.0 0.0 0.0 0.0
+DSC 205 E O'Connell Richard T. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+0
+17
+0
+0
+8
+0
+0
+2
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 31.0 0.0 0.0 40.5 0.0 0.0 19.0 0.0 0.0 4.8 0.0 2.4 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0
+DSC 205 F O'Connell Richard T. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+0
+0
+15
+0
+0
+5
+0
+0
+1
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+3.08
+% 0.0 40.0 0.0 0.0 37.5 0.0 0.0 12.5 0.0 0.0 2.5 0.0 5.0 0.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0
+DSC 205 G O'Connell Richard T. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+0
+0
+12
+0
+0
+6
+0
+0
+5
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+2.83
+% 0.0 36.6 0.0 0.0 29.3 0.0 0.0 14.6 0.0 0.0 12.2 0.0 4.9 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 321 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MGT 301 D West Renee A. Organizational Behavior&Theory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+10
+3
+9
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 0.0 19.4 32.3 9.7 29.0 0.0 6.5 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 301 E Hensley Amy L. Organizational Behavior&Theory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+3
+6
+11
+3
+2
+3
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 0.0 17.1 8.6 17.1 31.4 8.6 5.7 8.6 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 301 F Hensley Amy L. Organizational Behavior&Theory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+3
+4
+7
+3
+3
+5
+1
+0
+1
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+2.77
+% 2.8 13.9 8.3 11.1 19.4 8.3 8.3 13.9 2.8 0.0 2.8 0.0 2.8 2.8 0.0 2.8 0.0 0.0 0.0 0.0 0.0
+MGT 301 G Hensley Amy L. Organizational Behavior&Theory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+3
+4
+12
+1
+1
+3
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 29.7 8.1 10.8 32.4 2.7 2.7 8.1 0.0 2.7 0.0 0.0 0.0 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 301 H Hensley Amy L. Organizational Behavior&Theory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+2
+3
+12
+2
+2
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.20
+% 2.8 30.6 5.6 8.3 33.3 5.6 5.6 5.6 0.0 0.0 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 301 I Fialko Anne S. Organizational Behavior&Theory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+3
+3
+9
+4
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 0.0 36.1 8.3 8.3 25.0 11.1 2.8 2.8 2.8 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 301 J Fialko Anne S. Organizational Behavior&Theory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+20
+0
+2
+12
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.53
+% 0.0 55.6 0.0 5.6 33.3 0.0 2.8 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

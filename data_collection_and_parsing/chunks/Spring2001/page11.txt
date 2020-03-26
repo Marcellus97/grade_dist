@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 8 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ACC 330
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+14
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+ACC 333 A Brewer Peter C. Managerial Cost Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+1
+4
+1
+2
+4
+0
+0
+2
+2
+0
+1
+12
+1
+0
+0
+0
+0
+0
+2.56
+% 0.0 13.5 5.4 2.7 10.8 2.7 5.4 10.8 0.0 0.0 5.4 5.4 0.0 2.7 32.4 2.7 0.0 0.0 0.0 0.0 0.0
+ACC 333 B Brewer Peter C. Managerial Cost Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+2
+5
+4
+1
+9
+1
+0
+2
+1
+0
+2
+5
+0
+0
+0
+0
+0
+0
+2.62
+% 0.0 7.7 10.3 5.1 12.8 10.3 2.6 23.1 2.6 0.0 5.1 2.6 0.0 5.1 12.8 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 333 C Presutti Anthony H. Managerial Cost Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+15
+12
+2
+1
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.18
+% 0.0 4.9 14.6 36.6 29.3 4.9 2.4 2.4 2.4 0.0 0.0 0.0 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 333 D Presutti Anthony H. Managerial Cost Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+7
+10
+7
+3
+3
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 0.0 5.1 15.4 17.9 25.6 17.9 7.7 7.7 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 333 E Campbell Robert J. Managerial Cost Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+4
+13
+3
+1
+8
+0
+0
+1
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 7.7 7.7 10.3 33.3 7.7 2.6 20.5 0.0 0.0 2.6 0.0 0.0 5.1 2.6 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 333
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+21
+29
+44
+17
+8
+25
+2
+0
+5
+3
+0
+6
+19
+1
+0
+0
+0
+0
+0
+2.88
+% 0.0 7.7 10.8 14.9 22.6 8.7 4.1 12.8 1.0 0.0 2.6 1.5 0.0 3.1 9.7 0.5 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

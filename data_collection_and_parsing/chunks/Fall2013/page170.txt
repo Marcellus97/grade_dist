@@ -1,0 +1,302 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 166 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ECE 448 A Chen Chiou S. Senior Design Project
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+26
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.99
+% 3.4 89.7 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECE 448
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+26
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.99
+% 3.4 89.7 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 461 A Sahin Gokhan Network Performance Analysis
+N
+N
+OT
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+0
+2
+0
+0
+1
+2
+1
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 6.3 31.3 0.0 12.5 0.0 0.0 6.3 12.5 6.3 12.5 6.3 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECE 461
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+0
+2
+0
+0
+1
+2
+1
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 6.3 31.3 0.0 12.5 0.0 0.0 6.3 12.5 6.3 12.5 6.3 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 491 A Chen Chiou S. Power Systems Engineering
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+1
+1
+6
+1
+5
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 5.3 5.3 5.3 5.3 31.6 5.3 26.3 10.5 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECE 491
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+1
+1
+6
+1
+5
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 5.3 5.3 5.3 5.3 31.6 5.3 26.3 10.5 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECE 565 A Morton Yu T. Introduction to GPS
+N
+N
+0Q
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+2
+1
+0
+0
+0
+2
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 27.3 18.2 9.1 0.0 0.0 0.0 18.2 9.1 9.1 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

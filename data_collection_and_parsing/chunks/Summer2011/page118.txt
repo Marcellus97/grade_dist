@@ -1,0 +1,214 @@
+testRun: 01/09/12 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Semester, 2010-11 Oxford Campus
+Page: 115 Sections of 10
+PHL Philosophy
+Miami Plan
+Honors
+Cross Listing
+PHL 105 UA Massie Pascal Theories Of Human Nature
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+4
+4
+3
+3
+1
+3
+0
+0
+1
+1
+0
+0
+0
+0
+2
+0
+0
+0
+2.77
+% 0.0 10.3 13.8 13.8 13.8 10.3 10.3 3.4 10.3 0.0 0.0 3.4 3.4 0.0 0.0 0.0 0.0 6.9 0.0 0.0 0.0
+Course Total PHL 105
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+4
+4
+3
+3
+1
+3
+0
+0
+1
+1
+0
+0
+0
+0
+2
+0
+0
+0
+2.77
+% 0.0 10.3 13.8 13.8 13.8 10.3 10.3 3.4 10.3 0.0 0.0 3.4 3.4 0.0 0.0 0.0 0.0 6.9 0.0 0.0 0.0
+PHL 273 TA Fennen Keith G. Formal Logic
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+2
+0
+2
+1
+1
+0
+1
+0
+0
+3
+1
+3
+0
+0
+0
+1
+1
+0
+0
+2.44
+% 5.3 10.5 10.5 0.0 10.5 5.3 5.3 0.0 5.3 0.0 0.0 15.8 5.3 15.8 0.0 0.0 0.0 5.3 5.3 0.0 0.0
+Course Total PHL 273
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+2
+0
+2
+1
+1
+0
+1
+0
+0
+3
+1
+3
+0
+0
+0
+1
+1
+0
+0
+2.44
+% 5.3 10.5 10.5 0.0 10.5 5.3 5.3 0.0 5.3 0.0 0.0 15.8 5.3 15.8 0.0 0.0 0.0 5.3 5.3 0.0 0.0
+Philosophy Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+5
+6
+4
+6
+4
+4
+1
+4
+0
+0
+4
+2
+3
+0
+0
+0
+3
+1
+0
+0
+2.66
+% 2.1 10.4 12.5 8.3 12.5 8.3 8.3 2.1 8.3 0.0 0.0 8.3 4.2 6.3 0.0 0.0 0.0 6.3 2.1 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

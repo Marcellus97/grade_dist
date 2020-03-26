@@ -1,0 +1,308 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Oxford Campus
+Page: 305 Sections of 10
+IES Environmental Sciences
+Miami Plan
+Honors
+Cross Listing
+IES 431 A Greenberg Adolph M. Principles&App Environment Sci
+N
+N
+7A
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+26
+0
+0
+16
+0
+0
+4
+0
+0
+2
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+3.31
+% 0.0 52.0 0.0 0.0 32.0 0.0 0.0 8.0 0.0 0.0 4.0 0.0 0.0 0.0 2.0 2.0 0.0 0.0 0.0 0.0 0.0
+Course Total IES 431
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+26
+0
+0
+16
+0
+0
+4
+0
+0
+2
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+3.31
+% 0.0 52.0 0.0 0.0 32.0 0.0 0.0 8.0 0.0 0.0 4.0 0.0 0.0 0.0 2.0 2.0 0.0 0.0 0.0 0.0 0.0
+IES 450 A Redden Brian R. Environmental Law
+N
+N
+7B
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+9
+7
+5
+1
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+1
+0
+0
+3.20
+% 0.0 3.1 18.8 28.1 21.9 15.6 3.1 0.0 0.0 0.0 0.0 0.0 0.0 3.1 3.1 0.0 0.0 0.0 3.1 0.0 0.0
+Course Total IES 450
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+9
+7
+5
+1
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+1
+0
+0
+3.20
+% 0.0 3.1 18.8 28.1 21.9 15.6 3.1 0.0 0.0 0.0 0.0 0.0 0.0 3.1 3.1 0.0 0.0 0.0 3.1 0.0 0.0
+IES 531 A Greenberg Adolph M. Principles&App Environment Sci
+N
+N
+7A
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total IES 531
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IES 550 A Redden Brian R. Environmental Law
+N
+N
+7B
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+5
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 7.7 23.1 38.5 15.4 7.7 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,338 @@
+testRun: 11/24/14 @ 09:11 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Term, 2013-14 Oxford Campus
+Page: 17 Sections of 10
+Course Total BUS 303
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+7
+13
+17
+9
+3
+2
+3
+1
+0
+% 0.0 12.3 22.8 29.8 15.8 5.3 3.5 5.3 1.8 0.0
+BUS 330 B Cattin Nicholas J. Professional Practice
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BUS 330
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BUS 351 UA Powell Laura A. Government, Law and Business
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+3
+1
+4
+1
+1
+1
+0
+1
+0
+% 0.0 25.0 8.3 33.3 8.3 8.3 8.3 0.0 8.3 0.0
+Course Total BUS 351
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+3
+1
+4
+1
+1
+1
+0
+1
+0
+% 0.0 25.0 8.3 33.3 8.3 8.3 8.3 0.0 8.3 0.0
+BUS 353 XA Oakenfull Gillian W. Beyond the Business Enterprise
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+1
+2
+3
+0
+0
+0
+1
+0
+% 0.0 10.0 10.0 20.0 30.0 0.0 0.0 0.0 10.0 0.0
+Course Total BUS 353
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+1
+1
+2
+3
+0
+0
+0
+1
+0
+% 0.0 10.0 10.0 20.0 30.0 0.0 0.0 0.0 10.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+1
+0
+10.0 0.0
+D
+D-
+1
+0
+10.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+1
+0
+10.0 0.0
+F
+W
+1
+0
+10.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+Honors
+Cross Listing
+I
+X
+Y
+P
+0
+2
+0
+0
+0.0 3.5 0.0 0.0
+N
+N
+I
+X
+Y
+P
+0
+14
+0
+0
+0.0 100.0 0.0 0.0
+S
+0 0.0
+AG
+S
+0 0.0
+Avg GPA 3.27
+Avg GPA 0.00
+I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+0
+0
+0
+0.00
+0.0 100.0 0.0 0.0 0.0
+N
+N
+I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+3.22
+0.0 0.0 0.0 0.0 0.0
+I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+3.22
+0.0 0.0 0.0 0.0 0.0
+N
+N
+I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+2.60
+0.0 0.0 0.0 0.0 0.0
+I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+2.60
+0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

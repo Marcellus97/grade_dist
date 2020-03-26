@@ -1,0 +1,303 @@
+testRun: 06/23/14 @ 07:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2013-14 Oxford Campus
+Page: 399 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+KNH 205 B Lipnickey Susan C. U'stng Drugs Health Prom Prof
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+10
+0
+4
+11
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.27
+% 3.2 32.3 0.0 12.9 35.5 0.0 0.0 12.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0
+Course Total KNH 205
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+17
+0
+10
+29
+0
+1
+7
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+3.20
+% 1.5 25.4 0.0 14.9 43.3 0.0 1.5 10.4 0.0 0.0 0.0 0.0 0.0 1.5 0.0 0.0 1.5 0.0 0.0 0.0 0.0
+KNH 206 A Chambers Camisha A. AIDS:Etiology,Prvlnc&Prev.
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+12
+12
+2
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.69
+% 23.7 31.6 31.6 5.3 2.6 0.0 2.6 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 206 B Chambers Camisha A. AIDS:Etiology,Prvlnc&Prev.
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+10
+9
+2
+4
+7
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+3.65
+% 28.6 25.7 5.7 11.4 20.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 2.9 0.0 0.0 0.0 0.0
+Course Total KNH 206
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+19
+21
+14
+6
+8
+1
+1
+0
+0
+0
+0
+0
+1
+1
+0
+0
+1
+0
+0
+0
+0
+3.67
+% 26.0 28.8 19.2 8.2 11.0 1.4 1.4 0.0 0.0 0.0 0.0 0.0 1.4 1.4 0.0 0.0 1.4 0.0 0.0 0.0 0.0
+KNH 209 TA Malay Nancy J. Medical Terminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+26
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.94
+% 0.0 89.7 6.9 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 209 TB Malay Nancy J. Medical Terminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+21
+3
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.83
+% 0.0 75.0 10.7 3.6 3.6 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

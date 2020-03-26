@@ -1,0 +1,305 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 208 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDP 256 B Kelly-Elliott Molly Psy/Learners With Exception
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+21
+13
+7
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.57
+% 0.0 27.9 34.4 21.3 11.5 1.6 0.0 1.6 0.0 0.0 0.0 0.0 0.0 1.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 256 C McMahon-Klosterman Kathy Psy/Learners With Exception
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+8
+9
+8
+3
+2
+5
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 11.6 18.6 20.9 18.6 7.0 4.7 11.6 0.0 0.0 4.7 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 256 D Rotuno-Johnson Rosemary Psy/Learners With Exception
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+3
+7
+3
+1
+0
+3
+1
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 3.2 25.8 9.7 22.6 9.7 3.2 0.0 9.7 3.2 0.0 0.0 0.0 6.5 6.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDP 256
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+42
+58
+41
+23
+8
+4
+9
+1
+0
+2
+1
+2
+3
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 2.0 21.2 29.3 20.7 11.6 4.0 2.0 4.5 0.5 0.0 1.0 0.5 1.0 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 272 A Johnson Ashley E. Intro to Disability Studies
+Y
+N
+KE
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 0.0 78.6 14.3 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 272 B Johnson Ashley E. Intro to Disability Studies
+Y
+N
+20
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.95
+% 0.0 81.8 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDP 272
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+20
+4
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.91
+% 0.0 80.0 16.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

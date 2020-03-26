@@ -1,0 +1,308 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Oxford Campus
+Page: 67 Sections of 10
+BWS Black World Studies
+Miami Plan
+Honors
+Cross Listing
+BWS 151 A Yeboah Ian E. Intro To Black World Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+13
+7
+9
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.12
+% 0.0 2.8 11.1 36.1 19.4 25.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.8 0.0 0.0 0.0
+BWS 151 B Coates Rodney D. Intro To Black World Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+12
+8
+5
+6
+11
+4
+10
+5
+3
+0
+1
+0
+1
+1
+4
+1
+0
+0
+0
+0
+0
+3.00
+% 16.7 11.1 6.9 8.3 15.3 5.6 13.9 6.9 4.2 0.0 1.4 0.0 1.4 1.4 5.6 1.4 0.0 0.0 0.0 0.0 0.0
+BWS 151 C Hunter Gary L. Intro To Black World Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+16
+12
+2
+4
+2
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.68
+% 41.0 30.8 5.1 10.3 5.1 2.6 2.6 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BWS 151
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+28
+21
+11
+23
+20
+14
+12
+5
+3
+0
+1
+0
+2
+1
+4
+1
+0
+1
+0
+0
+0
+3.22
+% 19.0 14.3 7.5 15.6 13.6 9.5 8.2 3.4 2.0 0.0 0.7 0.0 1.4 0.7 2.7 0.7 0.0 0.7 0.0 0.0 0.0
+BWS 221 A Jackson W. Sherman African American History
+N
+N
+E1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 10.0 0.0 0.0 90.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BWS 221
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 10.0 0.0 0.0 90.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BWS 224 A Olumwullah Osaak A. Africa To 1884
+Y
+N
+TY
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+1
+0
+3
+0
+1
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+1
+0
+0
+0
+2.88
+% 10.0 10.0 10.0 0.0 30.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 10.0 10.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

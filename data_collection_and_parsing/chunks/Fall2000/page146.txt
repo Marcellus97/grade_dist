@@ -1,0 +1,310 @@
+testRun: 06/30/04 @ 11:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2000-01 Oxford Campus
+Page: 143 Sections of 10
+EDT Teacher Education
+Miami Plan
+Honors
+Cross Listing
+EDT 110 A Graham David L. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+4
+6
+5
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+3.56
+% 20.0 16.0 24.0 20.0 0.0 0.0 0.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0 12.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110 B Shriver Darcy Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+15
+6
+2
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.77
+% 22.9 42.9 17.1 5.7 5.7 2.9 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110 C Omoiele Nyota B. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+2
+1
+0
+1
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.42
+% 0.0 53.3 0.0 13.3 6.7 0.0 6.7 13.3 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110 D Omoiele Nyota B. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.74
+% 0.0 72.2 0.0 11.1 5.6 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0
+EDT 110 E Samuel Bryan D. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+2
+1
+4
+0
+2
+1
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 10.5 21.1 10.5 5.3 21.1 0.0 10.5 5.3 0.0 5.3 0.0 0.0 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110 QB Walsh Donald R. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+9
+0
+0
+1
+0
+0
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.57
+% 13.3 60.0 0.0 0.0 6.7 0.0 0.0 6.7 0.0 0.0 6.7 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110 QC Lofton Gabriel E. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+0
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 20.0 30.0 0.0 10.0 10.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

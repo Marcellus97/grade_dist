@@ -1,0 +1,124 @@
+testWMS Women'S Studies
+546
+ZOO Zoology
+549
+Middletown Campus
+563
+ACC Accountancy
+564
+AMS American Studies
+566
+ART Art
+567
+ATH Anthropology
+569
+BOT Botany
+571
+BTE Business Technology
+573
+BWS Black World Studies
+579
+CHM Chemistry & Biochemistry
+580
+COM Communication
+583
+DSC Decision Sciences
+586
+ECO Economics
+587
+EDL Educational Leadership
+588
+EDP Educational Psychology
+591
+EDT Teacher Education
+592
+ENG English
+598
+ENT Engineering Technology
+605
+FIN Finance
+609
+FRE French
+610
+FST Film Studies
+611
+FSW Family Studies And Social Work
+612
+GEO Geography
+613
+GER German
+615
+GLG Geology
+616
+GTY Gerontology
+618
+HST History
+619
+IDS Interdisciplinary
+622
+MBI Microbiology
+623
+MGT Management
+624
+MIS Management Information Systems
+625
+MKT Marketing
+626
+MTH Mathematics
+627
+MUS Music
+633
+NSG Nursing
+635
+PHL Philosophy
+636
+PHS Phy Edu, Hlth, & Sport Studies
+637
+PHY Physics
+643
+POL Political Science
+645
+PSY Psychology
+646
+SAN Systems Analysis
+648
+SOC Sociology
+651
+SPN Spanish
+654
+STA Statistics
+656
+THE Theatre
+657
+ZOO Zoology
+659
+Hamilton Campus
+662
+ACC Accountancy
+663
+ART Art
+665
+ATH Anthropology
+668
+BOT Botany
+669
+BTE Business Technology
+671
+BWS Black World Studies
+677
+CHM Chemistry & Biochemistry
+678
+CLS Classics
+680
+COM Communication
+681
+DSC Decision Sciences
+684
+ECO Economics
+685
+EDL Educational Leadership
+686
+EDP Educational Psychology
+689
+EDT Teacher Education
+690

@@ -1,0 +1,308 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Oxford Campus
+Page: 108 Sections of 10
+CHI Chinese
+Miami Plan
+Honors
+Cross Listing
+CHI 101 B Wang Lihong Elementary Chinese
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+8
+2
+3
+1
+0
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 0.0 19.0 38.1 9.5 14.3 4.8 0.0 0.0 9.5 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHI 101 C Wang Lihong Elementary Chinese
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+4
+3
+2
+1
+2
+1
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 16.7 16.7 16.7 12.5 8.3 4.2 8.3 4.2 0.0 4.2 4.2 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHI 101 D Lin Jie Elementary Chinese
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+7
+4
+1
+1
+2
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+0
+3.66
+% 20.8 29.2 16.7 4.2 4.2 8.3 4.2 0.0 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 8.3 0.0 0.0 0.0 0.0
+CHI 101 E Gao Yujuan Elementary Chinese
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+3
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 0.0 56.5 13.0 21.7 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHI 101 F Zhou Zhenghong Elementary Chinese
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+7
+3
+3
+2
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.45
+% 0.0 26.1 30.4 13.0 13.0 8.7 0.0 0.0 4.3 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHI 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+34
+26
+15
+12
+7
+2
+2
+4
+0
+1
+1
+0
+4
+0
+0
+2
+0
+0
+0
+0
+3.43
+% 4.3 29.6 22.6 13.0 10.4 6.1 1.7 1.7 3.5 0.0 0.9 0.9 0.0 3.5 0.0 0.0 1.7 0.0 0.0 0.0 0.0
+CHI 141 A Lin Jie Introduction to China
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+9
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 90.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

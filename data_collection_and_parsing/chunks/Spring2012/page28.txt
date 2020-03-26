@@ -1,0 +1,301 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Oxford Campus
+Page: 24 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ACC 221 DE Killy Elizabeth M. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+4
+1
+1
+2
+2
+2
+2
+1
+2
+2
+4
+0
+0
+0
+0
+0
+0
+0
+2.36
+% 0.0 10.3 10.3 13.8 3.4 3.4 6.9 6.9 6.9 6.9 3.4 6.9 6.9 13.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 221 DF Killy Elizabeth M. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+1
+3
+0
+4
+2
+1
+2
+1
+2
+4
+2
+0
+0
+0
+0
+0
+0
+0
+2.16
+% 0.0 3.4 20.7 3.4 10.3 0.0 13.8 6.9 3.4 6.9 3.4 6.9 13.8 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 221
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+88
+64
+49
+57
+31
+61
+48
+29
+16
+17
+30
+23
+66
+0
+0
+0
+0
+0
+0
+0
+2.64
+% 0.9 15.1 11.0 8.4 9.8 5.3 10.4 8.2 5.0 2.7 2.9 5.1 3.9 11.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 222 A Brewer Peter C. Intro To Managerial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+13
+5
+7
+18
+9
+5
+44
+11
+1
+7
+1
+4
+69
+0
+0
+0
+0
+0
+0
+0
+2.42
+% 1.0 6.6 2.6 3.6 9.2 4.6 2.6 22.4 5.6 0.5 3.6 0.5 2.0 35.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 222 B Brewer Peter C. Intro To Managerial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+19
+33
+14
+5
+36
+19
+15
+53
+9
+4
+3
+1
+1
+65
+0
+0
+0
+0
+0
+0
+0
+2.83
+% 6.9 11.9 5.1 1.8 13.0 6.9 5.4 19.1 3.2 1.4 1.1 0.4 0.4 23.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 222 C Brewer Peter C. Intro To Managerial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+13
+28
+9
+5
+39
+10
+18
+61
+6
+1
+4
+0
+1
+80
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 4.7 10.2 3.3 1.8 14.2 3.6 6.5 22.2 2.2 0.4 1.5 0.0 0.4 29.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 222
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+34
+74
+28
+17
+93
+38
+38
+158 26
+6
+14
+2
+6
+214 0
+0
+0
+0
+0
+0
+0
+2.70
+% 4.5 9.9 3.7 2.3 12.4 5.1 5.1 21.1 3.5 0.8 1.9 0.3 0.8 28.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

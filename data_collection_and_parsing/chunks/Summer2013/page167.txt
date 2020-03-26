@@ -1,0 +1,297 @@
+testRun: 01/15/14 @ 15:10 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Term, 2012-13 Middletown Campus
+Page: 164 Sections of 10
+CHM Chemistry & Biochemistry
+Miami Plan
+Honors
+Cross Listing
+CHM 109 MZA Marine Susan S. Chemistry Fundamentals
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+0
+0
+5
+0
+0
+4
+0
+0
+3
+0
+3
+2
+0
+0
+0
+1
+0
+0
+0
+2.11
+% 4.8 9.5 0.0 0.0 23.8 0.0 0.0 19.0 0.0 0.0 14.3 0.0 14.3 9.5 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+Course Total CHM 109
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+0
+0
+5
+0
+0
+4
+0
+0
+3
+0
+3
+2
+0
+0
+0
+1
+0
+0
+0
+2.11
+% 4.8 9.5 0.0 0.0 23.8 0.0 0.0 19.0 0.0 0.0 14.3 0.0 14.3 9.5 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+CHM 142 MTA Vail Howard P. College Chemistry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+0
+0
+6
+0
+0
+3
+2
+0
+2
+0
+4
+5
+0
+0
+0
+0
+0
+0
+0
+2.39
+% 6.9 17.2 0.0 0.0 20.7 0.0 0.0 10.3 6.9 0.0 6.9 0.0 13.8 17.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 142
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+0
+0
+6
+0
+0
+3
+2
+0
+2
+0
+4
+5
+0
+0
+0
+0
+0
+0
+0
+2.39
+% 6.9 17.2 0.0 0.0 20.7 0.0 0.0 10.3 6.9 0.0 6.9 0.0 13.8 17.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 145 MTA Vail Howard P. College Chemistry Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+1
+5
+0
+0
+2
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 37.5 0.0 6.3 31.3 0.0 0.0 12.5 0.0 0.0 6.3 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 145
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+1
+5
+0
+0
+2
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 37.5 0.0 6.3 31.3 0.0 0.0 12.5 0.0 0.0 6.3 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Chemistry & Biochemistry Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 3
+13
+0
+1
+16
+0
+0
+9
+2
+0
+6
+0
+8
+7
+0
+0
+0
+1
+0
+0
+0
+2.46
+% 4.5 19.7 0.0 1.5 24.2 0.0 0.0 13.6 3.0 0.0 9.1 0.0 12.1 10.6 0.0 0.0 0.0 1.5 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

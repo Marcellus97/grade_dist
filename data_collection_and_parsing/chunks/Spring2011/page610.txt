@@ -1,0 +1,308 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Oxford Campus
+Page: 606 Sections of 10
+WMS Women'S Studies
+Miami Plan
+Honors
+Cross Listing
+WMS 180B A Harrison-Pepper Sally Maid in America
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 8.3 41.7 8.3 16.7 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total WMS 180B
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 8.3 41.7 8.3 16.7 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+WMS 201 A McLaughlin Lisa M. Intro To Womens Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+4
+7
+8
+3
+4
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+4
+1
+0
+0
+3.45
+% 8.6 11.4 20.0 22.9 8.6 11.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 11.4 2.9 0.0 0.0
+WMS 201 B Fuehrer Ann Intro To Womens Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+7
+6
+10
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.38
+% 0.0 25.0 19.4 16.7 27.8 2.8 2.8 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.8 0.0 0.0 0.0 0.0
+WMS 201 C Cho Yu-Fang Intro To Womens Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+6
+10
+6
+2
+0
+0
+1
+0
+0
+1
+0
+2
+0
+0
+0
+1
+0
+0
+0
+3.23
+% 0.0 12.1 18.2 30.3 18.2 6.1 0.0 0.0 3.0 0.0 0.0 3.0 0.0 6.1 0.0 0.0 0.0 3.0 0.0 0.0 0.0
+WMS 201 D Durack Katherine T. Intro To Womens Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+14
+4
+0
+1
+1
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+3.62
+% 21.9 43.8 12.5 0.0 3.1 3.1 0.0 6.3 0.0 0.0 0.0 0.0 3.1 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0
+WMS 201 E Ahmed Fauzia E. Intro To Womens Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+4
+9
+2
+2
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+2
+0
+0
+0
+2.74
+% 0.0 0.0 8.3 16.7 37.5 8.3 8.3 0.0 0.0 0.0 0.0 0.0 8.3 4.2 0.0 0.0 0.0 8.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

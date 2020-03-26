@@ -1,0 +1,124 @@
+testSTA Statistics
+535
+THE Theatre
+539
+WCP Interdisciplinary Studies- Wcp
+546
+WMS Women'S Studies
+555
+ZOO Zoology
+558
+Middletown Campus
+573
+ACC Accountancy
+574
+ART Art
+576
+ATH Anthropology
+578
+BOT Botany
+580
+BTE Business Technology
+581
+CHM Chemistry & Biochemistry
+588
+CLS Classics
+592
+COM Communication
+593
+DSC Decision Sciences
+596
+ECO Economics
+597
+EDL Educational Leadership
+599
+EDP Educational Psychology
+602
+EDT Teacher Education
+604
+ENG English
+610
+ENT Engineering Technology
+619
+FIN Finance
+622
+FRE French
+623
+FST Film Studies
+624
+FSW Family Studies And Social Work
+625
+GEO Geography
+626
+GER German
+627
+GLG Geology
+628
+GTY Gerontology
+629
+HST History
+630
+IDS Interdisciplinary
+633
+MBI Microbiology
+634
+MGT Management
+635
+MIS Management Information Systems
+636
+MKT Marketing
+637
+MTH Mathematics
+638
+MUS Music
+645
+NSG Nursing
+647
+PHL Philosophy
+648
+PHS Phy Edu, Hlth, & Sport Studies
+649
+PHY Physics
+654
+POL Political Science
+657
+PSY Psychology
+659
+SAN Systems Analysis
+661
+SOC Sociology
+665
+SPN Spanish
+668
+STA Statistics
+669
+THE Theatre
+670
+WMS Women'S Studies
+672
+ZOO Zoology
+673
+Hamilton Campus
+676
+ACC Accountancy
+677
+ART Art
+679
+ATH Anthropology
+682
+BOT Botany
+683
+BTE Business Technology
+685
+BWS Black World Studies
+692
+CHM Chemistry & Biochemistry
+693
+CLS Classics
+695
+COM Communication
+696
+DSC Decision Sciences
+699
+ECO Economics
+700

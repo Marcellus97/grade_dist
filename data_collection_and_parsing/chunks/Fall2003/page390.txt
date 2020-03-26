@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2003-04 Oxford Campus
+Page: 387 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MKT 421 B Saunders Donald E. Business-To-Business Marketing
+N
+N
+IJ
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+0
+8
+5
+3
+5
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+2.64
+% 0.0 0.0 4.2 0.0 33.3 20.8 12.5 20.8 0.0 0.0 0.0 0.0 0.0 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 421
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+1
+16
+11
+10
+11
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+2.62
+% 0.0 0.0 3.7 1.9 29.6 20.4 18.5 20.4 0.0 0.0 0.0 0.0 0.0 3.7 1.9 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 431 A Speh Thomas W. Logistics Management
+N
+N
+1A
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+1
+8
+6
+4
+11
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.54
+% 0.0 3.2 0.0 3.2 25.8 19.4 12.9 35.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 431
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+1
+8
+6
+4
+11
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.54
+% 0.0 3.2 0.0 3.2 25.8 19.4 12.9 35.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 440 A McCarthy Michael S. Brand Equity Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+12
+12
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 0.0 12.9 38.7 38.7 9.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 440 B McCarthy Michael S. Brand Equity Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+9
+4
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 4.3 26.1 39.1 17.4 8.7 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 440
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+18
+21
+7
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.40
+% 0.0 9.3 33.3 38.9 13.0 3.7 0.0 0.0 0.0 1.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

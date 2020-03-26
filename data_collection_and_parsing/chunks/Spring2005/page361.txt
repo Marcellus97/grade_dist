@@ -1,0 +1,309 @@
+testRun: 07/07/05 @ 10:09 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2004-05 Oxford Campus
+Page: 358 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MIS 235 H Serve Patrick D. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+11
+17
+1
+2
+3
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 7.1 7.1 26.2 40.5 2.4 4.8 7.1 2.4 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 I Serve Patrick D. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+6
+10
+15
+3
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.16
+% 0.0 11.9 14.3 23.8 35.7 7.1 2.4 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0
+MIS 235 J Lancaster Sean P. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+2
+5
+4
+10
+5
+2
+5
+0
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+2.55
+% 2.7 0.0 5.4 13.5 10.8 27.0 13.5 5.4 13.5 0.0 2.7 0.0 2.7 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 K Serve Patrick D. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+7
+8
+15
+4
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 0.0 10.0 17.5 20.0 37.5 10.0 2.5 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 L Lancaster Sean P. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+5
+8
+10
+5
+6
+3
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.57
+% 0.0 0.0 7.0 11.6 18.6 23.3 11.6 14.0 7.0 4.7 0.0 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 M Lancaster Sean P. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+4
+6
+5
+13
+3
+3
+3
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 0.0 10.0 15.0 12.5 32.5 7.5 7.5 7.5 2.5 2.5 0.0 0.0 0.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 O Cruez Gerald V. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+3
+9
+5
+7
+6
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.72
+% 0.0 5.3 7.9 7.9 23.7 13.2 18.4 15.8 2.6 2.6 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

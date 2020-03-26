@@ -1,0 +1,330 @@
+testRun: 06/23/14 @ 07:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2013-14 Oxford Campus
+Page: 459 Sections of 10
+MME 223 A Pierson Harry Engineering Materials
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+1
+0
+1
+2
+1
+1
+2
+1
+1
+0
+3
+3
+0
+0
+0
+% 0.0 6.3 0.0 6.3 12.5 6.3 6.3 12.5 6.3 6.3 0.0 18.8 18.8 0.0 0.0 0.0
+MME 223 B Pierson Harry Engineering Materials
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+0
+0
+1
+1
+1
+1
+6
+2
+0
+1
+0
+2
+1
+0
+0
+% 0.0 0.0 0.0 6.3 6.3 6.3 6.3 37.5 12.5 0.0 6.3 0.0 12.5 6.3 0.0 0.0
+MME 223 C Pierson Harry Engineering Materials
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+0
+0
+0
+2
+1
+3
+8
+0
+2
+0
+0
+0
+0
+0
+0
+% 0.0 0.0 0.0 0.0 12.5 6.3 18.8 50.0 0.0 12.5 0.0 0.0 0.0 0.0 0.0 0.0
+MME 223 D Pierson Harry Engineering Materials
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+1
+1
+0
+2
+0
+3
+3
+0
+0
+3
+1
+1
+0
+0
+0
+% 0.0 6.7 6.7 0.0 13.3 0.0 20.0 20.0 0.0 0.0 20.0 6.7 6.7 0.0 0.0 0.0
+MME 223 E Pierson Harry Engineering Materials
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+1
+1
+0
+1
+0
+5
+2
+0
+0
+1
+2
+1
+2
+0
+0
+% 0.0 6.3 6.3 0.0 6.3 0.0 31.3 12.5 0.0 0.0 6.3 12.5 6.3 12.5 0.0 0.0
+Course Total MME 223
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+3
+2
+2
+8
+3
+13
+21
+3
+3
+5
+6
+7
+3
+0
+0
+% 0.0 3.8 2.5 2.5 10.1 3.8 16.5 26.6 3.8 3.8 6.3 7.6 8.9 3.8 0.0 0.0
+MME 231 A Ettouney Osama M. Manufacturing Processes
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+1
+3
+1
+3
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+% 0.0 10.0 30.0 10.0 30.0 10.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.71
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.85
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.14
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.02
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.04
+0.0 0.0 0.0
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+Avg GPA
+0
+1.95
+0.0
+JM
+S
+Avg GPA
+0
+3.21
+0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

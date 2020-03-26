@@ -1,0 +1,301 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Middletown Campus
+Page: 800 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 226 M A Melbye Eric Intro/Creat Wrt:Sht Fctn&Poet
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+3
+0
+0
+0
+0
+1
+0
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 5.3 57.9 15.8 0.0 0.0 0.0 0.0 5.3 0.0 0.0 5.3 5.3 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 226 M B Melbye Eric Intro/Creat Wrt:Sht Fctn&Poet
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+2
+0
+2
+3
+2
+1
+1
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.04
+% 10.0 20.0 10.0 0.0 10.0 15.0 10.0 5.0 5.0 0.0 5.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 226
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+15
+5
+0
+2
+3
+2
+2
+1
+0
+2
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 7.7 38.5 12.8 0.0 5.1 7.7 5.1 5.1 2.6 0.0 5.1 2.6 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 254 M A Androne Helane A. Latino/a Lit and the Americas
+Y
+N
+MX
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+2
+2
+1
+0
+1
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.45
+% 0.0 0.0 16.7 16.7 16.7 8.3 0.0 8.3 16.7 8.3 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 254
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+2
+2
+1
+0
+1
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.45
+% 0.0 0.0 16.7 16.7 16.7 8.3 0.0 8.3 16.7 8.3 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 293 M A Cotugno Marianne Contemporary American Fiction
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+4
+5
+3
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.22
+% 0.0 18.2 13.6 18.2 22.7 13.6 4.5 4.5 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 293
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+4
+5
+3
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.22
+% 0.0 18.2 13.6 18.2 22.7 13.6 4.5 4.5 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,68 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 145 Sections of 10
+Chemical & Paper Engineering Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 31
+88
+58
+49
+54
+31
+30
+29
+15
+10
+8
+6
+5
+11
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 7.3 20.7 13.6 11.5 12.7 7.3 7.1 6.8 3.5 2.4 1.9 1.4 1.2 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GR 0
+11
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

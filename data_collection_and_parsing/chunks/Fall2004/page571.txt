@@ -1,0 +1,306 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Oxford Campus
+Page: 568 Sections of 10
+THE Theatre
+Miami Plan
+Honors
+Cross Listing
+THE 101 B Bickerstaff Jimmy A. Intro Theatre: Dramas & Anlys
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+2
+0
+1
+1
+1
+1
+2
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.25
+% 0.0 50.0 10.0 0.0 5.0 5.0 5.0 5.0 10.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0
+THE 101 C Guichard Julia M. Intro Theatre: Dramas & Anlys
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+2
+6
+1
+2
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.04
+% 0.0 33.3 0.0 9.5 28.6 4.8 9.5 9.5 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+THE 101 D Benson Rosalyn E. Intro Theatre: Dramas & Anlys
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+4
+2
+2
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.53
+% 0.0 47.6 19.0 9.5 9.5 4.8 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total THE 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+27
+6
+4
+9
+3
+4
+3
+3
+0
+1
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+3.28
+% 0.0 43.5 9.7 6.5 14.5 4.8 6.5 4.8 4.8 0.0 1.6 0.0 1.6 0.0 0.0 0.0 1.6 0.0 0.0 0.0 0.0
+THE 103 A Pauna Steven R. Intro Theatre:Productn&Perf I
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+37
+5
+0
+6
+1
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+3
+0
+0
+0
+0
+3.72
+% 12.7 58.7 7.9 0.0 9.5 1.6 0.0 3.2 0.0 0.0 0.0 0.0 1.6 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0
+Course Total THE 103
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+37
+5
+0
+6
+1
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+3
+0
+0
+0
+0
+3.72
+% 12.7 58.7 7.9 0.0 9.5 1.6 0.0 3.2 0.0 0.0 0.0 0.0 1.6 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0
+THE 123 A Brunner Christine L. Acting For The Non-Major
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+1
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+4
+1
+0
+1
+0
+0
+0
+3.38
+% 5.6 38.9 5.6 5.6 5.6 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 22.2 5.6 0.0 5.6 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

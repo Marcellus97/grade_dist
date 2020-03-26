@@ -1,0 +1,304 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Hamilton Campus
+Page: 624 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ART 181 H E Banta Gratia Concepts In Art
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 13.3 40.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 20.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 181 H F Van Benschoten Elijah Concepts In Art
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+4
+1
+0
+3
+0
+0
+1
+2
+0
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 28.6 19.0 4.8 0.0 14.3 0.0 0.0 4.8 9.5 0.0 4.8 0.0 9.5 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 181 H G Metz Laura M. Concepts In Art
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+12
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 60.0 5.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 181 HQA Trimble Brooke N. Concepts In Art
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+2
+0
+1
+1
+0
+0
+0
+0
+1
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 6.3 37.5 12.5 0.0 6.3 6.3 0.0 0.0 0.0 0.0 6.3 0.0 18.8 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ART 181
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+27
+34
+17
+14
+10
+1
+1
+4
+2
+1
+2
+0
+12
+11
+0
+0
+0
+1
+0
+0
+0
+3.22
+% 19.7 24.8 12.4 10.2 7.3 0.7 0.7 2.9 1.5 0.7 1.5 0.0 8.8 8.0 0.0 0.0 0.0 0.7 0.0 0.0 0.0
+ART 187 H A Parks Lori L. Hst Of West Art/Prehis-Gothic
+Y
+N
+LK
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+1
+6
+2
+4
+5
+0
+3
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.52
+% 0.0 13.3 3.3 3.3 20.0 6.7 13.3 16.7 0.0 10.0 3.3 0.0 3.3 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ART 187
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+1
+6
+2
+4
+5
+0
+3
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.52
+% 0.0 13.3 3.3 3.3 20.0 6.7 13.3 16.7 0.0 10.0 3.3 0.0 3.3 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

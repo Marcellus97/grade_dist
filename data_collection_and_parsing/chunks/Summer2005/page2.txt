@@ -1,0 +1,124 @@
+testCLS Classics
+143
+COM Communication
+144
+CSA Computer Sci &Systems Analysis
+145
+ECO Economics
+146
+EDP Educational Psychology
+147
+EDT Teacher Education
+148
+ENG English
+149
+FRE French
+151
+FST Film Studies
+152
+FSW Family Studies And Social Work
+153
+GLG Geology
+154
+GTY Gerontology
+155
+HST History
+156
+MBI Microbiology
+158
+MGT Management
+159
+MIS Management Information Systems
+160
+MKT Marketing
+161
+MTH Mathematics
+162
+MUS Music
+164
+NSG Nursing
+165
+PHL Philosophy
+167
+PHY Physics
+168
+POL Political Science
+169
+PSY Psychology
+170
+SOC Sociology
+172
+SPN Spanish
+173
+STA Statistics
+174
+THE Theatre
+175
+ZOO Zoology
+176
+Hamilton Campus
+177
+ACC Accountancy
+178
+ART Art
+179
+ATH Anthropology
+180
+BTE Business Technology
+181
+CHM Chemistry & Biochemistry
+182
+COM Communication
+183
+CSA Computer Sci &Systems Analysis
+185
+DSC Decision Sciences
+186
+ECO Economics
+187
+EDL Educational Leadership
+188
+EDP Educational Psychology
+192
+EDT Teacher Education
+193
+ENG English
+194
+ENT Engineering Technology
+196
+FST Film Studies
+197
+FSW Family Studies And Social Work
+198
+GEO Geography
+199
+GLG Geology
+200
+HST History
+201
+MBI Microbiology
+204
+MGT Management
+205
+MIS Management Information Systems
+206
+MKT Marketing
+207
+MTH Mathematics
+208
+MUS Music
+210
+NSG Nursing
+211
+PHL Philosophy
+212
+PHS Phy Edu, Hlth, & Sport Studies
+213
+POL Political Science
+215
+PSY Psychology
+216
+SOC Sociology
+217
+SPN Spanish
+218

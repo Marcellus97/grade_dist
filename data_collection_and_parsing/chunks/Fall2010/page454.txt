@@ -1,0 +1,302 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Oxford Campus
+Page: 450 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total MIS 235
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+30
+60
+96
+190 88
+50
+38
+7
+3
+1
+2
+1
+9
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.3 5.2 10.4 16.6 32.9 15.3 8.7 6.6 1.2 0.5 0.2 0.3 0.2 1.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235C A Merhout Jeffrey W. Info Systems:Conc/Tech/Applctn
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+6
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.62
+% 0.0 33.3 33.3 11.1 11.1 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MIS 235C
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+6
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.62
+% 0.0 33.3 33.3 11.1 11.1 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 245 B Ozdemir Zafer D. Database Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+2
+4
+3
+6
+5
+2
+1
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 3.7 0.0 7.4 14.8 11.1 22.2 18.5 7.4 3.7 0.0 0.0 3.7 0.0 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 245 C Ozdemir Zafer D. Database Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+5
+7
+7
+4
+0
+3
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 2.9 17.1 14.3 20.0 20.0 11.4 0.0 8.6 0.0 2.9 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MIS 245
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+8
+9
+10
+13
+9
+2
+4
+0
+1
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 1.6 1.6 12.9 14.5 16.1 21.0 14.5 3.2 6.5 0.0 1.6 1.6 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 281 A Fang Xiang Building Web-Based Bus Appl I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+4
+9
+5
+1
+2
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 0.0 11.1 14.8 33.3 18.5 3.7 7.4 3.7 3.7 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

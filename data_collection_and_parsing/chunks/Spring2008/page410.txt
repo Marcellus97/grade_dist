@@ -1,0 +1,305 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Oxford Campus
+Page: 407 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MTH 231 C Farmer Thomas A. Elements Of Discrete Math
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+6
+2
+1
+5
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.66
+% 0.0 18.2 0.0 0.0 27.3 9.1 4.5 22.7 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 231
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+2
+3
+16
+7
+5
+10
+5
+0
+2
+0
+1
+4
+0
+0
+0
+0
+0
+0
+0
+2.72
+% 0.0 15.4 3.1 4.6 24.6 10.8 7.7 15.4 7.7 0.0 3.1 0.0 1.5 6.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 245 A Davis Sheldon W. Differentl Equations/Engineers
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+1
+5
+7
+0
+2
+2
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 3.8 19.2 3.8 19.2 26.9 0.0 7.7 7.7 0.0 0.0 0.0 0.0 3.8 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 245 B Davis Sheldon W. Differentl Equations/Engineers
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+5
+3
+3
+2
+4
+1
+0
+2
+0
+2
+5
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 20.6 0.0 14.7 8.8 8.8 5.9 11.8 2.9 0.0 5.9 0.0 5.9 14.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 245
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+12
+1
+10
+10
+3
+4
+6
+1
+0
+2
+0
+3
+7
+0
+0
+0
+0
+0
+0
+0
+2.86
+% 1.7 20.0 1.7 16.7 16.7 5.0 6.7 10.0 1.7 0.0 3.3 0.0 5.0 11.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 251 A Burke Dennis K. Calculus II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+0
+3
+0
+4
+4
+2
+0
+2
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+2.41
+% 0.0 8.7 4.3 0.0 13.0 0.0 17.4 17.4 8.7 0.0 8.7 0.0 0.0 21.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 251 B Smith Mark A. Calculus II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+0
+4
+3
+0
+6
+4
+0
+0
+2
+0
+0
+10
+0
+0
+0
+0
+0
+0
+0
+2.64
+% 6.3 3.1 0.0 12.5 9.4 0.0 18.8 12.5 0.0 0.0 6.3 0.0 0.0 31.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,306 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Oxford Campus
+Page: 413 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+KNH 184L F Bonar Robert N. Motor Skill Lrning & Perf. Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+5
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.85
+% 0.0 60.0 33.3 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 184L G Gordon Clarence L. Motor Skill Lrning & Perf. Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+12
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 25.0 75.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 184L H Taylor Elizabeth A. Motor Skill Lrning & Perf. Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+5
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 0.0 50.0 27.8 11.1 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 184L
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+83
+23
+9
+6
+3
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.81
+% 5.3 62.4 17.3 6.8 4.5 2.3 0.8 0.0 0.0 0.0 0.0 0.0 0.0 0.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 188 A Sliger Jennifer Physical Activity and Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+7
+6
+0
+20
+5
+2
+10
+3
+1
+3
+1
+4
+3
+0
+0
+0
+2
+0
+0
+0
+2.60
+% 2.9 10.1 8.7 0.0 29.0 7.2 2.9 14.5 4.3 1.4 4.3 1.4 5.8 4.3 0.0 0.0 0.0 2.9 0.0 0.0 0.0
+KNH 188 B Smith Dean L. Physical Activity and Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+7
+14
+7
+15
+10
+1
+1
+1
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 3.0 6.1 10.6 21.2 10.6 22.7 15.2 1.5 1.5 1.5 4.5 0.0 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 188 D Ohlinger Christina M. Physical Activity and Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+2
+8
+19
+2
+8
+12
+1
+2
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 10.8 3.1 12.3 29.2 3.1 12.3 18.5 1.5 3.1 1.5 0.0 1.5 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

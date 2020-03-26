@@ -1,0 +1,309 @@
+testRun: 01/17/08 @ 12:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2007-08 Oxford Campus
+Page: 10 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ACC 422
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+13
+17
+10
+17
+18
+14
+8
+8
+3
+2
+4
+2
+1
+6
+0
+0
+1
+0
+0
+0
+0
+3.01
+% 10.5 13.7 8.1 13.7 14.5 11.3 6.5 6.5 2.4 1.6 3.2 1.6 0.8 4.8 0.0 0.0 0.8 0.0 0.0 0.0 0.0
+ACC 443 A Salzarulo W. Peter Federal Income Tax Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+0
+8
+2
+1
+4
+5
+0
+0
+0
+0
+9
+0
+0
+0
+0
+0
+0
+0
+2.54
+% 0.0 3.2 3.2 0.0 25.8 6.5 3.2 12.9 16.1 0.0 0.0 0.0 0.0 29.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 443 B Salzarulo W. Peter Federal Income Tax Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+3
+4
+1
+6
+1
+5
+0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+2.68
+% 0.0 6.7 6.7 10.0 13.3 3.3 20.0 3.3 16.7 0.0 0.0 0.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 443 C Salzarulo W. Peter Federal Income Tax Accounting
+N
+N
+XW
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+8
+3
+3
+7
+3
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+2.60
+% 0.0 3.2 6.5 3.2 25.8 9.7 9.7 22.6 9.7 0.0 0.0 0.0 0.0 6.5 0.0 0.0 3.2 0.0 0.0 0.0 0.0
+ACC 443 E Porcano Thomas M. Federal Income Tax Accounting
+N
+N
+RR
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+5
+5
+1
+0
+4
+1
+0
+1
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 0.0 14.3 7.1 17.9 17.9 3.6 0.0 14.3 3.6 0.0 3.6 0.0 0.0 17.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 443 F Porcano Thomas M. Federal Income Tax Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+3
+2
+8
+4
+0
+4
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 3.3 16.7 10.0 6.7 26.7 13.3 0.0 13.3 0.0 3.3 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 443 G Arlinghaus Barry P. Federal Income Tax Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+1
+7
+9
+4
+2
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 16.7 3.3 23.3 30.0 13.3 6.7 3.3 0.0 0.0 0.0 0.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

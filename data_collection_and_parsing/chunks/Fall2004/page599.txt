@@ -1,0 +1,307 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Oxford Campus
+Page: 596 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ZOO 161 CC Russell Jill M. Principles Of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+1
+9
+0
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 0.0 35.0 0.0 5.0 45.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 161 CD Russell Jill M. Principles Of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+0
+3
+7
+0
+1
+3
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.82
+% 5.3 10.5 0.0 15.8 36.8 0.0 5.3 15.8 0.0 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 161 DA Russell Jill M. Principles Of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+0
+3
+6
+0
+1
+2
+0
+1
+1
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+2.83
+% 4.8 19.0 0.0 14.3 28.6 0.0 4.8 9.5 0.0 4.8 4.8 0.0 4.8 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+ZOO 161 DB Russell Jill M. Principles Of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+0
+0
+6
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 5.3 47.4 0.0 0.0 31.6 0.0 5.3 5.3 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 161 DC Russell Jill M. Principles Of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+2
+4
+0
+2
+5
+0
+0
+1
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+2.71
+% 0.0 23.8 0.0 9.5 19.0 0.0 9.5 23.8 0.0 0.0 4.8 0.0 4.8 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+ZOO 161 DD Russell Jill M. Principles Of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+3
+5
+0
+0
+3
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 0.0 33.3 0.0 14.3 23.8 0.0 0.0 14.3 0.0 0.0 9.5 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ZOO 161
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+87
+6
+29
+78
+14
+20
+42
+7
+6
+16
+2
+15
+0
+3
+1
+0
+3
+0
+0
+0
+2.82
+% 1.8 26.0 1.8 8.7 23.3 4.2 6.0 12.5 2.1 1.8 4.8 0.6 4.5 0.0 0.9 0.3 0.0 0.9 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 11:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2000-01 Oxford Campus
+Page: 367 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MTH 153 C Ludwig Lewis D. Calculus I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+9
+4
+8
+2
+2
+2
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.15
+% 6.3 3.1 28.1 12.5 25.0 6.3 6.3 6.3 0.0 3.1 0.0 0.0 0.0 0.0 3.1 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 153 D Gass Frederick S. Calculus I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+4
+1
+1
+15
+2
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.62
+% 0.0 10.0 3.3 13.3 3.3 3.3 50.0 6.7 3.3 3.3 0.0 0.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 153 E Gass Frederick S. Calculus I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+2
+10
+4
+7
+5
+1
+1
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+2.54
+% 0.0 2.9 0.0 5.9 29.4 11.8 20.6 14.7 2.9 2.9 0.0 2.9 0.0 2.9 2.9 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 153 F Ludwig Lewis D. Calculus I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+2
+1
+5
+2
+2
+6
+0
+0
+1
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+3.03
+% 3.2 25.8 6.5 3.2 16.1 6.5 6.5 19.4 0.0 0.0 3.2 0.0 0.0 3.2 6.5 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 153
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+39
+12
+11
+42
+9
+26
+28
+2
+3
+4
+1
+6
+4
+5
+0
+0
+0
+0
+0
+0
+2.83
+% 1.5 20.0 6.2 5.6 21.5 4.6 13.3 14.4 1.0 1.5 2.1 0.5 3.1 2.1 2.6 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 218 A Kullman David E. Geometry/Middle Chldhd Teacher
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+4
+0
+6
+0
+3
+5
+1
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+2.90
+% 0.0 22.2 14.8 0.0 22.2 0.0 11.1 18.5 3.7 0.0 0.0 0.0 0.0 0.0 3.7 3.7 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 218
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+4
+0
+6
+0
+3
+5
+1
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+2.90
+% 0.0 22.2 14.8 0.0 22.2 0.0 11.1 18.5 3.7 0.0 0.0 0.0 0.0 0.0 3.7 3.7 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

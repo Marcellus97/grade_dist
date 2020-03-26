@@ -1,0 +1,105 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 161 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CSE 620A
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+5
+4
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.71
+% 17.6 29.4 23.5 23.5 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Comp Sci &Software Engineering Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 48
+361 244 185 353 145 99
+129 53
+28
+47
+27
+65
+78
+0
+0
+4
+1
+0
+0
+0
+2.96
+% 2.6 19.3 13.1 9.9 18.9 7.8 5.3 6.9 2.8 1.5 2.5 1.4 3.5 4.2 0.0 0.0 0.2 0.1 0.0 0.0 0.0
+GR 4
+16
+7
+7
+3
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+10
+0
+0
+0
+3.70
+% 8.2 32.7 14.3 14.3 6.1 2.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.0 0.0 0.0 0.0 20.4 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

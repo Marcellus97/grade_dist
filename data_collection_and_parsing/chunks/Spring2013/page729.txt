@@ -1,0 +1,306 @@
+testRun: 07/08/13 @ 16:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2012-13 Middletown Campus
+Page: 725 Sections of 10
+PSY Psychology
+Miami Plan
+Honors
+Cross Listing
+PSY 111 G A Beavers Bobby J. Introduction to Psychology
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+1
+2
+0
+0
+0
+0
+0
+1
+2
+6
+0
+0
+0
+0
+0
+0
+0
+2.59
+% 0.0 11.1 11.1 11.1 5.6 11.1 0.0 0.0 0.0 0.0 0.0 5.6 11.1 33.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 111 M A Beavers Marlena Introduction to Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+7
+2
+3
+1
+2
+1
+0
+1
+0
+1
+2
+9
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 5.9 8.8 20.6 5.9 8.8 2.9 5.9 2.9 0.0 2.9 0.0 2.9 5.9 26.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 111 M B Beavers Bobby J. Introduction to Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+7
+3
+4
+3
+1
+1
+3
+1
+0
+0
+7
+5
+0
+0
+0
+0
+0
+0
+0
+2.38
+% 0.0 7.9 18.4 7.9 10.5 7.9 2.6 2.6 7.9 2.6 0.0 0.0 18.4 13.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 111 M D Uhler Beth D. Introduction to Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+3
+0
+0
+1
+0
+0
+0
+1
+1
+3
+5
+0
+0
+0
+0
+0
+0
+0
+2.36
+% 0.0 10.5 15.8 15.8 0.0 0.0 5.3 0.0 0.0 0.0 5.3 5.3 15.8 26.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 111 M E Uhler Beth D. Introduction to Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+0
+1
+0
+1
+0
+2
+1
+1
+0
+0
+4
+2
+0
+0
+0
+0
+0
+0
+0
+1.55
+% 7.7 0.0 0.0 7.7 0.0 7.7 0.0 15.4 7.7 7.7 0.0 0.0 30.8 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 111
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+10
+19
+11
+8
+7
+4
+4
+4
+3
+1
+3
+18
+27
+0
+0
+0
+0
+0
+0
+0
+2.45
+% 2.5 8.2 15.6 9.0 6.6 5.7 3.3 3.3 3.3 2.5 0.8 2.5 14.8 22.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 221 M A Uhler Beth D. Social Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+4
+0
+2
+0
+4
+3
+2
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.63
+% 0.0 0.0 23.5 0.0 11.8 0.0 23.5 17.6 11.8 0.0 0.0 0.0 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,278 @@
+testRun: 06/30/04 @ 11:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2000-01 Oxford Campus
+Page: 102 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total DSC 461
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+9
+0
+0
+5
+1
+0
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.51
+% 18.2 40.9 0.0 0.0 22.7 4.5 0.0 9.1 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+DSC 461H A Broida Michael S. Integrtn Business Fundamentals
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+15
+4
+0
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 4.2 62.5 16.7 0.0 4.2 8.3 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total DSC 461H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+15
+4
+0
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.72
+% 4.2 62.5 16.7 0.0 4.2 8.3 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+DSC 615 A Krehbiel Timothy C. Stat Method/Mgrl Decsn Making
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+10
+5
+7
+2
+0
+0
+1
+0
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+3.60
+% 3.3 33.3 16.7 23.3 6.7 0.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0 6.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total DSC 615
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+10
+5
+7
+2
+0
+0
+1
+0
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+3.60
+% 3.3 33.3 16.7 23.3 6.7 0.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0 6.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0
+Decision Sciences Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 47
+310 39
+62
+237 29
+22
+105 13
+8
+22
+4
+9
+29
+9
+3
+1
+0
+0
+0
+0
+3.17
+% 5.0 32.7 4.1 6.5 25.0 3.1 2.3 11.1 1.4 0.8 2.3 0.4 0.9 3.1 0.9 0.3 0.1 0.0 0.0 0.0 0.0
+GR 1
+10
+5
+7
+2
+0
+0
+1
+0
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+3.60
+% 3.3 33.3 16.7 23.3 6.7 0.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0 6.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

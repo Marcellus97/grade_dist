@@ -1,0 +1,67 @@
+testRun: 06/30/04 @ 11:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 1999-2000 Oxford Campus
+Page: 58 Sections of 10
+Teacher Education Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 42
+119 66
+24
+63
+12
+3
+22
+3
+0
+2
+1
+0
+7
+1
+0
+1
+67
+3
+0
+0
+3.49
+% 9.6 27.3 15.1 5.5 14.4 2.8 0.7 5.0 0.7 0.0 0.5 0.2 0.0 1.6 0.2 0.0 0.2 15.4 0.7 0.0 0.0
+GR 3
+124 12
+3
+7
+1
+0
+0
+0
+0
+0
+0
+1
+0
+1
+1
+0
+4
+0
+0
+0
+3.86
+% 1.9 79.0 7.6 1.9 4.5 0.6 0.0 0.0 0.0 0.0 0.0 0.0 0.6 0.0 0.6 0.6 0.0 2.5 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

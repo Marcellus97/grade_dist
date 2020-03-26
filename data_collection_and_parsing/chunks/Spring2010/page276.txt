@@ -1,0 +1,312 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Oxford Campus
+Page: 272 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FIN 351 D Adelman Saul W. Principles Of Insurance
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+2
+3
+1
+1
+2
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 0.0 8.3 16.7 25.0 8.3 8.3 16.7 0.0 8.3 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 351
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+6
+15
+24
+6
+8
+4
+0
+3
+0
+1
+0
+2
+0
+0
+0
+1
+0
+0
+0
+2.94
+% 1.3 6.6 7.9 19.7 31.6 7.9 10.5 5.3 0.0 3.9 0.0 1.3 0.0 2.6 0.0 0.0 0.0 1.3 0.0 0.0 0.0
+FIN 401 A Shrider David G. Prin Of Investmnt&Securty Mkts
+N
+N
+S0
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+3
+4
+4
+5
+2
+9
+1
+1
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 2.7 10.8 8.1 10.8 10.8 13.5 5.4 24.3 2.7 2.7 0.0 0.0 0.0 8.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 401 B Shrider David G. Prin Of Investmnt&Securty Mkts
+N
+N
+T1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+4
+3
+7
+6
+0
+6
+2
+1
+1
+0
+0
+5
+0
+0
+1
+0
+0
+0
+0
+2.78
+% 5.1 2.6 10.3 7.7 17.9 15.4 0.0 15.4 5.1 2.6 2.6 0.0 0.0 12.8 0.0 0.0 2.6 0.0 0.0 0.0 0.0
+FIN 401 C Harman Yvette S. Prin Of Investmnt&Securty Mkts
+N
+N
+T2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+0
+6
+3
+5
+7
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.42
+% 0.0 3.7 7.4 0.0 22.2 11.1 18.5 25.9 0.0 3.7 3.7 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 401 D Harman Yvette S. Prin Of Investmnt&Securty Mkts
+N
+N
+TR
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+1
+2
+12
+1
+3
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.82
+% 2.9 11.8 2.9 5.9 35.3 2.9 8.8 29.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 401 E Harman Yvette S. Prin Of Investmnt&Securty Mkts
+N
+N
+7G
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+3
+5
+3
+4
+4
+4
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.47
+% 0.0 3.7 3.7 11.1 18.5 11.1 14.8 14.8 14.8 0.0 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

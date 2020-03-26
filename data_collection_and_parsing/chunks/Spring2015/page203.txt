@@ -1,0 +1,65 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Oxford Campus
+Page: 199 Sections of 10
+Educational Psychology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 211 603 156 81
+65
+20
+9
+13
+2
+2
+2
+0
+7
+17
+0
+0
+0
+4
+0
+19
+0
+3.76
+% 17.4 49.8 12.9 6.7 5.4 1.7 0.7 1.1 0.2 0.2 0.2 0.0 0.6 1.4 0.0 0.0 0.0 0.3 0.0 1.6 0.0
+GR 3
+41
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+3.98
+% 5.3 71.9 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 17.5 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

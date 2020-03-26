@@ -1,0 +1,315 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Oxford Campus
+Page: 307 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+GLG 699K A Myers Christopher A. iDiscovery:Leading Web Commun
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+19
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 95.0 0.0
+Course Total GLG 699K
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+19
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 95.0 0.0
+GLG 699N A Myers Christopher A. Applying Inqry Based Mth & Sci
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+35
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+3.98
+% 0.0 87.5 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.5 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GLG 699N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+35
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+3.98
+% 0.0 87.5 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.5 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 699Y A Myers Christopher A. Inquiry & Diversty Leadrshp II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+114 2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+1
+0
+6
+0
+0
+0
+0
+3.98
+% 4.4 83.2 1.5 2.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.6 0.7 0.0 4.4 0.0 0.0 0.0 0.0
+Course Total GLG 699Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+114 2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+1
+0
+6
+0
+0
+0
+0
+3.98
+% 4.4 83.2 1.5 2.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.6 0.7 0.0 4.4 0.0 0.0 0.0 0.0
+Geology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 85
+307 207 135 280 115 52
+141 49
+20
+43
+13
+35
+41
+14
+19
+3
+43
+3
+0
+0
+2.99
+% 5.3 19.1 12.9 8.4 17.4 7.2 3.2 8.8 3.1 1.2 2.7 0.8 2.2 2.6 0.9 1.2 0.2 2.7 0.2 0.0 0.0
+GR 6
+244 11
+7
+8
+1
+0
+0
+0
+0
+0
+0
+0
+6
+5
+0
+45
+0
+0
+19
+0
+3.94
+% 1.7 69.3 3.1 2.0 2.3 0.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.7 1.4 0.0 12.8 0.0 0.0 5.4 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,316 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 578 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ZOO 116 AI Russell David E. Biological Concepts: Structure
+Y
+N
+H2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+2
+0
+0
+8
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.20
+% 0.0 0.0 0.0 0.0 16.7 0.0 0.0 66.7 0.0 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 BA Steinly Bruce A. Biological Concepts: Structure
+Y
+N
+M4
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+1
+0
+0
+5
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1.90
+% 0.0 10.0 0.0 0.0 10.0 0.0 0.0 50.0 0.0 0.0 20.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 BD Steinly Bruce A. Biological Concepts: Structure
+Y
+N
+M7
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+1
+0
+0
+4
+0
+0
+3
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.36
+% 0.0 23.1 0.0 0.0 7.7 0.0 0.0 30.8 0.0 0.0 23.1 0.0 0.0 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 BF Steinly Bruce A. Biological Concepts: Structure
+Y
+N
+ME
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+6
+0
+0
+4
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.57
+% 0.0 14.3 0.0 0.0 42.9 0.0 0.0 28.6 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 BG Steinly Bruce A. Biological Concepts: Structure
+Y
+N
+M9
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+1
+0
+0
+4
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.40
+% 0.0 27.3 0.0 0.0 9.1 0.0 0.0 36.4 0.0 0.0 9.1 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 BH Steinly Bruce A. Biological Concepts: Structure
+Y
+N
+M0
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+2
+0
+0
+6
+0
+0
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.07
+% 0.0 14.3 0.0 0.0 14.3 0.0 0.0 42.9 0.0 0.0 21.4 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 BI Steinly Bruce A. Biological Concepts: Structure
+Y
+N
+N1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+2
+0
+0
+5
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1.80
+% 0.0 0.0 0.0 0.0 20.0 0.0 0.0 50.0 0.0 0.0 20.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,351 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Middletown Campus
+Page: 679 Sections of 10
+EDT 110R M A Foley Jeanne A. College Study Skill
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+7
+2
+0
+3
+0
+0
+3
+0
+0
+% 0.0 41.2 11.8 0.0 17.6 0.0 0.0 17.6 0.0 0.0
+EDT 110R M3A Rieger George T. College Study Skill
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+2
+0
+1
+2
+0
+1
+4
+0
+% 0.0 10.5 10.5 0.0 5.3 10.5 0.0 5.3 21.1 0.0
+EDT 110R MRA Rieger George T. College Study Skill
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+13
+3
+1
+0
+2
+1
+1
+0
+0
+% 0.0 56.5 13.0 4.3 0.0 8.7 4.3 4.3 0.0 0.0
+EDT 110R MTA Dille Mary L. College Study Skill
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+0
+0
+0
+1
+0
+4
+0
+1
+1
+% 5.6 0.0 0.0 0.0 5.6 0.0 22.2 0.0 5.6 5.6
+EDT 110R MUA Dille Mary L. College Study Skill
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+3
+1
+0
+1
+1
+0
+2
+0
+0
+% 0.0 17.6 5.9 0.0 5.9 5.9 0.0 11.8 0.0 0.0
+Course Total EDT 110R
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+25
+8
+1
+6
+5
+5
+7
+5
+1
+% 1.1 26.6 8.5 1.1 6.4 5.3 5.3 7.4 5.3 1.1
+EDT 182 M A Mysona Jennifer M. Physical Science
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+4
+1
+1
+5
+2
+0
+3
+0
+0
+% 0.0 21.1 5.3 5.3 26.3 10.5 0.0 15.8 0.0 0.0
+D
+D-
+1
+0
+5.9 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+1
+0
+4.3 0.0
+D
+D-
+2
+0
+11.1 0.0
+D
+D-
+0
+1
+0.0 5.9
+D
+D-
+4
+1
+4.3 1.1
+D
+D-
+1
+0
+5.3 0.0
+F
+W
+WP WF
+0
+1
+0
+0
+0.0 5.9 0.0 0.0
+F
+W
+WP WF
+4
+3
+0
+0
+21.1 15.8 0.0 0.0
+F
+W
+WP WF
+0
+1
+0
+0
+0.0 4.3 0.0 0.0
+F
+W
+8
+0
+44.4 0.0
+WP WF
+0
+0
+0.0 0.0
+F
+W
+WP WF
+4
+4
+0
+0
+23.5 23.5 0.0 0.0
+F
+W
+16
+9
+17.0 9.6
+WP WF
+0
+0
+0.0 0.0
+F
+W
+WP WF
+1
+1
+0
+0
+5.3 5.3 0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.21
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.04
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.50
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.18
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.01
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.45
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.80
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

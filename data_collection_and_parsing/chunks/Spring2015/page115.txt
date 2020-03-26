@@ -1,0 +1,305 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Oxford Campus
+Page: 111 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CHM 252 A Hartley Christopher S. Organic Chemistry For Chm Maj
+N
+N
+MC
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+2
+5
+7
+3
+9
+8
+2
+0
+1
+0
+4
+2
+0
+0
+0
+0
+0
+0
+0
+2.68
+% 1.8 20.0 3.6 9.1 12.7 5.5 16.4 14.5 3.6 0.0 1.8 0.0 7.3 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 252
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+2
+5
+7
+3
+9
+8
+2
+0
+1
+0
+4
+2
+0
+0
+0
+0
+0
+0
+0
+2.68
+% 1.8 20.0 3.6 9.1 12.7 5.5 16.4 14.5 3.6 0.0 1.8 0.0 7.3 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 252H A Hartley Christopher S. Organic Chemistry For Chm Maj
+N
+Y
+MC
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+10
+5
+2
+1
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 4.5 45.5 22.7 9.1 4.5 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 252H
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+10
+5
+2
+1
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 4.5 45.5 22.7 9.1 4.5 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 255 A Taylor Richard T. Organic Chemistry Lab Chm Maj
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+20
+2
+2
+11
+0
+0
+3
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.32
+% 0.0 48.8 4.9 4.9 26.8 0.0 0.0 7.3 0.0 0.0 7.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 255 B Taylor Richard T. Organic Chemistry Lab Chm Maj
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+1
+2
+7
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 55.6 3.7 7.4 25.9 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 255 D Taylor Richard T. Organic Chemistry Lab Chm Maj
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 0.0 58.3 0.0 0.0 41.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

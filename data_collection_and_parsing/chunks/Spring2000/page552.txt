@@ -1,0 +1,317 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 549 Sections of 10
+ZOO Zoology
+Miami Plan
+Honors
+Cross Listing
+ZOO 116 AA Pennock David G. Biological Concepts: Structure
+Y
+N
+A9
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+5
+0
+0
+3
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 15.4 0.0 0.0 38.5 0.0 0.0 23.1 0.0 0.0 15.4 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 AB Pennock David G. Biological Concepts: Structure
+Y
+N
+B1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+0
+0
+0
+8
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.10
+% 0.0 9.1 0.0 0.0 0.0 0.0 0.0 72.7 0.0 0.0 9.1 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 AD Pennock David G. Biological Concepts: Structure
+Y
+N
+B3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+1
+0
+0
+4
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.56
+% 0.0 30.0 0.0 0.0 10.0 0.0 0.0 40.0 0.0 0.0 0.0 0.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 AE Pennock David G. Biological Concepts: Structure
+Y
+N
+B4
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+3
+0
+0
+5
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.56
+% 0.0 10.0 0.0 0.0 30.0 0.0 0.0 50.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 AF Pennock David G. Biological Concepts: Structure
+Y
+N
+B5
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+3
+0
+0
+6
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.36
+% 0.0 8.3 0.0 0.0 25.0 0.0 0.0 50.0 0.0 0.0 8.3 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 AG Pennock David G. Biological Concepts: Structure
+Y
+N
+B6
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+3
+0
+0
+6
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.38
+% 0.0 15.4 0.0 0.0 23.1 0.0 0.0 46.2 0.0 0.0 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 116 AH Pennock David G. Biological Concepts: Structure
+Y
+N
+B7
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+3
+0
+0
+5
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.55
+% 0.0 18.2 0.0 0.0 27.3 0.0 0.0 45.5 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

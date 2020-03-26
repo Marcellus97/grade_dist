@@ -1,0 +1,303 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Oxford Campus
+Page: 115 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CHM 141H
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+4
+6
+5
+8
+0
+0
+0
+0
+0
+0
+1
+6
+0
+0
+0
+0
+0
+0
+0
+3.40
+% 0.0 36.2 8.5 12.8 10.6 17.0 0.0 0.0 0.0 0.0 0.0 0.0 2.1 12.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 141R A Crowder Michael W. College Chemistry
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+1
+0
+0
+6
+0
+0
+1
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.15
+% 0.0 18.8 0.0 0.0 6.3 0.0 0.0 37.5 0.0 0.0 6.3 0.0 12.5 18.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 141R B Crowder Michael W. College Chemistry
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+4
+0
+0
+4
+0
+0
+3
+0
+1
+5
+0
+0
+0
+0
+0
+0
+0
+2.21
+% 0.0 10.5 0.0 0.0 21.1 0.0 0.0 21.1 0.0 0.0 15.8 0.0 5.3 26.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 141R C Crowder Michael W. College Chemistry
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+3
+0
+0
+5
+0
+0
+5
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+2.00
+% 0.0 5.3 0.0 0.0 15.8 0.0 0.0 26.3 0.0 0.0 26.3 0.0 0.0 26.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 141R D Crowder Michael W. College Chemistry
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+1
+0
+0
+6
+0
+0
+1
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+2.22
+% 0.0 7.7 0.0 0.0 7.7 0.0 0.0 46.2 0.0 0.0 7.7 0.0 0.0 30.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 141R E Crowder Michael W. College Chemistry
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+2
+0
+0
+3
+0
+0
+4
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+1.54
+% 0.0 7.1 0.0 0.0 14.3 0.0 0.0 21.4 0.0 0.0 28.6 0.0 21.4 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 141R
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+11
+0
+0
+24
+0
+0
+14
+0
+6
+18
+0
+0
+0
+0
+0
+0
+0
+2.02
+% 0.0 9.9 0.0 0.0 13.6 0.0 0.0 29.6 0.0 0.0 17.3 0.0 7.4 22.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

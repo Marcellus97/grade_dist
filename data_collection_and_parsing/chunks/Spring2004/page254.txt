@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Oxford Campus
+Page: 251 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FIN 342 B Wines William A. Legal Environment Of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+2
+18
+11
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 0.0 0.0 2.7 5.4 48.6 29.7 8.1 5.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 342 C Herron Daniel J. Legal Environment Of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+6
+6
+19
+11
+14
+46
+5
+0
+12
+1
+6
+2
+7
+1
+0
+0
+0
+0
+0
+2.21
+% 0.7 2.1 4.3 4.3 13.6 7.9 10.0 32.9 3.6 0.0 8.6 0.7 4.3 1.4 5.0 0.7 0.0 0.0 0.0 0.0 0.0
+FIN 342 D Weil Rick L. Legal Environment Of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+10
+3
+17
+3
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 2.3 14.0 23.3 7.0 39.5 7.0 0.0 4.7 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 342 E Wines William A. Legal Environment Of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+1
+18
+9
+4
+7
+2
+3
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.52
+% 0.0 0.0 2.2 2.2 39.1 19.6 8.7 15.2 4.3 6.5 0.0 0.0 0.0 0.0 0.0 2.2 0.0 0.0 0.0 0.0 0.0
+FIN 342 F Haughey Daniel E. Legal Environment Of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+6
+25
+9
+4
+11
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 3.0 7.6 9.1 37.9 13.6 6.1 16.7 3.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 342 G Haughey Daniel E. Legal Environment Of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+11
+28
+4
+7
+5
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 7.6 6.1 16.7 42.4 6.1 10.6 7.6 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 342 H Miller Fred S. Legal Environment Of Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+6
+14
+6
+3
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 7.3 9.8 14.6 34.1 14.6 7.3 4.9 4.9 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

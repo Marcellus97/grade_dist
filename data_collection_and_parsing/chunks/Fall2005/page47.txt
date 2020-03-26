@@ -1,0 +1,303 @@
+testRun: 01/25/06 @ 12:34 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2005-06 Oxford Campus
+Page: 44 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ART 189
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+8
+6
+8
+3
+2
+2
+1
+1
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.06
+% 0.0 5.7 22.9 17.1 22.9 8.6 5.7 5.7 2.9 2.9 0.0 0.0 0.0 2.9 0.0 0.0 0.0 2.9 0.0 0.0 0.0
+ART 190E A Langan Jean L. Intro To Profession:Art Educ
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+21
+4
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 80.8 15.4 0.0 0.0
+Course Total ART 190E
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+21
+4
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 80.8 15.4 0.0 0.0
+ART 201 A Lindsey Julia A. Art And The Art Teacher
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+8
+1
+1
+1
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+1
+0
+0
+0
+0
+3.28
+% 0.0 40.0 32.0 4.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 12.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0
+Course Total ART 201
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+8
+1
+1
+1
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+1
+0
+0
+0
+0
+3.28
+% 0.0 40.0 32.0 4.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 12.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0
+ART 221 A McDonald Todd Drawing III
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+5
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 35.7 35.7 14.3 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ART 221 B Barger Brandon V. Drawing III
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+5
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 0.0 28.6 35.7 7.1 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

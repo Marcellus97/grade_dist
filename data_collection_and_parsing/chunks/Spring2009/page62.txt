@@ -1,0 +1,310 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Oxford Campus
+Page: 59 Sections of 10
+BOT Botany
+Miami Plan
+Honors
+Cross Listing
+BOT 131 A Huerta Alfredo J. Plants Humanity & Environment
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+2
+3
+2
+2
+3
+5
+1
+0
+1
+2
+1
+0
+0
+0
+0
+1
+0
+0
+2.37
+% 0.0 10.7 7.1 7.1 10.7 7.1 7.1 10.7 17.9 3.6 0.0 3.6 7.1 3.6 0.0 0.0 0.0 0.0 3.6 0.0 0.0
+BOT 131 B Huerta Alfredo J. Plants Humanity & Environment
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+5
+2
+1
+3
+4
+1
+0
+1
+0
+2
+0
+0
+0
+1
+0
+0
+0
+2.56
+% 0.0 3.8 7.7 11.5 19.2 7.7 3.8 11.5 15.4 3.8 0.0 3.8 0.0 7.7 0.0 0.0 0.0 3.8 0.0 0.0 0.0
+BOT 131 C Huerta Alfredo J. Plants Humanity & Environment
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+3
+6
+3
+3
+6
+3
+1
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.37
+% 0.0 0.0 3.4 10.3 20.7 10.3 10.3 20.7 10.3 3.4 0.0 6.9 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BOT 131 D Huerta Alfredo J. Plants Humanity & Environment
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+4
+4
+3
+5
+6
+0
+1
+2
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+2.51
+% 0.0 3.4 3.4 13.8 13.8 10.3 17.2 20.7 0.0 3.4 6.9 0.0 0.0 0.0 0.0 0.0 3.4 3.4 0.0 0.0 0.0
+BOT 131 E Huerta Alfredo J. Plants Humanity & Environment
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+5
+5
+5
+3
+3
+1
+1
+0
+1
+1
+0
+0
+0
+0
+3
+0
+0
+0
+2.57
+% 0.0 3.3 3.3 16.7 16.7 16.7 10.0 10.0 3.3 3.3 0.0 3.3 3.3 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0
+BOT 131 F Huerta Alfredo J. Plants Humanity & Environment
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+2
+9
+3
+6
+4
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.55
+% 0.0 3.3 6.7 6.7 30.0 10.0 20.0 13.3 3.3 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BOT 131 G Huerta Alfredo J. Plants Humanity & Environment
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+3
+9
+5
+1
+2
+0
+2
+1
+2
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.64
+% 3.4 0.0 10.3 31.0 17.2 3.4 6.9 0.0 6.9 3.4 6.9 0.0 6.9 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

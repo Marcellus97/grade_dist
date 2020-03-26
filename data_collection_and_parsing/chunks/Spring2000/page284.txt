@@ -1,0 +1,308 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 281 Sections of 10
+HST History
+Miami Plan
+Honors
+Cross Listing
+HST 111 A Clark Claudia Survey Of American History
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+15
+5
+6
+8
+2
+0
+1
+0
+0
+0
+0
+1
+1
+0
+1
+0
+4
+0
+0
+0
+3.34
+% 2.2 33.3 11.1 13.3 17.8 4.4 0.0 2.2 0.0 0.0 0.0 0.0 2.2 2.2 0.0 2.2 0.0 8.9 0.0 0.0 0.0
+HST 111 B Clark Claudia Survey Of American History
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+12
+10
+5
+5
+3
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3
+0
+0
+0
+3.57
+% 2.5 30.0 25.0 12.5 12.5 7.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.5 0.0 0.0 0.0 7.5 0.0 0.0 0.0
+Course Total HST 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+27
+15
+11
+13
+5
+0
+1
+0
+0
+0
+0
+1
+2
+0
+1
+0
+7
+0
+0
+0
+3.45
+% 2.4 31.8 17.6 12.9 15.3 5.9 0.0 1.2 0.0 0.0 0.0 0.0 1.2 2.4 0.0 1.2 0.0 8.2 0.0 0.0 0.0
+HST 112 AA Winkler Allan M. Survey Of American History
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+5
+2
+2
+2
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 5.3 26.3 26.3 10.5 10.5 10.5 0.0 0.0 0.0 0.0 0.0 0.0 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0
+HST 112 BA Winkler Allan M. Survey Of American History
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+5
+4
+4
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+5
+0
+0
+0
+3.18
+% 0.0 11.1 11.1 18.5 14.8 14.8 3.7 3.7 0.0 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 18.5 0.0 0.0 0.0
+HST 112 CA Winkler Allan M. Survey Of American History
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+5
+9
+3
+1
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 0.0 4.2 8.3 20.8 37.5 12.5 4.2 4.2 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 112 DA Winkler Allan M. Survey Of American History
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+5
+4
+8
+1
+0
+1
+0
+0
+0
+0
+0
+2
+0
+1
+0
+2
+0
+0
+0
+3.22
+% 0.0 17.2 17.2 13.8 27.6 3.4 0.0 3.4 0.0 0.0 0.0 0.0 0.0 6.9 0.0 3.4 0.0 6.9 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

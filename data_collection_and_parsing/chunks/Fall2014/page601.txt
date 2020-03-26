@@ -1,0 +1,297 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 597 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total SPA 223
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+12
+11
+10
+9
+10
+4
+3
+3
+0
+2
+0
+1
+6
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 1.4 16.7 15.3 13.9 12.5 13.9 5.6 4.2 4.2 0.0 2.8 0.0 1.4 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPA 225 A Hahn Albert C. Foundations of Neurology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+14
+3
+3
+4
+4
+1
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 2.4 19.5 34.1 7.3 7.3 9.8 9.8 2.4 0.0 0.0 0.0 0.0 0.0 7.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPA 225
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+14
+3
+3
+4
+4
+1
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 2.4 19.5 34.1 7.3 7.3 9.8 9.8 2.4 0.0 0.0 0.0 0.0 0.0 7.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPA 293 A Stewart Cheryl M. Soph Sem-Speech Path&Audiology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+39
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.5 0.0 0.0 0.0 97.5 0.0 0.0 0.0
+Course Total SPA 293
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+39
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.5 0.0 0.0 0.0 97.5 0.0 0.0 0.0
+SPA 316 A Kelly Laura J. Introduction to Audiology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+6
+11
+16
+11
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.11
+% 0.0 9.4 11.3 20.8 30.2 20.8 3.8 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPA 316
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+6
+11
+16
+11
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.11
+% 0.0 9.4 11.3 20.8 30.2 20.8 3.8 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

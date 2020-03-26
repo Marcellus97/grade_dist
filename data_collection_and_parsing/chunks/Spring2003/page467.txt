@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 464 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHS 378 B Harris Othello Sport And Social Status
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+1
+1
+2
+3
+4
+0
+0
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.26
+% 0.0 11.1 5.6 5.6 5.6 11.1 16.7 22.2 0.0 0.0 5.6 11.1 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 378
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+5
+4
+3
+7
+3
+6
+6
+0
+1
+2
+0
+0
+0
+3
+0
+1
+0
+0
+0
+2.56
+% 4.1 12.2 10.2 8.2 6.1 14.3 6.1 12.2 12.2 0.0 2.0 4.1 0.0 0.0 0.0 6.1 0.0 2.0 0.0 0.0 0.0
+PHS 381 A Walsh Mark S. Biodynamics/Human Performance
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+0
+0
+21
+0
+0
+13
+0
+0
+15
+0
+4
+1
+0
+0
+0
+0
+0
+0
+0
+2.39
+% 0.0 20.6 0.0 0.0 30.9 0.0 0.0 19.1 0.0 0.0 22.1 0.0 5.9 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 381
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+0
+0
+21
+0
+0
+13
+0
+0
+15
+0
+4
+1
+0
+0
+0
+0
+0
+0
+0
+2.39
+% 0.0 20.6 0.0 0.0 30.9 0.0 0.0 19.1 0.0 0.0 22.1 0.0 5.9 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 381L B Quelette Julie R. Biodynamics/Human Perform Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.98
+% 0.0 93.8 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 381L C Berglund Eric D. Biodynamics/Human Perform Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.64
+% 0.0 77.8 0.0 11.1 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0
+PHS 381L D Quelette Julie R. Biodynamics/Human Perform Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.96
+% 0.0 88.2 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

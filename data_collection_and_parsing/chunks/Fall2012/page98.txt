@@ -1,0 +1,306 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Oxford Campus
+Page: 94 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BOT 155 VB Hendy Justin M. Field Botany
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+9
+1
+1
+1
+2
+0
+1
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 4.2 16.7 37.5 4.2 4.2 4.2 8.3 0.0 4.2 0.0 0.0 0.0 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BOT 155 VC Peebles-Spencer Jessica R. Field Botany
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+4
+2
+3
+2
+1
+1
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 4.2 29.2 16.7 8.3 12.5 8.3 4.2 4.2 4.2 4.2 0.0 0.0 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BOT 155 VD Campbell Alicia C. Field Botany
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+6
+2
+2
+1
+4
+2
+0
+2
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+3.16
+% 16.0 24.0 8.0 8.0 4.0 16.0 8.0 0.0 8.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0
+BOT 155 VE Johnson Christina M. Field Botany
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+7
+5
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.83
+% 34.8 30.4 21.7 8.7 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BOT 155 VF Hoven Brian M. Field Botany
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+1
+6
+4
+2
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+2.90
+% 0.0 13.0 13.0 4.3 26.1 17.4 8.7 8.7 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0
+Course Total BOT 155
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+14
+31
+23
+10
+20
+11
+8
+7
+4
+1
+1
+0
+3
+7
+0
+0
+0
+3
+0
+0
+0
+3.23
+% 9.8 21.7 16.1 7.0 14.0 7.7 5.6 4.9 2.8 0.7 0.7 0.0 2.1 4.9 0.0 0.0 0.0 2.1 0.0 0.0 0.0
+BOT 171 A Stevens Martin Henry H. Ecology Of North America
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+10
+22
+30
+13
+6
+6
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 0.0 11.0 10.0 22.0 30.0 13.0 6.0 6.0 0.0 0.0 0.0 0.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

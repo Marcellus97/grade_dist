@@ -1,0 +1,306 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Middletown Campus
+Page: 604 Sections of 10
+BTE Business Technology
+Miami Plan
+Honors
+Cross Listing
+BTE 101 M A Squyres Louis L. Introduction To Accounting I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+4
+4
+2
+1
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 17.6 23.5 23.5 11.8 5.9 0.0 0.0 0.0 0.0 0.0 0.0 5.9 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 101 M B Squyres Louis L. Introduction To Accounting I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+0
+2
+3
+0
+0
+1
+2
+1
+1
+0
+1
+3
+2
+0
+0
+0
+0
+0
+0
+0
+2.31
+% 15.8 0.0 10.5 15.8 0.0 0.0 5.3 10.5 5.3 5.3 0.0 5.3 15.8 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+4
+6
+5
+1
+0
+1
+2
+1
+1
+0
+2
+5
+2
+0
+0
+0
+0
+0
+0
+0
+2.72
+% 16.7 11.1 16.7 13.9 2.8 0.0 2.8 5.6 2.8 2.8 0.0 5.6 13.9 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 103 M A Short Alan L. Introduction To Finance
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+2
+0
+3
+2
+0
+0
+3
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 7.7 7.7 15.4 0.0 23.1 15.4 0.0 0.0 23.1 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 103
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+2
+0
+3
+2
+0
+0
+3
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 7.7 7.7 15.4 0.0 23.1 15.4 0.0 0.0 23.1 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 105 M A Baim Susan A. Introduction To Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+4
+3
+0
+2
+0
+1
+1
+0
+0
+1
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 15.0 20.0 15.0 0.0 10.0 0.0 5.0 5.0 0.0 0.0 5.0 0.0 10.0 15.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 105 M C Baim Susan A. Introduction To Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+0
+2
+2
+1
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 15.4 30.8 0.0 15.4 15.4 7.7 0.0 0.0 0.0 0.0 7.7 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

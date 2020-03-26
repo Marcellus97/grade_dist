@@ -1,0 +1,124 @@
+testPHS Phy Edu, Hlth, & Sport Studies
+433
+PHY Physics
+476
+POL Political Science
+486
+POR Portuguese
+500
+PSY Psychology
+501
+REL Comparative Religion
+519
+RUS Russian
+524
+SOC Sociology
+526
+SPA Speech Pathology & Audiology
+533
+SPN Spanish
+540
+STA Statistics
+553
+THE Theatre
+558
+WCP Interdisciplinary Studies- Wcp
+567
+WMS Women'S Studies
+574
+ZOO Zoology
+576
+Middletown Campus
+593
+ACC Accountancy
+594
+ARC Architecture & Interior Design
+595
+ART Art
+596
+ATH Anthropology
+599
+BOT Botany
+601
+BTE Business Technology
+603
+BWS Black World Studies
+610
+CHM Chemistry & Biochemistry
+611
+CIT Comp Information Technology
+614
+CJS Criminal Justice Studies
+616
+COM Communication
+617
+CSA Computer Sci &Systems Analysis
+620
+EAS Engineering & App Science
+622
+ECO Economics
+623
+EDL Educational Leadership
+624
+EDP Educational Psychology
+625
+EDT Teacher Education
+627
+ENG English
+630
+ENT Engineering Technology
+638
+FRE French
+640
+FST Film Studies
+641
+FSW Family Studies And Social Work
+642
+GER German
+644
+GLG Geology
+645
+GTY Gerontology
+647
+HST History
+648
+IDS Interdisciplinary
+652
+JRN Journalism
+653
+MBI Microbiology
+654
+MGT Management
+656
+MKT Marketing
+657
+MTH Mathematics
+658
+MUS Music
+664
+NSG Nursing
+666
+PHL Philosophy
+669
+PHS Phy Edu, Hlth, & Sport Studies
+670
+PHY Physics
+676
+POL Political Science
+679
+PSY Psychology
+680
+REL Comparative Religion
+682
+SOC Sociology
+683
+SPN Spanish
+685
+STA Statistics
+687
+THE Theatre
+688
+WMS Women'S Studies
+689
+ZOO Zoology
+690

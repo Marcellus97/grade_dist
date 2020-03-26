@@ -1,0 +1,303 @@
+testRun: 09/27/12 @ 10:49 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2011-12 Oxford Campus
+Page: 50 Sections of 10
+EDP Educational Psychology
+Miami Plan
+Honors
+Cross Listing
+EDP 256 TB Southern William T. Psy/Learners With Exception
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+1
+1
+10
+2
+1
+2
+0
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+3.31
+% 0.0 44.4 2.8 2.8 27.8 5.6 2.8 5.6 0.0 0.0 0.0 0.0 2.8 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0
+Course Total EDP 256
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+1
+1
+10
+2
+1
+2
+0
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+3.31
+% 0.0 44.4 2.8 2.8 27.8 5.6 2.8 5.6 0.0 0.0 0.0 0.0 2.8 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0
+EDP 279 TA Dickey Michele D. Tech + Media Lit and Learning
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+27
+0
+1
+2
+0
+0
+1
+1
+0
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.64
+% 77.1 0.0 2.9 5.7 0.0 0.0 2.9 2.9 0.0 2.9 0.0 0.0 2.9 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 279 TB Dickey Michele D. Tech + Media Lit and Learning
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+22
+2
+0
+2
+1
+2
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.65
+% 71.0 6.5 0.0 6.5 3.2 6.5 0.0 3.2 0.0 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDP 279
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+49
+2
+1
+4
+1
+2
+1
+2
+0
+1
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.64
+% 74.2 3.0 1.5 6.1 1.5 3.0 1.5 3.0 0.0 1.5 0.0 0.0 3.0 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 478 TA Kelly-Elliott Molly Consult & Collab in Spec Ed
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+22
+2
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.87
+% 0.0 78.6 7.1 10.7 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 478 TB Kelly-Elliott Molly Consult & Collab in Spec Ed
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+18
+0
+1
+1
+0
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 4.2 75.0 0.0 4.2 4.2 0.0 0.0 4.2 4.2 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

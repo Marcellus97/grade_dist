@@ -1,0 +1,116 @@
+testCHM Chemistry & Biochemistry
+126
+CJS Criminal Justice Studies
+127
+COM Communication
+128
+ECO Economics
+129
+ENG English
+130
+ENT Engineering Technology
+133
+FSW Family Studies And Social Work
+135
+GLG Geology
+137
+HST History
+138
+ITS International Studies
+140
+KNH Kinesiology And Health
+141
+MBI Microbiology
+142
+MTH Mathematics
+143
+MUS Music
+145
+NSG Nursing
+146
+POL Political Science
+147
+PSY Psychology
+148
+SOC Sociology
+149
+SPN Spanish
+150
+STA Statistics
+151
+WGS Women,Gender&Sexuality Studies
+152
+Middletown Campus
+153
+ART Art
+154
+BIO Biology
+156
+BIS Integrative Studies
+157
+CHM Chemistry & Biochemistry
+158
+COM Communication
+160
+ENG English
+161
+ENT Engineering Technology
+163
+GLG Geology
+164
+HST History
+165
+MBI Microbiology
+167
+MTH Mathematics
+168
+PHY Physics
+170
+PSY Psychology
+172
+SOC Sociology
+173
+SPN Spanish
+174
+STA Statistics
+176
+WGS Women,Gender&Sexuality Studies
+177
+Voa - West Chester Campus
+178
+ECO Economics
+179
+EDL Educational Leadership
+180
+EDP Educational Psychology
+182
+EDT Teacher Education
+184
+ENG English
+186
+FIN Finance
+187
+HST History
+188
+ISA Information Systems& Analytics
+189
+MGT Management
+190
+MKT Marketing
+192
+MTH Mathematics
+193
+NSG Nursing
+194
+SPA Speech Pathology & Audiology
+195
+Luxembourg Campus
+196
+MKT Marketing
+197
+MUS Music
+198
+PSY Psychology
+199
+THE Theatre
+200

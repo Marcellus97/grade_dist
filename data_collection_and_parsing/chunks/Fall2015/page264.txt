@@ -1,0 +1,342 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 260 Sections of 10
+ENG 320 B Roley Brian A. Intermed Creatve Wrtg:Fiction
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+13
+4
+0
+2
+0
+1
+2
+0
+% 0.0 56.5 17.4 0.0 8.7 0.0 4.3 8.7 0.0
+Course Total ENG 320
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+0
+26
+5
+4
+2
+2
+1
+2
+1
+% 0.0 56.5 10.9 8.7 4.3 4.3 2.2 4.3 2.2
+ENG 321 A Bates Joseph R. The Literary Marketplace
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+10
+8
+3
+1
+1
+2
+0
+0
+% 0.0 38.5 30.8 11.5 3.8 3.8 7.7 0.0 0.0
+Course Total ENG 321
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+0
+10
+8
+3
+1
+1
+2
+0
+0
+% 0.0 38.5 30.8 11.5 3.8 3.8 7.7 0.0 0.0
+ENG 328 A Klestinec Cynthia Renaissance:Nondrama Lit 16thC
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+3
+2
+1
+0
+1
+0
+0
+0
+% 0.0 30.0 20.0 10.0 0.0 10.0 0.0 0.0 0.0
+Course Total ENG 328
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+0
+3
+2
+1
+0
+1
+0
+0
+0
+% 0.0 30.0 20.0 10.0 0.0 10.0 0.0 0.0 0.0
+ENG 330 A Wagner Catherine A. Intermed Creat Writing: Poetry
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+16
+5
+0
+0
+0
+0
+0
+0
+% 4.5 72.7 22.7 0.0 0.0 0.0 0.0 0.0 0.0
+D+ D
+0
+0
+0.0 0.0
+D+ D
+1
+0
+2.2 0.0
+D+ D
+0
+0
+0.0 0.0
+D+ D
+0
+0
+0.0 0.0
+D+ D
+1
+0
+10.0 0.0
+D+ D
+1
+0
+10.0 0.0
+D+ D
+0
+0
+0.0 0.0
+D-
+F
+0
+0
+0.0 0.0
+D-
+F
+0
+0
+0.0 0.0
+D-
+F
+0
+0
+0.0 0.0
+D-
+F
+0
+0
+0.0 0.0
+D-
+F
+1
+0
+10.0 0.0
+D-
+F
+1
+0
+10.0 0.0
+D-
+F
+0
+0
+0.0 0.0
+W
+WP WF
+1
+0
+0
+4.3 0.0 0.0
+W
+WP WF
+2
+0
+0
+4.3 0.0 0.0
+W
+WP WF
+1
+0
+0
+3.8 0.0 0.0
+W
+WP WF
+1
+0
+0
+3.8 0.0 0.0
+W
+WP WF
+1
+0
+0
+10.0 0.0 0.0
+W
+WP WF
+1
+0
+0
+10.0 0.0 0.0
+W
+WP WF
+0
+0
+0
+0.0 0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.60
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.55
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.59
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.59
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.04
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.04
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.93
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

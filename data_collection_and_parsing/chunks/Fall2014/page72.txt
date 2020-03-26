@@ -1,0 +1,316 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 68 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BIO 115 AB Gorchov David L. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Z2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+7
+0
+0
+4
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 0.0 13.3 0.0 0.0 46.7 0.0 0.0 26.7 0.0 0.0 6.7 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 115 AC Gorchov David L. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Z3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+6
+0
+0
+6
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 17.6 0.0 0.0 35.3 0.0 0.0 35.3 0.0 0.0 5.9 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 115 AD Gorchov David L. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Z4
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+0
+6
+0
+0
+5
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+2.78
+% 0.0 25.0 0.0 0.0 30.0 0.0 0.0 25.0 0.0 0.0 10.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0
+BIO 115 AE Gorchov David L. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Z5
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+3
+0
+0
+9
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.35
+% 0.0 17.6 0.0 0.0 17.6 0.0 0.0 52.9 0.0 0.0 5.9 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 115 AF Gorchov David L. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Z6
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+4
+0
+0
+8
+0
+0
+4
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.00
+% 0.0 5.6 0.0 0.0 22.2 0.0 0.0 44.4 0.0 0.0 22.2 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 115 AG Gorchov David L. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Z0
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+5
+0
+0
+9
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.55
+% 0.0 20.0 0.0 0.0 25.0 0.0 0.0 45.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 115 AH Gorchov David L. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Z8
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+10
+0
+0
+3
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.44
+% 0.0 5.6 0.0 0.0 55.6 0.0 0.0 16.7 0.0 0.0 22.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

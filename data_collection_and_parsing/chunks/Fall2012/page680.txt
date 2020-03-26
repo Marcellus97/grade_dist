@@ -1,0 +1,338 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Middletown Campus
+Page: 676 Sections of 10
+CSE Comp Sci &Software Engineering
+CSE 148 M A Werner Laurena A. Business Computing
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+1
+0
+1
+2
+0
+1
+0
+2
+0
+% 0.0 9.1 0.0 9.1 18.2 0.0 9.1 0.0 18.2 0.0
+Course Total CSE 148
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+1
+0
+1
+2
+0
+1
+0
+2
+0
+% 0.0 9.1 0.0 9.1 18.2 0.0 9.1 0.0 18.2 0.0
+CSE 151 M A Harriman Jay P. Computers, Comp Sci & Society
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+4
+0
+0
+3
+1
+1
+1
+0
+0
+% 0.0 40.0 0.0 0.0 30.0 10.0 10.0 10.0 0.0 0.0
+CSE 151 M B Haake Mark R. Computers, Comp Sci & Society
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+4
+2
+1
+2
+0
+2
+1
+0
+% 0.0 10.0 20.0 10.0 5.0 10.0 0.0 10.0 5.0 0.0
+CSE 151 M C Evans Donna M. Computers, Comp Sci & Society
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+6
+1
+0
+4
+0
+0
+1
+0
+0
+% 0.0 31.6 5.3 0.0 21.1 0.0 0.0 5.3 0.0 0.0
+CSE 151 M D Harriman Jay P. Computers, Comp Sci & Society
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+6
+1
+0
+4
+2
+2
+1
+0
+1
+% 0.0 30.0 5.0 0.0 20.0 10.0 10.0 5.0 0.0 5.0
+Course Total CSE 151
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+18
+6
+2
+12
+5
+3
+5
+1
+1
+% 0.0 26.1 8.7 2.9 17.4 7.2 4.3 7.2 1.4 1.4
+D
+D-
+F
+W
+WP WF
+2
+0
+1
+1
+0
+0
+18.2 0.0 9.1 9.1 0.0 0.0
+D
+D-
+F
+W
+WP WF
+2
+0
+1
+1
+0
+0
+18.2 0.0 9.1 9.1 0.0 0.0
+D
+D-
+F
+W
+WP WF
+0
+0
+0
+0
+0
+0
+0.0 0.0 0.0 0.0 0.0 0.0
+D
+D-
+F
+W
+WP WF
+0
+2
+3
+1
+0
+0
+0.0 10.0 15.0 5.0 0.0 0.0
+D
+D-
+F
+W
+WP WF
+0
+0
+2
+5
+0
+0
+0.0 0.0 10.5 26.3 0.0 0.0
+D
+D-
+F
+W
+WP WF
+1
+0
+1
+1
+0
+0
+5.0 0.0 5.0 5.0 0.0 0.0
+D
+D-
+F
+W
+WP WF
+1
+2
+6
+7
+0
+0
+1.4 2.9 8.7 10.1 0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.10
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.10
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.20
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.36
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.98
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.84
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.78
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

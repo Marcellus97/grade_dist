@@ -1,0 +1,301 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Hamilton Campus
+Page: 756 Sections of 10
+BIS Integrative Studies
+Miami Plan
+Honors
+Cross Listing
+BIS 201 H A Drewes Sandra Intro to Integrative Studies
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+1
+4
+1
+1
+0
+0
+0
+0
+0
+5
+1
+0
+0
+0
+0
+0
+0
+0
+2.34
+% 0.0 16.7 11.1 5.6 22.2 5.6 5.6 0.0 0.0 0.0 0.0 0.0 27.8 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIS 201 H C Yamashiro Jennifer P. Intro to Integrative Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+3
+4
+1
+2
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 0.0 15.0 20.0 15.0 20.0 5.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 15.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BIS 201
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+6
+4
+8
+2
+3
+0
+0
+0
+0
+0
+5
+4
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 0.0 15.8 15.8 10.5 21.1 5.3 7.9 0.0 0.0 0.0 0.0 0.0 13.2 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIS 301 H A Kinghorn Janice R. Integrative Studies Seminar II
+N
+N
+0R
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+4
+1
+4
+1
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.82
+% 0.0 10.5 10.5 10.5 21.1 5.3 21.1 5.3 0.0 0.0 0.0 0.0 5.3 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BIS 301
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+4
+1
+4
+1
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.82
+% 0.0 10.5 10.5 10.5 21.1 5.3 21.1 5.3 0.0 0.0 0.0 0.0 5.3 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIS 401 H A Miller Corinne L. Senior Integrative Seminar
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+2
+4
+1
+1
+2
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 0.0 21.1 10.5 10.5 21.1 5.3 5.3 10.5 10.5 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BIS 401
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+2
+4
+1
+1
+2
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 0.0 21.1 10.5 10.5 21.1 5.3 5.3 10.5 10.5 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

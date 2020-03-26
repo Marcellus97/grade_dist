@@ -1,0 +1,303 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 143 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CPE 416 A Saul Justin M. Biochemical Engineering
+N
+N
+4S
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+4
+1
+0
+0
+2
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 0.0 40.0 10.0 0.0 0.0 20.0 20.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CPE 416
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+4
+1
+0
+0
+2
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 0.0 40.0 10.0 0.0 0.0 20.0 20.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CPE 418 A Yousefi Moshirabad Azizeh Biological Transport Phenomena
+N
+N
+OA
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+4
+5
+2
+2
+0
+3
+2
+1
+0
+0
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 25.8 12.9 16.1 6.5 6.5 0.0 9.7 6.5 3.2 0.0 0.0 6.5 3.2 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CPE 418
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+4
+5
+2
+2
+0
+3
+2
+1
+0
+0
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 25.8 12.9 16.1 6.5 6.5 0.0 9.7 6.5 3.2 0.0 0.0 6.5 3.2 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CPE 421 A Saul Justin M. Bioethics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+3
+4
+1
+1
+2
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 0.0 48.1 11.1 14.8 3.7 3.7 7.4 0.0 3.7 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CPE 421
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+3
+4
+1
+1
+2
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 0.0 48.1 11.1 14.8 3.7 3.7 7.4 0.0 3.7 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CPE 423 A Sparks Jessica L. Biomechanics
+N
+N
+NB
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+3
+3
+3
+5
+4
+1
+0
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 18.5 11.1 11.1 11.1 18.5 14.8 3.7 0.0 3.7 0.0 3.7 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

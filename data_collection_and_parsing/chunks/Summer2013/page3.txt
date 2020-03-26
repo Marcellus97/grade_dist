@@ -1,0 +1,10 @@
+testSTA Statistics
+202
+Luxembourg Campus
+203
+BUS Business Analysis
+204
+MUS Music
+205
+PSY Psychology
+206

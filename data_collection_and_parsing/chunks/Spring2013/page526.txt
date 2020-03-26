@@ -1,0 +1,298 @@
+testRun: 07/08/13 @ 16:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2012-13 Oxford Campus
+Page: 522 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total PHY 292
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+1
+6
+1
+2
+4
+1
+0
+1
+0
+1
+1
+0
+0
+1
+0
+0
+0
+0
+2.70
+% 0.0 20.8 0.0 4.2 25.0 4.2 8.3 16.7 4.2 0.0 4.2 0.0 4.2 4.2 0.0 0.0 4.2 0.0 0.0 0.0 0.0
+PHY 294 A Pechan Michael J. Lab-Electronic Instrumentation
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+1
+2
+1
+0
+0
+0
+0
+0
+1
+1
+0
+0
+1
+0
+0
+0
+0
+2.71
+% 0.0 10.0 10.0 10.0 10.0 20.0 10.0 0.0 0.0 0.0 0.0 0.0 10.0 10.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0
+Course Total PHY 294
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+1
+2
+1
+0
+0
+0
+0
+0
+1
+1
+0
+0
+1
+0
+0
+0
+0
+2.71
+% 0.0 10.0 10.0 10.0 10.0 20.0 10.0 0.0 0.0 0.0 0.0 0.0 10.0 10.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0
+PHY 311 A DeVries Paul L. Contemporary Astronomy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+3
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.32
+% 0.0 7.7 46.2 23.1 0.0 7.7 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHY 311
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+3
+0
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.32
+% 0.0 7.7 46.2 23.1 0.0 7.7 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 500 A Bali Samir Physics Seminar
+N
+N
+4Z
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+19
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+Course Total PHY 500
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+19
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

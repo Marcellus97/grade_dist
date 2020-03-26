@@ -1,0 +1,30 @@
+testKNH Kinesiology And Health
+219
+MBI Microbiology
+220
+MKT Marketing
+222
+MTH Mathematics
+223
+MUS Music
+226
+NSG Nursing
+227
+POL Political Science
+228
+PSY Psychology
+229
+REL Religion, Comparative
+230
+SOC Sociology
+231
+SPN Spanish
+232
+STA Statistics
+234
+THE Theatre
+235
+WMS Women'S Studies
+236
+ZOO Zoology
+237

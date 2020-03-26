@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 28 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ARC 411
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+0
+3
+1
+0
+1
+0
+0
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+2.62
+% 0.0 23.1 15.4 0.0 23.1 7.7 0.0 7.7 0.0 0.0 7.7 0.0 7.7 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0
+ARC 414 A Jacks Bennett M. Environmntl Control Systems II
+N
+N
+D6
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+6
+4
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 5.6 16.7 33.3 22.2 11.1 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ARC 414
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+6
+4
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 5.6 16.7 33.3 22.2 11.1 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ARC 418 A Elliott J. E. Construction Methods
+N
+N
+D7
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+5
+16
+7
+5
+1
+5
+0
+4
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.55
+% 0.0 5.8 5.8 9.6 30.8 13.5 9.6 1.9 9.6 0.0 7.7 0.0 5.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ARC 418
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+5
+16
+7
+5
+1
+5
+0
+4
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.55
+% 0.0 5.8 5.8 9.6 30.8 13.5 9.6 1.9 9.6 0.0 7.7 0.0 5.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ARC 419 A Butler Sara L. Materials Of Interior Design
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+2
+8
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.07
+% 0.0 14.3 19.0 9.5 38.1 9.5 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0
+Course Total ARC 419
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+2
+8
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.07
+% 0.0 14.3 19.0 9.5 38.1 9.5 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

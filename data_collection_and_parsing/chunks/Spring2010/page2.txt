@@ -1,0 +1,124 @@
+testHBW Hebrew
+322
+HIN Hindi
+323
+HON Honors
+324
+HST History
+335
+IDS Interdisciplinary
+353
+IES Environmental Sciences
+355
+IMS Interactive Media Studies
+357
+ITL Italian
+362
+ITS International Studies
+365
+JPN Japanese
+370
+JRN Journalism
+372
+KNH Kinesiology And Health
+379
+LAS Latin American Studies
+419
+LAT Latin Language & Literature
+422
+MBI Microbiology
+423
+MGT Management
+428
+MIS Management Information Systems
+439
+MKT Marketing
+445
+MME Manufact & Mechan Engineering
+455
+MTH Mathematics
+464
+MUS Music
+479
+NSC Naval Science
+495
+PCE Paper & Chemical Engineering
+498
+PHL Philosophy
+503
+PHY Physics
+508
+POL Political Science
+519
+POR Portuguese
+533
+PSY Psychology
+534
+REL Religion, Comparative
+551
+RUS Russian
+557
+SOC Sociology
+559
+SPA Speech Pathology & Audiology
+567
+SPN Spanish
+575
+STA Statistics
+587
+THE Theatre
+593
+WMS Women'S Studies
+600
+WST Western Program
+604
+ZOO Zoology
+605
+Middletown Campus
+622
+ACC Accountancy
+623
+ART Art
+624
+ATH Anthropology
+628
+BIS Integrative Studies
+630
+BOT Botany
+632
+BTE Business Technology
+634
+BWS Black World Studies
+640
+CHM Chemistry & Biochemistry
+641
+CIT Comp Information Technology
+644
+CJS Criminal Justice Studies
+647
+CLS Classics
+648
+COM Communication
+649
+CSA Computer Sci &Systems Analysis
+653
+DSC Decision Sciences
+655
+ECO Economics
+656
+EDL Educational Leadership
+657
+EDP Educational Psychology
+659
+EDT Teacher Education
+661
+ENG English
+664
+ENT Engineering Technology
+674
+FRE French
+676
+FSW Family Studies And Social Work
+677
+GEO Geography
+679

@@ -1,0 +1,306 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Oxford Campus
+Page: 375 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MKT 291 I Gifford John B. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+5
+15
+3
+0
+2
+1
+0
+0
+0
+0
+7
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 0.0 7.5 10.0 12.5 37.5 7.5 0.0 5.0 2.5 0.0 0.0 0.0 0.0 17.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 J Gifford John B. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+0
+9
+3
+4
+6
+2
+0
+0
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.63
+% 0.0 11.1 8.3 0.0 25.0 8.3 11.1 16.7 5.6 0.0 0.0 0.0 5.6 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 K Koons Helen J. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+7
+10
+12
+3
+0
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 7.9 18.4 26.3 31.6 7.9 0.0 5.3 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291 L Brandabur Joseph P. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+12
+15
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 0.0 10.8 8.1 32.4 40.5 2.7 0.0 2.7 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 291
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+37
+63
+74
+146 43
+22
+22
+9
+4
+1
+1
+2
+17
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 0.0 8.4 14.3 16.8 33.1 9.8 5.0 5.0 2.0 0.9 0.2 0.2 0.5 3.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291H A Taylor Janice E. Principles Of Marketing-Honors
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+5
+3
+11
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 0.0 28.6 17.9 10.7 39.3 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 291H B Taylor Janice E. Principles Of Marketing-Honors
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+4
+7
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 0.0 25.9 14.8 25.9 33.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

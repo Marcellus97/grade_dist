@@ -1,0 +1,304 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 365 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ISA 365 A Cramer Susan K. Statistical Quality Control
+N
+N
+J9
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+5
+4
+1
+2
+0
+0
+1
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 0.0 8.3 8.3 8.3 20.8 16.7 4.2 8.3 0.0 0.0 4.2 0.0 0.0 20.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ISA 365
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+5
+4
+1
+2
+0
+0
+1
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 0.0 8.3 8.3 8.3 20.8 16.7 4.2 8.3 0.0 0.0 4.2 0.0 0.0 20.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 387 A Lee Young H. Designing Business Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+4
+12
+6
+0
+3
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 2.9 17.6 11.8 35.3 17.6 0.0 8.8 0.0 0.0 2.9 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 387 B Lee Young H. Designing Business Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+2
+11
+8
+3
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 8.6 14.3 5.7 31.4 22.9 8.6 8.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ISA 387
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+11
+6
+23
+14
+3
+6
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 5.8 15.9 8.7 33.3 20.3 4.3 8.7 0.0 0.0 1.4 0.0 0.0 1.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 404 A Rajkumar T. M. Bus Intell & Knwldg Mgmt
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+5
+7
+3
+0
+4
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 0.0 22.7 31.8 13.6 0.0 18.2 0.0 0.0 0.0 0.0 0.0 0.0 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 404 B Rajkumar T. M. Bus Intell & Knwldg Mgmt
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3
+5
+2
+1
+1
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 0.0 0.0 20.0 33.3 13.3 6.7 6.7 0.0 0.0 0.0 0.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,124 @@
+testPCE Paper & Chemical Engineering
+434
+PHL Philosophy
+436
+PHS Phy Edu, Hlth, & Sport Studies
+441
+PHY Physics
+477
+POL Political Science
+488
+POR Portuguese
+502
+PSY Psychology
+503
+REL Comparative Religion
+518
+RUS Russian
+524
+SOC Sociology
+526
+SPA Speech Pathology & Audiology
+533
+SPN Spanish
+542
+STA Statistics
+558
+THE Theatre
+563
+WCP Interdisciplinary Studies- Wcp
+570
+WMS Women'S Studies
+579
+ZOO Zoology
+582
+Middletown Campus
+600
+ACC Accountancy
+601
+AMS American Studies
+602
+ART Art
+603
+ATH Anthropology
+606
+BOT Botany
+608
+BTE Business Technology
+610
+BWS Black World Studies
+616
+CHM Chemistry & Biochemistry
+617
+CIT Comp Information Technology
+621
+CJS Criminal Justice Studies
+623
+CLS Classics
+624
+COM Communication
+625
+CSA Computer Sci &Systems Analysis
+628
+DSC Decision Sciences
+630
+ECO Economics
+631
+EDL Educational Leadership
+632
+EDP Educational Psychology
+634
+EDT Teacher Education
+636
+ENG English
+639
+ENT Engineering Technology
+647
+FRE French
+649
+FST Film Studies
+650
+FSW Family Studies And Social Work
+651
+GEO Geography
+653
+GER German
+654
+GLG Geology
+655
+HST History
+657
+IDS Interdisciplinary
+661
+ITL Italian
+662
+MBI Microbiology
+663
+MGT Management
+664
+MKT Marketing
+665
+MTH Mathematics
+666
+MUS Music
+672
+NSG Nursing
+674
+PHL Philosophy
+676
+PHS Phy Edu, Hlth, & Sport Studies
+677
+PHY Physics
+680
+POL Political Science
+683
+PSY Psychology
+684
+REL Comparative Religion
+686
+SOC Sociology
+687
+SPN Spanish
+689
+STA Statistics
+691

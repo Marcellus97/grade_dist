@@ -1,0 +1,91 @@
+testRun: 01/15/14 @ 15:10 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Term, 2012-13 Oxford Campus
+Page: 75 Sections of 10
+MBI Microbiology
+Miami Plan
+Honors
+Cross Listing
+MBI 111 UA Carlin Joseph M. Microorganisms & Human Disease
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+2
+4
+8
+0
+0
+5
+3
+0
+1
+0
+1
+0
+0
+0
+0
+2
+1
+0
+0
+2.86
+% 2.9 17.6 5.9 11.8 23.5 0.0 0.0 14.7 8.8 0.0 2.9 0.0 2.9 0.0 0.0 0.0 0.0 5.9 2.9 0.0 0.0
+Microbiology Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+6
+2
+4
+8
+0
+0
+5
+3
+0
+1
+0
+1
+0
+0
+0
+0
+2
+1
+0
+0
+2.86
+% 2.9 17.6 5.9 11.8 23.5 0.0 0.0 14.7 8.8 0.0 2.9 0.0 2.9 0.0 0.0 0.0 0.0 5.9 2.9 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

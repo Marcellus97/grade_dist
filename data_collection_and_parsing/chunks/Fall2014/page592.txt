@@ -1,0 +1,309 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 588 Sections of 10
+SOC Sociology
+Miami Plan
+Honors
+Cross Listing
+SOC 153 A Harris Othello Sociology in a Global Context
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+9
+8
+6
+5
+4
+2
+3
+1
+1
+0
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 8.5 19.1 17.0 12.8 10.6 8.5 4.3 6.4 2.1 2.1 0.0 4.3 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 153 B Harris Othello Sociology in a Global Context
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+6
+4
+5
+2
+3
+3
+3
+1
+2
+1
+4
+3
+0
+0
+0
+0
+0
+0
+0
+2.55
+% 2.3 11.6 14.0 9.3 11.6 4.7 7.0 7.0 7.0 2.3 4.7 2.3 9.3 7.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 153 C Bulanda Ronald E. Sociology in a Global Context
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+12
+9
+4
+5
+6
+3
+3
+3
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 6.0 24.0 18.0 8.0 10.0 12.0 6.0 6.0 6.0 0.0 2.0 0.0 2.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 153 D Bulanda Ronald E. Sociology in a Global Context
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+14
+4
+4
+6
+2
+2
+6
+0
+2
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 10.2 28.6 8.2 8.2 12.2 4.1 4.1 12.2 0.0 4.1 2.0 0.0 2.0 4.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 153 E Nelson Steven M. Sociology in a Global Context
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+7
+2
+4
+7
+1
+3
+1
+1
+1
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+2.96
+% 0.0 23.1 17.9 5.1 10.3 17.9 2.6 7.7 2.6 2.6 2.6 2.6 2.6 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0
+SOC 153 F Nelson Steven M. Sociology in a Global Context
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+16
+6
+14
+3
+3
+3
+0
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 12.7 29.1 10.9 25.5 5.5 5.5 5.5 0.0 0.0 1.8 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SOC 153 G Nelson Steven M. Sociology in a Global Context
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+7
+5
+8
+9
+5
+4
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 19.6 13.7 9.8 15.7 17.6 9.8 7.8 2.0 2.0 0.0 0.0 2.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

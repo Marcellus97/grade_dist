@@ -1,0 +1,334 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Hamilton Campus
+Page: 636 Sections of 10
+Course Total BIO 161
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+12
+9
+7
+7
+10
+12
+10
+4
+3
+3
+4
+7
+% 12.1 9.1 7.1 7.1 10.1 12.1 10.1 4.0 3.0 3.0 4.0 7.1
+BIO 171 H A Broomall Kathleen Human Anatomy And Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+1
+1
+1
+0
+3
+1
+1
+1
+2
+3
+0
+1
+% 4.8 4.8 4.8 0.0 14.3 4.8 4.8 4.8 9.5 14.3 0.0 4.8
+BIO 171 H B Broomall Kathleen Human Anatomy And Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+3
+1
+3
+1
+3
+2
+0
+1
+0
+2
+1
+1
+% 14.3 4.8 14.3 4.8 14.3 9.5 0.0 4.8 0.0 9.5 4.8 4.8
+BIO 171 H C Broomall Kathleen Human Anatomy And Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+2
+1
+3
+0
+2
+0
+0
+1
+1
+2
+1
+1
+% 9.5 4.8 14.3 0.0 9.5 0.0 0.0 4.8 4.8 9.5 4.8 4.8
+BIO 171 H D Broomall Kathleen Human Anatomy And Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+2
+0
+0
+0
+1
+0
+0
+1
+2
+1
+0
+1
+% 14.3 0.0 0.0 0.0 7.1 0.0 0.0 7.1 14.3 7.1 0.0 7.1
+BIO 171 H E Aebig Trudy Human Anatomy And Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+2
+3
+0
+1
+6
+0
+0
+6
+1
+1
+2
+0
+% 8.7 13.0 0.0 4.3 26.1 0.0 0.0 26.1 4.3 4.3 8.7 0.0
+BIO 171 H F Aebig Trudy Human Anatomy And Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+2
+5
+1
+0
+3
+0
+1
+3
+0
+1
+3
+0
+% 8.7 21.7 4.3 0.0 13.0 0.0 4.3 13.0 0.0 4.3 13.0 0.0
+F
+W
+WP WF
+9
+2
+0
+0
+9.1 2.0 0.0 0.0
+F
+W
+WP WF
+3
+3
+0
+0
+14.3 14.3 0.0 0.0
+F
+W
+WP WF
+2
+1
+0
+0
+9.5 4.8 0.0 0.0
+F
+W
+WP WF
+4
+3
+0
+0
+19.0 14.3 0.0 0.0
+F
+W
+WP WF
+3
+3
+0
+0
+21.4 21.4 0.0 0.0
+F
+W
+WP WF
+0
+1
+0
+0
+0.0 4.3 0.0 0.0
+F
+W
+WP WF
+2
+2
+0
+0
+8.7 8.7 0.0 0.0
+Miami Plan
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.52
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.98
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.56
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.06
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.67
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.65
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.54
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

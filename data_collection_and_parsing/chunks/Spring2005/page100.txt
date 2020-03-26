@@ -1,0 +1,345 @@
+testRun: 07/07/05 @ 10:09 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2004-05 Oxford Campus
+Page: 97 Sections of 10
+COM 415 A Kleiman Howard Prac In Television Journalism
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+4
+3
+0
+2
+0
+0
+1
+0
+% 0.0 40.0 30.0 0.0 20.0 0.0 0.0 10.0 0.0
+Course Total COM 415
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+4
+3
+0
+2
+0
+0
+1
+0
+% 0.0 40.0 30.0 0.0 20.0 0.0 0.0 10.0 0.0
+COM 417 A Fetzer Ronald C. Methods/Teaching Speech Comm
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+7
+5
+5
+5
+1
+2
+0
+0
+0
+% 26.9 19.2 19.2 19.2 3.8 7.7 0.0 0.0 0.0
+Course Total COM 417
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+7
+5
+5
+5
+1
+2
+0
+0
+0
+% 26.9 19.2 19.2 19.2 3.8 7.7 0.0 0.0 0.0
+COM 431 A Obilade Anthony O. Persuasion Theory & Research
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+12
+6
+1
+5
+0
+0
+0
+0
+% 3.8 46.2 23.1 3.8 19.2 0.0 0.0 0.0 0.0
+COM 431 B Frymier Ann B. Persuasion Theory & Research
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+1
+0
+4
+2
+0
+0
+0
+0
+% 0.0 10.0 0.0 40.0 20.0 0.0 0.0 0.0 0.0
+Course Total COM 431
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+13
+6
+5
+7
+0
+0
+0
+0
+% 2.8 36.1 16.7 13.9 19.4 0.0 0.0 0.0 0.0
+D+ D
+D-
+0
+0
+0
+0.0 0.0 0.0
+D+ D
+D-
+0
+0
+0
+0.0 0.0 0.0
+D+ D
+D-
+0
+0
+0
+0.0 0.0 0.0
+D+ D
+D-
+0
+0
+0
+0.0 0.0 0.0
+D+ D
+D-
+0
+1
+0
+0.0 3.8 0.0
+D+ D
+D-
+1
+1
+0
+10.0 10.0 0.0
+D+ D
+D-
+1
+2
+0
+2.8 5.6 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+1
+0
+10.0 0.0
+F
+W
+1
+0
+2.8 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+1
+0
+3.8 0.0
+I
+X
+1
+0
+3.8 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.51
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.51
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.66
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.66
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.60
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.55
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.31
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

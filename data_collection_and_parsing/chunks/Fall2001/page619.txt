@@ -1,0 +1,306 @@
+testRun: 06/30/04 @ 15:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2001-02 Middletown Campus
+Page: 616 Sections of 10
+CSA Computer Sci &Systems Analysis
+Miami Plan
+Honors
+Cross Listing
+CSA 101I MZA Hines Warren S. Computing Skill:Using Internet
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+14
+4
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 70.0 20.0 0.0 0.0
+Course Total CSA 101I
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+14
+4
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 70.0 20.0 0.0 0.0
+CSA 101O MYA Edwards Barbara B. Computing Skills:Get Started
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+8
+4
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 25.0 0.0 0.0 0.0 50.0 25.0 0.0 0.0
+Course Total CSA 101O
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+8
+4
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 25.0 0.0 0.0 0.0 50.0 25.0 0.0 0.0
+CSA 151 M A Wilson Marilyn R. Computers,Compter Sci & Socity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+11
+4
+1
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+3.13
+% 47.8 17.4 4.3 0.0 8.7 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 17.4 0.0 0.0 0.0 0.0 0.0
+CSA 151 M B Wilson Marilyn R. Computers,Compter Sci & Socity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+6
+1
+1
+2
+0
+0
+0
+0
+0
+1
+0
+0
+1
+1
+2
+0
+0
+0
+0
+0
+3.36
+% 37.5 25.0 4.2 4.2 8.3 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 4.2 4.2 8.3 0.0 0.0 0.0 0.0 0.0
+CSA 151 M C Donohue Catherine W. Computers,Compter Sci & Socity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+6
+4
+1
+2
+1
+0
+0
+2
+2
+0
+1
+1
+1
+0
+0
+0
+0
+0
+2.60
+% 0.0 8.0 8.0 24.0 16.0 4.0 8.0 4.0 0.0 0.0 8.0 8.0 0.0 4.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

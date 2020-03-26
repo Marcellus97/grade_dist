@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Oxford Campus
+Page: 489 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+REL 101 BA Wilson Elizabeth Varieties Religious Expression
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+6
+2
+1
+4
+1
+0
+0
+1
+0
+0
+1
+1
+0
+4
+2
+0
+0
+2.36
+% 0.0 4.2 0.0 0.0 25.0 8.3 4.2 16.7 4.2 0.0 0.0 4.2 0.0 0.0 4.2 4.2 0.0 16.7 8.3 0.0 0.0
+REL 101 BB Wilson Elizabeth Varieties Religious Expression
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+4
+5
+1
+0
+3
+0
+0
+1
+0
+2
+0
+0
+1
+0
+1
+1
+0
+0
+2.60
+% 0.0 12.5 8.3 16.7 20.8 4.2 0.0 12.5 0.0 0.0 4.2 0.0 8.3 0.0 0.0 4.2 0.0 4.2 4.2 0.0 0.0
+REL 101 BC Wilson Elizabeth Varieties Religious Expression
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+2
+1
+5
+6
+2
+1
+1
+0
+0
+1
+0
+0
+2
+0
+0
+2
+0
+0
+0
+2.75
+% 4.2 0.0 8.3 4.2 20.8 25.0 8.3 4.2 4.2 0.0 0.0 4.2 0.0 0.0 8.3 0.0 0.0 8.3 0.0 0.0 0.0
+REL 101 BD Wilson Elizabeth Varieties Religious Expression
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+2
+4
+6
+0
+4
+3
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+2.65
+% 0.0 4.2 4.2 8.3 16.7 25.0 0.0 16.7 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 12.5 0.0 0.0 0.0
+REL 101 BE Wilson Elizabeth Varieties Religious Expression
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+11
+2
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+2.89
+% 0.0 4.5 4.5 4.5 50.0 9.1 9.1 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0
+REL 101 BF Wilson Elizabeth Varieties Religious Expression
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+1
+6
+4
+2
+2
+2
+0
+1
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+2.58
+% 0.0 4.5 0.0 4.5 27.3 18.2 9.1 9.1 9.1 0.0 4.5 0.0 0.0 0.0 9.1 0.0 0.0 4.5 0.0 0.0 0.0
+REL 101 BG Wilson Elizabeth Varieties Religious Expression
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+2
+8
+3
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+2.95
+% 0.0 4.3 17.4 8.7 34.8 13.0 4.3 4.3 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

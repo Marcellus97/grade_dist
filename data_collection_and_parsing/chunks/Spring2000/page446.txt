@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 443 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHY 182 A Rice Perry R. The Physical World
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+2
+8
+0
+0
+7
+2
+0
+2
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 20.7 0.0 6.9 27.6 0.0 0.0 24.1 6.9 0.0 6.9 0.0 0.0 3.4 3.4 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 182 B Scholten Paul D. The Physical World
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+5
+5
+7
+0
+1
+3
+1
+5
+0
+5
+0
+1
+0
+0
+0
+0
+0
+0
+2.21
+% 0.0 8.1 2.7 13.5 13.5 18.9 0.0 2.7 8.1 2.7 13.5 0.0 13.5 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHY 182
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+1
+7
+13
+7
+0
+8
+5
+1
+7
+0
+5
+1
+2
+0
+0
+0
+0
+0
+0
+2.44
+% 0.0 13.6 1.5 10.6 19.7 10.6 0.0 12.1 7.6 1.5 10.6 0.0 7.6 1.5 3.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 182F B Houk T. William The Physical World
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+1
+1
+0
+2
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 8.3 25.0 8.3 8.3 0.0 16.7 0.0 25.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 182F C Poth James E. The Physical World
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+0
+3
+0
+0
+6
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 38.9 0.0 0.0 16.7 0.0 0.0 33.3 0.0 0.0 5.6 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 182F D Priest Joseph R. The Physical World
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+2
+4
+5
+0
+5
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 0.0 22.7 0.0 9.1 18.2 22.7 0.0 22.7 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHY 182F
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+15
+1
+3
+7
+7
+0
+14
+1
+0
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.93
+% 1.9 28.8 1.9 5.8 13.5 13.5 0.0 26.9 1.9 0.0 3.8 0.0 0.0 0.0 1.9 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

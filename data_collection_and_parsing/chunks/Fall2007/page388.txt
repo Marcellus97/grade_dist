@@ -1,0 +1,305 @@
+testRun: 01/17/08 @ 12:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2007-08 Oxford Campus
+Page: 385 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MIS 235 H Benamati John H. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+7
+14
+6
+0
+7
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 0.0 7.1 7.1 16.7 33.3 14.3 0.0 16.7 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 I Benamati John H. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+6
+13
+10
+4
+3
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.82
+% 0.0 9.3 0.0 14.0 30.2 23.3 9.3 7.0 4.7 0.0 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 J Lancaster Sean P. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+3
+5
+14
+7
+4
+5
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 2.4 2.4 7.3 12.2 34.1 17.1 9.8 12.2 0.0 0.0 0.0 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 K Lancaster Sean P. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+6
+15
+7
+3
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 2.6 10.3 15.4 38.5 17.9 7.7 5.1 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 L Robb George L. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+5
+8
+6
+6
+5
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 12.8 5.1 12.8 20.5 15.4 15.4 12.8 0.0 0.0 0.0 0.0 5.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MIS 235 M Cothran Pauline E. Info Technology in Modern Orgz
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+4
+14
+6
+5
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.04
+% 0.0 7.9 13.2 10.5 36.8 15.8 13.2 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MIS 235
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+23
+36
+73
+165 103 49
+47
+6
+1
+2
+0
+2
+7
+0
+0
+1
+0
+0
+0
+0
+2.88
+% 0.2 4.5 7.0 14.1 32.0 20.0 9.5 9.1 1.2 0.2 0.4 0.0 0.4 1.4 0.0 0.0 0.2 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

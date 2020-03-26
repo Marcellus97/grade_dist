@@ -1,0 +1,307 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Oxford Campus
+Page: 624 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ZOO 443 A Fernandes Joyce J. Molecular Cell Biology
+N
+N
+HG
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+2
+6
+1
+0
+2
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.11
+% 0.0 36.4 0.0 9.1 27.3 4.5 0.0 9.1 0.0 0.0 9.1 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ZOO 443
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+2
+6
+1
+0
+2
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.11
+% 0.0 36.4 0.0 9.1 27.3 4.5 0.0 9.1 0.0 0.0 9.1 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 454 A Kohan Alison Endocrinology
+N
+N
+5H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+2
+3
+6
+0
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 0.0 40.0 8.0 12.0 24.0 0.0 4.0 0.0 8.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ZOO 454
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+2
+3
+6
+0
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 0.0 40.0 8.0 12.0 24.0 0.0 4.0 0.0 8.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 457 A Isaacson Lori G. Neuroanatomy
+N
+N
+5I
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+1
+6
+1
+0
+3
+0
+1
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.65
+% 0.0 19.0 9.5 4.8 28.6 4.8 0.0 14.3 0.0 4.8 4.8 0.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ZOO 457
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+1
+6
+1
+0
+3
+0
+1
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.65
+% 0.0 19.0 9.5 4.8 28.6 4.8 0.0 14.3 0.0 4.8 4.8 0.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 462 A Oris James T. Environ Toxicol & Risk Assess
+N
+N
+UH
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+2
+10
+0
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 0.0 20.0 5.0 10.0 50.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

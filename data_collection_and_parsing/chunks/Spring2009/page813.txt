@@ -1,0 +1,304 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Hamilton Campus
+Page: 810 Sections of 10
+PHY Physics
+Miami Plan
+Honors
+Cross Listing
+PHY 101 H A Taylor Barney E. Physics & Society
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+1
+1
+3
+3
+2
+1
+0
+0
+2
+7
+0
+0
+0
+0
+0
+0
+0
+1.79
+% 0.0 0.0 0.0 0.0 5.0 5.0 15.0 15.0 10.0 5.0 0.0 0.0 10.0 35.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHY 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+1
+1
+3
+3
+2
+1
+0
+0
+2
+7
+0
+0
+0
+0
+0
+0
+0
+1.79
+% 0.0 0.0 0.0 0.0 5.0 5.0 15.0 15.0 10.0 5.0 0.0 0.0 10.0 35.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 171 H A Widmer Lee C. College Physics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+1
+6
+4
+6
+2
+4
+0
+2
+0
+1
+5
+0
+0
+0
+0
+0
+0
+0
+2.61
+% 0.0 13.2 5.3 2.6 15.8 10.5 15.8 5.3 10.5 0.0 5.3 0.0 2.6 13.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHY 171
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+1
+6
+4
+6
+2
+4
+0
+2
+0
+1
+5
+0
+0
+0
+0
+0
+0
+0
+2.61
+% 0.0 13.2 5.3 2.6 15.8 10.5 15.8 5.3 10.5 0.0 5.3 0.0 2.6 13.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 172 H A Brown Michael S. College Physics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+4
+1
+3
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.45
+% 6.3 25.0 25.0 6.3 18.8 6.3 0.0 6.3 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHY 172
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+4
+1
+3
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.45
+% 6.3 25.0 25.0 6.3 18.8 6.3 0.0 6.3 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 183 H A Drewes Richard A. Physics Laboratory
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+3
+1
+2
+0
+0
+0
+0
+0
+0
+0
+1
+3
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 6.7 26.7 20.0 6.7 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 15:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2001-02 Oxford Campus
+Page: 323 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+IDS 159 E Beckman Wendy H. Strength Thru Culturl Diversty
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+13
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.95
+% 27.3 59.1 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0
+IDS 159 F Sanders Austin J. Strength Thru Culturl Diversty
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+4
+6
+4
+2
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.28
+% 4.8 4.8 19.0 28.6 19.0 9.5 4.8 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+IDS 159 G LaFever Kathryn Strength Thru Culturl Diversty
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+2
+3
+5
+1
+0
+0
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 9.1 27.3 9.1 13.6 22.7 4.5 0.0 0.0 0.0 0.0 9.1 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IDS 159 H LaFever Kathryn Strength Thru Culturl Diversty
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+9
+0
+1
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.48
+% 28.6 42.9 0.0 4.8 9.5 4.8 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0
+IDS 159 I Davis Shawn L. Strength Thru Culturl Diversty
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+4
+2
+3
+1
+1
+0
+0
+0
+0
+0
+2
+1
+0
+1
+0
+0
+0
+0
+3.05
+% 0.0 0.0 16.7 22.2 11.1 16.7 5.6 5.6 0.0 0.0 0.0 0.0 0.0 11.1 5.6 0.0 5.6 0.0 0.0 0.0 0.0
+IDS 159 J Beckman Wendy H. Strength Thru Culturl Diversty
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+13
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.91
+% 27.3 59.1 9.1 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IDS 159 K Beckman Wendy H. Strength Thru Culturl Diversty
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+10
+8
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3.97
+% 45.5 36.4 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

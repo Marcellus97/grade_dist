@@ -1,0 +1,124 @@
+testGER German
+681
+GLG Geology
+682
+HST History
+684
+IDS Interdisciplinary
+688
+JRN Journalism
+689
+KNH Kinesiology And Health
+690
+LAS Latin American Studies
+696
+MBI Microbiology
+697
+MGT Management
+698
+MIS Management Information Systems
+699
+MKT Marketing
+700
+MTH Mathematics
+701
+MUS Music
+707
+NSG Nursing
+709
+PHL Philosophy
+711
+PHY Physics
+712
+POL Political Science
+715
+PSY Psychology
+716
+REL Religion, Comparative
+719
+SOC Sociology
+720
+SPN Spanish
+723
+STA Statistics
+724
+THE Theatre
+725
+WMS Women'S Studies
+726
+ZOO Zoology
+727
+Hamilton Campus
+730
+ACC Accountancy
+731
+ART Art
+732
+ATH Anthropology
+737
+BIS Integrative Studies
+739
+BOT Botany
+741
+BTE Business Technology
+742
+BUS Business Analysis
+750
+BWS Black World Studies
+751
+CHM Chemistry & Biochemistry
+752
+CIT Comp Information Technology
+755
+CJS Criminal Justice Studies
+758
+COM Communication
+760
+CSA Computer Sci &Systems Analysis
+764
+DSC Decision Sciences
+767
+DST Disabilty Studies
+768
+EAS Engineering & App Science
+769
+ECO Economics
+770
+EDL Educational Leadership
+772
+EDP Educational Psychology
+775
+EDT Teacher Education
+777
+ENG English
+781
+ENT Engineering Technology
+796
+FRE French
+800
+FST Film Studies
+801
+FSW Family Studies And Social Work
+802
+GEO Geography
+806
+GER German
+808
+GLG Geology
+809
+HON Honors
+811
+HST History
+812
+IDS Interdisciplinary
+817
+JRN Journalism
+818
+KNH Kinesiology And Health
+819
+LAS Latin American Studies
+828
+MBI Microbiology
+829
+MGT Management
+832

@@ -1,0 +1,305 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 439 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MGT 291 J Hogan John T. Intro to Management&Leadership
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+13
+6
+3
+7
+2
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.33
+% 0.0 15.4 33.3 15.4 7.7 17.9 5.1 2.6 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 291 K Werner Matthew A. Intro to Management&Leadership
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+5
+8
+7
+4
+3
+3
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 15.8 13.2 21.1 18.4 10.5 7.9 7.9 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 291 L Werner Matthew A. Intro to Management&Leadership
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+7
+11
+11
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 5.1 5.1 17.9 28.2 28.2 10.3 5.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 291 M Werner Matthew A. Intro to Management&Leadership
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+7
+11
+10
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 0.0 10.3 10.3 17.9 28.2 25.6 2.6 5.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 291
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+53
+70
+86
+112 72
+45
+29
+7
+2
+0
+2
+3
+8
+0
+0
+1
+0
+0
+0
+0
+3.04
+% 0.4 10.8 14.2 17.5 22.8 14.6 9.1 5.9 1.4 0.4 0.0 0.4 0.6 1.6 0.0 0.0 0.2 0.0 0.0 0.0 0.0
+MGT 302 A Jin Yao Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+0
+22
+0
+0
+9
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 17.9 0.0 0.0 56.4 0.0 0.0 23.1 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 B Jin Yao Intro Operatns &Supply Chain M
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+17
+0
+0
+9
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 0.0 22.2 0.0 0.0 47.2 0.0 0.0 25.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

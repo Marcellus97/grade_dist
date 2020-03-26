@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 291 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+HST 386 A Frederickson Mary E. Race in US Society
+N
+N
+GW
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+8
+6
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.57
+% 0.0 41.4 27.6 20.7 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total HST 386
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+8
+6
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.57
+% 0.0 41.4 27.6 20.7 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 388 A Jackson W. Sherman US Constitution Since 1865
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+9
+5
+0
+1
+2
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 4.8 0.0 42.9 23.8 0.0 4.8 9.5 0.0 0.0 0.0 0.0 0.0 9.5 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total HST 388
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+9
+5
+0
+1
+2
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 4.8 0.0 42.9 23.8 0.0 4.8 9.5 0.0 0.0 0.0 0.0 0.0 9.5 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 396 A Kirby Jack T. American South Since 1877
+N
+N
+QR
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+4
+7
+4
+1
+1
+1
+0
+0
+0
+0
+0
+0
+2
+3
+0
+0
+0
+0
+2.86
+% 0.0 3.3 20.0 13.3 23.3 13.3 3.3 3.3 3.3 0.0 0.0 0.0 0.0 0.0 0.0 6.7 10.0 0.0 0.0 0.0 0.0
+Course Total HST 396
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+4
+7
+4
+1
+1
+1
+0
+0
+0
+0
+0
+0
+2
+3
+0
+0
+0
+0
+2.86
+% 0.0 3.3 20.0 13.3 23.3 13.3 3.3 3.3 3.3 0.0 0.0 0.0 0.0 0.0 0.0 6.7 10.0 0.0 0.0 0.0 0.0
+HST 400A A Baird Jay W. Holocaust
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+2
+3
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 6.3 43.8 12.5 18.8 12.5 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

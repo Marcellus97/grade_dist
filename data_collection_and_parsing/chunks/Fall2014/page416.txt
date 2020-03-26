@@ -1,0 +1,303 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 412 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+KNH 171 UA Michael Carol M. Personal Nutrition
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+7
+0
+0
+3
+0
+0
+0
+0
+2
+4
+0
+0
+0
+7
+2
+0
+0
+2.25
+% 0.0 0.0 0.0 0.0 28.0 0.0 0.0 12.0 0.0 0.0 0.0 0.0 8.0 16.0 0.0 0.0 0.0 28.0 8.0 0.0 0.0
+KNH 171 UB Michael Carol M. Personal Nutrition
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+3
+0
+0
+4
+0
+0
+1
+0
+6
+2
+0
+0
+0
+4
+2
+0
+0
+1.29
+% 0.0 0.0 0.0 0.0 13.6 0.0 0.0 18.2 0.0 0.0 4.5 0.0 27.3 9.1 0.0 0.0 0.0 18.2 9.1 0.0 0.0
+Course Total KNH 171
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+10
+0
+0
+7
+0
+0
+1
+0
+8
+6
+0
+0
+0
+11
+4
+0
+0
+1.73
+% 0.0 0.0 0.0 0.0 21.3 0.0 0.0 14.9 0.0 0.0 2.1 0.0 17.0 12.8 0.0 0.0 0.0 23.4 8.5 0.0 0.0
+KNH 182 A Troesch Patricia J. Introduction Athletic Training
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+4
+7
+0
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.64
+% 28.6 19.0 33.3 0.0 9.5 0.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 182 B Troesch Patricia J. Introduction Athletic Training
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+7
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.90
+% 33.3 33.3 33.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 182
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+13
+11
+14
+0
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.77
+% 31.0 26.2 33.3 0.0 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 184 B Horn Thelma S. Motor Skill Lrng & Performance
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+17
+13
+24
+23
+15
+14
+4
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.79
+% 0.0 3.4 14.4 11.0 20.3 19.5 12.7 11.9 3.4 1.7 1.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

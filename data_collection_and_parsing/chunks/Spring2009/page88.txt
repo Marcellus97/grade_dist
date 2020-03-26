@@ -1,0 +1,306 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Oxford Campus
+Page: 85 Sections of 10
+CHM Chemistry & Biochemistry
+Miami Plan
+Honors
+Cross Listing
+CHM 111 A Tai Heeyoung Chemistry In Modern Society
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+12
+10
+14
+32
+15
+9
+14
+11
+0
+0
+2
+2
+1
+0
+0
+1
+1
+0
+0
+0
+2.79
+% 0.8 9.6 8.0 11.2 25.6 12.0 7.2 11.2 8.8 0.0 0.0 1.6 1.6 0.8 0.0 0.0 0.8 0.8 0.0 0.0 0.0
+Course Total CHM 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+12
+10
+14
+32
+15
+9
+14
+11
+0
+0
+2
+2
+1
+0
+0
+1
+1
+0
+0
+0
+2.79
+% 0.8 9.6 8.0 11.2 25.6 12.0 7.2 11.2 8.8 0.0 0.0 1.6 1.6 0.8 0.0 0.0 0.8 0.8 0.0 0.0 0.0
+CHM 141 A Jessa Yasmin College Chemistry
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+7
+5
+14
+19
+23
+15
+10
+7
+7
+3
+8
+13
+18
+0
+0
+0
+1
+0
+0
+0
+2.35
+% 4.5 4.5 3.2 8.9 12.1 14.6 9.6 6.4 4.5 4.5 1.9 5.1 8.3 11.5 0.0 0.0 0.0 0.6 0.0 0.0 0.0
+Course Total CHM 141
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+7
+5
+14
+19
+23
+15
+10
+7
+7
+3
+8
+13
+18
+0
+0
+0
+1
+0
+0
+0
+2.35
+% 4.5 4.5 3.2 8.9 12.1 14.6 9.6 6.4 4.5 4.5 1.9 5.1 8.3 11.5 0.0 0.0 0.0 0.6 0.0 0.0 0.0
+CHM 142 B Sanabria-Rios David J. College Chemistry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+28
+0
+0
+19
+0
+0
+8
+0
+9
+6
+0
+0
+0
+0
+0
+0
+0
+2.25
+% 0.0 10.3 0.0 0.0 35.9 0.0 0.0 24.4 0.0 0.0 10.3 0.0 11.5 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 142 C Bretz Richard L. College Chemistry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+8
+7
+22
+30
+8
+17
+43
+11
+10
+12
+0
+9
+10
+0
+0
+0
+0
+0
+0
+0
+2.35
+% 1.6 4.2 3.7 11.6 15.8 4.2 8.9 22.6 5.8 5.3 6.3 0.0 4.7 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 142 D Stewart Robert P. College Chemistry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+22
+0
+0
+66
+0
+0
+70
+0
+0
+25
+0
+14
+40
+0
+0
+0
+0
+0
+0
+0
+2.29
+% 0.0 9.3 0.0 0.0 27.8 0.0 0.0 29.5 0.0 0.0 10.5 0.0 5.9 16.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

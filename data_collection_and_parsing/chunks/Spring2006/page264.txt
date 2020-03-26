@@ -1,0 +1,305 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 261 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FSW 281 B Watson Tonya S. Child Devel:Diverse Families
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+7
+4
+7
+4
+2
+3
+4
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 0.0 13.2 18.4 10.5 18.4 10.5 5.3 7.9 10.5 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 281 C Polzin Lewis R. Child Devel:Diverse Families
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+18
+12
+2
+2
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.64
+% 9.8 43.9 29.3 4.9 4.9 0.0 2.4 2.4 0.0 0.0 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FSW 281 D Watson Tonya S. Child Devel:Diverse Families
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+4
+5
+8
+9
+1
+1
+1
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.83
+% 5.3 7.9 10.5 13.2 21.1 23.7 2.6 2.6 2.6 2.6 0.0 2.6 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FSW 281
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+11
+54
+27
+12
+17
+13
+6
+5
+5
+1
+2
+1
+3
+0
+0
+0
+1
+0
+0
+0
+0
+3.32
+% 7.0 34.2 17.1 7.6 10.8 8.2 3.8 3.2 3.2 0.6 1.3 0.6 1.9 0.0 0.0 0.0 0.6 0.0 0.0 0.0 0.0
+FSW 301L LA Joseph Alfred L. European Social Welfare I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+37
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+4.00
+% 0.0 97.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0
+Course Total FSW 301L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+37
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+4.00
+% 0.0 97.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0
+FSW 303L LA Joseph Alfred L. European &American Social Work
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.98
+% 0.0 88.2 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

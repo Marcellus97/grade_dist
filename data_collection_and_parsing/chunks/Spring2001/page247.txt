@@ -1,0 +1,43 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 244 Sections of 10
+French Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 19
+120 154 81
+127 84
+39
+40
+13
+10
+14
+4
+5
+10
+14
+4
+0
+90
+5
+0
+0
+3.11
+% 2.3 14.4 18.5 9.7 15.2 10.1 4.7 4.8 1.6 1.2 1.7 0.5 0.6 1.2 1.7 0.5 0.0 10.8 0.6 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

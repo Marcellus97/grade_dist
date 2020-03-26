@@ -1,0 +1,124 @@
+testPSE Paper Science & Engineering
+506
+PSY Psychology
+508
+REL Comparative Religion
+522
+RUS Russian
+528
+SOC Sociology
+530
+SPA Speech Pathology & Audiology
+537
+SPN Spanish
+548
+STA Statistics
+562
+THE Theatre
+568
+WCP Interdisciplinary Studies- Wcp
+575
+WMS Women'S Studies
+586
+ZOO Zoology
+590
+Middletown Campus
+606
+ACC Accountancy
+607
+AMS American Studies
+608
+ART Art
+609
+ATH Anthropology
+613
+BOT Botany
+615
+BTE Business Technology
+617
+BWS Black World Studies
+622
+CHM Chemistry & Biochemistry
+623
+CIT Comp Information Technology
+627
+CLS Classics
+629
+COM Communication
+630
+CSA Computer Sci &Systems Analysis
+633
+DSC Decision Sciences
+635
+ECO Economics
+636
+EDL Educational Leadership
+638
+EDP Educational Psychology
+640
+EDT Teacher Education
+642
+ENG English
+646
+ENT Engineering Technology
+655
+FRE French
+657
+FST Film Studies
+658
+FSW Family Studies And Social Work
+659
+GEO Geography
+661
+GER German
+663
+GLG Geology
+664
+GTY Gerontology
+666
+HST History
+667
+IDS Interdisciplinary
+671
+MBI Microbiology
+672
+MGT Management
+673
+MIS Management Information Systems
+674
+MKT Marketing
+675
+MTH Mathematics
+676
+MUS Music
+683
+NSG Nursing
+686
+PHL Philosophy
+688
+PHS Phy Edu, Hlth, & Sport Studies
+690
+PHY Physics
+695
+POL Political Science
+698
+PSY Psychology
+700
+REL Comparative Religion
+702
+SOC Sociology
+703
+SPN Spanish
+706
+STA Statistics
+708
+THE Theatre
+709
+WMS Women'S Studies
+710
+ZOO Zoology
+711
+Hamilton Campus
+714
+ACC Accountancy
+715

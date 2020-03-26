@@ -1,0 +1,339 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Oxford Campus
+Page: 496 Sections of 10
+Course Total MUS 152
+A+ A
+A-
+B+ B
+B-
+C+ C
+13
+21
+7
+3
+2
+2
+1
+1
+% 24.1 38.9 13.0 5.6 3.7 3.7 1.9 1.9
+MUS 161 A Tan Siok L. Functional Piano
+A+ A
+A-
+B+
+B
+B-
+C+ C
+0
+1
+1
+2
+2
+1
+2
+0
+% 0.0 9.1 9.1 18.2 18.2 9.1 18.2 0.0
+MUS 161 B Tan Siok L. Functional Piano
+A+ A
+A-
+B+
+B
+B-
+C+ C
+0 % 0.0
+2
+2
+0
+18.2 18.2 0.0
+2
+0
+18.2 0.0
+3
+1
+27.3 9.1
+MUS 161 C Tan Siok L. Functional Piano
+A+ A
+A-
+B+
+B
+B-
+C+ C
+0
+3
+0
+1
+1
+0
+0
+0
+% 0.0 30.0 0.0 10.0 10.0 0.0 0.0 0.0
+MUS 161 D Tan Siok L. Functional Piano
+A+ A
+A-
+B+
+B
+B-
+C+ C
+0
+0
+1
+1
+2
+3
+1
+0
+% 0.0 0.0 10.0 10.0 20.0 30.0 10.0 0.0
+Course Total MUS 161
+A+ A
+A-
+B+ B
+B-
+C+ C
+0
+6
+4
+4
+7
+4
+6
+1
+% 0.0 14.3 9.5 9.5 16.7 9.5 14.3 2.4
+MUS 180B A Ridilla Andrea J. Discovering Italian Opera
+A+ A
+A-
+B+
+B
+B-
+C+ C
+1
+13
+0
+0
+0
+0
+0
+0
+% 6.3 81.3 0.0 0.0 0.0 0.0 0.0 0.0
+C-
+D+ D
+0
+0
+1
+0.0 0.0 1.9
+C-
+D+ D
+0
+1
+0
+0.0 9.1 0.0
+C-
+D+ D
+0
+0
+0
+0.0 0.0 0.0
+C-
+D+ D
+2
+0
+0
+20.0 0.0 0.0
+C-
+D+ D
+0
+1
+0
+0.0 10.0 0.0
+C-
+D+ D
+2
+2
+0
+4.8 4.8 0.0
+C-
+D+ D
+0
+0
+0
+0.0 0.0 0.0
+D-
+F
+W
+WP WF
+0
+0
+2
+0
+0
+0.0 0.0 3.7 0.0 0.0
+D-
+F
+W
+WP WF
+0
+0
+1
+0
+0
+0.0 0.0 9.1 0.0 0.0
+D-
+F
+W
+WP WF
+0
+1
+0
+0
+0
+0.0 9.1 0.0 0.0 0.0
+D-
+F
+W
+WP WF
+0
+1
+2
+0
+0
+0.0 10.0 20.0 0.0 0.0
+D-
+F
+W
+WP WF
+1
+0
+0
+0
+0
+10.0 0.0 0.0 0.0 0.0
+D-
+F
+W
+WP WF
+1
+2
+3
+0
+0
+2.4 4.8 7.1 0.0 0.0
+D-
+F
+W
+WP WF
+0
+0
+2
+0
+0
+0.0 0.0 12.5 0.0 0.0
+Miami Plan
+I
+X
+1
+0
+1.9 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.70
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.89
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.75
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.71
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.54
+0.0 0.0 0.0
+Y
+P
+0
+0
+0.0 0.0
+Y
+Y
+P
+0
+0
+0.0 0.0
+S
+0 0.0
+GH
+S
+0 0.0
+Avg GPA 2.73
+Avg GPA 4.00
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

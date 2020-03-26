@@ -1,0 +1,348 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Middletown Campus
+Page: 817 Sections of 10
+CHM 144 M A Vail Howard P. College Chemistry Laboratory
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+1
+2
+6
+0
+0
+7
+0
+0
+% 0.0 8.3 4.2 8.3 25.0 0.0 0.0 29.2 0.0 0.0
+CHM 144 M B Marine Susan S. College Chemistry Laboratory
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+4
+0
+0
+3
+0
+1
+1
+0
+0
+% 9.1 36.4 0.0 0.0 27.3 0.0 9.1 9.1 0.0 0.0
+CHM 144 M C Marine Susan S. College Chemistry Laboratory
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+0
+0
+3
+1
+1
+1
+2
+0
+% 0.0 5.6 0.0 0.0 16.7 5.6 5.6 5.6 11.1 0.0
+Course Total CHM 144
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+1
+7
+1
+2
+12
+1
+2
+9
+2
+0
+% 1.9 13.2 1.9 3.8 22.6 1.9 3.8 17.0 3.8 0.0
+CHM 241 M A Marshall Janet Organic Chemistry
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+3
+0
+3
+0
+0
+2
+6
+0
+0
+% 0.0 15.8 0.0 15.8 0.0 0.0 10.5 31.6 0.0 0.0
+Course Total CHM 241
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+3
+0
+3
+0
+0
+2
+6
+0
+0
+% 0.0 15.8 0.0 15.8 0.0 0.0 10.5 31.6 0.0 0.0
+CHM 244 M A Marshall Janet Organic Chemistry Laboratory
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+0
+2
+8
+0
+0
+4
+1
+0
+% 0.0 10.5 0.0 10.5 42.1 0.0 0.0 21.1 5.3 0.0
+D
+D-
+1
+0
+4.2 0.0
+D
+D-
+0
+1
+0.0 9.1
+D
+D-
+2
+1
+11.1 5.6
+D
+D-
+3
+2
+5.7 3.8
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+F
+W
+3
+2
+12.5 8.3
+WP WF
+0
+0
+0.0 0.0
+F
+W
+WP WF
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+F
+W
+WP WF
+1
+5
+0
+0
+5.6 27.8 0.0 0.0
+F
+W
+WP WF
+4
+7
+0
+0
+7.5 13.2 0.0 0.0
+F
+W
+4
+1
+21.1 5.3
+WP WF
+0
+0
+0.0 0.0
+F
+W
+4
+1
+21.1 5.3
+WP WF
+0
+0
+0.0 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 10.5 0.0 0.0
+Miami Plan
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.33
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.09
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.01
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.42
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.14
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.14
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.84
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

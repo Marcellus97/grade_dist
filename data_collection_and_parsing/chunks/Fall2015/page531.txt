@@ -1,0 +1,303 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 527 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MUS 218 B McCutcheon James R. Beginning Guitar
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+7
+0
+0
+2
+0
+0
+0
+0
+0
+1
+0
+1
+2
+0
+0
+2
+0
+0
+0
+0
+3.47
+% 28.6 33.3 0.0 0.0 9.5 0.0 0.0 0.0 0.0 0.0 4.8 0.0 4.8 9.5 0.0 0.0 9.5 0.0 0.0 0.0 0.0
+MUS 218 C McCutcheon James R. Beginning Guitar
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+7
+3
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.81
+% 22.2 38.9 16.7 11.1 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MUS 218
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+14
+16
+6
+3
+4
+1
+0
+0
+0
+0
+2
+0
+3
+6
+0
+0
+2
+0
+0
+0
+0
+3.44
+% 24.6 28.1 10.5 5.3 7.0 1.8 0.0 0.0 0.0 0.0 3.5 0.0 5.3 10.5 0.0 0.0 3.5 0.0 0.0 0.0 0.0
+MUS 225 A Garcia Thomas G. The History of Rock and Roll
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+12
+8
+15
+4
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 2.1 8.5 25.5 17.0 31.9 8.5 0.0 2.1 2.1 0.0 0.0 0.0 0.0 2.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MUS 225
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+12
+8
+15
+4
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 2.1 8.5 25.5 17.0 31.9 8.5 0.0 2.1 2.1 0.0 0.0 0.0 0.0 2.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MUS 226 A Bell David M. Improving Reading w/Music
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+12
+7
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.88
+% 52.2 30.4 4.3 8.7 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MUS 226 B Bell David M. Improving Reading w/Music
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+1
+3
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 25.0 8.3 25.0 16.7 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

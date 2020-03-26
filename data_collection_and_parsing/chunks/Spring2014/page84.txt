@@ -1,0 +1,292 @@
+testRun: 06/23/14 @ 07:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2013-14 Oxford Campus
+Page: 80 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total BIO 620
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+10
+0
+0
+0
+0
+0
+142 17
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.6 5.9 0.0 0.0 0.0 0.0 0.0 83.5 10.0
+BIO 632 A Myers Christopher A. Biology in Age of Technology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+20
+130 49
+15
+18
+0
+0
+3
+0
+0
+0
+1
+1
+8
+0
+0
+1
+0
+0
+0
+0
+3.76
+% 8.1 52.8 19.9 6.1 7.3 0.0 0.0 1.2 0.0 0.0 0.0 0.4 0.4 3.3 0.0 0.0 0.4 0.0 0.0 0.0 0.0
+Course Total BIO 632
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+20
+130 49
+15
+18
+0
+0
+3
+0
+0
+0
+1
+1
+8
+0
+0
+1
+0
+0
+0
+0
+3.76
+% 8.1 52.8 19.9 6.1 7.3 0.0 0.0 1.2 0.0 0.0 0.0 0.4 0.4 3.3 0.0 0.0 0.4 0.0 0.0 0.0 0.0
+BIO 633 A Myers Christopher A. Issues in Biodiversity
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+39
+104 44
+17
+19
+10
+0
+2
+1
+0
+0
+1
+1
+15
+0
+0
+0
+0
+0
+0
+0
+3.70
+% 15.4 41.1 17.4 6.7 7.5 4.0 0.0 0.8 0.4 0.0 0.0 0.4 0.4 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BIO 633
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+39
+104 44
+17
+19
+10
+0
+2
+1
+0
+0
+1
+1
+15
+0
+0
+0
+0
+0
+0
+0
+3.70
+% 15.4 41.1 17.4 6.7 7.5 4.0 0.0 0.8 0.4 0.0 0.0 0.4 0.4 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 635 A Myers Christopher A. Leadership in Science Inquiry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+10
+67
+34
+15
+24
+9
+4
+0
+0
+0
+0
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+3.61
+% 6.0 40.1 20.4 9.0 14.4 5.4 2.4 0.0 0.0 0.0 0.0 0.0 0.0 1.8 0.0 0.0 0.6 0.0 0.0 0.0 0.0
+Course Total BIO 635
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+10
+67
+34
+15
+24
+9
+4
+0
+0
+0
+0
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+3.61
+% 6.0 40.1 20.4 9.0 14.4 5.4 2.4 0.0 0.0 0.0 0.0 0.0 0.0 1.8 0.0 0.0 0.6 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

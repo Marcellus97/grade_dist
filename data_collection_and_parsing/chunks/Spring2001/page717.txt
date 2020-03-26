@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Hamilton Campus
+Page: 714 Sections of 10
+FSW Family Studies And Social Work
+Miami Plan
+Honors
+Cross Listing
+FSW 162 H A Stone Glenn Men In Families: Crit Analysis
+Y
+N
+B3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+3
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+3.52
+% 0.0 45.5 13.6 18.2 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 4.5 0.0 0.0 0.0 0.0 0.0
+Course Total FSW 162
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+3
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+1
+0
+0
+0
+0
+0
+3.52
+% 0.0 45.5 13.6 18.2 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 4.5 0.0 0.0 0.0 0.0 0.0
+FSW 201 H A Joseph Alfred L. Introduction To Social Work
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+4
+6
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+3.47
+% 0.0 38.5 15.4 23.1 7.7 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.8 7.7 0.0 0.0 0.0 0.0
+Course Total FSW 201
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+4
+6
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+3.47
+% 0.0 38.5 15.4 23.1 7.7 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.8 7.7 0.0 0.0 0.0 0.0
+FSW 261 H A Coles Robin M. Diverse Fam Across Life Cycle
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+8
+4
+6
+0
+0
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.08
+% 0.0 7.4 29.6 14.8 22.2 0.0 0.0 14.8 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0
+Course Total FSW 261
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+8
+4
+6
+0
+0
+4
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.08
+% 0.0 7.4 29.6 14.8 22.2 0.0 0.0 14.8 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0
+FSW 262 H A Hennon Charles B. Curr Controversies:Fam Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+13
+6
+0
+0
+0
+2
+0
+0
+0
+0
+1
+0
+0
+1
+1
+0
+0
+1
+0
+0
+0
+3.75
+% 52.0 24.0 0.0 0.0 0.0 8.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 4.0 4.0 0.0 0.0 4.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

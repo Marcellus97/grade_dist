@@ -1,0 +1,321 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 116 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CSA 575 A Sobel Ann E. Software Systems Project
+N
+N
+ZI
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 0.0 50.0 20.0 0.0 0.0 10.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSA 575
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 0.0 50.0 20.0 0.0 0.0 10.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 620G A Bachmann Eric R. Computer Graphics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+3
+3
+4
+2
+0
+0
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+3.47
+% 9.5 19.0 14.3 14.3 19.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.5 4.8 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSA 620G
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+3
+3
+4
+2
+0
+0
+0
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+3.47
+% 9.5 19.0 14.3 14.3 19.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.5 4.8 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 623 A Campbell Scott T. Data Communicatns Netwks Dist
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+11
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 0.0 45.5 0.0 0.0 50.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSA 623
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+11
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 0.0 45.5 0.0 0.0 50.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Computer Sci &Systems Analysis Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 24
+218 74
+84
+284 66
+47
+165 30
+13
+43
+10
+20
+63
+66
+17
+2
+876 20
+0
+0
+2.84
+% 1.1 10.3 3.5 4.0 13.4 3.1 2.2 7.8 1.4 0.6 2.0 0.5 0.9 3.0 3.1 0.8 0.1 41.3 0.9 0.0 0.0
+GR 2
+21
+7
+3
+18
+3
+2
+1
+0
+0
+0
+0
+0
+5
+1
+0
+0
+0
+0
+0
+0
+3.45
+% 3.2 33.3 11.1 4.8 28.6 4.8 3.2 1.6 0.0 0.0 0.0 0.0 0.0 7.9 1.6 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

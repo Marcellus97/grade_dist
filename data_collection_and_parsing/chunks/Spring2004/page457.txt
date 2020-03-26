@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Oxford Campus
+Page: 454 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHS 244 B Nelson Richard L. Functional Anatomy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+1
+9
+0
+0
+7
+0
+0
+4
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.68
+% 0.0 21.4 0.0 3.6 32.1 0.0 0.0 25.0 0.0 0.0 14.3 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 244 C Walsh Mark S. Functional Anatomy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+0
+13
+0
+0
+4
+0
+0
+2
+0
+1
+0
+3
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 23.3 0.0 0.0 43.3 0.0 0.0 13.3 0.0 0.0 6.7 0.0 3.3 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 244
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+0
+1
+35
+0
+0
+21
+0
+0
+7
+0
+1
+1
+3
+0
+1
+0
+0
+0
+0
+2.76
+% 0.0 20.5 0.0 1.1 39.8 0.0 0.0 23.9 0.0 0.0 8.0 0.0 1.1 1.1 3.4 0.0 1.1 0.0 0.0 0.0 0.0
+PHS 245 A Ubbes Valerie A. Health&Pedagy/Early Chld Tchrs
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+14
+19
+2
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.87
+% 36.8 50.0 5.3 5.3 0.0 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 245 B Hall Tamara L. Health&Pedagy/Early Chld Tchrs
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+22
+12
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 62.9 34.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 245 C Falk Carol Health&Pedagy/Early Chld Tchrs
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+9
+5
+1
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.74
+% 30.8 34.6 19.2 3.8 3.8 3.8 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 245
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+44
+40
+7
+3
+1
+1
+0
+0
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 44.4 40.4 7.1 3.0 1.0 1.0 0.0 0.0 1.0 0.0 1.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

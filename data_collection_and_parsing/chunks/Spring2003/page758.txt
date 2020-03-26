@@ -1,0 +1,336 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Hamilton Campus
+Page: 755 Sections of 10
+HST History
+HST 112 H A Meckley Robert C. Survey Of American History
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+5
+4
+0
+5
+1
+5
+7
+1
+% 0.0 10.6 8.5 0.0 10.6 2.1 10.6 14.9 2.1
+HST 112 H B Meckley Robert C. Survey Of American History
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+5
+2
+3
+4
+3
+2
+7
+3
+% 0.0 11.1 4.4 6.7 8.9 6.7 4.4 15.6 6.7
+HST 112 H C Foster Carrie A. Survey Of American History
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+11
+0
+2
+10
+1
+1
+10
+0
+% 2.0 22.4 0.0 4.1 20.4 2.0 2.0 20.4 0.0
+HST 112 H D Foster Carrie A. Survey Of American History
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+10
+0
+2
+16
+2
+0
+10
+1
+% 0.0 19.6 0.0 3.9 31.4 3.9 0.0 19.6 2.0
+HST 112 H E Meckley Robert C. Survey Of American History
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+2
+1
+2
+3
+2
+1
+5
+0
+% 0.0 4.4 2.2 4.4 6.7 4.4 2.2 11.1 0.0
+Course Total HST 112
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+33
+7
+9
+38
+9
+9
+39
+5
+% 0.4 13.9 3.0 3.8 16.0 3.8 3.8 16.5 2.1
+HST 122 H A Vascik George S. Western Civilization
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+5
+3
+2
+4
+3
+4
+4
+1
+2
+% 10.9 6.5 4.3 8.7 6.5 8.7 8.7 2.2 4.3
+D+ D
+D-
+0
+4
+0
+0.0 8.5 0.0
+D+ D
+D-
+1
+6
+0
+2.2 13.3 0.0
+D+ D
+D-
+0
+4
+0
+0.0 8.2 0.0
+D+ D
+D-
+1
+2
+0
+2.0 3.9 0.0
+D+ D
+D-
+0
+7
+0
+0.0 15.6 0.0
+D+ D
+D-
+2
+23
+0
+0.8 9.7 0.0
+D+ D
+D-
+5
+1
+1
+10.9 2.2 2.2
+F
+W
+6
+2
+12.8 4.3
+F
+W
+2
+1
+4.4 2.2
+F
+W
+3
+0
+6.1 0.0
+F
+W
+3
+1
+5.9 2.0
+F
+W
+5
+3
+11.1 6.7
+F
+W
+19
+7
+8.0 3.0
+F
+W
+4
+3
+8.7 6.5
+Miami Plan
+N
+WP WF I
+X
+1
+6
+0
+0
+2.1 12.8 0.0 0.0
+N
+WP WF I
+X
+1
+5
+0
+0
+2.2 11.1 0.0 0.0
+N
+WP WF I
+X
+2
+2
+2
+0
+4.1 4.1 4.1 0.0
+N
+WP WF I
+X
+1
+2
+0
+0
+2.0 3.9 0.0 0.0
+N
+WP WF I
+X
+6
+8
+0
+0
+13.3 17.8 0.0 0.0
+WP WF I
+X
+11
+23
+2
+0
+4.6 9.7 0.8 0.0
+Y
+WP WF I
+X
+2
+2
+0
+0
+4.3 4.3 0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.90
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.06
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.52
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.55
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.44
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.13
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.32
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

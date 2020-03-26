@@ -1,0 +1,68 @@
+testDSC Decision Sciences
+741
+ECO Economics
+742
+EDL Educational Leadership
+743
+EDP Educational Psychology
+746
+EDT Teacher Education
+747
+ENG English
+751
+ENT Engineering Technology
+762
+FIN Finance
+765
+FRE French
+766
+FST Film Studies
+767
+FSW Family Studies And Social Work
+768
+GEO Geography
+770
+GER German
+771
+GLG Geology
+772
+GTY Gerontology
+774
+HST History
+775
+IDS Interdisciplinary
+779
+MBI Microbiology
+780
+MGT Management
+781
+MIS Management Information Systems
+782
+MKT Marketing
+783
+MTH Mathematics
+784
+MUS Music
+791
+NSG Nursing
+794
+PHL Philosophy
+797
+PHS Phy Edu, Hlth, & Sport Studies
+798
+PHY Physics
+803
+POL Political Science
+805
+PSY Psychology
+806
+SOC Sociology
+808
+SPN Spanish
+809
+STA Statistics
+810
+THE Theatre
+811
+ZOO Zoology
+813

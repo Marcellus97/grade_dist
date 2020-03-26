@@ -1,0 +1,306 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Hamilton Campus
+Page: 644 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BTE 111 H B Goodwin Thomas S. Introduction to Management I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+1
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 7.7 30.8 7.7 0.0 30.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 23.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 111 H C Mobley Thomas L. Introduction to Management I
+N
+N
+D1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+2
+0
+1
+0
+2
+0
+0
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 20.0 20.0 13.3 0.0 6.7 0.0 13.3 0.0 0.0 0.0 6.7 6.7 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 111
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+13
+10
+4
+2
+4
+1
+0
+2
+1
+0
+0
+1
+5
+4
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 27.7 21.3 8.5 4.3 8.5 2.1 0.0 4.3 2.1 0.0 0.0 2.1 10.6 8.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 125 HQA Turner Marquita L. Medical Office Simulation
+N
+N
+1X
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+1
+0
+0
+1
+0
+0
+0
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.52
+% 0.0 16.7 16.7 16.7 8.3 0.0 0.0 8.3 0.0 0.0 0.0 8.3 16.7 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 125
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+1
+0
+0
+1
+0
+0
+0
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.52
+% 0.0 16.7 16.7 16.7 8.3 0.0 0.0 8.3 0.0 0.0 0.0 8.3 16.7 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 181 H A Bantz Orville L. Computers And Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+2
+2
+3
+3
+2
+0
+1
+1
+0
+4
+2
+0
+0
+0
+0
+0
+0
+0
+2.36
+% 0.0 7.7 15.4 7.7 7.7 11.5 11.5 7.7 0.0 3.8 3.8 0.0 15.4 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 181 H B Bantz Orville L. Computers And Business
+N
+N
+GF
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+1
+1
+0
+1
+0
+0
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 0.0 23.1 30.8 7.7 7.7 0.0 7.7 0.0 0.0 7.7 0.0 7.7 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

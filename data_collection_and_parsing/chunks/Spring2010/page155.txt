@@ -1,0 +1,276 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Oxford Campus
+Page: 151 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CSA 487
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+3
+3
+0
+1
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 11.8 29.4 17.6 17.6 0.0 5.9 0.0 5.9 0.0 0.0 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 616 A Ozden Mufit Simulation of Physical Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+1
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 9.1 36.4 9.1 27.3 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSA 616
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+1
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 9.1 36.4 9.1 27.3 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 620K A Karro John E. Survey/Computational Methods
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+3.56
+% 0.0 30.0 0.0 30.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 20.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0
+Course Total CSA 620K
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+3.56
+% 0.0 30.0 0.0 30.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 20.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0
+Computer Sci &Systems Analysis Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 16
+234 130 126 216 110 69
+99
+44
+25
+36
+7
+39
+53
+0
+0
+2
+21
+0
+0
+0
+2.91
+% 1.3 19.1 10.6 10.3 17.6 9.0 5.6 8.1 3.6 2.0 2.9 0.6 3.2 4.3 0.0 0.0 0.2 1.7 0.0 0.0 0.0
+GR 1
+6
+1
+6
+1
+0
+0
+1
+0
+0
+0
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+3.53
+% 5.0 30.0 5.0 30.0 5.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 15.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,304 @@
+testRun: 10/17/07 @ 09:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2006-07 Hamilton Campus
+Page: 223 Sections of 10
+ZOO Zoology
+Miami Plan
+Honors
+Cross Listing
+ZOO 113 HOA Philip Benjamin N. Animal Diversity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+1
+0
+2
+5
+2
+2
+1
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 15.0 5.0 0.0 10.0 25.0 10.0 10.0 5.0 10.0 0.0 5.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ZOO 113
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+1
+0
+2
+5
+2
+2
+1
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 15.0 5.0 0.0 10.0 25.0 10.0 10.0 5.0 10.0 0.0 5.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 121 HMA Murray Linda F. Environmental Biology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+1
+1
+2
+2
+0
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+2.81
+% 8.3 0.0 8.3 8.3 16.7 16.7 0.0 16.7 8.3 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 8.3 0.0 0.0 0.0
+Course Total ZOO 121
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+1
+1
+2
+2
+0
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+2.81
+% 8.3 0.0 8.3 8.3 16.7 16.7 0.0 16.7 8.3 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 8.3 0.0 0.0 0.0
+ZOO 161 HOA Brunskill Eric W. Principles Of Human Physiology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+1
+5
+0
+0
+5
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 0.0 36.8 0.0 5.3 26.3 0.0 0.0 26.3 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ZOO 161
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+1
+5
+0
+0
+5
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 0.0 36.8 0.0 5.3 26.3 0.0 0.0 26.3 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 232 HMA Allen Janelle R. Human Heredity
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+1
+0
+1
+2
+2
+1
+1
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 6.7 13.3 6.7 0.0 6.7 13.3 13.3 6.7 6.7 0.0 0.0 0.0 0.0 26.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

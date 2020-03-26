@@ -1,0 +1,306 @@
+testRun: 02/07/05 @ 11:26 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2003-04 Oxford Campus
+Page: 29 Sections of 10
+CSA Computer Sci &Systems Analysis
+Miami Plan
+Honors
+Cross Listing
+CSA 141 MA Tepe Dirk S. Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+13
+2
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 86.7 13.3 0.0 0.0
+CSA 141 MB Zhou Lei Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+11
+1
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 91.7 8.3 0.0 0.0
+CSA 141 OA Stasser Jayne Personal Computer Applications
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+10
+3
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 71.4 21.4 0.0 0.0
+Course Total CSA 141
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+34
+6
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.4 0.0 0.0 82.9 14.6 0.0 0.0
+CSA 151 OA Bloom John Computers,Compter Sci & Socity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+0
+2
+0
+2
+1
+1
+0
+2
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.49
+% 0.0 13.3 13.3 0.0 13.3 0.0 13.3 6.7 6.7 0.0 13.3 6.7 0.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSA 151
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+0
+2
+0
+2
+1
+1
+0
+2
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.49
+% 0.0 13.3 13.3 0.0 13.3 0.0 13.3 6.7 6.7 0.0 13.3 6.7 0.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 163 OA Stahr Michael C. Intro-Computer Concepts & Prog
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+0
+1
+1
+0
+0
+1
+0
+0
+1
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+3.26
+% 8.3 33.3 0.0 8.3 8.3 0.0 0.0 8.3 0.0 0.0 8.3 0.0 0.0 16.7 0.0 0.0 0.0 8.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

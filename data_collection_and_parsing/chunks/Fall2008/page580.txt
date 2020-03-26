@@ -1,0 +1,305 @@
+testRun: 01/20/09 @ 12:44 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2008-09 Oxford Campus
+Page: 577 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+SPN 315 B Dominguez-Burdalo Jose M. Intro to Hispanic Literatures
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+2
+4
+1
+0
+1
+0
+0
+1
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 0.0 21.1 15.8 10.5 21.1 5.3 0.0 5.3 0.0 0.0 5.3 0.0 0.0 15.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 315 C Layera Ramon Intro to Hispanic Literatures
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+6
+8
+3
+0
+1
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.04
+% 0.0 0.0 27.3 36.4 13.6 0.0 4.5 9.1 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 315 D Layera Ramon Intro to Hispanic Literatures
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+1
+2
+3
+1
+4
+1
+1
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.60
+% 0.0 9.1 18.2 4.5 9.1 13.6 4.5 18.2 4.5 4.5 4.5 0.0 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 315 E Wilhite Valerie M. Intro to Hispanic Literatures
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+6
+4
+7
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.46
+% 17.4 26.1 17.4 30.4 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPN 315
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+15
+18
+23
+11
+6
+3
+7
+5
+2
+2
+1
+2
+5
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 3.8 14.4 17.3 22.1 10.6 5.8 2.9 6.7 4.8 1.9 1.9 1.0 1.9 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 316 C Cruz-Morgado Luciano E. Intermediate Spanish Comp
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+4
+1
+5
+1
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 5.0 20.0 20.0 5.0 25.0 5.0 10.0 5.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPN 316
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+4
+1
+5
+1
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 5.0 20.0 20.0 5.0 25.0 5.0 10.0 5.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

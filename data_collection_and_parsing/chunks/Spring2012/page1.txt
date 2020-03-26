@@ -1,0 +1,121 @@
+testGTraabdlee DofisCtroinbtuetniotsn
+Voa - West Chester Campus
+1
+BIS Integrative Studies
+1
+COM Communication
+1
+ECO Economics
+3
+EDL Educational Leadership
+4
+EDT Teacher Education
+6
+ENG English
+7
+FIN Finance
+8
+FSW Family Studies And Social Work
+9
+GLG Geology
+10
+HST History
+11
+MBI Microbiology
+12
+MGT Management
+13
+MKT Marketing
+14
+NSG Nursing
+15
+PSY Psychology
+16
+SPN Spanish
+17
+WGS Women,Gender&Sexuality Studies
+18
+Oxford Campus
+19
+AAA Asian/Asian American Studies
+20
+ACC Accountancy
+21
+ACE American Culture & English Prg
+34
+AER Aeronautics
+35
+AES Aerospace Studies
+36
+AMS American Studies
+39
+ARB Arabic
+45
+ARC Architecture & Interior Design
+47
+ART Art
+57
+ATH Anthropology
+73
+BLS Business Legal Studies
+79
+BOT Botany
+84
+BUS Business Analysis
+91
+BWS Black World Studies
+102
+CFA Combined Fine Arts
+104
+CHI Chinese
+106
+CHM Chemistry & Biochemistry
+110
+CLS Classics
+121
+CMS Comparative Media Studies
+124
+COM Communication
+125
+CPE Chemical & Paper Engineering
+142
+CSE Comp Sci &Software Engineering
+147
+DSC Decision Sciences
+161
+DST Disability Studies
+166
+EAS Engineering & App Science
+167
+ECE Electrical & Computer Engineer
+168
+ECO Economics
+173
+EDL Educational Leadership
+184
+EDP Educational Psychology
+200
+EDT Teacher Education
+215
+EGM Engineering Management
+234
+EHS Education, Health And Society
+235
+ENG English
+236
+ENV Environmental Science
+280
+ESP Entrepreneurship
+281
+FIN Finance
+285
+FRE French
+293
+FST Film Studies
+301
+FSW Family Studies And Social Work
+303
+GEO Geography
+312
+GER German
+321

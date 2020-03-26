@@ -1,0 +1,80 @@
+testCIT Comp Information Technology
+715
+CLS Classics
+716
+COM Communication
+717
+CSA Computer Sci &Systems Analysis
+720
+DSC Decision Sciences
+724
+ECO Economics
+725
+EDL Educational Leadership
+726
+EDP Educational Psychology
+730
+EDT Teacher Education
+731
+ENG English
+734
+ENT Engineering Technology
+744
+FIN Finance
+747
+FRE French
+748
+FST Film Studies
+749
+FSW Family Studies And Social Work
+750
+GEO Geography
+753
+GER German
+754
+GLG Geology
+755
+GTY Gerontology
+757
+HST History
+758
+IDS Interdisciplinary
+762
+LAS Latin American Studies
+763
+MBI Microbiology
+764
+MGT Management
+765
+MIS Management Information Systems
+767
+MKT Marketing
+768
+MTH Mathematics
+769
+MUS Music
+776
+NSG Nursing
+778
+PHL Philosophy
+780
+PHS Phy Edu, Hlth, & Sport Studies
+781
+PHY Physics
+790
+POL Political Science
+791
+PSY Psychology
+793
+SOC Sociology
+795
+SPA Speech Pathology & Audiology
+797
+SPN Spanish
+798
+STA Statistics
+800
+THE Theatre
+801
+ZOO Zoology
+803

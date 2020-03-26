@@ -1,0 +1,134 @@
+testRun: 06/30/04 @ 11:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2000-01 Middletown Campus
+Page: 669 Sections of 10
+STA Statistics
+Miami Plan
+Honors
+Cross Listing
+STA 261S M A Hicks Clay A. Statistics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+0
+5
+5
+1
+2
+0
+0
+4
+1
+1
+1
+0
+0
+0
+0
+0
+0
+2.18
+% 0.0 4.2 8.3 4.2 0.0 20.8 20.8 4.2 8.3 0.0 0.0 16.7 4.2 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total STA 261S
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+0
+5
+5
+1
+2
+0
+0
+4
+1
+1
+1
+0
+0
+0
+0
+0
+0
+2.18
+% 0.0 4.2 8.3 4.2 0.0 20.8 20.8 4.2 8.3 0.0 0.0 16.7 4.2 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0
+Statistics Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+1
+2
+1
+0
+5
+5
+1
+2
+0
+0
+4
+1
+1
+1
+0
+0
+0
+0
+0
+0
+2.18
+% 0.0 4.2 8.3 4.2 0.0 20.8 20.8 4.2 8.3 0.0 0.0 16.7 4.2 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

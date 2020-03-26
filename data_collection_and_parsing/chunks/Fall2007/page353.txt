@@ -1,0 +1,350 @@
+testRun: 01/17/08 @ 12:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2007-08 Oxford Campus
+Page: 350 Sections of 10
+ITL 221 A Matteo Sante Italy, Matrix of Civilization
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+2
+4
+4
+4
+3
+3
+2
+0
+% 0.0 7.7 15.4 15.4 15.4 11.5 11.5 7.7 0.0
+ITL 221 B Matteo Sante Italy, Matrix of Civilization
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+0
+1
+7
+4
+0
+5
+0
+1
+% 0.0 0.0 4.5 31.8 18.2 0.0 22.7 0.0 4.5
+Course Total ITL 221
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+2
+5
+11
+8
+3
+8
+2
+1
+% 0.0 4.2 10.4 22.9 16.7 6.3 16.7 4.2 2.1
+ITL 262 A Matteo Sante Italian Cinema
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+2
+4
+4
+3
+1
+3
+0
+1
+% 0.0 10.0 20.0 20.0 15.0 5.0 15.0 0.0 5.0
+Course Total ITL 262
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+2
+4
+4
+3
+1
+3
+0
+1
+% 0.0 10.0 20.0 20.0 15.0 5.0 15.0 0.0 5.0
+ITL 301 A Matteo Sante Intro To Italian Literature
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1 % 5.0
+2
+1
+10.0 5.0
+2
+6
+2
+1
+10.0 30.0 10.0 5.0
+2
+1
+10.0 5.0
+Course Total ITL 301
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1 % 5.0
+2
+1
+10.0 5.0
+2
+6
+2
+1
+10.0 30.0 10.0 5.0
+2
+1
+10.0 5.0
+D+ D
+D-
+1
+0
+0
+3.8 0.0 0.0
+D+ D
+D-
+3
+0
+0
+13.6 0.0 0.0
+D+ D
+D-
+4
+0
+0
+8.3 0.0 0.0
+D+ D
+D-
+0
+0
+0
+0.0 0.0 0.0
+D+ D
+D-
+0
+0
+0
+0.0 0.0 0.0
+D+ D
+D-
+0
+2
+0
+0.0 10.0 0.0
+D+ D
+D-
+0
+2
+0
+0.0 10.0 0.0
+F
+W
+0
+1
+0.0 3.8
+F
+W
+0
+1
+0.0 4.5
+F
+W
+0
+2
+0.0 4.2
+F
+W
+2
+0
+10.0 0.0
+F
+W
+2
+0
+10.0 0.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+Y
+I
+X
+0
+2
+0.0 7.7
+Y
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+2
+0.0 4.2
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.97
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.66
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.82
+0.0 0.0 0.0
+N
+JI
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.82
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.82
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.79
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.79
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

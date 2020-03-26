@@ -1,0 +1,307 @@
+testRun: 01/21/10 @ 13:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2009-10 Oxford Campus
+Page: 567 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total SPN 201
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+21
+34
+31
+84
+40
+26
+36
+16
+11
+17
+2
+6
+21
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 0.6 6.1 9.8 8.9 24.2 11.5 7.5 10.4 4.6 3.2 4.9 0.6 1.7 6.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 202 A Smidakova Bohumira Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+6
+3
+3
+4
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 0.0 17.4 26.1 13.0 13.0 17.4 4.3 4.3 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 202 B del-Teso-Craviotto Marisol Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+4
+7
+4
+3
+0
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.54
+% 0.0 3.6 7.1 10.7 14.3 25.0 14.3 10.7 0.0 0.0 10.7 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 202 C del-Teso-Craviotto Marisol Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+2
+3
+2
+2
+4
+2
+0
+0
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.74
+% 0.0 4.0 20.0 8.0 12.0 8.0 8.0 16.0 8.0 0.0 0.0 4.0 0.0 12.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 202 D Motta David F. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+2
+6
+3
+4
+6
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.50
+% 0.0 0.0 10.7 7.1 21.4 10.7 14.3 21.4 3.6 7.1 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 202 E Motta David F. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+0
+11
+3
+1
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 0.0 8.7 17.4 0.0 47.8 13.0 4.3 0.0 0.0 0.0 4.3 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 202 F Motta David F. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+0
+4
+4
+3
+1
+2
+1
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.43
+% 0.0 0.0 10.0 0.0 20.0 20.0 15.0 5.0 10.0 5.0 0.0 0.0 5.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

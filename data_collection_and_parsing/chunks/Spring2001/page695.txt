@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Hamilton Campus
+Page: 692 Sections of 10
+ECO Economics
+Miami Plan
+Honors
+Cross Listing
+ECO 201 H A Mujumdar Sudesh Principles Of Microeconomics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+10
+7
+7
+2
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+3.30
+% 11.4 28.6 20.0 20.0 5.7 2.9 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 8.6 0.0 0.0 0.0 0.0 0.0
+ECO 201 H B Mujumdar Sudesh Principles Of Microeconomics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+10
+8
+6
+5
+3
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 10.3 25.6 20.5 15.4 12.8 7.7 5.1 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 201
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+8
+20
+15
+13
+7
+4
+2
+0
+1
+0
+1
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+3.37
+% 10.8 27.0 20.3 17.6 9.5 5.4 2.7 0.0 1.4 0.0 1.4 0.0 0.0 0.0 0.0 4.1 0.0 0.0 0.0 0.0 0.0
+ECO 202 H A Mujumdar Sudesh Principles Of Macroeconomics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+5
+8
+15
+2
+3
+0
+0
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+3.05
+% 0.0 18.2 11.4 18.2 34.1 4.5 6.8 0.0 0.0 0.0 0.0 0.0 2.3 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0
+ECO 202 H B Mujumdar Sudesh Principles Of Macroeconomics
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+10
+16
+12
+11
+2
+3
+1
+0
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.32
+% 1.7 16.9 27.1 20.3 18.6 3.4 5.1 1.7 0.0 3.4 0.0 0.0 0.0 1.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 202
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+18
+21
+20
+26
+4
+6
+1
+0
+2
+0
+0
+1
+1
+0
+2
+0
+0
+0
+0
+0
+3.20
+% 1.0 17.5 20.4 19.4 25.2 3.9 5.8 1.0 0.0 1.9 0.0 0.0 1.0 1.0 0.0 1.9 0.0 0.0 0.0 0.0 0.0
+Economics Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 9
+38
+36
+33
+33
+8
+8
+1
+1
+2
+1
+0
+1
+1
+0
+5
+0
+0
+0
+0
+0
+3.28
+% 5.1 21.5 20.3 18.6 18.6 4.5 4.5 0.6 0.6 1.1 0.6 0.0 0.6 0.6 0.0 2.8 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,259 @@
+testRun: 07/07/05 @ 10:09 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2004-05 Oxford Campus
+Page: 374 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MKT 491 E Rosenthal David W. Marketing Strategy
+N
+N
+NV
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+0
+8
+7
+1
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.60
+% 0.0 0.0 4.0 0.0 32.0 28.0 4.0 32.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 491 F Gifford John B. Marketing Strategy
+N
+N
+KD
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2
+13
+5
+1
+4
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.78
+% 0.0 0.0 0.0 7.7 50.0 19.2 3.8 15.4 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 491 G Gifford John B. Marketing Strategy
+N
+N
+GE
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+1
+8
+5
+2
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 0.0 4.5 4.5 36.4 22.7 9.1 22.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 491 I Walton John R. Marketing Strategy
+N
+N
+ET
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+4
+10
+3
+2
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 7.1 10.7 14.3 35.7 10.7 7.1 10.7 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 491
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+8
+21
+60
+41
+12
+28
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.79
+% 0.0 1.7 4.5 11.9 34.1 23.3 6.8 15.9 1.1 0.0 0.0 0.0 0.0 0.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Marketing Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 14
+281 313 319 598 226 117 156 24
+7
+8
+4
+7
+26
+10
+5
+1
+0
+0
+0
+0
+3.10
+% 0.7 13.3 14.8 15.1 28.3 10.7 5.5 7.4 1.1 0.3 0.4 0.2 0.3 1.2 0.5 0.2 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

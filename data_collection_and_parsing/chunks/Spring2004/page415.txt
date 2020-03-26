@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Oxford Campus
+Page: 412 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MUS 188 A Sperry Ethan L. The Music of Russia
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+12
+6
+4
+1
+0
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 0.0 38.1 28.6 14.3 9.5 2.4 0.0 2.4 2.4 0.0 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MUS 188
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+12
+6
+4
+1
+0
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 0.0 38.1 28.6 14.3 9.5 2.4 0.0 2.4 2.4 0.0 0.0 0.0 2.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MUS 189 A Averbach Ricardo F. Great Ideas In Western Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+8
+1
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+3.75
+% 36.0 32.0 4.0 0.0 0.0 16.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 8.0 0.0 0.0 0.0
+MUS 189 B Papanikolaou Eftychia Great Ideas In Western Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+23
+29
+17
+13
+4
+1
+1
+0
+1
+0
+0
+0
+0
+1
+0
+0
+6
+0
+0
+0
+3.52
+% 5.0 22.8 28.7 16.8 12.9 4.0 1.0 1.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0 5.9 0.0 0.0 0.0
+MUS 189 C Stanley Jerome Great Ideas In Western Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+10
+10
+0
+16
+0
+0
+2
+0
+0
+0
+0
+0
+1
+1
+0
+0
+9
+0
+0
+0
+3.41
+% 2.0 20.0 20.0 0.0 32.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 2.0 2.0 0.0 0.0 18.0 0.0 0.0 0.0
+Course Total MUS 189
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+15
+41
+40
+17
+29
+8
+1
+3
+0
+1
+0
+0
+0
+1
+3
+0
+0
+17
+0
+0
+0
+3.52
+% 8.5 23.3 22.7 9.7 16.5 4.5 0.6 1.7 0.0 0.6 0.0 0.0 0.0 0.6 1.7 0.0 0.0 9.7 0.0 0.0 0.0
+MUS 189H A Papanikolaou Eftychia Great Ideas In Western Music
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+5
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.68
+% 0.0 52.4 23.8 4.8 9.5 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

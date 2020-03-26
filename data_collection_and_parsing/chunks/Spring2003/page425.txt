@@ -1,0 +1,308 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 422 Sections of 10
+PHL Philosophy
+Miami Plan
+Honors
+Cross Listing
+PHL 101 A Momeyer Richard W. Knowledge World,God,Morality
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+5
+2
+5
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.51
+% 4.2 33.3 20.8 8.3 20.8 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0
+PHL 101 B Momeyer Richard W. Knowledge World,God,Morality
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+2
+13
+0
+1
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.03
+% 0.0 9.1 4.5 9.1 59.1 0.0 4.5 9.1 0.0 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0
+PHL 101 C Momeyer Richard W. Knowledge World,God,Morality
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+9
+2
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.01
+% 0.0 9.5 9.5 9.5 42.9 9.5 0.0 9.5 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+PHL 101 D Momeyer Richard W. Knowledge World,God,Morality
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+2
+11
+0
+1
+2
+1
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 16.7 0.0 8.3 45.8 0.0 4.2 8.3 4.2 0.0 4.2 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHL 101 E Momeyer Richard W. Knowledge World,God,Morality
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+6
+9
+0
+0
+0
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 0.0 4.3 17.4 26.1 39.1 0.0 0.0 0.0 4.3 0.0 0.0 0.0 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHL 101 F Momeyer Richard W. Knowledge World,God,Morality
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+2
+8
+0
+1
+4
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 10.0 5.0 10.0 40.0 0.0 5.0 20.0 0.0 0.0 0.0 0.0 5.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHL 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+19
+13
+16
+55
+2
+5
+10
+3
+0
+1
+0
+2
+3
+2
+0
+0
+2
+0
+0
+0
+3.06
+% 0.7 14.2 9.7 11.9 41.0 1.5 3.7 7.5 2.2 0.0 0.7 0.0 1.5 2.2 1.5 0.0 0.0 1.5 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

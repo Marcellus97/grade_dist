@@ -1,0 +1,299 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 142 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CPE 341
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+5
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.68
+% 23.1 38.5 0.0 23.1 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CPE 403 B Lalvani Shashi B. Heat Transfer
+N
+N
+FJ
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+1
+1
+2
+2
+1
+1
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.25
+% 0.0 7.7 0.0 7.7 7.7 15.4 15.4 7.7 7.7 0.0 23.1 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CPE 403
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+1
+1
+2
+2
+1
+1
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.25
+% 0.0 7.7 0.0 7.7 7.7 15.4 15.4 7.7 7.7 0.0 23.1 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CPE 404 A Coffin Douglas W. Papermaking
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 0.0 58.3 0.0 25.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CPE 404
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 0.0 58.3 0.0 25.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CPE 414 A Paluch Andrew S. Mass Transfer
+N
+N
+0Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+2
+5
+3
+6
+3
+1
+2
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 16.7 6.7 16.7 10.0 20.0 10.0 3.3 6.7 3.3 3.3 0.0 0.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CPE 414
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+2
+5
+3
+6
+3
+1
+2
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 16.7 6.7 16.7 10.0 20.0 10.0 3.3 6.7 3.3 3.3 0.0 0.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

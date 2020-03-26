@@ -1,0 +1,298 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Hamilton Campus
+Page: 788 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CSE 174 H A Werner Laurena A. Fundmntls-Progrming&Prob Solvg
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+1
+0
+0
+1
+1
+4
+0
+0
+4
+1
+5
+8
+0
+0
+0
+0
+0
+0
+0
+1.78
+% 6.9 6.9 3.4 0.0 0.0 3.4 3.4 13.8 0.0 0.0 13.8 3.4 17.2 27.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSE 174
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+1
+0
+0
+1
+1
+4
+0
+0
+4
+1
+5
+8
+0
+0
+0
+0
+0
+0
+0
+1.78
+% 6.9 6.9 3.4 0.0 0.0 3.4 3.4 13.8 0.0 0.0 13.8 3.4 17.2 27.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 271 H A Courte Jill E. Object-Oriented Programming
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+3
+2
+0
+1
+2
+0
+1
+2
+1
+4
+2
+0
+0
+0
+0
+0
+0
+0
+2.16
+% 0.0 8.7 13.0 13.0 8.7 0.0 4.3 8.7 0.0 4.3 8.7 4.3 17.4 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSE 271
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+3
+2
+0
+1
+2
+0
+1
+2
+1
+4
+2
+0
+0
+0
+0
+0
+0
+0
+2.16
+% 0.0 8.7 13.0 13.0 8.7 0.0 4.3 8.7 0.0 4.3 8.7 4.3 17.4 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 283 H A Jarvis Ernest G. Data Communications & Network
+N
+N
+0Q
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+2
+1
+1
+2
+1
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.68
+% 0.0 7.1 14.3 7.1 14.3 7.1 7.1 14.3 7.1 0.0 0.0 7.1 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSE 283
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+2
+1
+1
+2
+1
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.68
+% 0.0 7.1 14.3 7.1 14.3 7.1 7.1 14.3 7.1 0.0 0.0 7.1 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Comp Sci &Software Engineering Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 5
+28
+17
+16
+33
+14
+28
+25
+14
+8
+14
+5
+25
+31
+0
+0
+0
+1
+0
+0
+0
+2.37
+% 1.9 10.6 6.4 6.1 12.5 5.3 10.6 9.5 5.3 3.0 5.3 1.9 9.5 11.7 0.0 0.0 0.0 0.4 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

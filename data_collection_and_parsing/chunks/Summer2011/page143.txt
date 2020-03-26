@@ -1,0 +1,304 @@
+testRun: 01/09/12 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Semester, 2010-11 Oxford Campus
+Page: 140 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ZOO 6985
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+26
+49
+9
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.92
+% 29.5 55.7 10.2 2.3 0.0 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ZOO 6986 A Myers Christopher A. Guyana:LocalWisdom&Conservatin
+N
+N
+CO
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+2
+2
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+2
+0
+0
+0
+0
+3.34
+% 0.0 25.0 25.0 12.5 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.3 6.3 0.0 0.0 12.5 0.0 0.0 0.0 0.0
+Course Total ZOO 6986
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+2
+2
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+2
+0
+0
+0
+0
+3.34
+% 0.0 25.0 25.0 12.5 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.3 6.3 0.0 0.0 12.5 0.0 0.0 0.0 0.0
+ZOO 6987 A Myers Christopher A. AIP:Env Stewardship inmy Commn
+N
+N
+EB
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+11
+0
+0
+0
+0
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.57
+% 16.7 61.1 0.0 0.0 0.0 0.0 0.0 5.6 5.6 0.0 5.6 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0
+Course Total ZOO 6987
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+11
+0
+0
+0
+0
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.57
+% 16.7 61.1 0.0 0.0 0.0 0.0 0.0 5.6 5.6 0.0 5.6 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0
+ZOO 698F A Myers Christopher A. Belize:Maya Forest&Marine Ecol
+N
+N
+BS
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+4
+5
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.60
+% 9.5 28.6 19.0 23.8 9.5 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0
+ZOO 698F B Myers Christopher A. Belize:Maya Forest&Marine Ecol
+N
+N
+BT
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+2
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.69
+% 0.0 72.2 11.1 0.0 5.6 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2003-04 Oxford Campus
+Page: 296 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+GER 251 B Carter Alicia L. German Lit In Translation
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+10
+2
+5
+3
+1
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+3.48
+% 0.0 30.6 27.8 5.6 13.9 8.3 2.8 2.8 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 2.8 0.0 0.0 0.0
+Course Total GER 251
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+10
+2
+5
+3
+1
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+3.48
+% 0.0 30.6 27.8 5.6 13.9 8.3 2.8 2.8 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 2.8 0.0 0.0 0.0
+GER 252 A Rose Sven-Erik The German-Jewish Experiences
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+10
+6
+3
+2
+3
+2
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 0.0 12.1 30.3 18.2 9.1 6.1 9.1 6.1 3.0 0.0 0.0 0.0 3.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GER 252
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+10
+6
+3
+2
+3
+2
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 0.0 12.1 30.3 18.2 9.1 6.1 9.1 6.1 3.0 0.0 0.0 0.0 3.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GER 301 A DiDonato Robert Adv Ger Compositn & Conversatn
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+6
+4
+8
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 3.7 25.9 22.2 14.8 29.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GER 301
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+6
+4
+8
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 3.7 25.9 22.2 14.8 29.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GER 309 B Jeep John M. Introduction To Linguistics
+Y
+N
+B2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+2
+2
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.05
+% 0.0 10.0 10.0 10.0 20.0 20.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

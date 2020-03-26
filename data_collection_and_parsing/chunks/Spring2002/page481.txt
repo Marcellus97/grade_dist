@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 478 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+POL 221 D Ziegler Melanie M. Modern World Governments
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+4
+7
+4
+5
+3
+5
+2
+0
+1
+0
+0
+2
+0
+2
+0
+0
+0
+0
+0
+2.90
+% 0.0 22.2 8.9 15.6 8.9 11.1 6.7 11.1 4.4 0.0 2.2 0.0 0.0 4.4 0.0 4.4 0.0 0.0 0.0 0.0 0.0
+POL 221 E Ganev Venelin I. Modern World Governments
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+7
+6
+8
+8
+5
+3
+3
+3
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 19.3 12.3 10.5 14.0 14.0 8.8 5.3 5.3 5.3 3.5 0.0 0.0 0.0 1.8 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total POL 221
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+44
+48
+36
+28
+27
+14
+15
+8
+4
+4
+0
+2
+6
+4
+4
+0
+6
+0
+0
+0
+3.06
+% 1.2 17.4 19.0 14.2 11.1 10.7 5.5 5.9 3.2 1.6 1.6 0.0 0.8 2.4 1.6 1.6 0.0 2.4 0.0 0.0 0.0
+POL 230L LTA Hakenberg Michael Intro to the European Union
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+4
+4
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 0.0 5.6 22.2 22.2 22.2 22.2 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total POL 230L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+4
+4
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 0.0 5.6 22.2 22.2 22.2 22.2 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+POL 261 A Choudhury Enamul H. Public Administration
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+8
+10
+9
+7
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.27
+% 0.0 22.0 16.0 20.0 18.0 14.0 8.0 2.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+POL 261 B Berdieva Dilchoda N. Public Administration
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+3
+4
+2
+5
+2
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 0.0 24.0 12.0 16.0 8.0 20.0 8.0 8.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,218 @@
+testRun: 10/08/10 @ 11:34 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2009-10 Middletown Campus
+Page: 139 Sections of 10
+ACC Accountancy
+Miami Plan
+Honors
+Cross Listing
+ACC 221 MMA Metcalf Christopher C. Intro To Financial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+2
+0
+0
+1
+0
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 36.4 18.2 0.0 0.0 9.1 0.0 9.1 18.2 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 221
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+2
+0
+0
+1
+0
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 36.4 18.2 0.0 0.0 9.1 0.0 9.1 18.2 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ACC 222 MOA Metcalf Christopher C. Intro To Managerial Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+2
+10
+0
+3
+2
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 20.8 0.0 8.3 41.7 0.0 12.5 8.3 0.0 0.0 0.0 0.0 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ACC 222
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+2
+10
+0
+3
+2
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 20.8 0.0 8.3 41.7 0.0 12.5 8.3 0.0 0.0 0.0 0.0 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Accountancy Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 4
+7
+0
+2
+11
+0
+4
+4
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 11.4 20.0 0.0 5.7 31.4 0.0 11.4 11.4 0.0 0.0 2.9 0.0 2.9 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

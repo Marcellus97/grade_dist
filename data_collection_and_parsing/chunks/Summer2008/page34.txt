@@ -1,0 +1,325 @@
+testRun: 12/01/08 @ 14:45 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2007-08 Oxford Campus
+Page: 32 Sections of 10
+DSC Decision Sciences
+Miami Plan
+Honors
+Cross Listing
+DSC 205 MA Jobe John M. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+12
+0
+0
+6
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 22.2 0.0 0.0 44.4 0.0 0.0 22.2 0.0 0.0 0.0 0.0 3.7 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total DSC 205
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+12
+0
+0
+6
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 22.2 0.0 0.0 44.4 0.0 0.0 22.2 0.0 0.0 0.0 0.0 3.7 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+DSC 601 NA Koehler Anne B. Quantitative Business Analysis
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+26
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 0.0 96.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total DSC 601
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+26
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 0.0 96.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+DSC 602 NA Krehbiel Timothy C. Graduate Survey In Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+4
+3
+7
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.57
+% 0.0 44.4 14.8 11.1 25.9 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total DSC 602
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+4
+3
+7
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.57
+% 0.0 44.4 14.8 11.1 25.9 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Decision Sciences Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+6
+0
+0
+12
+0
+0
+6
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 22.2 0.0 0.0 44.4 0.0 0.0 22.2 0.0 0.0 0.0 0.0 3.7 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GR 0
+38
+4
+3
+7
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 0.0 70.4 7.4 5.6 13.0 1.9 0.0 0.0 0.0 0.0 1.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

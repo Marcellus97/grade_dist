@@ -1,0 +1,338 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Hamilton Campus
+Page: 731 Sections of 10
+HST 121 H B Vascik George S. Western Civilization
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+5
+3
+2
+1
+3
+2
+1
+2
+% 0.0 3.6 17.9 10.7 7.1 3.6 10.7 7.1 3.6 7.1
+HST 121 H C Carrafiello Michael L. Western Civilization
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+4
+7
+3
+5
+3
+0
+2
+0
+0
+% 0.0 11.8 20.6 8.8 14.7 8.8 0.0 5.9 0.0 0.0
+HST 121 H D Stannish Steven M. Western Civilization
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+0
+0
+0
+1
+3
+1
+1
+0
+0
+% 5.0 0.0 0.0 0.0 5.0 15.0 5.0 5.0 0.0 0.0
+HST 121 H E Stannish Steven M. Western Civilization
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+0
+3
+4
+0
+2
+4
+0
+0
+% 0.0 3.3 0.0 10.0 13.3 0.0 6.7 13.3 0.0 0.0
+HST 121 H F Vascik George S. Western Civilization
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+0
+3
+2
+0
+2
+2
+1
+5
+1
+% 4.5 0.0 13.6 9.1 0.0 9.1 9.1 4.5 22.7 4.5
+Course Total HST 121
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+2
+9
+17
+13
+13
+10
+9
+10
+6
+4
+% 1.4 6.1 11.5 8.8 8.8 6.8 6.1 6.8 4.1 2.7
+HST 212 H A Foster Carrie A. Recent Amer Hst 1945 - Present
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+3
+1
+24
+2
+0
+3
+0
+0
+% 0.0 2.6 7.7 2.6 61.5 5.1 0.0 7.7 0.0 0.0
+D
+D-
+F
+W
+WP
+0
+1
+6
+1
+0
+0.0 3.6 21.4 3.6 0.0
+D
+D-
+F
+W
+WP
+1
+1
+3
+3
+1
+2.9 2.9 8.8 8.8 2.9
+D
+D-
+F
+W
+WP
+3
+2
+3
+3
+0
+15.0 10.0 15.0 15.0 0.0
+D
+D-
+F
+W
+WP
+4
+2
+6
+2
+0
+13.3 6.7 20.0 6.7 0.0
+D
+D-
+F
+W
+WP
+1
+0
+2
+1
+1
+4.5 0.0 9.1 4.5 4.5
+Miami Plan
+Y
+WF I
+X
+0
+0
+0
+0.0 0.0 0.0
+Y
+WF I
+X
+1
+0
+0
+2.9 0.0 0.0
+Y
+WF I
+X
+2
+0
+0
+10.0 0.0 0.0
+Y
+WF I
+X
+2
+0
+0
+6.7 0.0 0.0
+Y
+WF I
+X
+0
+0
+0
+0.0 0.0 0.0
+D
+D-
+F
+W
+WP WF I
+X
+9
+6
+20
+12
+3
+5
+0
+0
+6.1 4.1 13.5 8.1 2.0 3.4 0.0 0.0
+N
+D
+D-
+F
+W
+WP WF I
+X
+0
+0
+2
+1
+1
+0
+1
+0
+0.0 0.0 5.1 2.6 2.6 0.0 2.6 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.11
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.69
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.40
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.57
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.23
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.14
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.83
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

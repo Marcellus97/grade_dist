@@ -1,0 +1,305 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 394 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+KNH 102 H Kwon Sockju Fundamentals of Nutrition
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+8
+0
+0
+3
+0
+1
+0
+0
+0
+0
+1
+4
+0
+0
+0
+0
+0
+0
+0
+3.32
+% 0.0 22.7 36.4 0.0 0.0 13.6 0.0 4.5 0.0 0.0 0.0 0.0 4.5 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 102 UA Allsopp Marie A. Fundamentals of Nutrition
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+6
+1
+2
+0
+1
+0
+2
+1
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 0.0 36.0 24.0 4.0 8.0 0.0 4.0 0.0 8.0 4.0 4.0 0.0 0.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 102 UB Allsopp Marie A. Fundamentals of Nutrition
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+2
+2
+1
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.70
+% 0.0 63.6 9.1 9.1 4.5 4.5 0.0 4.5 0.0 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 102 UC Allsopp Marie A. Fundamentals of Nutrition
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+2
+1
+0
+2
+1
+0
+0
+0
+0
+4
+1
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 0.0 54.2 0.0 8.3 4.2 0.0 8.3 4.2 0.0 0.0 0.0 0.0 16.7 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 102 UD Willmore Sharman E. Fundamentals of Nutrition
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+4
+2
+1
+1
+0
+1
+1
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 51.9 14.8 7.4 3.7 3.7 0.0 3.7 3.7 0.0 3.7 0.0 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 102
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+182 46
+21
+22
+13
+7
+12
+6
+2
+3
+0
+8
+11
+0
+0
+1
+3
+0
+0
+0
+3.49
+% 0.0 54.0 13.6 6.2 6.5 3.9 2.1 3.6 1.8 0.6 0.9 0.0 2.4 3.3 0.0 0.0 0.3 0.9 0.0 0.0 0.0
+KNH 103 A Parkinson Nancy S. Intro to Dietetics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+20
+0
+1
+6
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.75
+% 0.0 71.4 0.0 3.6 21.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

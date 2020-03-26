@@ -1,0 +1,306 @@
+testRun: 07/08/13 @ 16:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2012-13 Oxford Campus
+Page: 580 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total SPN 102
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+6
+14
+12
+15
+10
+8
+6
+0
+2
+0
+0
+4
+0
+0
+2
+0
+0
+0
+0
+2.84
+% 0.0 11.2 6.7 15.7 13.5 16.9 11.2 9.0 6.7 0.0 2.2 0.0 0.0 4.5 0.0 0.0 2.2 0.0 0.0 0.0 0.0
+SPN 111 A Kuykendoll Megan K. Intensive Basic Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+6
+5
+5
+1
+0
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 8.0 12.0 24.0 20.0 20.0 4.0 0.0 4.0 0.0 0.0 4.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 111 B Kuykendoll Megan K. Intensive Basic Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+2
+1
+2
+2
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.83
+% 0.0 13.3 13.3 13.3 6.7 13.3 13.3 13.3 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 111 C Hunter Brian Intensive Basic Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+7
+1
+4
+2
+0
+0
+0
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 4.3 17.4 30.4 4.3 17.4 8.7 0.0 0.0 0.0 4.3 8.7 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 111 D Kuykendoll Megan K. Intensive Basic Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+3
+3
+4
+4
+2
+1
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 3.7 22.2 11.1 11.1 14.8 14.8 7.4 3.7 3.7 0.0 3.7 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 111 E Hunter Brian Intensive Basic Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+3
+2
+3
+2
+3
+2
+0
+2
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.55
+% 0.0 11.5 11.5 11.5 7.7 11.5 7.7 11.5 7.7 0.0 7.7 3.8 3.8 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 111 F Henson Leah M. Intensive Basic Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+5
+0
+9
+2
+1
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 0.0 20.0 20.0 0.0 36.0 8.0 4.0 4.0 0.0 4.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

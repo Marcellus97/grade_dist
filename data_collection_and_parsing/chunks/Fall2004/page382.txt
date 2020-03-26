@@ -1,0 +1,302 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Oxford Campus
+Page: 379 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MKT 291 I Brandabur Joseph P. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+7
+10
+5
+3
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 0.0 8.6 11.4 20.0 28.6 14.3 8.6 5.7 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 291
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+65
+61
+47
+167 34
+19
+61
+3
+2
+7
+2
+2
+0
+1
+1
+0
+0
+0
+0
+0
+3.01
+% 0.2 13.7 12.9 9.9 35.3 7.2 4.0 12.9 0.6 0.4 1.5 0.4 0.4 0.0 0.2 0.2 0.0 0.0 0.0 0.0 0.0
+MKT 291H A Taylor Janice E. Principles Of Marketing-Honors
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+8
+7
+5
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.46
+% 0.0 15.4 30.8 26.9 19.2 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 291H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+8
+7
+5
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.46
+% 0.0 15.4 30.8 26.9 19.2 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 293 UA Kayne Joseph A. Entrep:Dilemmas and Debates
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+10
+9
+10
+10
+6
+0
+7
+2
+0
+1
+0
+2
+3
+2
+3
+0
+0
+0
+0
+0
+3.00
+% 12.2 13.5 12.2 13.5 13.5 8.1 0.0 9.5 2.7 0.0 1.4 0.0 2.7 4.1 2.7 4.1 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 293
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+10
+9
+10
+10
+6
+0
+7
+2
+0
+1
+0
+2
+3
+2
+3
+0
+0
+0
+0
+0
+3.00
+% 12.2 13.5 12.2 13.5 13.5 8.1 0.0 9.5 2.7 0.0 1.4 0.0 2.7 4.1 2.7 4.1 0.0 0.0 0.0 0.0 0.0
+MKT 311 A Taylor Janice E. Guerrilla Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+10
+6
+14
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 0.0 11.1 27.8 16.7 38.9 0.0 2.8 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

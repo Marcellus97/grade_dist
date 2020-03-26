@@ -1,0 +1,294 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Oxford Campus
+Page: 192 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total EDT 6982
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+48
+149 18
+10
+9
+2
+1
+2
+1
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+3.82
+% 19.8 61.3 7.4 4.1 3.7 0.8 0.4 0.8 0.4 0.0 0.0 0.0 1.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 6988 A McCollum Terry L. Implement System Reform Sci I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+17
+47
+8
+3
+1
+0
+0
+3
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.77
+% 21.0 58.0 9.9 3.7 1.2 0.0 0.0 3.7 0.0 0.0 1.2 0.0 1.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDT 6988
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+17
+47
+8
+3
+1
+0
+0
+3
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.77
+% 21.0 58.0 9.9 3.7 1.2 0.0 0.0 3.7 0.0 0.0 1.2 0.0 1.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 698W A McCollum Terry L. Implementng System Reform MTHI
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+21
+287 7
+6
+10
+1
+0
+3
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.91
+% 6.2 85.2 2.1 1.8 3.0 0.3 0.0 0.9 0.0 0.0 0.0 0.0 0.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDT 698W
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+21
+287 7
+6
+10
+1
+0
+3
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.91
+% 6.2 85.2 2.1 1.8 3.0 0.3 0.0 0.9 0.0 0.0 0.0 0.0 0.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 698Y A McCollum Terry L. Implementing Sys Reform/MTH II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+105 200 31
+9
+13
+0
+3
+5
+0
+0
+0
+0
+4
+1
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 28.3 53.9 8.4 2.4 3.5 0.0 0.8 1.3 0.0 0.0 0.0 0.0 1.1 0.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDT 698Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+105 200 31
+9
+13
+0
+3
+5
+0
+0
+0
+0
+4
+1
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 28.3 53.9 8.4 2.4 3.5 0.0 0.8 1.3 0.0 0.0 0.0 0.0 1.1 0.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

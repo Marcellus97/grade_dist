@@ -1,0 +1,62 @@
+testECO Economics
+692
+EDL Educational Leadership
+693
+EDP Educational Psychology
+696
+EDT Teacher Education
+697
+ENG English
+700
+ENT Engineering Technology
+709
+FIN Finance
+712
+FRE French
+713
+FSW Family Studies And Social Work
+714
+GEO Geography
+716
+GLG Geology
+717
+HST History
+719
+MBI Microbiology
+723
+MGT Management
+724
+MIS Management Information Systems
+725
+MKT Marketing
+726
+MTH Mathematics
+727
+MUS Music
+733
+NSG Nursing
+735
+PHL Philosophy
+737
+PHS Phy Edu, Hlth, & Sport Studies
+738
+PHY Physics
+743
+POL Political Science
+744
+PSY Psychology
+745
+SAN Systems Analysis
+747
+SOC Sociology
+752
+SPA Speech Pathology & Audiology
+754
+SPN Spanish
+755
+STA Statistics
+756
+THE Theatre
+757
+ZOO Zoology
+759

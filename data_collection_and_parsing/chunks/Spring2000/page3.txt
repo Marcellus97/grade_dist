@@ -1,0 +1,58 @@
+testENG English
+696
+ENT Engineering Technology
+705
+FIN Finance
+707
+FRE French
+708
+FSW Family Studies And Social Work
+709
+GEO Geography
+710
+GER German
+711
+GLG Geology
+712
+HST History
+714
+IDS Interdisciplinary
+718
+MBI Microbiology
+719
+MGT Management
+720
+MIS Management Information Systems
+721
+MKT Marketing
+722
+MTH Mathematics
+723
+MUS Music
+730
+NSG Nursing
+733
+PHL Philosophy
+735
+PHS Phy Edu, Hlth, & Sport Studies
+736
+PHY Physics
+742
+POL Political Science
+743
+PSY Psychology
+745
+REL Comparative Religion
+747
+SAN Systems Analysis
+748
+SOC Sociology
+752
+SPN Spanish
+753
+STA Statistics
+754
+THE Theatre
+755
+ZOO Zoology
+757

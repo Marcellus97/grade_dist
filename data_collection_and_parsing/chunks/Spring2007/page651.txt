@@ -1,0 +1,336 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Middletown Campus
+Page: 648 Sections of 10
+HST History
+HST 111 M A Chesen Judy A. Survey Of American History
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+0
+2
+0
+0
+4
+0
+0
+1
+1
+0
+1
+% 0.0 11.8 0.0 0.0 23.5 0.0 0.0 5.9 5.9 0.0 5.9
+HST 111 M B Chesen Judy A. Survey Of American History
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+0
+2
+1
+0
+1
+0
+0
+0
+0
+0
+1
+% 0.0 10.5 5.3 0.0 5.3 0.0 0.0 0.0 0.0 0.0 5.3
+HST 111 M C Chesen Judy A. Survey Of American History
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+0
+4
+3
+0
+3
+2
+0
+1
+2
+0
+0
+% 0.0 19.0 14.3 0.0 14.3 9.5 0.0 4.8 9.5 0.0 0.0
+HST 111 M D Morton Jack D. Survey Of American History
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+0
+0
+4
+2
+7
+4
+2
+2
+1
+1
+0
+% 0.0 0.0 15.4 7.7 26.9 15.4 7.7 7.7 3.8 3.8 0.0
+Course Total HST 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+0
+8
+8
+2
+15
+6
+2
+4
+4
+1
+2
+% 0.0 9.6 9.6 2.4 18.1 7.2 2.4 4.8 4.8 1.2 2.4
+HST 112 M A Schorman Rob Survey Of American History
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+0
+3
+0
+4
+3
+3
+4
+2
+2
+3
+0
+% 0.0 10.3 0.0 13.8 10.3 10.3 13.8 6.9 6.9 10.3 0.0
+HST 112 M B Schorman Rob Survey Of American History
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+0
+2
+2
+1
+6
+3
+2
+4
+3
+1
+1
+% 0.0 6.7 6.7 3.3 20.0 10.0 6.7 13.3 10.0 3.3 3.3
+D-
+F
+W
+WP WF
+0
+4
+4
+0
+0
+0.0 23.5 23.5 0.0 0.0
+D-
+F
+W
+WP WF
+3
+9
+2
+0
+0
+15.8 47.4 10.5 0.0 0.0
+D-
+F
+W
+WP WF
+0
+2
+4
+0
+0
+0.0 9.5 19.0 0.0 0.0
+D-
+F
+W
+WP WF
+0
+2
+1
+0
+0
+0.0 7.7 3.8 0.0 0.0
+D-
+F
+W
+WP WF
+3
+17
+11
+0
+0
+3.6 20.5 13.3 0.0 0.0
+D-
+F
+W
+WP WF
+0
+1
+4
+0
+0
+0.0 3.4 13.8 0.0 0.0
+D-
+F
+W
+WP WF
+0
+1
+4
+0
+0
+0.0 3.3 13.3 0.0 0.0
+Miami Plan
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.90
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.05
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.76
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.59
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.14
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.51
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.49
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

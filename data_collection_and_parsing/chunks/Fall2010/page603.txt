@@ -1,0 +1,365 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Oxford Campus
+Page: 599 Sections of 10
+STA 261 I Bogan Aaron W. Statistics
+A+ A
+A-
+B+
+B
+B-
+C+
+0
+10
+0
+0
+11
+0
+0
+% 0.0 25.0 0.0 0.0 27.5 0.0 0.0
+STA 261 J Bogan Aaron W. Statistics
+A+ A
+A-
+B+
+B
+B-
+C+
+0
+9
+0
+0
+7
+0
+0
+% 0.0 22.0 0.0 0.0 17.1 0.0 0.0
+STA 261 K Bogan Aaron W. Statistics
+A+ A
+A-
+B+
+B
+B-
+C+
+0
+9
+0
+0
+13
+0
+0
+% 0.0 23.7 0.0 0.0 34.2 0.0 0.0
+STA 261 L Hughes Michael R. Statistics
+A+ A
+A-
+B+
+B
+B-
+C+
+0
+1
+1
+2
+3
+3
+1
+% 0.0 3.3 3.3 6.7 10.0 10.0 3.3
+STA 261 M Hughes Michael R. Statistics
+A+ A
+A-
+B+
+B
+B-
+C+
+0
+1
+1
+0
+1
+2
+1
+% 0.0 3.4 3.4 0.0 3.4 6.9 3.4
+STA 261 N Hughes Michael R. Statistics
+A+ A
+A-
+B+
+B
+B-
+C+
+0
+3
+5
+0
+2
+0
+0
+% 0.0 9.7 16.1 0.0 6.5 0.0 0.0
+STA 261 O Hughes Michael R. Statistics
+A+ A
+A-
+B+
+B
+B-
+C+
+0
+1
+1
+2
+5
+1
+2
+% 0.0 3.2 3.2 6.5 16.1 3.2 6.5
+C
+C-
+D+
+10
+0
+0
+25.0 0.0 0.0
+C
+C-
+D+
+14
+0
+0
+34.1 0.0 0.0
+C
+C-
+D+
+11
+0
+0
+28.9 0.0 0.0
+C
+C-
+D+
+5
+3
+2
+16.7 10.0 6.7
+C
+C-
+D+
+5
+3
+1
+17.2 10.3 3.4
+C
+C-
+D+
+5
+4
+2
+16.1 12.9 6.5
+C
+C-
+D+
+4
+2
+3
+12.9 6.5 9.7
+D
+D-
+2
+0
+5.0 0.0
+D
+D-
+4
+0
+9.8 0.0
+D
+D-
+3
+0
+7.9 0.0
+D
+D-
+0
+2
+0.0 6.7
+D
+D-
+2
+2
+6.9 6.9
+D
+D-
+4
+1
+12.9 3.2
+D
+D-
+1
+1
+3.2 3.2
+F
+W
+WP WF
+3
+3
+0
+0
+7.5 7.5 0.0 0.0
+F
+W
+WP WF
+3
+3
+0
+0
+7.3 7.3 0.0 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 5.3 0.0 0.0
+F
+W
+WP WF
+2
+5
+0
+0
+6.7 16.7 0.0 0.0
+F
+W
+WP WF
+3
+7
+0
+0
+10.3 24.1 0.0 0.0
+F
+W
+WP WF
+0
+4
+0
+0
+0.0 12.9 0.0 0.0
+F
+W
+WP WF
+2
+6
+0
+0
+6.5 19.4 0.0 0.0
+Miami Plan
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+1
+0.0 3.2
+Y
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+1
+0
+0
+2.64
+2.5 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+1
+0
+0
+2.41
+2.4 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.78
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.11
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.74
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.33
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.14
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

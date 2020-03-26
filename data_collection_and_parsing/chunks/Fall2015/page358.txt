@@ -1,0 +1,303 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 354 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total IMS 201
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+44
+33
+12
+7
+4
+0
+2
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 6.3 39.3 29.5 10.7 6.3 3.6 0.0 1.8 0.9 0.0 0.0 0.0 0.9 0.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IMS 212 A Dersch Jonathan A. The Design of Play
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+7
+3
+2
+0
+0
+0
+0
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 4.3 30.4 30.4 13.0 8.7 0.0 0.0 0.0 0.0 4.3 0.0 0.0 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IMS 212 B Dersch Jonathan A. The Design of Play
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+4
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.71
+% 5.6 44.4 22.2 11.1 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total IMS 212
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+15
+11
+5
+3
+1
+0
+0
+0
+1
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.54
+% 4.9 36.6 26.8 12.2 7.3 2.4 0.0 0.0 0.0 2.4 0.0 0.0 2.4 4.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IMS 222 A Prozzo Nina A. Web and Interaction Design
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+5
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+3.69
+% 0.0 47.4 26.3 5.3 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0
+IMS 222 B Hollowell Randall A. Web and Interaction Design
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+1
+0
+4
+2
+0
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 4.5 50.0 4.5 0.0 18.2 9.1 0.0 4.5 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+IMS 222 C Berding Jacob P. Web and Interaction Design
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+5
+4
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+1
+0
+0
+0
+3.57
+% 0.0 25.0 25.0 20.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 15.0 5.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

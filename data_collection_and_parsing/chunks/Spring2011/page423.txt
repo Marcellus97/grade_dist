@@ -1,0 +1,148 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Oxford Campus
+Page: 419 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+KNH F117 A Kimiecik John C. First Year Seminar
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.87
+% 0.0 76.2 9.5 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH F117
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.87
+% 0.0 76.2 9.5 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Kinesiology And Health Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 70
+991 330 292 491 188 106 201 54
+38
+55
+22
+21
+92
+0
+0
+23
+1,677 72
+0
+0
+3.24
+% 1.5 21.0 7.0 6.2 10.4 4.0 2.2 4.3 1.1 0.8 1.2 0.5 0.4 1.9 0.0 0.0 0.5 35.5 1.5 0.0 0.0
+GR 3
+32
+31
+12
+12
+5
+3
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+13
+0
+3.54
+% 2.6 28.1 27.2 10.5 10.5 4.4 2.6 0.9 0.9 0.0 0.0 0.0 0.0 0.9 0.0 0.0 0.0 0.0 0.0 11.4 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

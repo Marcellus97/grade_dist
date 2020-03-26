@@ -1,0 +1,308 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2003-04 Oxford Campus
+Page: 340 Sections of 10
+ITS International Studies
+Miami Plan
+Honors
+Cross Listing
+ITS 141L LTA Lakos Ivan A. Euro Cities/Cultre Context-Lux
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+9
+5
+4
+6
+8
+4
+4
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+3.17
+% 6.7 20.0 11.1 8.9 13.3 17.8 8.9 8.9 0.0 0.0 0.0 0.0 0.0 0.0 4.4 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ITS 141L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+9
+5
+4
+6
+8
+4
+4
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+3.17
+% 6.7 20.0 11.1 8.9 13.3 17.8 8.9 8.9 0.0 0.0 0.0 0.0 0.0 0.0 4.4 0.0 0.0 0.0 0.0 0.0 0.0
+ITS 201 A Ehrhardt George Intro To International Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+7
+6
+24
+7
+4
+5
+0
+1
+1
+0
+1
+0
+1
+2
+0
+2
+0
+0
+0
+2.86
+% 1.5 8.8 10.3 8.8 35.3 10.3 5.9 7.4 0.0 1.5 1.5 0.0 1.5 0.0 1.5 2.9 0.0 2.9 0.0 0.0 0.0
+ITS 201 B Houngnikpo Mathurin C. Intro To International Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+4
+21
+20
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 0.0 8.5 44.7 42.6 0.0 2.1 2.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ITS 201 C Houngnikpo Mathurin C. Intro To International Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+7
+30
+16
+0
+0
+1
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 0.0 12.3 52.6 28.1 0.0 0.0 1.8 0.0 0.0 0.0 0.0 0.0 1.8 3.5 0.0 0.0 0.0 0.0 0.0 0.0
+ITS 201 D Ehrhardt George Intro To International Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+3
+4
+26
+3
+4
+6
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 0.0 19.7 4.9 6.6 42.6 4.9 6.6 9.8 1.6 0.0 0.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ITS 201 E Houngnikpo Mathurin C. Intro To International Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+24
+13
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.11
+% 0.0 0.0 2.4 57.1 31.0 0.0 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

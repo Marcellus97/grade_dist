@@ -1,0 +1,303 @@
+testRun: 02/12/16 @ 15:00 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2014-15 Oxford Campus
+Page: 439 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MBI 123 C Lee Marcia R. Experimenting With Microbes
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+6
+4
+2
+2
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.23
+% 4.3 13.0 26.1 17.4 8.7 8.7 8.7 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0
+MBI 123 D Balish Rebecca S. Experimenting With Microbes
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+3
+1
+2
+1
+0
+1
+0
+0
+1
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 6.3 18.8 18.8 6.3 12.5 6.3 0.0 6.3 0.0 0.0 6.3 6.3 0.0 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MBI 123
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+15
+16
+9
+11
+7
+3
+3
+4
+0
+2
+1
+0
+6
+0
+0
+0
+3
+0
+0
+0
+3.19
+% 4.8 17.9 19.0 10.7 13.1 8.3 3.6 3.6 4.8 0.0 2.4 1.2 0.0 7.1 0.0 0.0 0.0 3.6 0.0 0.0 0.0
+MBI 131 A Abshire Kelly Z. Community Health Perspectives
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+31
+19
+13
+15
+10
+8
+13
+3
+1
+0
+0
+0
+0
+0
+0
+0
+6
+0
+0
+0
+3.20
+% 1.7 25.6 15.7 10.7 12.4 8.3 6.6 10.7 2.5 0.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0
+MBI 131 B Cheng Xiao-Wen Community Health Perspectives
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+21
+29
+25
+11
+6
+6
+0
+0
+0
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+3.17
+% 0.0 13.4 17.6 24.4 21.0 9.2 5.0 5.0 0.0 0.0 0.0 0.0 1.7 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MBI 131 C Cheng Xiao-Wen Community Health Perspectives
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+25
+20
+19
+24
+10
+10
+5
+1
+0
+0
+0
+0
+1
+0
+0
+0
+5
+1
+0
+0
+3.25
+% 0.0 20.7 16.5 15.7 19.8 8.3 8.3 4.1 0.8 0.0 0.0 0.0 0.0 0.8 0.0 0.0 0.0 4.1 0.8 0.0 0.0
+Course Total MBI 131
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+72
+60
+61
+64
+31
+24
+24
+4
+1
+0
+0
+2
+4
+0
+0
+0
+11
+1
+0
+0
+3.21
+% 0.6 19.9 16.6 16.9 17.7 8.6 6.6 6.6 1.1 0.3 0.0 0.0 0.6 1.1 0.0 0.0 0.0 3.0 0.3 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

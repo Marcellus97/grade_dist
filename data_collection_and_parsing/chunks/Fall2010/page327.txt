@@ -1,0 +1,307 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Oxford Campus
+Page: 323 Sections of 10
+GLG Geology
+Miami Plan
+Honors
+Cross Listing
+GLG 111 A Mignery Jill M. The Dynamic Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+63
+2
+10
+7
+0
+0
+2
+1
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.75
+% 0.0 72.4 2.3 11.5 8.0 0.0 0.0 2.3 1.1 0.0 0.0 0.0 0.0 1.1 0.0 0.0 0.0 1.1 0.0 0.0 0.0
+GLG 111 B Rech Jason A. The Dynamic Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+6
+11
+5
+28
+11
+4
+4
+2
+2
+0
+0
+2
+3
+0
+0
+0
+2
+0
+0
+0
+2.95
+% 3.6 7.2 13.3 6.0 33.7 13.3 4.8 4.8 2.4 2.4 0.0 0.0 2.4 3.6 0.0 0.0 0.0 2.4 0.0 0.0 0.0
+GLG 111 C Sikorski Janelle The Dynamic Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+18
+25
+9
+10
+9
+2
+2
+2
+1
+1
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+3.29
+% 5.7 20.7 28.7 10.3 11.5 10.3 2.3 2.3 2.3 1.1 1.1 0.0 2.3 0.0 0.0 0.0 0.0 1.1 0.0 0.0 0.0
+GLG 111 D Sikorski Janelle The Dynamic Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+28
+22
+15
+8
+4
+0
+4
+3
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.40
+% 1.1 31.8 25.0 17.0 9.1 4.5 0.0 4.5 3.4 1.1 0.0 0.0 1.1 1.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 111 E Sikorski Janelle The Dynamic Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+20
+26
+6
+14
+5
+2
+1
+3
+1
+0
+0
+1
+2
+0
+0
+0
+1
+0
+0
+0
+3.39
+% 5.7 23.0 29.9 6.9 16.1 5.7 2.3 1.1 3.4 1.1 0.0 0.0 1.1 2.3 0.0 0.0 0.0 1.1 0.0 0.0 0.0
+Course Total GLG 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+14
+135 86
+45
+67
+29
+8
+13
+11
+5
+1
+0
+6
+7
+0
+0
+0
+5
+0
+0
+0
+3.36
+% 3.2 31.3 19.9 10.4 15.5 6.7 1.9 3.0 2.5 1.2 0.2 0.0 1.4 1.6 0.0 0.0 0.0 1.2 0.0 0.0 0.0
+GLG 115L 1 Karel Patrick R. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+3
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.50
+% 0.0 31.3 18.8 18.8 31.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

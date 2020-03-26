@@ -1,0 +1,309 @@
+testRun: 07/07/05 @ 10:09 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2004-05 Oxford Campus
+Page: 299 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+HST 198 BB Sircar Arpana World History Since 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+9
+7
+1
+7
+2
+1
+1
+3
+0
+2
+0
+0
+1
+0
+0
+2
+0
+0
+0
+2.82
+% 0.0 2.7 24.3 18.9 2.7 18.9 5.4 2.7 2.7 8.1 0.0 5.4 0.0 0.0 2.7 0.0 0.0 5.4 0.0 0.0 0.0
+HST 198 CA Baernstein P. Renee World History Since 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+2
+3
+4
+1
+2
+0
+1
+1
+1
+0
+1
+0
+2
+0
+0
+1
+1
+0
+0
+2.77
+% 8.7 4.3 8.7 13.0 17.4 4.3 8.7 0.0 4.3 4.3 4.3 0.0 4.3 0.0 8.7 0.0 0.0 4.3 4.3 0.0 0.0
+HST 198 DA Baernstein P. Renee World History Since 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+7
+3
+1
+2
+0
+1
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.01
+% 0.0 21.7 8.7 30.4 13.0 4.3 8.7 0.0 4.3 0.0 0.0 4.3 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0
+HST 198 EA Baernstein P. Renee World History Since 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+1
+1
+9
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 0.0 21.7 17.4 4.3 4.3 39.1 4.3 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 198 FA Baernstein P. Renee World History Since 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+1
+5
+4
+1
+4
+1
+0
+0
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+2.81
+% 0.0 4.3 13.0 4.3 21.7 17.4 4.3 17.4 4.3 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 8.7 0.0 0.0 0.0
+HST 198 GA Baernstein P. Renee World History Since 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+8
+4
+2
+0
+3
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 0.0 21.7 34.8 17.4 8.7 0.0 13.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 198 IA Baernstein P. Renee World History Since 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+9
+3
+1
+2
+0
+0
+1
+1
+0
+0
+1
+1
+1
+0
+1
+0
+0
+0
+2.90
+% 0.0 8.0 8.0 36.0 12.0 4.0 8.0 0.0 0.0 4.0 4.0 0.0 0.0 4.0 4.0 4.0 0.0 4.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

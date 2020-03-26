@@ -1,0 +1,338 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Middletown Campus
+Page: 633 Sections of 10
+ENG English
+ENG 007 M B Dille Mary L. Fundamentals Of Writing
+A+ A
+A-
+B+
+B
+B-
+C+ C
+0
+0
+0
+0
+0
+0
+0
+0
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 007
+A+ A
+A-
+B+
+B
+B-
+C+ C
+0
+0
+0
+0
+0
+0
+0
+0
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 M A Garshelis Judith L. College Composition
+A+ A
+A-
+B+
+B
+B-
+C+ C
+4
+1
+0
+3
+2
+0
+0
+0
+% 19.0 4.8 0.0 14.3 9.5 0.0 0.0 0.0
+ENG 111 M B Grandfield Amanda L. College Composition
+A+ A
+A-
+B+
+B
+B-
+C+ C
+0
+1
+1
+2
+3
+1
+1
+1
+% 0.0 5.3 5.3 10.5 15.8 5.3 5.3 5.3
+ENG 111 M C Grandfield Amanda L. College Composition
+A+ A
+A-
+B+
+B
+B-
+C+ C
+0
+1
+1
+4
+2
+3
+1
+1
+% 0.0 4.3 4.3 17.4 8.7 13.0 4.3 4.3
+ENG 111 M D Casey Moira E. College Composition
+A+ A
+A-
+B+
+B
+B-
+C+ C
+1
+1
+3
+0
+2
+2
+0
+0
+% 5.0 5.0 15.0 0.0 10.0 10.0 0.0 0.0
+ENG 111 M E Tayko D. G. College Composition
+A+ A
+A-
+B+
+B
+B-
+C+ C
+0
+3
+2
+2
+4
+0
+1
+0
+% 0.0 15.0 10.0 10.0 20.0 0.0 5.0 0.0
+C-
+D+ D
+D-
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+C-
+D+ D
+D-
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+C-
+D+ D
+D-
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+C-
+D+ D
+D-
+1
+2
+1
+0
+5.3 10.5 5.3 0.0
+C-
+D+ D
+D-
+3
+0
+0
+0
+13.0 0.0 0.0 0.0
+C-
+D+ D
+D-
+1
+0
+2
+1
+5.0 0.0 10.0 5.0
+C-
+D+ D
+D-
+1
+0
+1
+0
+5.0 0.0 5.0 0.0
+F
+W
+WP WF
+0
+4
+0
+0
+0.0 40.0 0.0 0.0
+F
+W
+WP WF
+0
+4
+0
+0
+0.0 40.0 0.0 0.0
+F
+W
+WP WF
+6
+5
+0
+0
+28.6 23.8 0.0 0.0
+F
+W
+4
+1
+21.1 5.3
+WP WF
+0
+0
+0.0 0.0
+F
+W
+7
+0
+30.4 0.0
+WP WF
+0
+0
+0.0 0.0
+F
+W
+WP WF
+1
+6
+0
+0
+5.0 30.0 0.0 0.0
+F
+W
+WP WF
+3
+3
+0
+0
+15.0 15.0 0.0 0.0
+Miami Plan
+Honors
+Cross Listing
+N
+N
+I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+0
+0
+0.00
+0.0 30.0 30.0 0.0 0.0
+I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+0
+0
+0.00
+0.0 30.0 30.0 0.0 0.0
+Y
+N
+I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+2.24
+0.0 0.0 0.0 0.0 0.0
+Y
+N
+I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+1.98
+0.0 0.0 0.0 0.0 0.0
+Y
+N
+I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+1.93
+0.0 0.0 0.0 0.0 0.0
+Y
+N
+I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+2.49
+0.0 0.0 0.0 0.0 0.0
+Y
+N
+I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+2.53
+0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

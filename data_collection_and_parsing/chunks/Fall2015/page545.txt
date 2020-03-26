@@ -1,0 +1,306 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 541 Sections of 10
+PHY Physics
+Miami Plan
+Honors
+Cross Listing
+PHY 101 A Beck Daniel R. Physics & Society
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+7
+19
+16
+27
+17
+12
+10
+3
+7
+4
+0
+7
+4
+0
+0
+0
+3
+0
+0
+0
+2.70
+% 2.2 5.0 13.7 11.5 19.4 12.2 8.6 7.2 2.2 5.0 2.9 0.0 5.0 2.9 0.0 0.0 0.0 2.2 0.0 0.0 0.0
+PHY 101 B Divaratne Dilupama A. Physics & Society
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+19
+12
+23
+14
+13
+19
+3
+6
+3
+1
+6
+9
+0
+0
+0
+2
+0
+0
+0
+2.61
+% 0.7 4.4 13.9 8.8 16.8 10.2 9.5 13.9 2.2 4.4 2.2 0.7 4.4 6.6 0.0 0.0 0.0 1.5 0.0 0.0 0.0
+Course Total PHY 101
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+13
+38
+28
+50
+31
+25
+29
+6
+13
+7
+1
+13
+13
+0
+0
+0
+5
+0
+0
+0
+2.66
+% 1.4 4.7 13.8 10.1 18.1 11.2 9.1 10.5 2.2 4.7 2.5 0.4 4.7 4.7 0.0 0.0 0.0 1.8 0.0 0.0 0.0
+PHY 103 A Clemens James P. Concepts in Physics Laboratory
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+7
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 0.0 55.0 35.0 0.0 5.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 103 B Clemens James P. Concepts in Physics Laboratory
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+4
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.87
+% 0.0 66.7 22.2 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0
+PHY 103 C Clemens James P. Concepts in Physics Laboratory
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+12
+1
+0
+1
+1
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.32
+% 0.0 5.6 66.7 5.6 0.0 5.6 5.6 5.6 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 103 D Clemens James P. Concepts in Physics Laboratory
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+7
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.76
+% 0.0 45.0 35.0 10.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 136 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDP 301 A Wang Aimin Assesst & Eval In Ed Settings
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+17
+6
+2
+1
+1
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 6.3 53.1 18.8 6.3 3.1 3.1 0.0 0.0 0.0 0.0 6.3 0.0 0.0 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 301 C Wang Aimin Assesst & Eval In Ed Settings
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+22
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.80
+% 3.8 84.6 3.8 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 301 E Stevens Brenda A. Assesst & Eval In Ed Settings
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+5
+4
+4
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.46
+% 8.3 25.0 20.8 16.7 16.7 8.3 0.0 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 301 F Sherman Lawrence W. Assesst & Eval In Ed Settings
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+12
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.93
+% 25.0 60.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDP 301
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+10
+57
+12
+8
+6
+3
+0
+1
+0
+0
+2
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.69
+% 9.8 55.9 11.8 7.8 5.9 2.9 0.0 1.0 0.0 0.0 2.0 0.0 1.0 2.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 376 A Killy Suzanne F. Functional&Social Curr Methods
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+4
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+3.58
+% 5.0 55.0 20.0 5.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDP 376
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+4
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+3.58
+% 5.0 55.0 20.0 5.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

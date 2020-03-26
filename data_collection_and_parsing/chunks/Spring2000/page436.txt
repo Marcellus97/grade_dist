@@ -1,0 +1,306 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 433 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHS 381L D Smit Erica L. Biodynamics/Human Perform Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+2
+2
+0
+1
+0
+1
+0
+0
+0
+0
+3
+0
+1
+0
+0
+0
+0
+0
+3.12
+% 0.0 23.5 17.6 11.8 11.8 0.0 5.9 0.0 5.9 0.0 0.0 0.0 0.0 17.6 0.0 5.9 0.0 0.0 0.0 0.0 0.0
+PHS 381L E Barman Kimberly S. Biodynamics/Human Perform Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+1
+1
+0
+1
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 0.0 20.0 20.0 10.0 10.0 0.0 10.0 20.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 381L F Barman Kimberly S. Biodynamics/Human Perform Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+1
+1
+1
+1
+1
+1
+0
+0
+2
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 33.3 6.7 6.7 6.7 6.7 6.7 6.7 0.0 0.0 13.3 0.0 0.0 6.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 381L G Barman Kimberly S. Biodynamics/Human Perform Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+5
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 0.0 40.0 13.3 33.3 0.0 6.7 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 381L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+27
+10
+12
+10
+5
+4
+4
+5
+0
+4
+0
+0
+6
+1
+2
+0
+0
+0
+0
+0
+3.11
+% 0.0 30.0 11.1 13.3 11.1 5.6 4.4 4.4 5.6 0.0 4.4 0.0 0.0 6.7 1.1 2.2 0.0 0.0 0.0 0.0 0.0
+PHS 401 A Michael Carol M. Advanced Food Science
+N
+N
+9T
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 0.0 30.8 0.0 0.0 69.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 401
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.31
+% 0.0 30.8 0.0 0.0 69.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

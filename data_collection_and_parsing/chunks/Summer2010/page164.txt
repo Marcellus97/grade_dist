@@ -1,0 +1,46 @@
+testRun: 10/08/10 @ 11:34 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2009-10 Middletown Campus
+Page: 161 Sections of 10
+Geology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 4
+37
+0
+3
+4
+0
+1
+1
+1
+0
+0
+0
+6
+6
+0
+0
+0
+0
+0
+0
+0
+3.37
+% 6.3 58.7 0.0 4.8 6.3 0.0 1.6 1.6 1.6 0.0 0.0 0.0 9.5 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

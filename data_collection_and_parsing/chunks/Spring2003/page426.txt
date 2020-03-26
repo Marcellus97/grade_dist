@@ -1,0 +1,307 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 423 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHL 103 A Kelly James S. Society And The Individual
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+8
+9
+7
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+3.16
+% 0.0 3.1 15.6 25.0 28.1 21.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.1 0.0 3.1 0.0 0.0 0.0 0.0
+PHL 103 B Pohlhaus Gaile Society And The Individual
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+9
+7
+5
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+3.43
+% 0.0 15.2 27.3 21.2 15.2 3.0 0.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 15.2 0.0 0.0 0.0
+PHL 103 C Pohlhaus Gaile Society And The Individual
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+5
+5
+3
+2
+0
+1
+0
+0
+0
+0
+0
+2
+1
+0
+0
+2
+0
+0
+0
+3.53
+% 0.0 34.4 15.6 15.6 9.4 6.3 0.0 3.1 0.0 0.0 0.0 0.0 0.0 6.3 3.1 0.0 0.0 6.3 0.0 0.0 0.0
+Course Total PHL 103
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+19
+20
+17
+10
+0
+2
+0
+0
+0
+0
+0
+2
+2
+0
+1
+7
+0
+0
+0
+3.37
+% 0.0 17.5 19.6 20.6 17.5 10.3 0.0 2.1 0.0 0.0 0.0 0.0 0.0 2.1 2.1 0.0 1.0 7.2 0.0 0.0 0.0
+PHL 105 A Emmer Charles E. Theories Of Human Nature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+5
+8
+3
+7
+2
+2
+1
+1
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+2.48
+% 0.0 0.0 0.0 16.1 25.8 9.7 22.6 6.5 6.5 3.2 3.2 0.0 3.2 0.0 0.0 0.0 0.0 0.0 3.2 0.0 0.0
+PHL 105 B Goldman Michael Theories Of Human Nature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+2
+3
+4
+7
+4
+3
+0
+0
+0
+0
+0
+1
+0
+0
+3
+0
+0
+0
+2.66
+% 0.0 3.1 12.5 6.3 9.4 12.5 21.9 12.5 9.4 0.0 0.0 0.0 0.0 0.0 3.1 0.0 0.0 9.4 0.0 0.0 0.0
+PHL 105 C Emmer Charles E. Theories Of Human Nature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+6
+7
+2
+1
+6
+0
+2
+1
+1
+1
+0
+1
+0
+0
+3
+0
+0
+0
+2.61
+% 0.0 2.8 11.1 16.7 19.4 5.6 2.8 16.7 0.0 5.6 2.8 2.8 2.8 0.0 2.8 0.0 0.0 8.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

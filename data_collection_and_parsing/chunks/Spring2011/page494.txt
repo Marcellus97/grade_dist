@@ -1,0 +1,305 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Oxford Campus
+Page: 490 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MUS 181 F Slagowski Joshua S. Music in our Lives
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+2
+1
+2
+0
+0
+4
+0
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+3.57
+% 0.0 58.6 6.9 3.4 6.9 0.0 0.0 13.8 0.0 0.0 0.0 0.0 0.0 6.9 0.0 0.0 0.0 3.4 0.0 0.0 0.0
+MUS 181 I van der Merwe Ann E. Music in our Lives
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+7
+5
+8
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.39
+% 0.0 17.9 25.0 17.9 28.6 3.6 3.6 0.0 0.0 0.0 0.0 0.0 0.0 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MUS 181
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+82
+34
+30
+20
+3
+2
+9
+2
+0
+1
+0
+2
+9
+0
+0
+0
+1
+0
+0
+0
+3.52
+% 3.5 40.6 16.8 14.9 9.9 1.5 1.0 4.5 1.0 0.0 0.5 0.0 1.0 4.5 0.0 0.0 0.0 0.5 0.0 0.0 0.0
+MUS 185 A Tanner Christopher G. The Diverse Worlds Of Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+20
+5
+13
+32
+9
+8
+19
+4
+5
+2
+2
+4
+9
+0
+0
+0
+10
+1
+0
+0
+2.73
+% 0.7 13.9 3.5 9.0 22.2 6.3 5.6 13.2 2.8 3.5 1.4 1.4 2.8 6.3 0.0 0.0 0.0 6.9 0.7 0.0 0.0
+Course Total MUS 185
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+20
+5
+13
+32
+9
+8
+19
+4
+5
+2
+2
+4
+9
+0
+0
+0
+10
+1
+0
+0
+2.73
+% 0.7 13.9 3.5 9.0 22.2 6.3 5.6 13.2 2.8 3.5 1.4 1.4 2.8 6.3 0.0 0.0 0.0 6.9 0.7 0.0 0.0
+MUS 189 A Averbach Ricardo F. Great Ideas In Western Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+42
+28
+11
+6
+8
+7
+1
+4
+1
+0
+3
+0
+3
+4
+0
+0
+0
+6
+0
+0
+0
+3.49
+% 33.9 22.6 8.9 4.8 6.5 5.6 0.8 3.2 0.8 0.0 2.4 0.0 2.4 3.2 0.0 0.0 0.0 4.8 0.0 0.0 0.0
+MUS 189 B Green Richard D. Great Ideas In Western Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+8
+10
+20
+16
+9
+5
+3
+0
+0
+0
+0
+10
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 12.9 8.6 10.8 21.5 17.2 9.7 5.4 3.2 0.0 0.0 0.0 0.0 10.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,255 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Oxford Campus
+Page: 122 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CSA 475
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+10
+3
+3
+3
+12
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.26
+% 10.5 26.3 7.9 7.9 7.9 31.6 0.0 2.6 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 485 A Uckan Yuksel Advanced Database Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+0
+0
+4
+0
+0
+3
+0
+0
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.47
+% 13.3 13.3 0.0 0.0 26.7 0.0 0.0 20.0 0.0 0.0 20.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSA 485
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+0
+0
+4
+0
+0
+3
+0
+0
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.47
+% 13.3 13.3 0.0 0.0 26.7 0.0 0.0 20.0 0.0 0.0 20.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 486 A Cross Valerie Intro Artificial Intelligence
+N
+N
+CS
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+2
+3
+4
+3
+3
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 4.8 9.5 4.8 9.5 14.3 19.0 14.3 14.3 0.0 0.0 0.0 0.0 0.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSA 486
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+1
+2
+3
+4
+3
+3
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 4.8 9.5 4.8 9.5 14.3 19.0 14.3 14.3 0.0 0.0 0.0 0.0 0.0 9.5 0.0 0.0 0.0 0.0 0.0 0.0
+Computer Sci &Systems Analysis Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 21
+153 60
+65
+198 80
+47
+101 44
+11
+30
+11
+15
+57
+61
+13
+8
+1,042 73
+0
+0
+2.80
+% 1.0 7.3 2.9 3.1 9.5 3.8 2.2 4.8 2.1 0.5 1.4 0.5 0.7 2.7 2.9 0.6 0.4 49.9 3.5 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

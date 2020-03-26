@@ -1,0 +1,303 @@
+testRun: 06/23/14 @ 07:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2013-14 Oxford Campus
+Page: 590 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+SPN 450F A Alvarez Maria A. Mobilidad/Asimilacion Cultural
+N
+N
+DF
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+3
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 31.6 15.8 52.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPN 450F
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+3
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.84
+% 31.6 15.8 52.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 454 A Ganelin Charles V. Don Quixote
+N
+N
+78
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+7
+0
+0
+2
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.76
+% 0.0 6.7 6.7 6.7 46.7 0.0 0.0 13.3 6.7 0.0 6.7 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPN 454
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+7
+0
+0
+2
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.76
+% 0.0 6.7 6.7 6.7 46.7 0.0 0.0 13.3 6.7 0.0 6.7 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 483 A Wireback Kenneth J. History of Spanish Language
+N
+N
+SQ
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+2
+6
+2
+4
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.53
+% 0.0 0.0 5.6 11.1 33.3 11.1 22.2 0.0 0.0 5.6 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPN 483
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+2
+6
+2
+4
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.53
+% 0.0 0.0 5.6 11.1 33.3 11.1 22.2 0.0 0.0 5.6 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 490X A Dominguez-Burdalo Jose M. Cinema of Almodovar
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+4
+0
+5
+3
+1
+0
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.60
+% 0.0 9.5 9.5 19.0 0.0 23.8 14.3 4.8 0.0 0.0 14.3 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

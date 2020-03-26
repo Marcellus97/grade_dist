@@ -1,0 +1,306 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Middletown Campus
+Page: 641 Sections of 10
+BTE Business Technology
+Miami Plan
+Honors
+Cross Listing
+BTE 101 M A Carroll Dan C. Introduction To Accounting I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+4
+0
+2
+2
+0
+0
+1
+1
+2
+0
+5
+8
+0
+0
+0
+0
+0
+0
+0
+1.96
+% 3.8 0.0 15.4 0.0 7.7 7.7 0.0 0.0 3.8 3.8 7.7 0.0 19.2 30.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 101
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+4
+0
+2
+2
+0
+0
+1
+1
+2
+0
+5
+8
+0
+0
+0
+0
+0
+0
+0
+1.96
+% 3.8 0.0 15.4 0.0 7.7 7.7 0.0 0.0 3.8 3.8 7.7 0.0 19.2 30.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 105 M A Baim Susan A. Introduction To Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+0
+2
+2
+1
+0
+2
+1
+0
+0
+0
+1
+6
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 5.0 20.0 0.0 10.0 10.0 5.0 0.0 10.0 5.0 0.0 0.0 0.0 5.0 30.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 105
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+0
+2
+2
+1
+0
+2
+1
+0
+0
+0
+1
+6
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 5.0 20.0 0.0 10.0 10.0 5.0 0.0 10.0 5.0 0.0 0.0 0.0 5.0 30.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 106 M A Mobley Thomas L. Intro To Business&The Economy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+2
+3
+2
+1
+0
+0
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 11.1 27.8 11.1 16.7 11.1 5.6 0.0 0.0 0.0 0.0 0.0 0.0 5.6 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 106 M B Baim Susan A. Intro To Business&The Economy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+2
+0
+2
+1
+0
+3
+1
+0
+0
+0
+2
+7
+0
+0
+0
+0
+0
+0
+0
+2.56
+% 4.8 9.5 9.5 0.0 9.5 4.8 0.0 14.3 4.8 0.0 0.0 0.0 9.5 33.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 106 M C Mobley Thomas L. Intro To Business&The Economy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+3
+2
+1
+1
+1
+0
+0
+0
+0
+0
+3
+4
+0
+0
+0
+0
+0
+0
+0
+2.78
+% 0.0 21.1 15.8 10.5 5.3 5.3 5.3 0.0 0.0 0.0 0.0 0.0 15.8 21.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

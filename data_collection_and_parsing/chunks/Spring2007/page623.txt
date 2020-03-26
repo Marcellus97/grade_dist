@@ -1,0 +1,306 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Middletown Campus
+Page: 620 Sections of 10
+CSA Computer Sci &Systems Analysis
+Miami Plan
+Honors
+Cross Listing
+CSA 151 M A Evans Donna M. Computers,Compter Sci & Socity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+4
+2
+3
+3
+0
+0
+2
+0
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.18
+% 19.0 19.0 9.5 14.3 14.3 0.0 0.0 9.5 0.0 4.8 0.0 0.0 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 151 M B Luczaj Jerome E. Computers,Compter Sci & Socity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+4
+3
+3
+0
+0
+3
+1
+0
+1
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 9.1 9.1 18.2 13.6 13.6 0.0 0.0 13.6 4.5 0.0 4.5 0.0 0.0 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 151 M C Luczaj Jerome E. Computers,Compter Sci & Socity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+3
+1
+0
+0
+3
+1
+0
+2
+0
+1
+5
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 13.6 13.6 13.6 4.5 0.0 0.0 13.6 4.5 0.0 9.1 0.0 4.5 22.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 151 M D Seibold Pam Computers,Compter Sci & Socity
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+6
+4
+0
+4
+1
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.59
+% 0.0 0.0 0.0 33.3 22.2 0.0 22.2 5.6 0.0 0.0 5.6 0.0 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSA 151
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+9
+9
+15
+11
+0
+4
+9
+2
+1
+4
+0
+3
+10
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 7.2 10.8 10.8 18.1 13.3 0.0 4.8 10.8 2.4 1.2 4.8 0.0 3.6 12.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSA 163 M B Sutor John P. Intro-Computer Concepts & Prog
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 0.0 10.0 10.0 10.0 40.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 30.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSA 163
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.29
+% 0.0 10.0 10.0 10.0 40.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 30.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

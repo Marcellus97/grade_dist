@@ -1,0 +1,306 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 299 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FRE 202 B Klosowska Anna M. Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+2
+2
+2
+1
+0
+2
+2
+0
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+2.84
+% 6.7 0.0 13.3 13.3 13.3 6.7 0.0 13.3 13.3 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 13.3 0.0 0.0 0.0
+FRE 202 C Chopin Sophie Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+4
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.45
+% 0.0 54.5 0.0 0.0 36.4 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FRE 202 D Klosowska Anna M. Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+3
+1
+3
+0
+0
+0
+1
+0
+1
+0
+0
+1
+0
+0
+0
+4
+0
+0
+0
+3.24
+% 11.1 11.1 16.7 5.6 16.7 0.0 0.0 0.0 5.6 0.0 5.6 0.0 0.0 5.6 0.0 0.0 0.0 22.2 0.0 0.0 0.0
+FRE 202 E Chopin Sophie Critical Anlys/French Culture
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+0
+0
+6
+0
+0
+4
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.15
+% 0.0 42.9 0.0 0.0 28.6 0.0 0.0 19.0 0.0 0.0 4.8 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FRE 202
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+17
+5
+3
+15
+1
+0
+7
+3
+0
+2
+0
+0
+3
+0
+0
+0
+6
+0
+0
+0
+3.16
+% 4.6 26.2 7.7 4.6 23.1 1.5 0.0 10.8 4.6 0.0 3.1 0.0 0.0 4.6 0.0 0.0 0.0 9.2 0.0 0.0 0.0
+FRE 301 B Wasser Audrey C. Culture & Interpretation
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+8
+5
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.23
+% 0.0 5.0 20.0 40.0 25.0 5.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FRE 301 C Wasser Audrey C. Culture & Interpretation
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+8
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 0.0 20.0 20.0 40.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

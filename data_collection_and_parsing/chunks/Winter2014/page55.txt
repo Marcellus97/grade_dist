@@ -1,0 +1,297 @@
+testRun: 12/18/14 @ 08:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Winter Term, 2013-14 Oxford Campus
+Page: 53 Sections of 10
+MME Mechan & Manufact Engineering
+Miami Plan
+Honors
+Cross Listing
+MME 211 A Cameron Timothy M. Static Modeling/Mech Systems
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+4
+2
+1
+4
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.51
+% 10.0 25.0 20.0 10.0 5.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MME 211
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+4
+2
+1
+4
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.51
+% 10.0 25.0 20.0 10.0 5.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MME 311 A Khan Fazeel J. Dynamic Modeling/Mech Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+5
+2
+3
+1
+3
+1
+1
+0
+0
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.39
+% 0.0 0.0 23.8 9.5 14.3 4.8 14.3 4.8 4.8 0.0 0.0 19.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MME 311
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+5
+2
+3
+1
+3
+1
+1
+0
+0
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.39
+% 0.0 0.0 23.8 9.5 14.3 4.8 14.3 4.8 4.8 0.0 0.0 19.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MME 312 A Koo Jeong-Hoi Mechanics Of Materials
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+4
+5
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.87
+% 0.0 0.0 7.7 30.8 38.5 15.4 0.0 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MME 312
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+4
+5
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.87
+% 0.0 0.0 7.7 30.8 38.5 15.4 0.0 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Mechan & Manufact Engineering Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+5
+10
+8
+9
+7
+3
+1
+1
+0
+0
+4
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 3.7 9.3 18.5 14.8 16.7 13.0 5.6 1.9 1.9 0.0 0.0 7.4 3.7 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

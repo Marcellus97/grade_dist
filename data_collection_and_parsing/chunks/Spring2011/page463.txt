@@ -1,0 +1,328 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Oxford Campus
+Page: 459 Sections of 10
+MME 223 A Khan Fazeel J. Engineering Materials
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+0
+2
+0
+2
+2
+2
+0
+1
+0
+1
+0
+0
+0
+0
+0
+% 0.0 0.0 20.0 0.0 20.0 20.0 20.0 0.0 10.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0
+MME 223 B Khan Fazeel J. Engineering Materials
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+1
+0
+2
+2
+3
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+% 0.0 10.0 0.0 20.0 20.0 30.0 10.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MME 223 C Khan Fazeel J. Engineering Materials
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+0
+0
+2
+0
+3
+1
+1
+1
+1
+1
+0
+2
+0
+0
+0
+% 0.0 0.0 0.0 16.7 0.0 25.0 8.3 8.3 8.3 8.3 8.3 0.0 16.7 0.0 0.0 0.0
+MME 223 D Khan Fazeel J. Engineering Materials
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+0
+1
+0
+0
+2
+1
+1
+0
+1
+0
+1
+2
+1
+0
+0
+% 0.0 0.0 10.0 0.0 0.0 20.0 10.0 10.0 0.0 10.0 0.0 10.0 20.0 10.0 0.0 0.0
+MME 223 E Khan Fazeel J. Engineering Materials
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+0
+1
+0
+2
+1
+2
+1
+2
+0
+0
+0
+2
+0
+0
+0
+% 0.0 0.0 9.1 0.0 18.2 9.1 18.2 9.1 18.2 0.0 0.0 0.0 18.2 0.0 0.0 0.0
+Course Total MME 223
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+1
+4
+4
+6
+11
+7
+3
+5
+2
+2
+1
+6
+1
+0
+0
+% 0.0 1.9 7.5 7.5 11.3 20.8 13.2 5.7 9.4 3.8 3.8 1.9 11.3 1.9 0.0 0.0
+MME 231 A Ettouney Osama M. Manufacturing Processes
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF
+0
+0
+1
+2
+2
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+% 0.0 0.0 8.3 16.7 16.7 8.3 0.0 8.3 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+4
+0
+33.3 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.61
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.87
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.92
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.71
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.04
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.22
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.79
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

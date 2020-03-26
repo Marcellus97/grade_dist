@@ -1,0 +1,309 @@
+testRun: 07/08/13 @ 16:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2012-13 Oxford Campus
+Page: 364 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ISA 235 A Strouble Dennis IT & Intelligent Enterprise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+4
+12
+6
+4
+1
+2
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.79
+% 0.0 2.7 13.5 10.8 32.4 16.2 10.8 2.7 5.4 0.0 0.0 2.7 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 235 C Sircar Sumit IT & Intelligent Enterprise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+4
+3
+9
+6
+5
+1
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.29
+% 0.0 2.6 5.3 7.9 10.5 7.9 23.7 15.8 13.2 2.6 2.6 0.0 5.3 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 235 D Glancy Fletcher H. IT & Intelligent Enterprise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+3
+15
+0
+3
+13
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.70
+% 0.0 7.9 0.0 7.9 39.5 0.0 7.9 34.2 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 235 E Strouble Dennis IT & Intelligent Enterprise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+6
+7
+6
+4
+5
+1
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.95
+% 0.0 10.8 16.2 18.9 16.2 10.8 13.5 2.7 5.4 0.0 5.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 235 G Glancy Fletcher H. IT & Intelligent Enterprise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+3
+20
+0
+2
+3
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 14.3 0.0 8.6 57.1 0.0 5.7 8.6 0.0 2.9 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 235 H Glancy Fletcher H. IT & Intelligent Enterprise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+2
+20
+0
+3
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.82
+% 0.0 8.3 0.0 5.6 55.6 0.0 8.3 22.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 235 I Cruez Gerald V. IT & Intelligent Enterprise
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+4
+10
+5
+4
+8
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 2.7 5.4 10.8 27.0 13.5 10.8 21.6 5.4 0.0 0.0 0.0 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

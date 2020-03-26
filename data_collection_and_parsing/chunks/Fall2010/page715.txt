@@ -1,0 +1,303 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Middletown Campus
+Page: 711 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+KNH 130I MTA Tieman David A. Intermediate Golf
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+Course Total KNH 130I
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+KNH 188 M A Haas Derek M. Exercise and Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+3
+1
+2
+0
+2
+1
+0
+3
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 20.0 15.0 5.0 10.0 0.0 10.0 5.0 0.0 15.0 0.0 0.0 0.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 188 M B Haas Derek M. Exercise and Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+4
+1
+2
+0
+0
+0
+0
+3
+0
+0
+0
+4
+1
+0
+0
+2
+0
+0
+0
+0
+2.71
+% 22.7 18.2 4.5 9.1 0.0 0.0 0.0 0.0 13.6 0.0 0.0 0.0 18.2 4.5 0.0 0.0 9.1 0.0 0.0 0.0 0.0
+Course Total KNH 188
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+7
+2
+4
+0
+2
+1
+0
+6
+0
+0
+0
+6
+3
+0
+0
+2
+0
+0
+0
+0
+2.77
+% 21.4 16.7 4.8 9.5 0.0 4.8 2.4 0.0 14.3 0.0 0.0 0.0 14.3 7.1 0.0 0.0 4.8 0.0 0.0 0.0 0.0
+KNH 276 M A Urso Chris J. The Meaning of Leisure
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+2
+6
+1
+2
+0
+0
+0
+0
+0
+4
+2
+0
+0
+0
+0
+0
+0
+0
+2.70
+% 0.0 20.8 8.3 8.3 25.0 4.2 8.3 0.0 0.0 0.0 0.0 0.0 16.7 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 276
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+2
+6
+1
+2
+0
+0
+0
+0
+0
+4
+2
+0
+0
+0
+0
+0
+0
+0
+2.70
+% 0.0 20.8 8.3 8.3 25.0 4.2 8.3 0.0 0.0 0.0 0.0 0.0 16.7 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

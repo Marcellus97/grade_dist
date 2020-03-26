@@ -1,0 +1,261 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Middletown Campus
+Page: 617 Sections of 10
+CIT Comp Information Technology
+Miami Plan
+Honors
+Cross Listing
+CIT 154 M A Evans Donna M. Personl Computr Concpts & Apps
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+3
+1
+1
+2
+1
+0
+2
+1
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 17.6 17.6 5.9 5.9 11.8 5.9 0.0 11.8 5.9 0.0 0.0 0.0 5.9 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CIT 154 M B Donohue Catherine W. Personl Computr Concpts & Apps
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+0
+1
+1
+1
+0
+1
+1
+0
+0
+1
+9
+1
+0
+0
+0
+0
+0
+0
+0
+1.26
+% 5.6 5.6 0.0 5.6 5.6 5.6 0.0 5.6 5.6 0.0 0.0 5.6 50.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CIT 154
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+4
+1
+2
+3
+2
+0
+3
+2
+0
+0
+1
+10
+3
+0
+0
+0
+0
+0
+0
+0
+2.09
+% 11.4 11.4 2.9 5.7 8.6 5.7 0.0 8.6 5.7 0.0 0.0 2.9 28.6 8.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CIT 182 M A Howard Elizabeth Ethical Issues inInfo Technlgy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+1
+1
+2
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 0.0 10.0 10.0 10.0 10.0 10.0 20.0 20.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CIT 182
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+1
+1
+2
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 0.0 10.0 10.0 10.0 10.0 10.0 20.0 20.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Comp Information Technology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 4
+5
+2
+3
+4
+3
+2
+5
+2
+0
+0
+1
+10
+4
+0
+0
+0
+0
+0
+0
+0
+2.25
+% 8.9 11.1 4.4 6.7 8.9 6.7 4.4 11.1 4.4 0.0 0.0 2.2 22.2 8.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

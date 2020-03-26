@@ -1,0 +1,307 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Oxford Campus
+Page: 457 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MKT 301 B Rosenthal David W. Crtvty,Innov.&Dec Mkng in MKT
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+3
+15
+3
+1
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.83
+% 0.0 0.0 9.4 9.4 46.9 9.4 3.1 21.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 301 C Saunders Donald E. Crtvty,Innov.&Dec Mkng in MKT
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+6
+8
+16
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.19
+% 0.0 8.3 16.7 22.2 44.4 0.0 2.8 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 301 D Saunders Donald E. Crtvty,Innov.&Dec Mkng in MKT
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+3
+19
+3
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.06
+% 0.0 5.6 16.7 8.3 52.8 8.3 0.0 5.6 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 301
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+17
+17
+64
+11
+2
+16
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 3.7 12.6 12.6 47.4 8.1 1.5 11.9 0.7 0.0 0.7 0.0 0.0 0.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 325 A Norris Donald G. Consumer Behavior
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+10
+13
+1
+2
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 5.9 2.9 29.4 38.2 2.9 5.9 11.8 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 325 B Norris Donald G. Consumer Behavior
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+3
+12
+2
+7
+4
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 0.0 13.5 5.4 8.1 32.4 5.4 18.9 10.8 2.7 0.0 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 325 C Cronley Maria L. Consumer Behavior
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+4
+12
+7
+1
+0
+2
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 5.9 11.8 11.8 35.3 20.6 2.9 0.0 5.9 0.0 2.9 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

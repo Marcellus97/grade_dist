@@ -1,0 +1,306 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Oxford Campus
+Page: 91 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CHM 472 A Kumar Sachin Biophysical Chemistry
+N
+N
+O1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+6
+2
+9
+9
+3
+2
+2
+1
+0
+1
+8
+2
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 0.0 23.7 10.2 3.4 15.3 15.3 5.1 3.4 3.4 1.7 0.0 1.7 13.6 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 472
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+6
+2
+9
+9
+3
+2
+2
+1
+0
+1
+8
+2
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 0.0 23.7 10.2 3.4 15.3 15.3 5.1 3.4 3.4 1.7 0.0 1.7 13.6 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 491 A Riechel Thomas L. Chemistry In Societal Issues
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+0
+0
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.70
+% 0.0 69.6 0.0 0.0 30.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 491
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+0
+0
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.70
+% 0.0 69.6 0.0 0.0 30.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 526 A Hartley Christopher S. Spectroscopic Id Of Structure
+N
+N
+C1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 46.2 0.0 0.0 38.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 526
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 46.2 0.0 0.0 38.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 534 A Smith Amanda C. Biochemistry
+N
+N
+H3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+5
+0
+0
+2
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.65
+% 0.0 23.1 0.0 0.0 38.5 0.0 0.0 15.4 15.4 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

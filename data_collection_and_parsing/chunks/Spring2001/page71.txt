@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 68 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CHM 245 B Hershberger James W. Organic Chemistry Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+0
+0
+22
+0
+0
+10
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 0.0 17.1 0.0 0.0 53.7 0.0 0.0 24.4 0.0 0.0 0.0 0.0 0.0 4.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 245 C Hershberger James W. Organic Chemistry Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+0
+0
+37
+0
+0
+9
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 0.0 23.8 0.0 0.0 58.7 0.0 0.0 14.3 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 245
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+40
+0
+0
+91
+0
+0
+26
+0
+0
+3
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 0.0 24.2 0.0 0.0 55.2 0.0 0.0 15.8 0.0 0.0 1.8 0.0 0.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 252 A Gung Benjamin W. Organic Chemistry For Chm Maj
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+7
+0
+2
+5
+3
+0
+3
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 12.0 28.0 0.0 8.0 20.0 12.0 0.0 12.0 4.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 252
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+7
+0
+2
+5
+3
+0
+3
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 12.0 28.0 0.0 8.0 20.0 12.0 0.0 12.0 4.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 255 A Taylor Richard T. Organic Chemistry Lab Chm Maj
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.73
+% 0.0 72.7 0.0 0.0 27.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 255 B Taylor Richard T. Organic Chemistry Lab Chm Maj
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,134 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Hamilton Campus
+Page: 784 Sections of 10
+MKT Marketing
+Miami Plan
+Honors
+Cross Listing
+MKT 291 H A Elam Michael W. Principles Of Marketing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+3
+14
+1
+1
+0
+2
+0
+2
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+2.70
+% 0.0 6.7 6.7 10.0 46.7 3.3 3.3 0.0 6.7 0.0 6.7 3.3 3.3 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 291
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+3
+14
+1
+1
+0
+2
+0
+2
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+2.70
+% 0.0 6.7 6.7 10.0 46.7 3.3 3.3 0.0 6.7 0.0 6.7 3.3 3.3 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0
+Marketing Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+2
+2
+3
+14
+1
+1
+0
+2
+0
+2
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+2.70
+% 0.0 6.7 6.7 10.0 46.7 3.3 3.3 0.0 6.7 0.0 6.7 3.3 3.3 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,301 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Oxford Campus
+Page: 473 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total PHS 336F
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+40
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 0.0 87.0 0.0 0.0 6.5 0.0 0.0 2.2 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 336G UA Reynolds Chad C. Coaching Tech&Tactics:Track&Fd
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+0
+0
+3
+0
+0
+3
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 0.0 66.7 0.0 0.0 12.5 0.0 0.0 12.5 0.0 0.0 0.0 0.0 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 336G
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+0
+0
+3
+0
+0
+3
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 0.0 66.7 0.0 0.0 12.5 0.0 0.0 12.5 0.0 0.0 0.0 0.0 4.2 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 337 A Phillips Brian E. Fdtns&Fitness Training Coaches
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+10
+1
+4
+5
+2
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 26.5 29.4 2.9 11.8 14.7 5.9 0.0 5.9 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 337
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+10
+1
+4
+5
+2
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 26.5 29.4 2.9 11.8 14.7 5.9 0.0 5.9 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHS 348 A Belka David E. Teaching Physical Education II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.53
+% 0.0 50.0 16.7 8.3 16.7 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHS 348
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.53
+% 0.0 50.0 16.7 8.3 16.7 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

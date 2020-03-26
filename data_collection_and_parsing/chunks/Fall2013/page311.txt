@@ -1,0 +1,347 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 307 Sections of 10
+Course Total GEO 378
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+5
+22
+9
+6
+11
+8
+5
+2
+2
+1
+% 6.7 29.3 12.0 8.0 14.7 10.7 6.7 2.7 2.7 1.3
+GEO 425 A Maingi John K. Hydrogeography
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+3
+1
+0
+4
+1
+0
+1
+1
+% 0.0 11.1 16.7 5.6 0.0 22.2 5.6 0.0 5.6 5.6
+Course Total GEO 425
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+2
+3
+1
+0
+4
+1
+0
+1
+1
+% 0.0 11.1 16.7 5.6 0.0 22.2 5.6 0.0 5.6 5.6
+GEO 441 A Maingi John K. Geographic Information Systems
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+3
+1
+4
+7
+2
+0
+0
+3
+1
+% 0.0 14.3 4.8 19.0 33.3 9.5 0.0 0.0 14.3 4.8
+GEO 441 B Davis Amelie Y. Geographic Information Systems
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+3
+2
+3
+1
+1
+1
+1
+0
+% 0.0 12.5 18.8 12.5 18.8 6.3 6.3 6.3 6.3 0.0
+Course Total GEO 441
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+5
+4
+6
+10
+3
+1
+1
+4
+1
+% 0.0 13.5 10.8 16.2 27.0 8.1 2.7 2.7 10.8 2.7
+GEO 442 A Abbitt Robbyn J. Adv Geographic Info Systems
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+4
+0
+1
+0
+0
+2
+0
+0
+% 0.0 10.0 40.0 0.0 10.0 0.0 0.0 20.0 0.0 0.0
+D
+D-
+F
+2
+1
+0
+2.7 1.3 0.0
+D
+D-
+F
+0
+2
+0
+0.0 11.1 0.0
+D
+D-
+F
+0
+2
+0
+0.0 11.1 0.0
+D
+D-
+F
+0
+0
+0
+0.0 0.0 0.0
+D
+D-
+F
+2
+0
+0
+12.5 0.0 0.0
+D
+D-
+F
+2
+0
+0
+5.4 0.0 0.0
+D
+D-
+F
+1
+1
+0
+10.0 10.0 0.0
+W
+WP WF
+1
+0
+0
+1.3 0.0 0.0
+W
+WP WF
+2
+0
+0
+11.1 0.0 0.0
+W
+WP WF
+2
+0
+0
+11.1 0.0 0.0
+W
+WP WF
+0
+0
+0
+0.0 0.0 0.0
+W
+WP WF
+0
+0
+0
+0.0 0.0 0.0
+W
+WP WF
+0
+0
+0
+0.0 0.0 0.0
+W
+WP WF
+0
+0
+0
+0.0 0.0 0.0
+Miami Plan
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+1
+0.0 5.6
+I
+X
+0
+1
+0.0 5.6
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+Avg GPA
+0
+3.22
+0.0
+2G
+S
+Avg GPA
+0
+2.66
+0.0
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+0 0.0
+HD
+S
+0 0.0
+LG
+S
+0 0.0
+Avg GPA 2.66
+Avg GPA 2.94
+Avg GPA 2.84
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+Avg GPA
+0
+2.89
+0.0
+PZ
+S
+Avg GPA
+0
+2.75
+0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

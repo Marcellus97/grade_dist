@@ -1,0 +1,306 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 470 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MTH 104 F Garbinsky Daniel M. Precalculus With Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+3
+8
+4
+6
+3
+0
+1
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.69
+% 0.0 8.6 8.6 8.6 22.9 11.4 17.1 8.6 0.0 2.9 0.0 0.0 5.7 5.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 104 G Roy Kyle A. Precalculus With Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+5
+3
+4
+9
+2
+2
+0
+0
+2
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+2.65
+% 6.1 3.0 15.2 9.1 12.1 27.3 6.1 6.1 0.0 0.0 6.1 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 104
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+19
+16
+13
+37
+17
+18
+23
+5
+4
+9
+2
+16
+7
+0
+0
+0
+1
+0
+0
+0
+2.53
+% 2.1 9.9 8.4 6.8 19.4 8.9 9.4 12.0 2.6 2.1 4.7 1.0 8.4 3.7 0.0 0.0 0.0 0.5 0.0 0.0 0.0
+MTH 115 A Keiser Jane M. Math for Teachers Grades P-6
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+10
+3
+5
+1
+3
+2
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 18.8 31.3 9.4 15.6 3.1 9.4 6.3 0.0 3.1 0.0 0.0 0.0 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 115 B Cox Dana C. Math for Teachers Grades P-6
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+1
+6
+8
+4
+4
+4
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 17.1 2.9 17.1 22.9 11.4 11.4 11.4 0.0 0.0 2.9 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 115 C Keiser Jane M. Math for Teachers Grades P-6
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+5
+3
+9
+9
+1
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.98
+% 0.0 11.1 13.9 8.3 25.0 25.0 2.8 8.3 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 115 E D'Ambrosio Beatriz S. Math for Teachers Grades P-6
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+3
+11
+1
+5
+4
+1
+3
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.68
+% 0.0 11.4 2.9 8.6 31.4 2.9 14.3 11.4 2.9 8.6 0.0 2.9 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

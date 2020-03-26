@@ -1,0 +1,302 @@
+testRun: 12/01/08 @ 14:45 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2007-08 Hamilton Campus
+Page: 197 Sections of 10
+GLG Geology
+Miami Plan
+Honors
+Cross Listing
+GLG 111 HMA Webber Andrew J. The Dynamic Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+3
+2
+6
+1
+3
+4
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.59
+% 0.0 7.4 14.8 11.1 7.4 22.2 3.7 11.1 14.8 0.0 0.0 0.0 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GLG 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+3
+2
+6
+1
+3
+4
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.59
+% 0.0 7.4 14.8 11.1 7.4 22.2 3.7 11.1 14.8 0.0 0.0 0.0 7.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 115L HMA Webber Andrew J. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+4
+3
+1
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 7.1 7.1 7.1 28.6 21.4 7.1 7.1 7.1 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GLG 115L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+4
+3
+1
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 0.0 7.1 7.1 7.1 28.6 21.4 7.1 7.1 7.1 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 121 HMA Elkin Robert R. Environmental Geology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+1
+1
+4
+3
+1
+2
+4
+1
+0
+1
+2
+0
+0
+0
+0
+1
+0
+0
+0
+2.36
+% 8.3 4.2 4.2 4.2 16.7 12.5 4.2 8.3 16.7 4.2 0.0 4.2 8.3 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0
+Course Total GLG 121
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+1
+1
+1
+4
+3
+1
+2
+4
+1
+0
+1
+2
+0
+0
+0
+0
+1
+0
+0
+0
+2.36
+% 8.3 4.2 4.2 4.2 16.7 12.5 4.2 8.3 16.7 4.2 0.0 4.2 8.3 0.0 0.0 0.0 0.0 4.2 0.0 0.0 0.0
+Geology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+4
+6
+5
+10
+12
+3
+6
+9
+1
+0
+1
+4
+1
+0
+0
+0
+1
+0
+0
+0
+2.56
+% 3.1 6.2 9.2 7.7 15.4 18.5 4.6 9.2 13.8 1.5 0.0 1.5 6.2 1.5 0.0 0.0 0.0 1.5 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

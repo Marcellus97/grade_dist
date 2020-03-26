@@ -1,0 +1,356 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 544 Sections of 10
+SPN 315 A Lirot Julie A. Intro to Hispanic Literatures
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+1
+1
+5
+2
+0
+3
+4
+2
+% 0.0 0.0 4.5 4.5 22.7 9.1 0.0 13.6 18.2 9.1
+SPN 315 B Lirot Julie A. Intro to Hispanic Literatures
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+0
+1
+2
+4
+2
+3
+2
+0
+% 0.0 0.0 0.0 5.9 11.8 23.5 11.8 17.6 11.8 0.0
+SPN 315 C Klingenberg Patricia N. Intro to Hispanic Literatures
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+3
+2
+3
+1
+0
+0
+0
+1
+% 0.0 7.1 21.4 14.3 21.4 7.1 0.0 0.0 0.0 7.1
+Course Total SPN 315
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+4
+4
+10
+7
+2
+6
+6
+3
+% 0.0 1.9 7.5 7.5 18.9 13.2 3.8 11.3 11.3 5.7
+SPN 316 A Munoz Tracy M. Intermediate Spanish Comp
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+5
+10
+3
+1
+0
+0
+0
+0
+% 0.0 0.0 25.0 50.0 15.0 5.0 0.0 0.0 0.0 0.0
+SPN 316 B Dillon Colleen C. Intermediate Spanish Comp
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+3
+4
+1
+7
+5
+0
+2
+0
+0
+% 0.0 13.6 18.2 4.5 31.8 22.7 0.0 9.1 0.0 0.0
+SPN 316 C Viviani Liliane T. Intermediate Spanish Comp
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+11
+5
+4
+3
+0
+0
+0
+0
+0
+% 0.0 45.8 20.8 16.7 12.5 0.0 0.0 0.0 0.0 0.0
+D
+D-
+1
+1
+4.5 4.5
+D
+D-
+1
+0
+5.9 0.0
+D
+D-
+2
+0
+14.3 0.0
+D
+D-
+4
+1
+7.5 1.9
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+F
+W
+1
+1
+4.5 4.5
+F
+W
+2
+0
+11.8 0.0
+F
+W
+0
+1
+0.0 7.1
+F
+W
+3
+2
+5.7 3.8
+F
+W
+0
+1
+0.0 5.0
+F
+W
+0
+0
+0.0 0.0
+F
+W
+0
+1
+0.0 4.2
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.12
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.06
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.82
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.28
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.33
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.12
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.68
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

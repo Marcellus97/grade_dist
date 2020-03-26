@@ -1,0 +1,303 @@
+testRun: 07/07/05 @ 10:09 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2004-05 Oxford Campus
+Page: 400 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MUS 161 C Tan Siok L. Functional Piano
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+1
+1
+4
+1
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.98
+% 0.0 25.0 8.3 8.3 33.3 8.3 0.0 8.3 0.0 0.0 0.0 0.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MUS 161 D Tan Siok L. Functional Piano
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+6
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 8.3 0.0 50.0 8.3 16.7 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MUS 161
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+16
+6
+10
+6
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 2.1 12.5 33.3 12.5 20.8 12.5 0.0 4.2 0.0 0.0 0.0 0.0 2.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MUS 185 B Tanner Christopher G. The Diverse Worlds Of Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+19
+8
+13
+24
+12
+11
+11
+2
+0
+3
+0
+1
+0
+0
+0
+0
+7
+0
+0
+0
+2.96
+% 0.9 17.0 7.1 11.6 21.4 10.7 9.8 9.8 1.8 0.0 2.7 0.0 0.9 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0
+Course Total MUS 185
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+19
+8
+13
+24
+12
+11
+11
+2
+0
+3
+0
+1
+0
+0
+0
+0
+7
+0
+0
+0
+2.96
+% 0.9 17.0 7.1 11.6 21.4 10.7 9.8 9.8 1.8 0.0 2.7 0.0 0.9 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0
+MUS 185M A Tanner Christopher G. Diverse Worlds Of Music/Majors
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+6
+5
+28
+12
+4
+3
+2
+1
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+2.80
+% 0.0 5.8 8.7 7.2 40.6 17.4 5.8 4.3 2.9 1.4 2.9 0.0 1.4 0.0 0.0 1.4 0.0 0.0 0.0 0.0 0.0
+Course Total MUS 185M
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+6
+5
+28
+12
+4
+3
+2
+1
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+2.80
+% 0.0 5.8 8.7 7.2 40.6 17.4 5.8 4.3 2.9 1.4 2.9 0.0 1.4 0.0 0.0 1.4 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

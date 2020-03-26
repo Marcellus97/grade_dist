@@ -1,0 +1,304 @@
+testRun: 07/07/05 @ 10:09 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2004-05 Oxford Campus
+Page: 240 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+FIN 417 C Conn Robert L. International Business Finance
+N
+N
+GG
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+1
+9
+6
+1
+7
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.63
+% 0.0 3.7 0.0 3.7 33.3 22.2 3.7 25.9 3.7 0.0 0.0 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 417
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+6
+10
+22
+8
+6
+12
+2
+0
+0
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+2.87
+% 0.0 6.8 8.1 13.5 29.7 10.8 8.1 16.2 2.7 0.0 0.0 0.0 0.0 1.4 2.7 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 437 A Bailey Todd H. Legal Issues in Cyberlaw
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+4
+7
+5
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 0.0 29.6 14.8 25.9 18.5 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 437
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+4
+7
+5
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.44
+% 0.0 29.6 14.8 25.9 18.5 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 442 A Becker Paul A. Bus Association&Commercial Law
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+0
+2
+2
+3
+4
+11
+4
+4
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.25
+% 2.6 10.3 0.0 5.1 5.1 7.7 10.3 28.2 10.3 10.3 7.7 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+FIN 442 C Staton Wayne Bus Association&Commercial Law
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+8
+8
+11
+15
+16
+7
+16
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.82
+% 1.1 9.1 9.1 12.5 17.0 18.2 8.0 18.2 6.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total FIN 442
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+12
+8
+13
+17
+19
+11
+27
+10
+4
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.65
+% 1.6 9.4 6.3 10.2 13.4 15.0 8.7 21.3 7.9 3.1 2.4 0.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

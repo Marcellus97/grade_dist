@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Oxford Campus
+Page: 499 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PSY 294L AE Kraan Egon Research Methods Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+8
+2
+4
+3
+0
+0
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 0.0 9.1 36.4 9.1 18.2 13.6 0.0 0.0 0.0 4.5 4.5 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 294L AF Kraan Egon Research Methods Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+7
+7
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+3.40
+% 13.0 30.4 30.4 8.7 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.7 0.0 0.0 0.0 0.0 0.0
+PSY 294L BA Lea Melissa A. Research Methods Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+0
+4
+2
+3
+0
+1
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.58
+% 0.0 11.1 16.7 0.0 22.2 11.1 16.7 0.0 5.6 0.0 0.0 11.1 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0
+PSY 294L BB Hammerly Mark D. Research Methods Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+6
+3
+6
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+3.15
+% 0.0 17.4 26.1 13.0 26.1 0.0 4.3 8.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0
+PSY 294L BC Hammerly Mark D. Research Methods Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+4
+3
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 0.0 47.4 21.1 15.8 15.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 294L BD Lea Melissa A. Research Methods Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+2
+2
+1
+3
+2
+0
+0
+0
+1
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.10
+% 17.4 21.7 8.7 8.7 4.3 13.0 8.7 0.0 0.0 0.0 4.3 8.7 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PSY 294L CG Nagy Z. Michael Research Methods Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+1
+2
+3
+0
+6
+4
+0
+0
+1
+2
+2
+2
+0
+0
+0
+0
+0
+0
+2.05
+% 0.0 4.2 0.0 4.2 8.3 12.5 0.0 25.0 16.7 0.0 0.0 4.2 8.3 8.3 8.3 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

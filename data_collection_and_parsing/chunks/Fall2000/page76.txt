@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 11:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2000-01 Oxford Campus
+Page: 73 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CHM 433 A Hagerman Ann E. Biochemistry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+6
+0
+0
+4
+0
+0
+4
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+2.70
+% 0.0 32.0 0.0 0.0 24.0 0.0 0.0 16.0 0.0 0.0 16.0 0.0 4.0 0.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 433
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+0
+0
+6
+0
+0
+4
+0
+0
+4
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+2.70
+% 0.0 32.0 0.0 0.0 24.0 0.0 0.0 16.0 0.0 0.0 16.0 0.0 4.0 0.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 471 A Shelley Mee Y. Physical Chemistry
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+2
+7
+1
+4
+4
+4
+0
+1
+0
+3
+0
+1
+2
+0
+0
+0
+0
+0
+2.23
+% 0.0 12.1 0.0 6.1 21.2 3.0 12.1 12.1 12.1 0.0 3.0 0.0 9.1 0.0 3.0 6.1 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 471
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+2
+7
+1
+4
+4
+4
+0
+1
+0
+3
+0
+1
+2
+0
+0
+0
+0
+0
+2.23
+% 0.0 12.1 0.0 6.1 21.2 3.0 12.1 12.1 12.1 0.0 3.0 0.0 9.1 0.0 3.0 6.1 0.0 0.0 0.0 0.0 0.0
+CHM 517 A Crowder Michael W. Advanced Inorganic Chemistry
+N
+N
+ZT
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+5
+3
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.11
+% 0.0 18.2 0.0 0.0 45.5 27.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 517
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+5
+3
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.11
+% 0.0 18.2 0.0 0.0 45.5 27.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 526 A Minto Robert E. Spectroscopic Id Of Structure
+N
+N
+3N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+2
+3
+2
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.25
+% 0.0 30.8 0.0 15.4 23.1 15.4 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

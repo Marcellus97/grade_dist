@@ -1,0 +1,303 @@
+testRun: 09/11/15 @ 08:38 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Term, 2014-15 Oxford Campus
+Page: 36 Sections of 10
+ECO Economics
+Miami Plan
+Honors
+Cross Listing
+ECO 131 VA Kinghorn Janice R. Eco Prspctv on Inequality Amer
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+1
+0
+2
+1
+1
+2
+0
+2
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.68
+% 0.0 12.5 18.8 6.3 0.0 12.5 6.3 6.3 12.5 0.0 12.5 0.0 0.0 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 131
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+1
+0
+2
+1
+1
+2
+0
+2
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.68
+% 0.0 12.5 18.8 6.3 0.0 12.5 6.3 6.3 12.5 0.0 12.5 0.0 0.0 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ECO 201 VA Kinghorn Janice R. Principles Of Microeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+3
+3
+1
+2
+2
+2
+0
+0
+0
+0
+3
+0
+0
+1
+0
+1
+0
+0
+2.69
+% 0.0 5.3 0.0 15.8 15.8 5.3 10.5 10.5 10.5 0.0 0.0 0.0 0.0 15.8 0.0 0.0 5.3 0.0 5.3 0.0 0.0
+ECO 201 XA Even William E. Principles Of Microeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+0
+3
+1
+0
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 9.1 9.1 9.1 0.0 27.3 9.1 0.0 18.2 0.0 9.1 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ECO 201
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+4
+3
+4
+3
+2
+4
+0
+1
+0
+0
+4
+0
+0
+1
+0
+1
+0
+0
+2.64
+% 0.0 6.7 3.3 13.3 10.0 13.3 10.0 6.7 13.3 0.0 3.3 0.0 0.0 13.3 0.0 0.0 3.3 0.0 3.3 0.0 0.0
+ECO 202 TA Raynold Prosper Principles Of Macroeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+0
+0
+0
+4
+2
+4
+1
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+1.66
+% 0.0 7.1 0.0 0.0 0.0 0.0 0.0 28.6 14.3 28.6 7.1 0.0 7.1 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0
+ECO 202 UB Elliott Steven R. Principles Of Macroeconomics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2
+6
+4
+2
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+1
+0
+0
+2.61
+% 0.0 0.0 0.0 11.8 35.3 23.5 11.8 0.0 5.9 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

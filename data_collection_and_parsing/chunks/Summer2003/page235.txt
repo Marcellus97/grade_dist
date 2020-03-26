@@ -1,0 +1,342 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2002-03 Hamilton Campus
+Page: 232 Sections of 10
+MTH Mathematics
+MTH 1013 HMA Baer Robert D. Intro To Elementary Algebra
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 1013 HOA Kassem Mariam K. Intro To Elementary Algebra
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MTH 1013
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 102 HMA Mennett Michael R. Intermediate Algebra
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+3
+2
+3
+0
+1
+0
+2
+3
+0
+% 0.0 15.8 10.5 15.8 0.0 5.3 0.0 10.5 15.8 0.0
+MTH 102 HOA Bhatnagar Jyoti S. Intermediate Algebra
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+0
+0
+2
+0
+0
+2
+0
+0
+% 0.0 7.7 0.0 0.0 15.4 0.0 0.0 15.4 0.0 0.0
+Course Total MTH 102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+4
+2
+3
+2
+1
+0
+4
+3
+0
+% 0.0 12.5 6.3 9.4 6.3 3.1 0.0 12.5 9.4 0.0
+MTH 125 HML Sobecki David M. Precalculus
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+2
+2
+2
+4
+3
+0
+0
+0
+0
+0
+% 12.5 12.5 12.5 25.0 18.8 0.0 0.0 0.0 0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+2
+0
+15.4 0.0
+D
+D-
+2
+0
+6.3 0.0
+D
+D-
+1
+0
+6.3 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 11.8 0.0 0.0
+F
+W
+WP WF
+0
+2
+1
+0
+0.0 8.7 4.3 0.0
+F
+W
+WP WF
+0
+4
+1
+0
+0.0 10.0 2.5 0.0
+F
+W
+WP WF
+1
+0
+4
+0
+5.3 0.0 21.1 0.0
+F
+W
+2
+0
+15.4 0.0
+WP WF
+3
+1
+23.1 7.7
+F
+W
+WP WF
+3
+0
+7
+1
+9.4 0.0 21.9 3.1
+F
+W
+WP WF
+0
+0
+2
+0
+0.0 0.0 12.5 0.0
+Miami Plan
+Honors
+Cross Listing
+N
+N
+I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+10
+0
+0
+0.00
+0.0 29.4 58.8 0.0 0.0
+N
+N
+I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+10
+0
+0
+0.00
+0.0 43.5 43.5 0.0 0.0
+I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+20
+0
+0
+0.00
+0.0 37.5 50.0 0.0 0.0
+N
+N
+I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+2.74
+0.0 0.0 0.0 0.0 0.0
+N
+N
+I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+1.60
+0.0 0.0 0.0 0.0 0.0
+I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+2.28
+0.0 0.0 0.0 0.0 0.0
+N
+N
+I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+3.33
+0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

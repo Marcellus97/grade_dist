@@ -1,0 +1,300 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 147 Sections of 10
+CPB Chem, Paper & Biomed Engineer
+Miami Plan
+Honors
+Cross Listing
+CPB 201 A Keller D. Steven Principles of Paper Sci & Engr
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+4
+4
+2
+4
+4
+1
+1
+0
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 14.3 14.3 14.3 7.1 14.3 14.3 3.6 3.6 0.0 0.0 3.6 3.6 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CPB 201
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+4
+4
+2
+4
+4
+1
+1
+0
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 14.3 14.3 14.3 7.1 14.3 14.3 3.6 3.6 0.0 0.0 3.6 3.6 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CPB 204 A Almquist Catherine Material & Energy Balances
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+5
+12
+4
+3
+7
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.03
+% 0.0 12.8 12.8 30.8 10.3 7.7 17.9 2.6 0.0 0.0 5.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CPB 204 B Berberich Jason Material & Energy Balances
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+7
+6
+5
+4
+4
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 8.6 8.6 20.0 17.1 14.3 11.4 11.4 2.9 2.9 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CPB 204
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+8
+19
+10
+8
+11
+5
+1
+1
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 0.0 10.8 10.8 25.7 13.5 10.8 14.9 6.8 1.4 1.4 2.7 0.0 0.0 1.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CPB 219 A Coffin Douglas W. Statics Dynamics Mechanics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+2
+2
+0
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.11
+% 0.0 21.4 21.4 14.3 14.3 0.0 14.3 7.1 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CPB 219
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+2
+2
+0
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.11
+% 0.0 21.4 21.4 14.3 14.3 0.0 14.3 7.1 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

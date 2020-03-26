@@ -1,0 +1,306 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 875 Sections of 10
+MTH Mathematics
+Miami Plan
+Honors
+Cross Listing
+MTH 002 M A Smith Rebecca S. Pre-Algebra
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+8
+5
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 18.8 0.0 0.0 0.0 50.0 31.3 0.0 0.0
+MTH 002 M B Smith Rebecca S. Pre-Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+9
+3
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.7 0.0 0.0 0.0 69.2 23.1 0.0 0.0
+MTH 002 M C Fagerlund Sandra S. Pre-Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+9
+8
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.5 0.0 0.0 0.0 47.4 42.1 0.0 0.0
+Course Total MTH 002
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+0
+0
+26
+16
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 12.5 0.0 0.0 0.0 54.2 33.3 0.0 0.0
+MTH 101 M A Brunk Sharon K. Intro to Elementary Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+3
+2
+3
+2
+1
+0
+1
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+2.12
+% 0.0 10.5 0.0 0.0 15.8 10.5 15.8 10.5 5.3 0.0 5.3 0.0 15.8 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 101 M B Lemaster Lynn Intro to Elementary Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+0
+2
+1
+0
+2
+0
+0
+1
+0
+3
+11
+0
+0
+0
+0
+0
+0
+0
+2.07
+% 0.0 0.0 13.0 0.0 8.7 4.3 0.0 8.7 0.0 0.0 4.3 0.0 13.0 47.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MTH 101 M C Brunk Sharon K. Intro to Elementary Algebra
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+0
+4
+1
+2
+3
+3
+1
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.32
+% 0.0 9.5 4.8 0.0 19.0 4.8 9.5 14.3 14.3 4.8 0.0 4.8 4.8 9.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

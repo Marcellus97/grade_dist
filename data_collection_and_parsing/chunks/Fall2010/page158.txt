@@ -1,0 +1,303 @@
+testRun: 01/25/11 @ 08:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2010-11 Oxford Campus
+Page: 154 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+CSE 381 A Opyrchal Lukasz Operating Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+3
+1
+7
+0
+0
+5
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 4.5 13.6 13.6 4.5 31.8 0.0 0.0 22.7 4.5 0.0 0.0 0.0 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 381 B Opyrchal Lukasz Operating Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+2
+6
+1
+1
+1
+0
+1
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 0.0 18.2 9.1 9.1 27.3 4.5 4.5 4.5 0.0 4.5 9.1 4.5 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSE 381
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+7
+5
+3
+13
+1
+1
+6
+1
+1
+2
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 2.3 15.9 11.4 6.8 29.5 2.3 2.3 13.6 2.3 2.3 4.5 2.3 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 383 A Gannod Gerald C. Client/Server Programming
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+4
+4
+0
+3
+0
+2
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.86
+% 0.0 8.7 21.7 17.4 17.4 0.0 13.0 0.0 8.7 0.0 4.3 0.0 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSE 383
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+4
+4
+0
+3
+0
+2
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.86
+% 0.0 8.7 21.7 17.4 17.4 0.0 13.0 0.0 8.7 0.0 4.3 0.0 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 385 A Uckan Yuksel Database Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+0
+0
+2
+0
+0
+7
+0
+0
+3
+0
+1
+4
+0
+0
+0
+0
+0
+0
+0
+2.07
+% 5.3 5.3 0.0 0.0 10.5 0.0 0.0 36.8 0.0 0.0 15.8 0.0 5.3 21.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CSE 385
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+0
+0
+2
+0
+0
+7
+0
+0
+3
+0
+1
+4
+0
+0
+0
+0
+0
+0
+0
+2.07
+% 5.3 5.3 0.0 0.0 10.5 0.0 0.0 36.8 0.0 0.0 15.8 0.0 5.3 21.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

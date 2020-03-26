@@ -1,0 +1,303 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 484 Sections of 10
+MME Mechan & Manufact Engineering
+Miami Plan
+Honors
+Cross Listing
+MME 102 A Birchfield Neal S. Intro to Mech and Manf Egr
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.59
+% 0.0 73.3 0.0 6.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MME 102 B Birchfield Neal S. Intro to Mech and Manf Egr
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+1
+1
+0
+4
+0
+0
+0
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 37.5 0.0 6.3 6.3 0.0 25.0 0.0 0.0 0.0 6.3 0.0 6.3 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MME 102
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+17
+0
+2
+2
+0
+4
+0
+0
+0
+1
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 0.0 54.8 0.0 6.5 6.5 0.0 12.9 0.0 0.0 0.0 3.2 0.0 6.5 9.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MME 211 A Schoenbaechler Steven M. Static Modeling/Mech Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+6
+2
+5
+3
+4
+5
+5
+0
+2
+2
+4
+0
+0
+0
+0
+0
+0
+0
+0
+2.65
+% 0.0 25.5 11.8 3.9 9.8 5.9 7.8 9.8 9.8 0.0 3.9 3.9 7.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MME 211 B Schoenbaechler Steven M. Static Modeling/Mech Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+6
+4
+6
+7
+5
+1
+2
+5
+0
+2
+6
+0
+0
+0
+0
+0
+0
+0
+0
+2.59
+% 0.0 21.4 10.7 7.1 10.7 12.5 8.9 1.8 3.6 8.9 0.0 3.6 10.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MME 211 C Schoenbaechler Steven M. Static Modeling/Mech Systems
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+3
+2
+5
+3
+3
+3
+2
+0
+2
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.51
+% 0.0 16.7 5.6 8.3 5.6 13.9 8.3 8.3 8.3 5.6 0.0 5.6 5.6 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MME 211
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+31
+14
+9
+13
+15
+12
+9
+10
+7
+2
+6
+12
+3
+0
+0
+0
+0
+0
+0
+0
+2.59
+% 0.0 21.7 9.8 6.3 9.1 10.5 8.4 6.3 7.0 4.9 1.4 4.2 8.4 2.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

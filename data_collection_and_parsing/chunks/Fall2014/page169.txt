@@ -1,0 +1,353 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 165 Sections of 10
+Course Total CSE 449
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+9
+1
+0
+1
+0
+0
+0
+0
+1
+% 0.0 69.2 7.7 0.0 7.7 0.0 0.0 0.0 0.0 7.7
+CSE 464 A Brinkman William J. Algorithms
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+2
+0
+1
+2
+1
+2
+0
+0
+2
+0
+% 12.5 0.0 6.3 12.5 6.3 12.5 0.0 0.0 12.5 0.0
+Course Total CSE 464
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+2
+0
+1
+2
+1
+2
+0
+0
+2
+0
+% 12.5 0.0 6.3 12.5 6.3 12.5 0.0 0.0 12.5 0.0
+CSE 473 A Zmuda Michael A. Automata Forml Lang&Computblty
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+1
+5
+0
+1
+0
+1
+3
+1
+% 0.0 0.0 5.9 29.4 0.0 5.9 0.0 5.9 17.6 5.9
+Course Total CSE 473
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+0
+0
+1
+5
+0
+1
+0
+1
+3
+1
+% 0.0 0.0 5.9 29.4 0.0 5.9 0.0 5.9 17.6 5.9
+CSE 486 A Zmuda Michael A. Intro Artificial Intelligence
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+2
+1
+3
+3
+2
+2
+0
+1
+% 0.0 0.0 13.3 6.7 20.0 20.0 13.3 13.3 0.0 6.7
+CSE 486 B Zmuda Michael A. Intro Artificial Intelligence
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+2
+1
+0
+4
+3
+2
+2
+0
+1
+% 4.8 9.5 4.8 0.0 19.0 14.3 9.5 9.5 0.0 4.8
+D
+D-
+0
+1
+0.0 7.7
+D
+D-
+4
+0
+25.0 0.0
+D
+D-
+4
+0
+25.0 0.0
+D
+D-
+0
+1
+0.0 5.9
+D
+D-
+0
+1
+0.0 5.9
+D
+D-
+0
+1
+0.0 6.7
+D
+D-
+3
+0
+14.3 0.0
+F
+W
+WP WF
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+F
+W
+WP WF
+1
+1
+0
+0
+6.3 6.3 0.0 0.0
+F
+W
+WP WF
+1
+1
+0
+0
+6.3 6.3 0.0 0.0
+F
+W
+WP WF
+2
+2
+0
+0
+11.8 11.8 0.0 0.0
+F
+W
+WP WF
+2
+2
+0
+0
+11.8 11.8 0.0 0.0
+F
+W
+WP WF
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+F
+W
+WP WF
+1
+1
+0
+0
+4.8 4.8 0.0 0.0
+Miami Plan
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+Avg GPA
+0
+3.44
+0.0
+0B
+S
+Avg GPA
+0
+2.27
+0.0
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+Avg GPA
+0
+2.27
+0.0
+8P
+S
+Avg GPA
+0
+2.13
+0.0
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+Avg GPA
+0
+2.13
+0.0
+LJ
+S
+Avg GPA
+0
+2.56
+0.0
+I5
+S
+Avg GPA
+0
+2.44
+0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

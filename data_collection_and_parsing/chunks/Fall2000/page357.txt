@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 11:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2000-01 Oxford Campus
+Page: 354 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MKT 468 B Schindehutte Minet Business Plan Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+8
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 6.7 20.0 6.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 53.3 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 468
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+9
+14
+8
+3
+0
+0
+0
+0
+0
+0
+1
+0
+0
+19
+0
+0
+0
+0
+0
+0
+3.56
+% 3.6 16.1 25.0 14.3 5.4 0.0 0.0 0.0 0.0 0.0 0.0 1.8 0.0 0.0 33.9 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 471 A McNeilly Kevin M. International Marketing
+N
+N
+5I
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+3
+7
+8
+7
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 0.0 17.6 8.8 20.6 23.5 20.6 0.0 2.9 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 471 B McNeilly Kevin M. International Marketing
+N
+N
+5J
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+6
+12
+7
+2
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 7.9 7.9 15.8 31.6 18.4 5.3 5.3 7.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 471 C Oakenfull Gillian International Marketing
+N
+N
+5K
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+8
+7
+7
+8
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.19
+% 0.0 8.3 22.2 19.4 19.4 22.2 2.8 2.8 0.0 0.0 0.0 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 471 D Oakenfull Gillian International Marketing
+N
+N
+5L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+3
+11
+17
+3
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 0.0 0.0 8.6 31.4 48.6 8.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 471
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+17
+31
+44
+25
+3
+4
+5
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 0.0 8.4 11.9 21.7 30.8 17.5 2.1 2.8 3.5 0.0 0.0 0.0 0.0 1.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

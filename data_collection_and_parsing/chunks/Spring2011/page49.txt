@@ -1,0 +1,304 @@
+testRun: 06/09/11 @ 13:30 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2010-11 Oxford Campus
+Page: 45 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+AMS 310A A Metcalf Eugene W. Kid's Stuff: Toys in America
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+15
+15
+4
+3
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+3.38
+% 0.0 0.0 37.5 37.5 10.0 7.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 2.5 0.0 0.0 0.0
+Course Total AMS 310A
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+15
+15
+4
+3
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+3.38
+% 0.0 0.0 37.5 37.5 10.0 7.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 2.5 0.0 0.0 0.0
+AMS 310I A Gaskins Adrian T. Race & Pop. Culture in the US
+N
+N
+PO
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+4
+1
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+3.48
+% 0.0 18.8 25.0 25.0 6.3 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 12.5 0.0 0.0 0.0
+Course Total AMS 310I
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+4
+1
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+3.48
+% 0.0 18.8 25.0 25.0 6.3 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 12.5 0.0 0.0 0.0
+AMS 310V A Garner Sandra L. American Indians in Film
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+3.44
+% 7.1 35.7 14.3 21.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 14.3 0.0 0.0 0.0
+Course Total AMS 310V
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+3.44
+% 7.1 35.7 14.3 21.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 14.3 0.0 0.0 0.0
+AMS 401 A Sheumaker Helen D. Senior Cap In American Studies
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+0
+0
+2
+4
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.08
+% 0.0 30.8 15.4 0.0 0.0 15.4 30.8 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

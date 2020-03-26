@@ -1,0 +1,303 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Hamilton Campus
+Page: 727 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BTE 121B HYA Teigen Kimberly S. Keyboarding
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+13
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+3
+0
+0
+0
+0
+0
+3.24
+% 68.4 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.5 15.8 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 121B
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+13
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+3
+0
+0
+0
+0
+0
+3.24
+% 68.4 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.5 15.8 0.0 0.0 0.0 0.0 0.0
+BTE 121C HZA Teigen Kimberly S. Keyboarding
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+16
+2
+0
+0
+3
+0
+1
+1
+0
+0
+0
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+3.41
+% 61.5 7.7 0.0 0.0 11.5 0.0 3.8 3.8 0.0 0.0 0.0 0.0 3.8 3.8 0.0 3.8 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 121C
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+16
+2
+0
+0
+3
+0
+1
+1
+0
+0
+0
+0
+1
+1
+0
+1
+0
+0
+0
+0
+0
+3.41
+% 61.5 7.7 0.0 0.0 11.5 0.0 3.8 3.8 0.0 0.0 0.0 0.0 3.8 3.8 0.0 3.8 0.0 0.0 0.0 0.0 0.0
+BTE 121N HZA Teigen Kimberly S. Keyboarding-Numeric Keypad
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+0
+1
+1
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.29
+% 40.0 0.0 10.0 10.0 10.0 0.0 10.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 121N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+0
+1
+1
+1
+0
+1
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+3.29
+% 40.0 0.0 10.0 10.0 10.0 0.0 10.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 181 H A Angus Gwyn D. Computers And Business
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+9
+0
+0
+4
+0
+0
+2
+0
+0
+1
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+3.00
+% 5.0 45.0 0.0 0.0 20.0 0.0 0.0 10.0 0.0 0.0 5.0 0.0 0.0 5.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

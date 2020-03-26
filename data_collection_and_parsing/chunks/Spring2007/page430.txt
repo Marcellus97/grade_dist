@@ -1,0 +1,46 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Oxford Campus
+Page: 427 Sections of 10
+Paper & Chemical Engineering Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+15
+17
+13
+18
+9
+6
+8
+1
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+3.12
+% 2.2 16.1 18.3 14.0 19.4 9.7 6.5 8.6 1.1 0.0 0.0 0.0 2.2 2.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

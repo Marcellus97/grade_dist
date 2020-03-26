@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 15:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2001-02 Oxford Campus
+Page: 352 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MGT 302 F France Robert T. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+16
+0
+0
+7
+0
+0
+3
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.66
+% 0.0 9.7 0.0 0.0 51.6 0.0 0.0 22.6 0.0 0.0 9.7 0.0 0.0 6.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 G France Robert T. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+16
+0
+0
+12
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 16.7 0.0 0.0 44.4 0.0 0.0 33.3 0.0 0.0 2.8 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 H France Robert T. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+20
+0
+0
+9
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.79
+% 0.0 11.4 0.0 0.0 57.1 0.0 0.0 25.7 0.0 0.0 2.9 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 I France Robert T. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+23
+0
+0
+7
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 11.1 0.0 0.0 63.9 0.0 0.0 19.4 0.0 0.0 0.0 0.0 0.0 2.8 2.8 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 J Newman William E. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+15
+0
+0
+11
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.79
+% 0.0 17.6 0.0 0.0 44.1 0.0 0.0 32.4 0.0 0.0 2.9 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 K Gattiker Thomas F. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+2
+6
+3
+5
+3
+4
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 0.0 27.8 5.6 16.7 8.3 13.9 8.3 11.1 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 L Gattiker Thomas F. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+8
+8
+3
+4
+3
+2
+3
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.59
+% 0.0 5.6 2.8 22.2 22.2 8.3 11.1 8.3 5.6 8.3 0.0 2.8 0.0 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

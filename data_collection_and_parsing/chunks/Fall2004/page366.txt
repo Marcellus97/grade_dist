@@ -1,0 +1,307 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Oxford Campus
+Page: 363 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MGT 303 C Mobley Thomas L. Human Resource Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+4
+1
+15
+1
+2
+5
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.95
+% 5.9 8.8 11.8 2.9 44.1 2.9 5.9 14.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 303
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+8
+10
+15
+33
+6
+7
+10
+3
+1
+1
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+2.91
+% 4.9 7.8 9.8 14.7 32.4 5.9 6.9 9.8 2.9 1.0 1.0 0.0 2.0 0.0 0.0 1.0 0.0 0.0 0.0 0.0 0.0
+MGT 381 A Wesolowski Mark A. Managerial Development Seminar
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+4
+3
+6
+2
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.21
+% 0.0 20.0 20.0 15.0 30.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 381 B Wesolowski Mark A. Managerial Development Seminar
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+3
+2
+4
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.60
+% 0.0 50.0 15.0 10.0 20.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 381
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+7
+5
+10
+2
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.40
+% 0.0 35.0 17.5 12.5 25.0 5.0 2.5 0.0 0.0 0.0 0.0 0.0 2.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 402 A Walsh David J. Employment Law
+N
+N
+IB
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+0
+5
+4
+2
+2
+1
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.65
+% 0.0 4.3 21.7 0.0 21.7 17.4 8.7 8.7 4.3 4.3 4.3 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0
+MGT 402 B Walsh David J. Employment Law
+N
+N
+LE
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+2
+3
+2
+3
+4
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.63
+% 0.0 10.5 5.3 10.5 15.8 10.5 15.8 21.1 5.3 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

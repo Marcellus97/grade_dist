@@ -1,0 +1,351 @@
+testRun: 06/30/04 @ 16:23 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2002-03 Oxford Campus
+Page: 267 Sections of 10
+FRE 202 E Roberts Anna M. Critical Anlys/French Culture
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+7
+5
+3
+4
+2
+1
+0
+0
+0
+% 0.0 28.0 20.0 12.0 16.0 8.0 4.0 0.0 0.0 0.0
+FRE 202 F Hodges Elisabeth D. Critical Anlys/French Culture
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+2
+4
+7
+2
+1
+1
+1
+1
+% 0.0 4.2 8.3 16.7 29.2 8.3 4.2 4.2 4.2 4.2
+FRE 202 G Runyon Randolph Critical Anlys/French Culture
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+2
+4
+4
+3
+11
+2
+0
+0
+0
+0
+% 7.4 14.8 14.8 11.1 40.7 7.4 0.0 0.0 0.0 0.0
+FRE 202 H Creech James N. Critical Anlys/French Culture
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+1
+1
+1
+2
+1
+1
+1
+0
+% 0.0 12.5 6.3 6.3 6.3 12.5 6.3 6.3 6.3 0.0
+FRE 202 I Reynaud Patricia G. Critical Anlys/French Culture
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+2
+1
+5
+2
+1
+0
+1
+0
+% 0.0 0.0 15.4 7.7 38.5 15.4 7.7 0.0 7.7 0.0
+FRE 202 K McKinney Mark K. Critical Anlys/French Culture
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+4
+1
+0
+2
+1
+0
+0
+0
+% 0.0 0.0 26.7 6.7 0.0 13.3 6.7 0.0 0.0 0.0
+FRE 202 L Bonin Philippe C. Critical Anlys/French Culture
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+3
+0
+3
+4
+1
+5
+2
+0
+% 0.0 0.0 15.8 0.0 15.8 21.1 5.3 26.3 10.5 0.0
+D
+D-
+F
+W
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+D
+D-
+F
+W
+1
+0
+0
+0
+4.2 0.0 0.0 0.0
+D
+D-
+F
+W
+0
+0
+1
+0
+0.0 0.0 3.7 0.0
+D
+D-
+F
+W
+2
+2
+0
+1
+12.5 12.5 0.0 6.3
+D
+D-
+F
+W
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+D
+D-
+F
+W
+0
+0
+2
+1
+0.0 0.0 13.3 6.7
+D
+D-
+F
+W
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+1
+0.0 6.3
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+Y
+I
+X
+0
+3
+0.0 12.0
+Y
+I
+X
+0
+3
+0.0 12.5
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+4
+0.0 26.7
+Y
+I
+X
+0
+1
+0.0 5.3
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.46
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.82
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.23
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.19
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+1
+0
+0
+2.93
+7.7 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.58
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.59
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

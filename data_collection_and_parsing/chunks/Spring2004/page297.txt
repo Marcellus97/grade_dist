@@ -1,0 +1,301 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Oxford Campus
+Page: 294 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total GER 231
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+34
+40
+22
+15
+9
+5
+1
+1
+1
+2
+0
+0
+1
+2
+2
+0
+1
+0
+0
+0
+3.37
+% 0.0 25.0 29.4 16.2 11.0 6.6 3.7 0.7 0.7 0.7 1.5 0.0 0.0 0.7 1.5 1.5 0.0 0.7 0.0 0.0 0.0
+GER 231H A Carter Alicia L. Folk & Literary Fairy Tales
+N
+Y
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+21
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.98
+% 4.0 84.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GER 231H
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+21
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.98
+% 4.0 84.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GER 231L L A Bachem Michael European Fairy Tale Tradition
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+9
+8
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.71
+% 0.0 48.6 24.3 21.6 2.7 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GER 231L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+9
+8
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.71
+% 0.0 48.6 24.3 21.6 2.7 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GER 252 A Rose Sven-Erik The German-Jewish Experiences
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+8
+12
+9
+0
+0
+6
+0
+0
+0
+0
+0
+2
+0
+0
+0
+4
+0
+0
+0
+3.29
+% 0.0 19.6 15.7 23.5 17.6 0.0 0.0 11.8 0.0 0.0 0.0 0.0 0.0 3.9 0.0 0.0 0.0 7.8 0.0 0.0 0.0
+Course Total GER 252
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+8
+12
+9
+0
+0
+6
+0
+0
+0
+0
+0
+2
+0
+0
+0
+4
+0
+0
+0
+3.29
+% 0.0 19.6 15.7 23.5 17.6 0.0 0.0 11.8 0.0 0.0 0.0 0.0 0.0 3.9 0.0 0.0 0.0 7.8 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

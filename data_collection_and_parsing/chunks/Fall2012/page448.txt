@@ -1,0 +1,344 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Oxford Campus
+Page: 444 Sections of 10
+MBI 361 A Lee Marcia R. Epidemiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+2
+0
+2
+4
+6
+4
+4
+4
+2
+0
+% 6.9 0.0 6.9 13.8 20.7 13.8 13.8 13.8 6.9 0.0
+Course Total MBI 361
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+2
+0
+2
+4
+6
+4
+4
+4
+2
+0
+% 6.9 0.0 6.9 13.8 20.7 13.8 13.8 13.8 6.9 0.0
+MBI 415 A Stevenson John R. Immuno. Princpls & Practice
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+0
+1
+0
+2
+3
+0
+2
+0
+1
+% 0.0 0.0 8.3 0.0 16.7 25.0 0.0 16.7 0.0 8.3
+MBI 415 B Stevenson John R. Immuno. Princpls & Practice
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+1
+0
+2
+0
+2
+3
+3
+1
+2
+0
+% 5.6 0.0 11.1 0.0 11.1 16.7 16.7 5.6 11.1 0.0
+Course Total MBI 415
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+
+1
+0
+3
+0
+4
+6
+3
+3
+2
+1
+% 3.3 0.0 10.0 0.0 13.3 20.0 10.0 10.0 6.7 3.3
+MBI 425 A Janssen Gary R. Microbial Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+2
+0
+1
+2
+0
+0
+3
+3
+0
+% 0.0 16.7 0.0 8.3 16.7 0.0 0.0 25.0 25.0 0.0
+MBI 425 B Janssen Gary R. Microbial Physiology
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+
+0
+1
+0
+0
+6
+0
+0
+2
+0
+0
+% 0.0 10.0 0.0 0.0 60.0 0.0 0.0 20.0 0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+2
+1
+11.1 5.6
+D
+D-
+2
+1
+6.7 3.3
+D
+D-
+0
+0
+0.0 0.0
+D
+D-
+0
+0
+0.0 0.0
+F
+W
+WP WF
+0
+1
+0
+0
+0.0 3.4 0.0 0.0
+F
+W
+WP WF
+0
+1
+0
+0
+0.0 3.4 0.0 0.0
+F
+W
+2
+1
+16.7 8.3
+WP WF
+0
+0
+0.0 0.0
+F
+W
+WP WF
+0
+1
+0
+0
+0.0 5.6 0.0 0.0
+F
+W
+WP WF
+2
+2
+0
+0
+6.7 6.7 0.0 0.0
+F
+W
+WP WF
+1
+0
+0
+0
+8.3 0.0 0.0 0.0
+F
+W
+WP WF
+0
+1
+0
+0
+0.0 10.0 0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.79
+0.0 0.0 0.0
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+0 0.0
+EM
+S
+0 0.0
+4A
+S
+0 0.0
+Avg GPA 2.79
+Avg GPA 2.10
+Avg GPA 2.38
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+0 0.0
+HY
+S
+0 0.0
+HX
+S
+0 0.0
+Avg GPA 2.27
+Avg GPA 2.37
+Avg GPA 2.89
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

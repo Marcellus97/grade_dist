@@ -1,0 +1,309 @@
+testRun: 01/21/10 @ 13:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2009-10 Oxford Campus
+Page: 350 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ITS 201 D LaFever Kathryn Intro To International Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+28
+0
+3
+8
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.63
+% 0.0 63.6 0.0 6.8 18.2 6.8 0.0 2.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.3 0.0 0.0 0.0
+ITS 201 F LaFever Kathryn Intro To International Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+18
+2
+6
+8
+0
+2
+3
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 2.3 40.9 4.5 13.6 18.2 0.0 4.5 6.8 0.0 0.0 0.0 0.0 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ITS 201 G Gillen Michael J. Intro To International Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+11
+8
+19
+4
+9
+5
+2
+2
+1
+1
+4
+4
+0
+0
+0
+1
+0
+0
+0
+2.65
+% 1.4 0.0 15.3 11.1 26.4 5.6 12.5 6.9 2.8 2.8 1.4 1.4 5.6 5.6 0.0 0.0 0.0 1.4 0.0 0.0 0.0
+ITS 201 H Ziegler Melanie M. Intro To International Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+16
+14
+9
+17
+9
+7
+7
+3
+0
+0
+0
+1
+2
+0
+0
+0
+1
+0
+0
+0
+3.11
+% 2.3 18.2 15.9 10.2 19.3 10.2 8.0 8.0 3.4 0.0 0.0 0.0 1.1 2.3 0.0 0.0 0.0 1.1 0.0 0.0 0.0
+ITS 201 I Gillen Michael J. Intro To International Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+4
+6
+8
+7
+5
+4
+0
+0
+0
+0
+2
+0
+0
+0
+0
+3
+0
+0
+0
+2.98
+% 0.0 20.4 8.2 12.2 16.3 14.3 10.2 8.2 0.0 0.0 0.0 0.0 4.1 0.0 0.0 0.0 0.0 6.1 0.0 0.0 0.0
+ITS 201 J Toops Stanley W. Intro To International Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+6
+13
+9
+5
+4
+1
+0
+0
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 16.0 12.0 26.0 18.0 10.0 8.0 2.0 0.0 0.0 2.0 0.0 6.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ITS 201 K Copp LaGretia Intro To International Studies
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+9
+8
+6
+4
+0
+5
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.39
+% 0.0 32.0 18.0 16.0 12.0 8.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 2.0 0.0 0.0 0.0 2.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

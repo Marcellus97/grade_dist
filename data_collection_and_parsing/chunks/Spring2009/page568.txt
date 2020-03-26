@@ -1,0 +1,307 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Oxford Campus
+Page: 565 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+STA 363 A Bogan Aaron W. Regression&Design-Experiments
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 0.0 28.6 0.0 0.0 21.4 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 42.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total STA 363
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 0.0 28.6 0.0 0.0 21.4 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 42.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 368 A Skillings John H. Introduction To Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+1
+2
+4
+3
+1
+4
+2
+1
+0
+0
+1
+5
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 0.0 17.2 3.4 6.9 13.8 10.3 3.4 13.8 6.9 3.4 0.0 0.0 3.4 17.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 368 B Skillings John H. Introduction To Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+0
+5
+2
+3
+6
+2
+2
+5
+2
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.23
+% 0.0 12.1 3.0 0.0 15.2 6.1 9.1 18.2 6.1 6.1 15.2 6.1 0.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total STA 368
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+2
+2
+9
+5
+4
+10
+4
+3
+5
+2
+1
+6
+0
+0
+0
+0
+0
+0
+0
+2.44
+% 0.0 14.5 3.2 3.2 14.5 8.1 6.5 16.1 6.5 4.8 8.1 3.2 1.6 9.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 401 B Noble Robert B. Probability
+N
+N
+89
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+1
+2
+0
+3
+2
+0
+0
+1
+1
+1
+2
+7
+0
+0
+0
+0
+0
+0
+0
+2.27
+% 4.5 4.5 4.5 9.1 0.0 13.6 9.1 0.0 0.0 4.5 4.5 4.5 9.1 31.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+STA 401 C Noble Robert B. Probability
+N
+N
+3J
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+2
+6
+3
+0
+0
+1
+1
+0
+0
+1
+4
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 0.0 5.0 5.0 10.0 30.0 15.0 0.0 0.0 5.0 5.0 0.0 0.0 5.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

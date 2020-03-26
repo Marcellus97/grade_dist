@@ -1,0 +1,116 @@
+testSOC Sociology
+696
+SPN Spanish
+698
+STA Statistics
+700
+THE Theatre
+701
+ZOO Zoology
+702
+Hamilton Campus
+706
+ACC Accountancy
+707
+AMS American Studies
+708
+ART Art
+709
+ATH Anthropology
+712
+BOT Botany
+714
+BTE Business Technology
+715
+BWS Black World Studies
+721
+CHM Chemistry & Biochemistry
+722
+CIT Comp Information Technology
+725
+CJS Criminal Justice Studies
+728
+CLS Classics
+729
+COM Communication
+730
+CSA Computer Sci &Systems Analysis
+734
+DSC Decision Sciences
+736
+EAS Engineering & App Science
+737
+ECO Economics
+738
+EDL Educational Leadership
+739
+EDP Educational Psychology
+743
+EDT Teacher Education
+744
+ENG English
+748
+ENT Engineering Technology
+760
+ENV Environmental Science
+763
+FIN Finance
+764
+FRE French
+765
+FST Film Studies
+766
+FSW Family Studies And Social Work
+767
+GEO Geography
+770
+GER German
+772
+GLG Geology
+773
+GTY Gerontology
+775
+HST History
+776
+IDS Interdisciplinary
+781
+ITL Italian
+782
+JRN Journalism
+783
+LAS Latin American Studies
+784
+MBI Microbiology
+785
+MGT Management
+787
+MKT Marketing
+788
+MTH Mathematics
+789
+MUS Music
+797
+NSG Nursing
+799
+PHL Philosophy
+803
+PHS Phy Edu, Hlth, & Sport Studies
+804
+PHY Physics
+811
+POL Political Science
+814
+PSY Psychology
+816
+REL Comparative Religion
+818
+SOC Sociology
+819
+SPN Spanish
+821
+STA Statistics
+822
+THE Theatre
+823
+ZOO Zoology
+825

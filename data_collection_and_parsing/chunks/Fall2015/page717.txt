@@ -1,0 +1,306 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 713 Sections of 10
+EDT Teacher Education
+Miami Plan
+Honors
+Cross Listing
+EDT 002 H B Brown Lois G. College Reading II
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+13
+3
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 76.5 17.6 0.0 0.0
+EDT 002 H D Burk David S. College Reading II
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+8
+1
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 25.0 0.0 0.0 0.0 66.7 8.3 0.0 0.0
+Course Total EDT 002
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+21
+4
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 13.8 0.0 0.0 0.0 72.4 13.8 0.0 0.0
+EDT 110R H B Becker Donna Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+13
+2
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 68.4 10.5 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110R H E Wells Nancy M. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+0
+1
+0
+1
+0
+0
+0
+1
+0
+0
+0
+4
+2
+0
+0
+1
+0
+0
+0
+0
+2.04
+% 23.1 0.0 7.7 0.0 7.7 0.0 0.0 0.0 7.7 0.0 0.0 0.0 30.8 15.4 0.0 0.0 7.7 0.0 0.0 0.0 0.0
+EDT 110R H F Wells Nancy M. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+2
+1
+2
+0
+2
+1
+1
+0
+0
+0
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 29.4 11.8 5.9 11.8 0.0 11.8 5.9 5.9 0.0 0.0 0.0 0.0 11.8 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 110R HQA Middendorf-Samocki Michelle L. Learning Strategy/Coll Success
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+1
+2
+0
+0
+2
+0
+0
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.64
+% 0.0 35.7 0.0 7.1 14.3 0.0 0.0 14.3 0.0 0.0 7.1 0.0 14.3 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

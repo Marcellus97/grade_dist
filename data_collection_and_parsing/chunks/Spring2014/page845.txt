@@ -1,0 +1,328 @@
+testRun: 06/23/14 @ 07:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2013-14 Middletown Campus
+Page: 841 Sections of 10
+Course Total MTH 102
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+5
+7
+6
+6
+8
+5
+7
+15
+4
+4
+9
+3
+% 4.6 6.4 5.5 5.5 7.3 4.6 6.4 13.8 3.7 3.7 8.3 2.8
+MTH 115 M A Frazier Leah C. Math for Teachers Grades P-6
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+3
+2
+0
+4
+1
+3
+1
+0
+2
+2
+0
+% 0.0 15.0 10.0 0.0 20.0 5.0 15.0 5.0 0.0 10.0 10.0 0.0
+Course Total MTH 115
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+3
+2
+0
+4
+1
+3
+1
+0
+2
+2
+0
+% 0.0 15.0 10.0 0.0 20.0 5.0 15.0 5.0 0.0 10.0 10.0 0.0
+MTH 116 M A Frazier Leah C. Math for Teachers Grades P-6
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+1
+0
+4
+1
+2
+1
+2
+5
+2
+2
+1
+0
+% 4.8 0.0 19.0 4.8 9.5 4.8 9.5 23.8 9.5 9.5 4.8 0.0
+Course Total MTH 116
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+1
+0
+4
+1
+2
+1
+2
+5
+2
+2
+1
+0
+% 4.8 0.0 19.0 4.8 9.5 4.8 9.5 23.8 9.5 9.5 4.8 0.0
+MTH 125 M A Asthagiri Rajappa Precalculus
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+1
+1
+0
+0
+0
+0
+6
+0
+2
+0
+1
+1
+% 5.0 5.0 0.0 0.0 0.0 0.0 30.0 0.0 10.0 0.0 5.0 5.0
+MTH 125 M B de Saint-Rat Mark E. Precalculus
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+8
+1
+0
+8
+0
+0
+4
+1
+0
+1
+0
+% 0.0 29.6 3.7 0.0 29.6 0.0 0.0 14.8 3.7 0.0 3.7 0.0
+F
+W
+WP WF
+14
+15
+0
+0
+12.8 13.8 0.0 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 10.0 0.0 0.0
+F
+W
+WP WF
+0
+2
+0
+0
+0.0 10.0 0.0 0.0
+F
+W
+WP WF
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+F
+W
+WP WF
+0
+0
+0
+0
+0.0 0.0 0.0 0.0
+F
+W
+WP WF
+1
+7
+0
+0
+5.0 35.0 0.0 0.0
+F
+W
+WP WF
+2
+2
+0
+0
+7.4 7.4 0.0 0.0
+Miami Plan
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+Y
+P
+S
+Avg GPA
+1
+0
+0
+2.12
+0.9 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.64
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.64
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.50
+0.0 0.0 0.0
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.50
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.07
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.82
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,310 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 580 Sections of 10
+REL Religion, Comparative
+Miami Plan
+Honors
+Cross Listing
+REL 101 A Duffy John-Charles American Religious Encounters
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+8
+8
+4
+4
+1
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.29
+% 0.0 12.5 25.0 25.0 12.5 12.5 3.1 0.0 3.1 0.0 0.0 0.0 0.0 3.1 0.0 0.0 0.0 3.1 0.0 0.0 0.0
+REL 101 B Gray Hillel C. American Religious Encounters
+Y
+N
+RR
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+4
+4
+2
+1
+0
+0
+0
+1
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.47
+% 9.1 22.7 18.2 18.2 9.1 4.5 0.0 0.0 0.0 4.5 0.0 0.0 0.0 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+REL 101 C Johnson Rory American Religious Encounters
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+7
+5
+2
+3
+2
+0
+0
+0
+0
+1
+0
+3
+0
+0
+0
+1
+0
+0
+0
+3.39
+% 0.0 29.4 20.6 14.7 5.9 8.8 5.9 0.0 0.0 0.0 0.0 2.9 0.0 8.8 0.0 0.0 0.0 2.9 0.0 0.0 0.0
+REL 101 D Duffy John-Charles American Religious Encounters
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+11
+8
+3
+3
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.23
+% 0.0 8.8 32.4 23.5 8.8 8.8 5.9 5.9 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.9 0.0 0.0 0.0
+REL 101 E Gray Hillel C. American Religious Encounters
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+6
+5
+3
+5
+4
+1
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.24
+% 12.5 18.8 15.6 9.4 15.6 12.5 3.1 9.4 0.0 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+REL 101 F French Nathan S. American Religious Encounters
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+13
+15
+2
+1
+0
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+0
+3.41
+% 0.0 10.3 33.3 38.5 5.1 2.6 0.0 5.1 0.0 0.0 0.0 0.0 0.0 2.6 0.0 0.0 0.0 2.6 0.0 0.0 0.0
+REL 101 G Scarborough Daniel American Religious Encounters
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+7
+6
+5
+7
+3
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+3.59
+% 21.2 18.2 15.2 21.2 9.1 3.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 3.0 0.0 0.0 0.0 6.1 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

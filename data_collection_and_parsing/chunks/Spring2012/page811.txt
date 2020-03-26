@@ -1,0 +1,309 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Hamilton Campus
+Page: 807 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 112 H O Brenner Laura L. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+6
+4
+0
+1
+1
+0
+1
+0
+0
+0
+3
+4
+0
+0
+0
+0
+0
+0
+0
+2.71
+% 0.0 4.8 28.6 19.0 0.0 4.8 4.8 0.0 4.8 0.0 0.0 0.0 14.3 19.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H P Flanigan Thomas G. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+0
+4
+1
+2
+1
+1
+0
+1
+0
+0
+2
+5
+0
+0
+0
+0
+0
+0
+0
+2.40
+% 5.6 0.0 0.0 22.2 5.6 11.1 5.6 5.6 0.0 5.6 0.0 0.0 11.1 27.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H Q Hites Wendy G. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+0
+1
+1
+2
+1
+1
+0
+0
+2
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.26
+% 0.0 50.0 0.0 4.5 4.5 9.1 4.5 4.5 0.0 0.0 9.1 0.0 0.0 13.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H R Purdy Abigail E. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+4
+3
+1
+1
+1
+1
+1
+1
+0
+3
+2
+0
+0
+1
+1
+0
+0
+0
+2.27
+% 0.0 4.5 4.5 18.2 13.6 4.5 4.5 4.5 4.5 4.5 4.5 0.0 13.6 9.1 0.0 0.0 4.5 4.5 0.0 0.0 0.0
+ENG 112 H S Weber Robert S. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+5
+2
+3
+2
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.40
+% 0.0 36.4 22.7 9.1 13.6 9.1 0.0 4.5 0.0 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H T West Robert G. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+1
+1
+2
+3
+2
+1
+1
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+2.36
+% 0.0 5.6 5.6 5.6 5.6 5.6 11.1 16.7 11.1 5.6 5.6 0.0 0.0 22.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 H V Schmidlin Tom J. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+3
+0
+1
+1
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+3.34
+% 0.0 65.2 13.0 0.0 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 13.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

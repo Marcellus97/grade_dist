@@ -1,0 +1,306 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Hamilton Campus
+Page: 792 Sections of 10
+MUS Music
+Miami Plan
+Honors
+Cross Listing
+MUS 135 H A Bercaw John B. U'drstdng Jazz-History&Context
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+0
+13
+1
+0
+6
+0
+0
+0
+0
+0
+1
+1
+2
+0
+0
+0
+0
+0
+2.73
+% 0.0 17.2 0.0 0.0 44.8 3.4 0.0 20.7 0.0 0.0 0.0 0.0 0.0 3.4 3.4 6.9 0.0 0.0 0.0 0.0 0.0
+MUS 135 H B Bercaw John B. U'drstdng Jazz-History&Context
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+7
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+2.76
+% 0.0 40.0 0.0 0.0 28.0 0.0 0.0 16.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 16.0 0.0 0.0 0.0 0.0 0.0
+Course Total MUS 135
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+0
+0
+20
+1
+0
+10
+0
+0
+0
+0
+0
+1
+1
+6
+0
+0
+0
+0
+0
+2.74
+% 0.0 27.8 0.0 0.0 37.0 1.9 0.0 18.5 0.0 0.0 0.0 0.0 0.0 1.9 1.9 11.1 0.0 0.0 0.0 0.0 0.0
+MUS 185 H A Kesner Lori A. The Diverse Worlds Of Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+5
+1
+1
+4
+5
+1
+0
+2
+2
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+2.84
+% 14.8 18.5 3.7 3.7 14.8 18.5 3.7 0.0 7.4 7.4 0.0 0.0 3.7 0.0 0.0 3.7 0.0 0.0 0.0 0.0 0.0
+MUS 185 H B Kesner Lori A. The Diverse Worlds Of Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+1
+0
+3
+1
+5
+3
+4
+2
+0
+3
+1
+1
+0
+2
+0
+0
+0
+0
+0
+1.94
+% 3.6 3.6 3.6 0.0 10.7 3.6 17.9 10.7 14.3 7.1 0.0 10.7 3.6 3.6 0.0 7.1 0.0 0.0 0.0 0.0 0.0
+Course Total MUS 185
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+6
+2
+1
+7
+6
+6
+3
+6
+4
+0
+3
+2
+1
+0
+3
+0
+0
+0
+0
+0
+2.39
+% 9.1 10.9 3.6 1.8 12.7 10.9 10.9 5.5 10.9 7.3 0.0 5.5 3.6 1.8 0.0 5.5 0.0 0.0 0.0 0.0 0.0
+MUS 189 H A Camacho Bess-Arlene Great Ideas In Western Music
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+6
+1
+0
+2
+3
+0
+3
+2
+0
+2
+0
+2
+2
+0
+3
+0
+0
+0
+0
+0
+2.41
+% 10.3 20.7 3.4 0.0 6.9 10.3 0.0 10.3 6.9 0.0 6.9 0.0 6.9 6.9 0.0 10.3 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

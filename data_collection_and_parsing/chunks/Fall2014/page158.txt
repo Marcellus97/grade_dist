@@ -1,0 +1,309 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Oxford Campus
+Page: 154 Sections of 10
+CSE Comp Sci &Software Engineering
+Miami Plan
+Honors
+Cross Listing
+CSE 148 A Black Robert W. Business Computing
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+5
+3
+4
+2
+0
+1
+1
+0
+0
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 0.0 27.6 17.2 10.3 13.8 6.9 0.0 3.4 3.4 0.0 0.0 0.0 6.9 10.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 148 B Foster Drew W. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+2
+0
+6
+2
+0
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.30
+% 0.0 51.7 6.9 0.0 20.7 6.9 0.0 0.0 3.4 3.4 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 148 C Ucci Frances Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+3
+6
+4
+0
+2
+0
+1
+1
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+3.07
+% 0.0 16.7 13.3 10.0 20.0 13.3 0.0 6.7 0.0 3.3 3.3 0.0 0.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 148 D Ucci Frances Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+5
+1
+8
+1
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.36
+% 0.0 37.9 17.2 3.4 27.6 3.4 0.0 6.9 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 148 E Ucci Frances Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+9
+1
+4
+4
+0
+3
+0
+0
+2
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 16.7 30.0 3.3 13.3 13.3 0.0 10.0 0.0 0.0 6.7 0.0 3.3 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 148 F Beck Michael D. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+6
+2
+6
+1
+0
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.54
+% 0.0 37.9 20.7 6.9 20.7 3.4 0.0 3.4 0.0 0.0 0.0 0.0 0.0 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CSE 148 K Henebry Brian M. Business Computing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+0
+4
+6
+1
+2
+2
+3
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.88
+% 0.0 31.0 0.0 13.8 20.7 3.4 6.9 6.9 10.3 0.0 0.0 0.0 6.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

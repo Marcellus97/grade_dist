@@ -1,0 +1,44 @@
+testRun: 06/11/08 @ 09:06 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2007-08 Oxford Campus
+Page: 337 Sections of 10
+Interactive Media Studies Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 66
+191 105 64
+35
+13
+12
+15
+1
+2
+0
+0
+2
+7
+0
+0
+2
+0
+0
+0
+0
+3.62
+% 12.8 37.1 20.4 12.4 6.8 2.5 2.3 2.9 0.2 0.4 0.0 0.0 0.4 1.4 0.0 0.0 0.4 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

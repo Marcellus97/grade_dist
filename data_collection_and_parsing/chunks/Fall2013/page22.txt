@@ -1,0 +1,176 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 18 Sections of 10
+AER Aeronautics
+Miami Plan
+Honors
+Cross Listing
+AER 118 A Beck Daniel R. Intro To Atmospheric Science
+Y
+N
+D7
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+11
+14
+11
+12
+8
+6
+8
+2
+2
+2
+0
+4
+1
+0
+0
+0
+2
+0
+0
+0
+2.86
+% 1.2 13.1 16.7 13.1 14.3 9.5 7.1 9.5 2.4 2.4 2.4 0.0 4.8 1.2 0.0 0.0 0.0 2.4 0.0 0.0 0.0
+AER 118 B Beck Daniel R. Intro To Atmospheric Science
+Y
+N
+D8
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+4
+4
+13
+0
+4
+6
+1
+2
+3
+2
+2
+4
+0
+0
+0
+1
+0
+0
+0
+2.60
+% 1.9 11.3 7.5 7.5 24.5 0.0 7.5 11.3 1.9 3.8 5.7 3.8 3.8 7.5 0.0 0.0 0.0 1.9 0.0 0.0 0.0
+Course Total AER 118
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+17
+18
+15
+25
+8
+10
+14
+3
+4
+5
+2
+6
+5
+0
+0
+0
+3
+0
+0
+0
+2.76
+% 1.5 12.4 13.1 10.9 18.2 5.8 7.3 10.2 2.2 2.9 3.6 1.5 4.4 3.6 0.0 0.0 0.0 2.2 0.0 0.0 0.0
+Aeronautics Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+17
+18
+15
+25
+8
+10
+14
+3
+4
+5
+2
+6
+5
+0
+0
+0
+3
+0
+0
+0
+2.76
+% 1.5 12.4 13.1 10.9 18.2 5.8 7.3 10.2 2.2 2.9 3.6 1.5 4.4 3.6 0.0 0.0 0.0 2.2 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

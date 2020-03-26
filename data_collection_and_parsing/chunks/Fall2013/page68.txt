@@ -1,0 +1,316 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 64 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BIO 115 AI Solomon Nancy G. Biolog Concepts: Ecol Evol Gen
+Y
+N
+V
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+9
+0
+0
+5
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 0.0 20.0 0.0 0.0 45.0 0.0 0.0 25.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 115 AJ Solomon Nancy G. Biolog Concepts: Ecol Evol Gen
+Y
+N
+JY
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+0
+0
+8
+0
+0
+5
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.80
+% 0.0 25.0 0.0 0.0 40.0 0.0 0.0 25.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 115 BA Russell David E. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Y2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+8
+0
+0
+10
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.20
+% 0.0 0.0 0.0 0.0 40.0 0.0 0.0 50.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 115 BB Russell David E. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Y3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+8
+0
+0
+5
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.31
+% 0.0 0.0 0.0 0.0 47.1 0.0 0.0 29.4 0.0 0.0 17.6 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 115 BC Russell David E. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Y4
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+6
+0
+0
+6
+0
+0
+2
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.12
+% 0.0 5.3 0.0 0.0 31.6 0.0 0.0 31.6 0.0 0.0 10.5 0.0 10.5 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 115 BD Russell David E. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Y5
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+0
+0
+7
+0
+0
+5
+0
+0
+2
+0
+1
+1
+0
+0
+0
+0
+1
+0
+0
+2.50
+% 5.0 10.0 0.0 0.0 35.0 0.0 0.0 25.0 0.0 0.0 10.0 0.0 5.0 5.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0
+BIO 115 BE Russell David E. Biolog Concepts: Ecol Evol Gen
+Y
+N
+Y6
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+0
+0
+3
+0
+0
+7
+0
+0
+4
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.29
+% 5.6 11.1 0.0 0.0 16.7 0.0 0.0 38.9 0.0 0.0 22.2 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

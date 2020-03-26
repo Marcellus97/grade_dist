@@ -1,0 +1,256 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 784 Sections of 10
+PHL Philosophy
+Miami Plan
+Honors
+Cross Listing
+PHL 105 H A Warren Mark D. Theories Of Human Nature
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+4
+1
+2
+2
+1
+0
+6
+1
+0
+2
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 22.2 14.8 3.7 7.4 7.4 3.7 0.0 22.2 3.7 0.0 7.4 3.7 0.0 3.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHL 105 H B Warren Mark D. Theories Of Human Nature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+3
+2
+1
+4
+1
+4
+2
+0
+0
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 12.5 12.5 8.3 4.2 16.7 4.2 16.7 8.3 0.0 0.0 4.2 0.0 8.3 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHL 105
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+9
+7
+3
+3
+6
+2
+4
+8
+1
+0
+3
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 17.6 13.7 5.9 5.9 11.8 3.9 7.8 15.7 2.0 0.0 5.9 2.0 3.9 3.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHL 273 H A Warren Mark D. Formal Logic
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+1
+2
+2
+0
+0
+2
+0
+0
+1
+0
+4
+1
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 9.5 28.6 4.8 9.5 9.5 0.0 0.0 9.5 0.0 0.0 4.8 0.0 19.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHL 273
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+1
+2
+2
+0
+0
+2
+0
+0
+1
+0
+4
+1
+0
+0
+0
+0
+0
+0
+0
+2.67
+% 9.5 28.6 4.8 9.5 9.5 0.0 0.0 9.5 0.0 0.0 4.8 0.0 19.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Philosophy Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 10
+97
+118 93
+95
+72
+25
+27
+14
+5
+4
+0
+4
+23
+0
+0
+6
+2
+0
+0
+0
+3.19
+% 1.7 16.3 19.8 15.6 16.0 12.1 4.2 4.5 2.4 0.8 0.7 0.0 0.7 3.9 0.0 0.0 1.0 0.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

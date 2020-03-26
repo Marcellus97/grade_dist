@@ -1,0 +1,303 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Hamilton Campus
+Page: 710 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BTE 111 H A Mahan Victoria S. Introduction To Management I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+4
+2
+4
+3
+4
+3
+2
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+2.49
+% 3.4 6.9 13.8 6.9 13.8 10.3 13.8 10.3 6.9 0.0 0.0 0.0 13.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 111 H B Mahan Victoria S. Introduction To Management I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+3
+1
+2
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.20
+% 14.3 14.3 21.4 7.1 14.3 7.1 0.0 14.3 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+4
+7
+3
+6
+4
+4
+5
+3
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+2.72
+% 7.0 9.3 16.3 7.0 14.0 9.3 9.3 11.6 7.0 0.0 0.0 0.0 9.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 113 H A Sackenheim Pamela S. Mgt & Supervisory Skills
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+4
+2
+5
+1
+0
+0
+2
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 19.0 19.0 9.5 23.8 4.8 0.0 0.0 9.5 0.0 0.0 0.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 113
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+4
+2
+5
+1
+0
+0
+2
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.49
+% 19.0 19.0 9.5 23.8 4.8 0.0 0.0 9.5 0.0 0.0 0.0 0.0 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 121A HXA Teigen Kimberly S. Keyboarding
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+16
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 88.9 0.0 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 121A
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+16
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 88.9 0.0 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

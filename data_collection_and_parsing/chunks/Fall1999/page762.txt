@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 09:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 1999-2000 Hamilton Campus
+Page: 759 Sections of 10
+PSY Psychology
+Miami Plan
+Honors
+Cross Listing
+PSY 111 H A Maxwell Shannon Introduction To Psychology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+2
+4
+7
+10
+1
+3
+6
+2
+2
+2
+2
+0
+2
+4
+0
+0
+0
+0
+0
+2.19
+% 2.0 4.0 4.0 8.0 14.0 20.0 2.0 6.0 12.0 4.0 4.0 4.0 4.0 0.0 4.0 8.0 0.0 0.0 0.0 0.0 0.0
+PSY 111 H B Cooper Anthony J. Introduction To Psychology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+3
+0
+7
+0
+2
+8
+2
+0
+2
+0
+0
+1
+0
+4
+2
+0
+0
+0
+0
+2.54
+% 0.0 22.5 7.5 0.0 17.5 0.0 5.0 20.0 5.0 0.0 5.0 0.0 0.0 2.5 0.0 10.0 5.0 0.0 0.0 0.0 0.0
+PSY 111 H C Stookey Kim Introduction To Psychology
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+7
+0
+0
+14
+0
+0
+6
+0
+0
+4
+4
+3
+1
+0
+0
+0
+0
+2.19
+% 0.0 13.3 0.0 0.0 15.6 0.0 0.0 31.1 0.0 0.0 13.3 0.0 0.0 8.9 8.9 6.7 2.2 0.0 0.0 0.0 0.0
+Course Total PSY 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+17
+5
+4
+21
+10
+3
+25
+8
+2
+10
+2
+2
+5
+6
+11
+3
+0
+0
+0
+0
+2.30
+% 0.7 12.6 3.7 3.0 15.6 7.4 2.2 18.5 5.9 1.5 7.4 1.5 1.5 3.7 4.4 8.1 2.2 0.0 0.0 0.0 0.0
+PSY 231 H A Maxwell Shannon Developmental Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+5
+1
+2
+3
+3
+2
+2
+1
+2
+2
+0
+0
+2
+4
+0
+0
+0
+0
+0
+2.10
+% 3.3 0.0 16.7 3.3 6.7 10.0 10.0 6.7 6.7 3.3 6.7 6.7 0.0 0.0 6.7 13.3 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 231
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+5
+1
+2
+3
+3
+2
+2
+1
+2
+2
+0
+0
+2
+4
+0
+0
+0
+0
+0
+2.10
+% 3.3 0.0 16.7 3.3 6.7 10.0 10.0 6.7 6.7 3.3 6.7 6.7 0.0 0.0 6.7 13.3 0.0 0.0 0.0 0.0 0.0
+Psychology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+17
+10
+5
+23
+13
+6
+27
+10
+3
+12
+4
+2
+5
+8
+15
+3
+0
+0
+0
+0
+2.26
+% 1.2 10.3 6.1 3.0 13.9 7.9 3.6 16.4 6.1 1.8 7.3 2.4 1.2 3.0 4.8 9.1 1.8 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

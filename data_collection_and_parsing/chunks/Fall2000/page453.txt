@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 11:56 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2000-01 Oxford Campus
+Page: 450 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHY 183L D Church Christopher R. Physics Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 84.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 183L E Church Christopher R. Physics Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+3
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.58
+% 0.0 60.0 30.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHY 183L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+30
+6
+6
+8
+1
+0
+0
+0
+0
+0
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+3.64
+% 0.0 54.5 10.9 10.9 14.5 1.8 0.0 0.0 0.0 0.0 0.0 1.8 0.0 5.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 211 A Devries Paul L. Observationl Foundtn/Astronomy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+6
+3
+3
+1
+7
+1
+1
+0
+0
+3
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+3.08
+% 10.0 20.0 10.0 10.0 3.3 23.3 3.3 3.3 0.0 0.0 10.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHY 211
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+6
+3
+3
+1
+7
+1
+1
+0
+0
+3
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+3.08
+% 10.0 20.0 10.0 10.0 3.3 23.3 3.3 3.3 0.0 0.0 10.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0
+PHY 291 B Rice Perry R. Contemporary Physics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+2
+0
+4
+0
+0
+1
+0
+0
+0
+0
+0
+3
+4
+2
+0
+0
+0
+0
+0
+3.09
+% 0.0 30.4 8.7 0.0 17.4 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 13.0 17.4 8.7 0.0 0.0 0.0 0.0 0.0
+Course Total PHY 291
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+2
+0
+4
+0
+0
+1
+0
+0
+0
+0
+0
+3
+4
+2
+0
+0
+0
+0
+0
+3.09
+% 0.0 30.4 8.7 0.0 17.4 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 13.0 17.4 8.7 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

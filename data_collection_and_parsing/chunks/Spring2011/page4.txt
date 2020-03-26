@@ -1,0 +1,36 @@
+testMBI Microbiology
+840
+MGT Management
+843
+MIS Management Information Systems
+844
+MKT Marketing
+845
+MTH Mathematics
+846
+MUS Music
+856
+NSG Nursing
+858
+PHL Philosophy
+862
+PHY Physics
+863
+POL Political Science
+866
+PSY Psychology
+868
+REL Religion, Comparative
+871
+SOC Sociology
+872
+SPN Spanish
+874
+STA Statistics
+876
+THE Theatre
+878
+WMS Women'S Studies
+880
+ZOO Zoology
+881

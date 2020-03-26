@@ -1,0 +1,343 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Oxford Campus
+Page: 161 Sections of 10
+ECE Electrical & Computer Engineer
+ECE 205 A Cheng Chi-Hao Electric Circuit Analysis - I
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+2
+2
+1
+1
+0
+3
+1
+1
+% 7.1 14.3 14.3 7.1 7.1 0.0 21.4 7.1 7.1
+ECE 205 B Cheng Chi-Hao Electric Circuit Analysis - I
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+2
+0
+4
+1
+0
+2
+0
+1
+% 0.0 12.5 0.0 25.0 6.3 0.0 12.5 0.0 6.3
+ECE 205 C Cheng Chi-Hao Electric Circuit Analysis - I
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+1
+0
+3
+1
+0
+0
+2
+2
+1
+% 7.1 0.0 21.4 7.1 0.0 0.0 14.3 14.3 7.1
+ECE 205 E Zhou Qihou Electric Circuit Analysis - I
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0 % 0.0
+2
+2
+0
+20.0 20.0 0.0
+1
+1
+0
+10.0 10.0 0.0
+1
+0
+10.0 0.0
+Course Total ECE 205
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+2
+6
+7
+6
+3
+1
+7
+4
+3
+% 3.7 11.1 13.0 11.1 5.6 1.9 13.0 7.4 5.6
+ECE 278 A Jamieson Peter A. Computer Architecture
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+1
+4
+1
+2
+1
+0
+1
+0
+% 0.0 8.3 33.3 8.3 16.7 8.3 0.0 8.3 0.0
+Course Total ECE 278
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+0
+1
+4
+1
+2
+1
+0
+1
+0
+% 0.0 8.3 33.3 8.3 16.7 8.3 0.0 8.3 0.0
+D+ D
+D-
+F
+W
+2
+0
+0
+0
+0
+14.3 0.0 0.0 0.0 0.0
+D+ D
+D-
+F
+W
+1
+2
+2
+1
+0
+6.3 12.5 12.5 6.3 0.0
+D+ D
+D-
+F
+W
+2
+1
+1
+0
+0
+14.3 7.1 7.1 0.0 0.0
+D+ D
+D-
+1
+1
+0
+10.0 10.0 0.0
+F
+W
+1
+0
+10.0 0.0
+D+ D
+D-
+F
+W
+6
+4
+3
+2
+0
+11.1 7.4 5.6 3.7 0.0
+D+ D
+D-
+F
+W
+0
+0
+1
+0
+0
+0.0 0.0 8.3 0.0 0.0
+D+ D
+D-
+F
+W
+0
+0
+1
+0
+0
+0.0 0.0 8.3 0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+0
+0
+0.0 0.0
+I
+X
+0
+0
+0.0 0.0
+N
+I
+X
+1
+0
+8.3 0.0
+I
+X
+1
+0
+8.3 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.78
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.20
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.36
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.54
+0.0 0.0 0.0
+Y
+P
+0
+0
+0.0 0.0
+N
+Y
+P
+0
+0
+0.0 0.0
+S
+0 0.0
+FR
+S
+0 0.0
+Avg GPA 2.45
+Avg GPA 3.05
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.05
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

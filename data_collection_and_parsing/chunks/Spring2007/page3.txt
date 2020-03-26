@@ -1,0 +1,94 @@
+testHamilton Campus
+693
+ACC Accountancy
+694
+AER Aeronautics
+695
+AMS American Studies
+696
+ART Art
+697
+ATH Anthropology
+701
+BOT Botany
+703
+BTE Business Technology
+705
+BWS Black World Studies
+712
+CHM Chemistry & Biochemistry
+713
+CIT Comp Information Technology
+715
+CJS Criminal Justice Studies
+718
+CLS Classics
+719
+COM Communication
+720
+CSA Computer Sci &Systems Analysis
+724
+DSC Decision Sciences
+726
+ECO Economics
+727
+EDL Educational Leadership
+728
+EDP Educational Psychology
+731
+EDT Teacher Education
+732
+ENG English
+735
+ENT Engineering Technology
+745
+FRE French
+747
+FSW Family Studies And Social Work
+748
+GEO Geography
+751
+GER German
+753
+GLG Geology
+754
+HST History
+756
+JRN Journalism
+760
+MBI Microbiology
+761
+MGT Management
+763
+MKT Marketing
+764
+MTH Mathematics
+765
+MUS Music
+772
+NSG Nursing
+774
+PHL Philosophy
+779
+PHS Phy Edu, Hlth, & Sport Studies
+780
+PHY Physics
+788
+POL Political Science
+790
+PSY Psychology
+792
+REL Comparative Religion
+794
+SOC Sociology
+795
+SPN Spanish
+797
+STA Statistics
+799
+THE Theatre
+800
+WMS Women'S Studies
+802
+ZOO Zoology
+803

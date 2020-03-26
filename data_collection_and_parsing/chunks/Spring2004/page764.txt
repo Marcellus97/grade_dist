@@ -1,0 +1,46 @@
+testRun: 06/30/04 @ 16:33 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2003-04 Hamilton Campus
+Page: 761 Sections of 10
+History Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 7
+72
+48
+36
+76
+35
+45
+58
+32
+10
+37
+9
+25
+17
+19
+50
+7
+3
+0
+0
+0
+2.34
+% 1.2 12.3 8.2 6.1 13.0 6.0 7.7 9.9 5.5 1.7 6.3 1.5 4.3 2.9 3.2 8.5 1.2 0.5 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

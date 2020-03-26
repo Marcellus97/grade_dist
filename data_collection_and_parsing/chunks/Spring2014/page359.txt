@@ -1,0 +1,309 @@
+testRun: 06/23/14 @ 07:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2013-14 Oxford Campus
+Page: 355 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ISA 205 K Crabbe Jordan J. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+5
+1
+1
+0
+0
+2
+2
+0
+0
+1
+6
+0
+0
+0
+0
+0
+0
+0
+2.97
+% 0.0 19.2 11.5 19.2 3.8 3.8 0.0 0.0 7.7 7.7 0.0 0.0 3.8 23.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 205 L Crabbe Jordan J. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+3
+3
+11
+1
+1
+0
+1
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 25.0 9.4 9.4 34.4 3.1 3.1 0.0 3.1 3.1 3.1 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 205 M Jobe John M. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+14
+0
+0
+9
+0
+0
+2
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+2.59
+% 0.0 6.1 0.0 0.0 42.4 0.0 0.0 27.3 0.0 0.0 6.1 0.0 0.0 18.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 205 N Keaton Timothy J. Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+1
+2
+0
+6
+3
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.59
+% 0.0 5.6 16.7 5.6 11.1 0.0 33.3 16.7 5.6 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 205 P Kouider Soheyb Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+5
+5
+11
+2
+3
+2
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 2.9 8.6 14.3 14.3 31.4 5.7 8.6 5.7 5.7 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 205 Q Kouider Soheyb Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+3
+7
+7
+4
+2
+3
+1
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 2.8 13.9 8.3 19.4 19.4 11.1 5.6 8.3 2.8 5.6 0.0 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ISA 205 R Kouider Soheyb Business Statistics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+6
+4
+3
+4
+5
+6
+3
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 5.6 16.7 11.1 8.3 11.1 13.9 16.7 8.3 2.8 2.8 0.0 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

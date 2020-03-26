@@ -1,0 +1,307 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Middletown Campus
+Page: 631 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+COM 135 M G Ballard David L. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+3
+4
+1
+2
+3
+0
+0
+0
+0
+0
+1
+1
+1
+1
+0
+0
+0
+0
+2.95
+% 0.0 12.5 16.7 12.5 16.7 4.2 8.3 12.5 0.0 0.0 0.0 0.0 0.0 4.2 4.2 4.2 4.2 0.0 0.0 0.0 0.0
+COM 135 M H Sauter Janet L. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+3
+3
+3
+3
+0
+0
+0
+0
+0
+0
+1
+1
+2
+2
+0
+0
+0
+0
+0
+2.85
+% 9.1 9.1 13.6 13.6 13.6 13.6 0.0 0.0 0.0 0.0 0.0 0.0 4.5 4.5 9.1 9.1 0.0 0.0 0.0 0.0 0.0
+COM 135 M I Jarvis Judith Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+2
+0
+3
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+2.51
+% 10.0 0.0 20.0 0.0 30.0 10.0 0.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 20.0 0.0 0.0 0.0 0.0 0.0
+COM 135 MUA Petrone Martha C. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+3
+1
+2
+0
+5
+1
+0
+3
+0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+1.68
+% 0.0 4.5 0.0 13.6 4.5 9.1 0.0 22.7 4.5 0.0 13.6 0.0 0.0 0.0 0.0 27.3 0.0 0.0 0.0 0.0 0.0
+Course Total COM 135
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+16
+18
+11
+32
+22
+7
+16
+2
+2
+4
+1
+1
+5
+7
+19
+2
+0
+0
+0
+0
+2.57
+% 2.9 9.4 10.6 6.5 18.8 12.9 4.1 9.4 1.2 1.2 2.4 0.6 0.6 2.9 4.1 11.2 1.2 0.0 0.0 0.0 0.0
+COM 136 M A Ballard David L. Intro:Interpersnal Communicatn
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+1
+1
+0
+1
+2
+1
+0
+0
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+3.19
+% 0.0 52.6 0.0 5.3 5.3 0.0 5.3 10.5 5.3 0.0 0.0 0.0 0.0 5.3 0.0 5.3 5.3 0.0 0.0 0.0 0.0
+COM 136 M B Ballard David L. Intro:Interpersnal Communicatn
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+2
+0
+1
+2
+4
+1
+0
+1
+0
+0
+0
+0
+3
+1
+0
+0
+0
+0
+2.48
+% 0.0 22.7 9.1 9.1 0.0 4.5 9.1 18.2 4.5 0.0 4.5 0.0 0.0 0.0 0.0 13.6 4.5 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,46 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Hamilton Campus
+Page: 707 Sections of 10
+Anthropology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 2
+61
+21
+18
+37
+19
+12
+8
+3
+1
+5
+0
+23
+24
+0
+0
+14
+2
+0
+0
+0
+2.89
+% 0.8 24.4 8.4 7.2 14.8 7.6 4.8 3.2 1.2 0.4 2.0 0.0 9.2 9.6 0.0 0.0 5.6 0.8 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

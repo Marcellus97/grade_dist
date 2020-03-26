@@ -1,0 +1,88 @@
+testRun: 02/07/05 @ 11:28 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2004-05 Middletown Campus
+Page: 654 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ENG 337
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+7
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+3.37
+% 0.0 12.5 18.8 43.8 6.3 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 12.5 0.0 0.0 0.0 0.0
+English Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 49
+167 92
+83
+111 54
+47
+34
+25
+7
+15
+6
+30
+22
+24
+60
+16
+14
+4
+0
+0
+2.83
+% 5.7 19.4 10.7 9.7 12.9 6.3 5.5 4.0 2.9 0.8 1.7 0.7 3.5 2.6 2.8 7.0 1.9 1.6 0.5 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,306 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Hamilton Campus
+Page: 806 Sections of 10
+PSY Psychology
+Miami Plan
+Honors
+Cross Listing
+PSY 111 H A Maxwell Shannon Introduction To Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+2
+5
+3
+0
+8
+3
+3
+9
+2
+0
+3
+0
+0
+1
+3
+0
+0
+0
+0
+0
+2.34
+% 6.7 4.4 11.1 6.7 0.0 17.8 6.7 6.7 20.0 4.4 0.0 6.7 0.0 0.0 2.2 6.7 0.0 0.0 0.0 0.0 0.0
+PSY 111 H B Hahn Susan E. Introduction To Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+1
+12
+2
+0
+9
+5
+0
+4
+0
+5
+0
+0
+5
+0
+0
+0
+0
+0
+2.09
+% 0.0 11.8 3.9 2.0 23.5 3.9 0.0 17.6 9.8 0.0 7.8 0.0 9.8 0.0 0.0 9.8 0.0 0.0 0.0 0.0 0.0
+PSY 111 H C Hahn Susan E. Introduction To Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+0
+6
+4
+2
+4
+7
+0
+4
+0
+6
+0
+1
+2
+0
+0
+0
+0
+0
+1.91
+% 0.0 4.9 7.3 0.0 14.6 9.8 4.9 9.8 17.1 0.0 9.8 0.0 14.6 0.0 2.4 4.9 0.0 0.0 0.0 0.0 0.0
+PSY 111 H D Maxwell Shannon Introduction To Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+8
+5
+7
+5
+4
+0
+5
+2
+2
+3
+1
+0
+1
+1
+0
+0
+0
+0
+0
+2.57
+% 2.1 6.3 16.7 10.4 14.6 10.4 8.3 0.0 10.4 4.2 4.2 6.3 2.1 0.0 2.1 2.1 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+13
+18
+9
+25
+19
+9
+16
+26
+4
+10
+6
+12
+0
+3
+11
+0
+0
+0
+0
+0
+2.24
+% 2.2 7.0 9.7 4.9 13.5 10.3 4.9 8.6 14.1 2.2 5.4 3.2 6.5 0.0 1.6 5.9 0.0 0.0 0.0 0.0 0.0
+PSY 231 H A Maxwell Shannon Developmental Psychology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+7
+4
+1
+8
+1
+2
+2
+0
+0
+1
+1
+2
+1
+3
+0
+0
+0
+0
+0
+2.61
+% 2.8 5.6 19.4 11.1 2.8 22.2 2.8 5.6 5.6 0.0 0.0 2.8 2.8 5.6 2.8 8.3 0.0 0.0 0.0 0.0 0.0
+Course Total PSY 231
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+7
+4
+1
+8
+1
+2
+2
+0
+0
+1
+1
+2
+1
+3
+0
+0
+0
+0
+0
+2.61
+% 2.8 5.6 19.4 11.1 2.8 22.2 2.8 5.6 5.6 0.0 0.0 2.8 2.8 5.6 2.8 8.3 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,303 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 763 Sections of 10
+MAC Media And Culture
+Miami Plan
+Honors
+Cross Listing
+MAC 143 H B Owens Maya J. Introduction to Media
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+4
+4
+0
+1
+1
+1
+0
+1
+1
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.59
+% 0.0 4.5 18.2 18.2 18.2 0.0 4.5 4.5 4.5 0.0 4.5 4.5 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MAC 143 H D Owens Maya J. Introduction to Media
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+6
+3
+2
+1
+1
+2
+1
+0
+3
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 0.0 13.0 26.1 13.0 8.7 4.3 4.3 8.7 4.3 0.0 13.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MAC 143
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+10
+7
+6
+1
+2
+3
+2
+0
+4
+1
+2
+3
+0
+0
+0
+0
+0
+0
+0
+2.75
+% 0.0 8.9 22.2 15.6 13.3 2.2 4.4 6.7 4.4 0.0 8.9 2.2 4.4 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MAC 212 H A Suhr Hiesun C. Media Representation
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2
+6
+3
+5
+2
+2
+0
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.38
+% 0.0 0.0 0.0 8.3 25.0 12.5 20.8 8.3 8.3 0.0 0.0 4.2 4.2 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MAC 212
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2
+6
+3
+5
+2
+2
+0
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.38
+% 0.0 0.0 0.0 8.3 25.0 12.5 20.8 8.3 8.3 0.0 0.0 4.2 4.2 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MAC 325 H A Suhr Hiesun C. Social Media Cultures
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+4
+5
+3
+2
+0
+1
+0
+1
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 5.0 20.0 25.0 15.0 10.0 0.0 5.0 0.0 5.0 0.0 0.0 5.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MAC 325 H B Suhr Hiesun C. Social Media Cultures
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+5
+4
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 0.0 0.0 7.7 38.5 30.8 7.7 7.7 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

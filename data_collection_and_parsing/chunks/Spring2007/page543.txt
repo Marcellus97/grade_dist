@@ -1,0 +1,308 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Oxford Campus
+Page: 540 Sections of 10
+SPN Spanish
+Miami Plan
+Honors
+Cross Listing
+SPN 102 A Khmeleva Elena A. Beginners Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+1
+2
+2
+3
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.61
+% 0.0 6.3 12.5 18.8 6.3 12.5 12.5 18.8 0.0 0.0 0.0 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 102 B Wang Yunqing Beginners Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+1
+2
+2
+0
+1
+3
+1
+2
+4
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+1.98
+% 5.0 0.0 5.0 10.0 10.0 0.0 5.0 15.0 5.0 10.0 20.0 5.0 5.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 102 C Movic Lee D. Beginners Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+2
+3
+2
+2
+2
+3
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 0.0 9.1 13.6 9.1 13.6 9.1 9.1 9.1 13.6 4.5 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPN 102
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+6
+7
+6
+4
+5
+8
+4
+3
+5
+4
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.39
+% 1.7 5.2 10.3 12.1 10.3 6.9 8.6 13.8 6.9 5.2 8.6 6.9 1.7 1.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 111 A Henson Leah M. Intensive Rvw Of Basic Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+1
+2
+1
+4
+2
+3
+2
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.36
+% 0.0 12.5 12.5 4.2 8.3 4.2 16.7 8.3 12.5 8.3 0.0 4.2 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 111 B Henson Leah M. Intensive Rvw Of Basic Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+2
+3
+4
+3
+1
+1
+4
+3
+0
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.73
+% 4.0 8.0 12.0 16.0 12.0 4.0 4.0 16.0 12.0 0.0 8.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 111 C Lux Marylene Intensive Rvw Of Basic Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+2
+5
+1
+0
+3
+1
+3
+2
+3
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2.44
+% 7.7 7.7 19.2 3.8 0.0 11.5 3.8 11.5 7.7 11.5 7.7 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

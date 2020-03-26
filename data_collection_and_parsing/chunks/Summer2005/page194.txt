@@ -1,0 +1,68 @@
+testRun: 12/19/05 @ 10:10 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2004-05 Hamilton Campus
+Page: 191 Sections of 10
+Educational Leadership Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+8
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+2
+2
+0
+0
+0
+0
+0
+3.31
+% 6.3 50.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 12.5 12.5 12.5 0.0 0.0 0.0 0.0 0.0
+GR 3
+155 12
+2
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2
+0
+1
+4
+0
+0
+0
+0
+3.94
+% 1.7 85.6 6.6 1.1 0.6 0.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.1 0.0 0.6 2.2 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

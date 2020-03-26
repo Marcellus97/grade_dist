@@ -1,0 +1,64 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 739 Sections of 10
+Family Studies And Social Work Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 175 559 219 87
+112 56
+21
+41
+14
+1
+8
+4
+11
+29
+0
+0
+9
+2
+0
+0
+0
+3.58
+% 13.0 41.5 16.2 6.5 8.3 4.2 1.6 3.0 1.0 0.1 0.6 0.3 0.8 2.2 0.0 0.0 0.7 0.1 0.0 0.0 0.0
+GR 0
+5
+9
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+15
+0
+0
+0
+3.72
+% 0.0 14.3 25.7 8.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.6 42.9 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

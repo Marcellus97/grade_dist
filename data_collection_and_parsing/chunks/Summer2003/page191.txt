@@ -1,0 +1,218 @@
+testRun: 06/30/04 @ 16:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2002-03 Middletown Campus
+Page: 188 Sections of 10
+PHL Philosophy
+Miami Plan
+Honors
+Cross Listing
+PHL 105 MOA Yesh Angela Theories Of Human Nature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+0
+2
+0
+0
+1
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 38.5 15.4 0.0 15.4 0.0 0.0 7.7 0.0 0.0 7.7 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHL 105
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+2
+0
+2
+0
+0
+1
+0
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 38.5 15.4 0.0 15.4 0.0 0.0 7.7 0.0 0.0 7.7 15.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+PHL 273 MMA Domino Brian Formal Logic
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+2
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+2.71
+% 0.0 20.0 0.0 0.0 20.0 0.0 10.0 10.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 20.0 0.0 0.0 0.0
+Course Total PHL 273
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+2
+0
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+2.71
+% 0.0 20.0 0.0 0.0 20.0 0.0 10.0 10.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 20.0 0.0 0.0 0.0
+Philosophy Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+7
+2
+0
+4
+0
+1
+2
+2
+0
+1
+2
+0
+0
+0
+0
+0
+2
+0
+0
+0
+2.83
+% 0.0 30.4 8.7 0.0 17.4 0.0 4.3 8.7 8.7 0.0 4.3 8.7 0.0 0.0 0.0 0.0 0.0 8.7 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

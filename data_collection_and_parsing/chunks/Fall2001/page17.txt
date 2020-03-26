@@ -1,0 +1,106 @@
+testRun: 06/30/04 @ 15:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2001-02 Oxford Campus
+Page: 14 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ACC 671
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+4
+0
+0
+1
+0
+1
+0
+0
+1
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+3.46
+% 5.9 35.3 23.5 0.0 0.0 5.9 0.0 5.9 0.0 0.0 5.9 0.0 0.0 0.0 17.6 0.0 0.0 0.0 0.0 0.0 0.0
+Accountancy Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 14
+305 132 223 661 186 187 372 62
+38
+74
+14
+11
+62
+56
+8
+3
+0
+0
+0
+0
+2.80
+% 0.6 12.7 5.5 9.3 27.5 7.7 7.8 15.4 2.6 1.6 3.1 0.6 0.5 2.6 2.3 0.3 0.1 0.0 0.0 0.0 0.0
+GR 1
+49
+39
+58
+28
+2
+1
+1
+0
+0
+1
+0
+0
+0
+4
+0
+0
+0
+0
+0
+0
+3.50
+% 0.5 26.6 21.2 31.5 15.2 1.1 0.5 0.5 0.0 0.0 0.5 0.0 0.0 0.0 2.2 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

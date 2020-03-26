@@ -1,0 +1,46 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Hamilton Campus
+Page: 872 Sections of 10
+Zoology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 11
+39
+19
+30
+78
+19
+17
+64
+11
+3
+22
+12
+58
+94
+0
+0
+0
+0
+0
+0
+0
+2.28
+% 2.3 8.2 4.0 6.3 16.4 4.0 3.6 13.4 2.3 0.6 4.6 2.5 12.2 19.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

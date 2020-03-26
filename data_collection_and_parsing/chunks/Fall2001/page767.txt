@@ -1,0 +1,218 @@
+testRun: 06/30/04 @ 15:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2001-02 Hamilton Campus
+Page: 764 Sections of 10
+MGT Management
+Miami Plan
+Honors
+Cross Listing
+MGT 111 H A Pelicano Stephen M. Introduction To Business
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+7
+0
+2
+7
+0
+2
+4
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+3.08
+% 11.1 25.9 0.0 7.4 25.9 0.0 7.4 14.8 0.0 0.0 0.0 0.0 0.0 0.0 3.7 3.7 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+7
+0
+2
+7
+0
+2
+4
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+3.08
+% 11.1 25.9 0.0 7.4 25.9 0.0 7.4 14.8 0.0 0.0 0.0 0.0 0.0 0.0 3.7 3.7 0.0 0.0 0.0 0.0 0.0
+MGT 301 H A Allen Paul S. Organizational Behavior&Theory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+2
+11
+4
+5
+8
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.56
+% 0.0 3.0 0.0 6.1 33.3 12.1 15.2 24.2 3.0 0.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MGT 301
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+2
+11
+4
+5
+8
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.56
+% 0.0 3.0 0.0 6.1 33.3 12.1 15.2 24.2 3.0 0.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Management Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 3
+8
+0
+4
+18
+4
+7
+12
+1
+0
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+2.79
+% 5.0 13.3 0.0 6.7 30.0 6.7 11.7 20.0 1.7 0.0 1.7 0.0 0.0 0.0 1.7 1.7 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

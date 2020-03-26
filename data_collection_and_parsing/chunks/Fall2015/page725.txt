@@ -1,0 +1,343 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 721 Sections of 10
+ENG 111 H Z Day Deborah R. Composition and Rhetoric
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+0
+2
+3
+2
+0
+3
+1
+2
+2
+0
+0
+% 0.0 0.0 10.0 15.0 10.0 0.0 15.0 5.0 10.0 10.0 0.0 0.0
+ENG 111 HDD Flanigan Thomas G. Composition and Rhetoric
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+4
+4
+3
+1
+0
+1
+1
+0
+1
+2
+1
+1
+% 18.2 18.2 13.6 4.5 0.0 4.5 4.5 0.0 4.5 9.1 4.5 4.5
+ENG 111 HII Krafft John M. Composition and Rhetoric
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+1
+1
+0
+0
+0
+1
+0
+2
+3
+3
+1
+% 0.0 4.3 4.3 0.0 0.0 0.0 4.3 0.0 8.7 13.0 13.0 4.3
+ENG 111 HJJ Ehritz Andrew A. Composition and Rhetoric
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+12
+2
+2
+0
+0
+0
+1
+2
+0
+0
+0
+% 0.0 54.5 9.1 9.1 0.0 0.0 0.0 4.5 9.1 0.0 0.0 0.0
+ENG 111 HKK Rees Richard Composition and Rhetoric
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+0
+1
+5
+2
+2
+1
+1
+0
+1
+0
+2
+0
+% 0.0 4.3 21.7 8.7 8.7 4.3 4.3 0.0 4.3 0.0 8.7 0.0
+ENG 111 HLL Hoskins Chelsie J. Composition and Rhetoric
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+4
+6
+0
+1
+4
+1
+0
+0
+0
+0
+0
+0
+% 22.2 33.3 0.0 5.6 22.2 5.6 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 111 HMM Merman Kathy R. Composition and Rhetoric
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+6
+5
+1
+2
+2
+1
+0
+1
+1
+0
+0
+0
+% 25.0 20.8 4.2 8.3 8.3 4.2 0.0 4.2 4.2 0.0 0.0 0.0
+F
+W
+4
+1
+20.0 5.0
+WP WF
+0
+0
+0.0 0.0
+F
+W
+3
+0
+13.6 0.0
+WP WF
+0
+0
+0.0 0.0
+F
+W
+WP WF
+8
+3
+0
+0
+34.8 13.0 0.0 0.0
+F
+W
+3
+0
+13.6 0.0
+WP WF
+0
+0
+0.0 0.0
+F
+W
+6
+2
+26.1 8.7
+WP WF
+0
+0
+0.0 0.0
+F
+W
+2
+0
+11.1 0.0
+WP WF
+0
+0
+0.0 0.0
+F
+W
+4
+1
+16.7 4.2
+WP WF
+0
+0
+0.0 0.0
+Miami Plan
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Y
+I
+X
+0
+0
+0.0 0.0
+Honors
+Cross Listing
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.01
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.61
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1.05
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.06
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.09
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+3.22
+0.0 0.0 0.0
+N
+Y
+P
+S
+Avg GPA
+0
+0
+0
+2.90
+0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

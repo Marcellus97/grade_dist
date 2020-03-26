@@ -1,0 +1,297 @@
+testRun: 01/21/15 @ 15:37 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2014-15 Hamilton Campus
+Page: 723 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total ENT 294
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+4
+3
+2
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 7.1 14.3 28.6 21.4 14.3 0.0 7.1 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENT 301 H A Ekegren Kenneth J. Dynamics
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+2
+3
+4
+3
+1
+0
+0
+0
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 8.3 20.8 8.3 12.5 16.7 12.5 4.2 0.0 0.0 0.0 4.2 0.0 8.3 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENT 301
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+5
+2
+3
+4
+3
+1
+0
+0
+0
+1
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.99
+% 8.3 20.8 8.3 12.5 16.7 12.5 4.2 0.0 0.0 0.0 4.2 0.0 8.3 4.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENT 311 H A Hergert David Process Cntrol Intrface Design
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+8
+1
+0
+1
+0
+1
+0
+0
+1
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 9.1 18.2 36.4 4.5 0.0 4.5 0.0 4.5 0.0 0.0 4.5 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENT 311
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+4
+8
+1
+0
+1
+0
+1
+0
+0
+1
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 9.1 18.2 36.4 4.5 0.0 4.5 0.0 4.5 0.0 0.0 4.5 0.0 9.1 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENT 333 H A Narayanan Mysore Computational Meth: Egnr Tech
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+4
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.71
+% 9.1 45.5 36.4 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENT 333
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+4
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.71
+% 9.1 45.5 36.4 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 15:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2001-02 Oxford Campus
+Page: 318 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+HST 472 A Baird Jay W. The Rise And Fall Of Hitler
+N
+N
+3F
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+4
+3
+9
+4
+2
+3
+2
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+3.10
+% 0.0 21.1 10.5 7.9 23.7 10.5 5.3 7.9 5.3 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 2.6 0.0 0.0 0.0
+Course Total HST 472
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+4
+3
+9
+4
+2
+3
+2
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+3.10
+% 0.0 21.1 10.5 7.9 23.7 10.5 5.3 7.9 5.3 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0 2.6 0.0 0.0 0.0
+HST 472L L A Haag Emile Rise And Fall Of Hitler-Lux
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+10
+14
+7
+3
+5
+2
+2
+2
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+0
+0
+3.33
+% 2.0 20.4 28.6 14.3 6.1 10.2 4.1 4.1 4.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.0 2.0 2.0 0.0 0.0
+Course Total HST 472L
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+10
+14
+7
+3
+5
+2
+2
+2
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+0
+0
+3.33
+% 2.0 20.4 28.6 14.3 6.1 10.2 4.1 4.1 4.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.0 2.0 2.0 0.0 0.0
+HST 793 A Thurston Robert W. Historical Methods
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.91
+% 0.0 63.6 27.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0
+Course Total HST 793
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+7
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.91
+% 0.0 63.6 27.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0
+HST 794 A O'Brien Michael Modern Theories Of History
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+6
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.70
+% 0.0 28.6 42.9 21.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

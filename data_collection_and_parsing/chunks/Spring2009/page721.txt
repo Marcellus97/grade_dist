@@ -1,0 +1,304 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Hamilton Campus
+Page: 718 Sections of 10
+CHM Chemistry & Biochemistry
+Miami Plan
+Honors
+Cross Listing
+CHM 109 HYA Pike Lee M. Chemistry Fundamentals
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+1
+3
+0
+3
+2
+0
+0
+0
+0
+0
+1
+3
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 0.0 27.8 5.6 16.7 0.0 16.7 11.1 0.0 0.0 0.0 0.0 0.0 5.6 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 109 HZA Pike Lee M. Chemistry Fundamentals
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+4
+0
+0
+1
+2
+0
+2
+0
+1
+0
+3
+6
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 0.0 32.1 14.3 0.0 0.0 3.6 7.1 0.0 7.1 0.0 3.6 0.0 10.7 21.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 109
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+5
+3
+0
+4
+4
+0
+2
+0
+1
+0
+4
+9
+0
+0
+0
+0
+0
+0
+0
+2.94
+% 0.0 30.4 10.9 6.5 0.0 8.7 8.7 0.0 4.3 0.0 2.2 0.0 8.7 19.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 131 H A Daugherty David Chemistry Of Life Processes
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+7
+5
+4
+7
+2
+5
+0
+3
+0
+0
+2
+9
+0
+0
+0
+0
+0
+0
+0
+2.66
+% 2.2 0.0 15.6 11.1 8.9 15.6 4.4 11.1 0.0 6.7 0.0 0.0 4.4 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 131
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+7
+5
+4
+7
+2
+5
+0
+3
+0
+0
+2
+9
+0
+0
+0
+0
+0
+0
+0
+2.66
+% 2.2 0.0 15.6 11.1 8.9 15.6 4.4 11.1 0.0 6.7 0.0 0.0 4.4 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 141R H A Vannet Marcia D. College Chemistry
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1
+8
+0
+1
+2
+1
+0
+1
+0
+3
+6
+0
+0
+0
+0
+0
+0
+0
+2.14
+% 0.0 0.0 0.0 4.3 34.8 0.0 4.3 8.7 4.3 0.0 4.3 0.0 13.0 26.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 141R
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+1
+8
+0
+1
+2
+1
+0
+1
+0
+3
+6
+0
+0
+0
+0
+0
+0
+0
+2.14
+% 0.0 0.0 0.0 4.3 34.8 0.0 4.3 8.7 4.3 0.0 4.3 0.0 13.0 26.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

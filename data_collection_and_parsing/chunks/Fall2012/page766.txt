@@ -1,0 +1,45 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Hamilton Campus
+Page: 762 Sections of 10
+Integrative Studies Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 4
+12
+18
+7
+11
+11
+2
+8
+3
+1
+0
+0
+3
+3
+0
+0
+2
+0
+0
+0
+0
+3.04
+% 4.7 14.1 21.2 8.2 12.9 12.9 2.4 9.4 3.5 1.2 0.0 0.0 3.5 3.5 0.0 0.0 2.4 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,74 @@
+testCLS Classics
+714
+COM Communication
+715
+CSA Computer Sci &Systems Analysis
+719
+DSC Decision Sciences
+725
+ECO Economics
+726
+EDL Educational Leadership
+727
+EDP Educational Psychology
+730
+EDT Teacher Education
+731
+ENG English
+733
+ENT Engineering Technology
+744
+FIN Finance
+747
+FRE French
+748
+FSW Family Studies And Social Work
+749
+GEO Geography
+751
+GER German
+752
+GLG Geology
+753
+HST History
+755
+IDS Interdisciplinary
+758
+LAS Latin American Studies
+759
+MBI Microbiology
+760
+MGT Management
+761
+MIS Management Information Systems
+762
+MKT Marketing
+763
+MTH Mathematics
+764
+MUS Music
+771
+NSG Nursing
+774
+PHL Philosophy
+777
+PHS Phy Edu, Hlth, & Sport Studies
+778
+PHY Physics
+784
+POL Political Science
+785
+PSY Psychology
+787
+SOC Sociology
+789
+SPN Spanish
+791
+STA Statistics
+792
+THE Theatre
+793
+WMS Women'S Studies
+795
+ZOO Zoology
+796

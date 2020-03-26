@@ -1,0 +1,303 @@
+testRun: 06/30/04 @ 15:59 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2001-02 Middletown Campus
+Page: 597 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BTE 203 M A Carroll Dan C. Computerized Accounting
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+0
+6
+7
+0
+1
+2
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.95
+% 9.5 0.0 28.6 33.3 0.0 4.8 9.5 0.0 0.0 0.0 0.0 9.5 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 203
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+0
+6
+7
+0
+1
+2
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.95
+% 9.5 0.0 28.6 33.3 0.0 4.8 9.5 0.0 0.0 0.0 0.0 9.5 0.0 0.0 0.0 4.8 0.0 0.0 0.0 0.0 0.0
+BTE 207 M A Carroll Dan C. Management Plannng And Control
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+0
+1
+1
+0
+0
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 40.0 0.0 10.0 10.0 0.0 0.0 10.0 0.0 10.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 207
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+4
+0
+1
+1
+0
+0
+1
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.96
+% 40.0 0.0 10.0 10.0 0.0 0.0 10.0 0.0 10.0 20.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BTE 281 M A Teigen Kimberly S. Word Processing
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+9
+3
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+3.39
+% 11.1 50.0 16.7 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0
+Course Total BTE 281
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+9
+3
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+3.39
+% 11.1 50.0 16.7 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0
+BTE 282 M A Sommer Robin V. Computer-Based Business Anlys
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+2
+0
+0
+3
+1
+0
+3
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+2.98
+% 0.0 47.6 0.0 0.0 9.5 0.0 0.0 14.3 4.8 0.0 14.3 0.0 0.0 4.8 4.8 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

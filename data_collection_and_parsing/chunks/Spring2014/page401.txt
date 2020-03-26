@@ -1,0 +1,303 @@
+testRun: 06/23/14 @ 07:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2013-14 Oxford Campus
+Page: 397 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+KNH 184L H Brunner Brandon C. Motor Skill Lrning & Perf. Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+2
+1
+0
+0
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.28
+% 0.0 31.3 25.0 12.5 6.3 0.0 0.0 25.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 184L I Ondrejko Rachel L. Motor Skill Lrning & Perf. Lab
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+13
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.93
+% 0.0 86.7 6.7 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 184L
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+71
+22
+9
+10
+3
+0
+5
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.67
+% 0.0 58.7 18.2 7.4 8.3 2.5 0.0 4.1 0.0 0.0 0.0 0.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 188 A Sliger Jennifer Physical Activity and Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+3
+3
+17
+9
+3
+13
+2
+1
+2
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+2.58
+% 1.6 7.8 4.7 4.7 26.6 14.1 4.7 20.3 3.1 1.6 3.1 0.0 4.7 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 188 B Ohlinger Christina M. Physical Activity and Health
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+12
+8
+12
+13
+7
+5
+4
+1
+2
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.02
+% 0.0 18.2 12.1 18.2 19.7 10.6 7.6 6.1 1.5 3.0 0.0 1.5 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total KNH 188
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+17
+11
+15
+30
+16
+8
+17
+3
+3
+2
+1
+4
+2
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 0.8 13.1 8.5 11.5 23.1 12.3 6.2 13.1 2.3 2.3 1.5 0.8 3.1 1.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 194 A Mandrell Warren H. Standard First Aid & CPR
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+12
+8
+1
+5
+2
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.50
+% 3.2 38.7 25.8 3.2 16.1 6.5 0.0 3.2 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

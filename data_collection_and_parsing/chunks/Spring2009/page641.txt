@@ -1,0 +1,308 @@
+testRun: 06/15/09 @ 10:21 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2008-09 Middletown Campus
+Page: 638 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 112 M O Ganim Carole Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+2
+0
+2
+0
+0
+3
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.68
+% 0.0 23.1 15.4 0.0 15.4 0.0 0.0 23.1 15.4 0.0 0.0 0.0 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M P Miller Corinne L. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+2
+1
+1
+1
+1
+2
+2
+1
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+2.63
+% 10.0 15.0 10.0 5.0 5.0 5.0 5.0 10.0 10.0 5.0 0.0 0.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M R Frye Barbara L. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+2
+2
+3
+0
+1
+3
+0
+0
+0
+4
+1
+0
+0
+0
+0
+0
+0
+0
+2.31
+% 0.0 20.0 0.0 10.0 10.0 15.0 0.0 5.0 15.0 0.0 0.0 0.0 20.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M T Wilson Shannon L. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+2
+1
+1
+1
+1
+0
+1
+0
+3
+2
+0
+0
+0
+0
+0
+0
+0
+2.05
+% 0.0 6.7 6.7 6.7 13.3 6.7 6.7 6.7 6.7 0.0 6.7 0.0 20.0 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 M U Miller Cheryl L. Composition & Literature
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+15
+2
+2
+0
+0
+0
+0
+1
+1
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+3.60
+% 65.2 8.7 8.7 0.0 0.0 0.0 0.0 4.3 4.3 0.0 0.0 0.0 4.3 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 112 MEA Smith Sandra L. Composition & Literature
+Y
+N
+0S
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+1
+1
+0
+4
+0
+1
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+2.30
+% 0.0 16.7 0.0 0.0 8.3 8.3 0.0 33.3 0.0 8.3 0.0 0.0 8.3 0.0 0.0 0.0 16.7 0.0 0.0 0.0 0.0
+Course Total ENG 112
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+38
+65
+46
+22
+39
+29
+14
+33
+17
+5
+4
+1
+45
+34
+0
+0
+2
+0
+0
+0
+0
+2.76
+% 9.6 16.5 11.7 5.6 9.9 7.4 3.6 8.4 4.3 1.3 1.0 0.3 11.4 8.6 0.0 0.0 0.5 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

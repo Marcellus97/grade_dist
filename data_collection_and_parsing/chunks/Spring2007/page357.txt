@@ -1,0 +1,66 @@
+testRun: 06/08/07 @ 15:08 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2006-07 Oxford Campus
+Page: 354 Sections of 10
+Microbiology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 12
+351 37
+50
+379 40
+34
+154 34
+11
+53
+9
+11
+46
+0
+0
+3
+31
+0
+0
+0
+2.99
+% 1.0 28.0 2.9 4.0 30.2 3.2 2.7 12.3 2.7 0.9 4.2 0.7 0.9 3.7 0.0 0.0 0.2 2.5 0.0 0.0 0.0
+GR 0
+5
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+0
+0
+3.84
+% 0.0 29.4 35.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 35.3 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

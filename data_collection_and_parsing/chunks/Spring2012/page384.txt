@@ -1,0 +1,303 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Oxford Campus
+Page: 380 Sections of 10
+JPN Japanese
+Miami Plan
+Honors
+Cross Listing
+JPN 102 A Miyaji Reiko Elementary Japanese
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+2
+4
+2
+2
+0
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.05
+% 7.1 7.1 14.3 28.6 14.3 14.3 0.0 7.1 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+JPN 102 B Reiff Ayako H. Elementary Japanese
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+1
+2
+2
+2
+0
+0
+1
+0
+1
+0
+3
+0
+0
+0
+0
+0
+0
+0
+2.92
+% 0.0 5.6 27.8 5.6 11.1 11.1 11.1 0.0 0.0 5.6 0.0 5.6 0.0 16.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+JPN 102 C Miyaji Reiko Elementary Japanese
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+0
+1
+2
+2
+0
+2
+1
+1
+0
+1
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.53
+% 7.1 7.1 0.0 7.1 14.3 14.3 0.0 14.3 7.1 7.1 0.0 7.1 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total JPN 102
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+3
+7
+6
+6
+6
+2
+3
+1
+2
+0
+3
+0
+5
+0
+0
+0
+0
+0
+0
+0
+2.85
+% 4.3 6.5 15.2 13.0 13.0 13.0 4.3 6.5 2.2 4.3 0.0 6.5 0.0 10.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+JPN 202 B Reider Noriko T. Second Year Japanese
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+2
+1
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 8.3 33.3 16.7 8.3 0.0 25.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total JPN 202
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+2
+1
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.43
+% 8.3 33.3 16.7 8.3 0.0 25.0 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+JPN 302 A Reider Noriko T. Third Year Japanese
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+0
+4
+0
+0
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3.16
+% 7.1 42.9 0.0 28.6 0.0 0.0 7.1 0.0 0.0 0.0 0.0 7.1 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,309 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 416 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+KNH 209 TE Campbell Christine L. Medical Terminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+2
+2
+3
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.40
+% 0.0 45.0 10.0 10.0 15.0 5.0 5.0 10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 209 TF Timmerman Jennifer Z. Medical Terminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+0
+5
+6
+1
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.91
+% 0.0 10.5 15.8 0.0 26.3 31.6 5.3 5.3 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 209 TG Pohlman Roberta Medical Terminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+0
+5
+1
+2
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.13
+% 0.0 16.7 22.2 0.0 27.8 5.6 11.1 0.0 0.0 0.0 5.6 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+KNH 209 UA Sliger Jennifer Medical Terminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+4
+2
+4
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.32
+% 0.0 27.8 22.2 11.1 22.2 0.0 0.0 5.6 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0
+KNH 209 UB Malay Nancy J. Medical Terminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+4
+7
+3
+5
+1
+2
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+0
+3.25
+% 4.0 16.0 28.0 12.0 20.0 4.0 8.0 0.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0
+KNH 209 UC Pohlman Roberta Medical Terminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+6
+4
+5
+2
+1
+0
+2
+0
+0
+1
+0
+2
+0
+0
+1
+0
+0
+0
+0
+3.09
+% 0.0 11.1 22.2 14.8 18.5 7.4 3.7 0.0 7.4 0.0 0.0 3.7 0.0 7.4 0.0 0.0 3.7 0.0 0.0 0.0 0.0
+KNH 209 UD Fain Laura Medical Terminology
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+5
+3
+2
+2
+0
+2
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.86
+% 0.0 18.2 9.1 22.7 13.6 9.1 9.1 0.0 9.1 0.0 0.0 4.5 4.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,124 @@
+testMGT Management
+461
+MKT Marketing
+473
+MME Mechan & Manufact Engineering
+485
+MTH Mathematics
+497
+MUS Music
+517
+NSC Naval Science
+533
+PHL Philosophy
+536
+PHY Physics
+541
+PLW Pre-Law Studies
+550
+PMD Premedical Studies
+551
+POL Political Science
+552
+POR Portuguese
+566
+PSY Psychology
+567
+REL Religion, Comparative
+583
+RUS Russian
+587
+SJS Social Justice Studies
+589
+SOC Sociology
+591
+SPA Speech Pathology & Audiology
+597
+SPN Spanish
+606
+STA Statistics
+621
+STC Strategic Communication
+629
+THE Theatre
+639
+UNV University
+646
+WGS Women,Gender&Sexuality Studies
+658
+WST Western Program
+662
+ACC Accountancy
+665
+AMS American Studies
+666
+ART Art
+667
+ATH Anthropology
+671
+BIO Biology
+674
+BIS Integrative Studies
+680
+BTE Business Technology
+682
+BWS Black World Studies
+689
+CEC Col Of Engineering & Computing
+691
+CHM Chemistry & Biochemistry
+692
+CIT Comp Information Technology
+696
+CJS Criminal Justice Studies
+700
+CRD Civic And Regional Development
+704
+CSE Comp Sci &Software Engineering
+705
+ECO Economics
+708
+EDL Educational Leadership
+710
+EDP Educational Psychology
+711
+EDT Teacher Education
+713
+ENG English
+717
+ENT Engineering Technology
+729
+FRE French
+734
+FST Film Studies
+735
+FSW Family Studies And Social Work
+736
+GEO Geography
+740
+GER German
+742
+GLG Geology
+743
+HON Honors
+746
+HST History
+747
+IDS Interdisciplinary
+752
+ITS International Studies
+753
+JRN Journalism
+754
+KNH Kinesiology And Health
+755
+LST Liberal Studies
+762
+MAC Media And Culture
+763
+MBI Microbiology
+765
+MTH Mathematics
+768
+MUS Music
+777

@@ -1,0 +1,124 @@
+testRUS Russian
+517
+SOC Sociology
+519
+SPA Speech Pathology & Audiology
+526
+SPN Spanish
+535
+STA Statistics
+548
+THE Theatre
+553
+WCP Interdisciplinary Studies- Wcp
+563
+WMS Women'S Studies
+573
+ZOO Zoology
+576
+Middletown Campus
+592
+ACC Accountancy
+593
+ARC Architecture & Interior Design
+594
+ART Art
+595
+ATH Anthropology
+598
+BOT Botany
+600
+BTE Business Technology
+602
+BWS Black World Studies
+609
+CHM Chemistry & Biochemistry
+610
+CIT Comp Information Technology
+614
+COM Communication
+615
+CSA Computer Sci &Systems Analysis
+619
+DSC Decision Sciences
+623
+ECO Economics
+624
+EDL Educational Leadership
+625
+EDP Educational Psychology
+627
+EDT Teacher Education
+628
+ENG English
+631
+ENT Engineering Technology
+641
+FRE French
+643
+FSW Family Studies And Social Work
+644
+GEO Geography
+646
+GER German
+647
+GLG Geology
+648
+HST History
+650
+IDS Interdisciplinary
+654
+MBI Microbiology
+655
+MGT Management
+657
+MIS Management Information Systems
+658
+MKT Marketing
+659
+MTH Mathematics
+660
+MUS Music
+666
+NSG Nursing
+668
+PHL Philosophy
+670
+PHS Phy Edu, Hlth, & Sport Studies
+672
+PHY Physics
+678
+POL Political Science
+680
+PSY Psychology
+681
+SOC Sociology
+683
+SPN Spanish
+686
+STA Statistics
+688
+THE Theatre
+689
+WMS Women'S Studies
+690
+ZOO Zoology
+691
+Hamilton Campus
+694
+ACC Accountancy
+695
+AER Aeronautics
+697
+ART Art
+698
+ATH Anthropology
+702
+BOT Botany
+704
+BTE Business Technology
+705
+BWS Black World Studies
+712
+CHM Chemistry & Biochemistry
+713

@@ -1,0 +1,301 @@
+testRun: 06/30/04 @ 16:12 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2002-03 Middletown Campus
+Page: 623 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total CHM 241
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+8
+0
+0
+6
+0
+0
+1
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+2.65
+% 0.0 19.0 0.0 0.0 38.1 0.0 0.0 28.6 0.0 0.0 4.8 0.0 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 244 M A Kittredge Kevin W. Organic Chemistry Laboratory
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+3
+0
+0
+4
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+3.17
+% 0.0 52.6 0.0 0.0 15.8 0.0 0.0 21.1 0.0 0.0 0.0 0.0 5.3 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CHM 244
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+0
+0
+3
+0
+0
+4
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+3.17
+% 0.0 52.6 0.0 0.0 15.8 0.0 0.0 21.1 0.0 0.0 0.0 0.0 5.3 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0
+CHM 625 M A Sarquis Arlyne M. Teaching Chemistry with TOYS
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+74
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+13
+4
+0
+0
+0
+3.97
+% 0.0 77.9 2.1 0.0 2.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 13.7 4.2 0.0 0.0 0.0
+Course Total CHM 625
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+74
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+13
+4
+0
+0
+0
+3.97
+% 0.0 77.9 2.1 0.0 2.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 13.7 4.2 0.0 0.0 0.0
+CHM 627 M A Sarquis Arlyne M. Applying Chemistry Across Curr
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+93
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+9
+2
+0
+0
+0
+3.97
+% 0.0 86.9 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.4 1.9 0.0 0.0 0.0
+Course Total CHM 627
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+93
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+9
+2
+0
+0
+0
+3.97
+% 0.0 86.9 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.4 1.9 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

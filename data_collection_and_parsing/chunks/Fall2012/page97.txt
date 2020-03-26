@@ -1,0 +1,306 @@
+testRun: 01/23/13 @ 12:04 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2012-13 Oxford Campus
+Page: 93 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BOT 131 VJ Huerta Alfredo J. Plants Humanity & Environment
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+5
+4
+3
+5
+1
+5
+2
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.82
+% 0.0 6.9 17.2 13.8 10.3 17.2 3.4 17.2 6.9 0.0 3.4 0.0 0.0 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BOT 131 VK Huerta Alfredo J. Plants Humanity & Environment
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+7
+3
+4
+2
+1
+1
+2
+0
+0
+2
+0
+0
+0
+0
+2
+0
+0
+0
+2.70
+% 0.0 6.9 10.3 24.1 10.3 13.8 6.9 3.4 3.4 6.9 0.0 0.0 6.9 0.0 0.0 0.0 0.0 6.9 0.0 0.0 0.0
+BOT 131 VL Huerta Alfredo J. Plants Humanity & Environment
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+3
+3
+8
+4
+4
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+2.91
+% 3.6 0.0 10.7 10.7 28.6 14.3 14.3 3.6 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 10.7 0.0 0.0 0.0
+BOT 131 VM Huerta Alfredo J. Plants Humanity & Environment
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+6
+3
+4
+7
+0
+2
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+1
+0
+0
+2.88
+% 3.7 3.7 22.2 11.1 14.8 25.9 0.0 7.4 0.0 0.0 0.0 0.0 7.4 0.0 0.0 0.0 0.0 0.0 3.7 0.0 0.0
+BOT 131 VN Huerta Alfredo J. Plants Humanity & Environment
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+0
+4
+4
+6
+5
+0
+3
+0
+1
+1
+0
+3
+1
+0
+0
+0
+0
+0
+0
+0
+2.56
+% 3.4 0.0 13.8 13.8 20.7 17.2 0.0 10.3 0.0 3.4 3.4 0.0 10.3 3.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total BOT 131
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+12
+33
+36
+38
+37
+14
+19
+10
+5
+5
+1
+12
+6
+0
+0
+0
+13
+2
+0
+0
+2.73
+% 1.2 4.9 13.4 14.6 15.4 15.0 5.7 7.7 4.1 2.0 2.0 0.4 4.9 2.4 0.0 0.0 0.0 5.3 0.8 0.0 0.0
+BOT 155 VA Meicenheimer Roger D. Field Botany
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+2
+8
+0
+1
+4
+0
+0
+1
+0
+1
+2
+0
+0
+0
+1
+0
+0
+0
+2.76
+% 0.0 16.7 0.0 8.3 33.3 0.0 4.2 16.7 0.0 0.0 4.2 0.0 4.2 8.3 0.0 0.0 0.0 4.2 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

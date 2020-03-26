@@ -1,0 +1,304 @@
+testRun: 09/27/12 @ 10:49 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2011-12 Oxford Campus
+Page: 28 Sections of 10
+BUS Business Analysis
+Miami Plan
+Honors
+Cross Listing
+BUS 299E A Suellau Kim I. FSB First Year Summer Abroad
+N
+N
+45
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+Course Total BUS 299E
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+21
+0
+0
+0
+0.00
+% 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 100.0 0.0 0.0 0.0
+BUS 301 A Collins Ronald G. Macro Concepts in Contemp Bus
+N
+N
+CE
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+18
+17
+11
+4
+4
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.35
+% 0.0 19.7 23.7 22.4 14.5 5.3 5.3 2.6 1.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0
+Course Total BUS 301
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+15
+18
+17
+11
+4
+4
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.35
+% 0.0 19.7 23.7 22.4 14.5 5.3 5.3 2.6 1.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0
+BUS 302 A Collins Ronald G. Micro Concepts in Contemp Bus
+N
+N
+CE
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+14
+15
+8
+6
+3
+5
+3
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.27
+% 0.0 23.7 18.4 19.7 10.5 7.9 3.9 6.6 3.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0
+Course Total BUS 302
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+14
+15
+8
+6
+3
+5
+3
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.27
+% 0.0 23.7 18.4 19.7 10.5 7.9 3.9 6.6 3.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0
+BUS 303 A Collins Ronald G. Business Process Integration
+N
+N
+CE
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+13
+9
+12
+2
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+3.33
+% 0.0 17.0 24.5 17.0 22.6 3.8 9.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.7 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

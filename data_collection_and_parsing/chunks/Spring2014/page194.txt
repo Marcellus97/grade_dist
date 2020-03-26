@@ -1,0 +1,306 @@
+testRun: 06/23/14 @ 07:05 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Spring Semester, 2013-14 Oxford Campus
+Page: 190 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDP 201 F Schroer Joseph E. Human Dvlpmnt&Learng/Ed Envir
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+6
+3
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+3.48
+% 0.0 25.0 30.0 15.0 10.0 15.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0
+Course Total EDP 201
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+17
+63
+39
+33
+17
+7
+6
+2
+4
+1
+0
+0
+3
+0
+0
+0
+1
+1
+0
+0
+0
+3.48
+% 8.8 32.5 20.1 17.0 8.8 3.6 3.1 1.0 2.1 0.5 0.0 0.0 1.5 0.0 0.0 0.0 0.5 0.5 0.0 0.0 0.0
+EDP 256 B Wasburn-Moses Leah H. Psy/Learners With Exception
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+28
+26
+17
+58
+22
+12
+16
+2
+1
+2
+1
+3
+3
+0
+0
+1
+0
+0
+0
+0
+3.03
+% 3.0 14.1 13.1 8.6 29.3 11.1 6.1 8.1 1.0 0.5 1.0 0.5 1.5 1.5 0.0 0.0 0.5 0.0 0.0 0.0 0.0
+Course Total EDP 256
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+28
+26
+17
+58
+22
+12
+16
+2
+1
+2
+1
+3
+3
+0
+0
+1
+0
+0
+0
+0
+3.03
+% 3.0 14.1 13.1 8.6 29.3 11.1 6.1 8.1 1.0 0.5 1.0 0.5 1.5 1.5 0.0 0.0 0.5 0.0 0.0 0.0 0.0
+EDP 272 A McMahon-Klosterman Kathy Intro to Disability Studies
+Y
+N
+CZ
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+3
+5
+3
+1
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.52
+% 6.3 18.8 31.3 18.8 6.3 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 272 B McMahon-Klosterman Kathy Intro to Disability Studies
+Y
+N
+6Z
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+0
+2
+1
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.14
+% 0.0 18.2 36.4 0.0 18.2 9.1 9.1 0.0 0.0 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDP 272 C Johnson Ashley E. Intro to Disability Studies
+Y
+N
+4N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+11
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.98
+% 0.0 91.7 8.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

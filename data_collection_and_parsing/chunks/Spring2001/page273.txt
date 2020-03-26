@@ -1,0 +1,308 @@
+testRun: 06/30/04 @ 12:55 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2000-01 Oxford Campus
+Page: 270 Sections of 10
+GLG Geology
+Miami Plan
+Honors
+Cross Listing
+GLG 111 A Bertog Janet L. The Dynamic Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+16
+4
+22
+13
+11
+8
+5
+1
+1
+2
+1
+3
+2
+0
+0
+0
+0
+7
+0
+0
+0
+3.14
+% 16.7 4.2 22.9 13.5 11.5 8.3 5.2 1.0 1.0 2.1 1.0 3.1 2.1 0.0 0.0 0.0 0.0 7.3 0.0 0.0 0.0
+GLG 111 B Bertog Janet L. The Dynamic Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+15
+24
+22
+14
+3
+0
+2
+3
+0
+1
+0
+1
+1
+0
+0
+0
+0
+5
+1
+0
+0
+3.55
+% 16.3 26.1 23.9 15.2 3.3 0.0 2.2 3.3 0.0 1.1 0.0 1.1 1.1 0.0 0.0 0.0 0.0 5.4 1.1 0.0 0.0
+GLG 111 C Bertog Janet L. The Dynamic Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+16
+13
+13
+10
+7
+9
+6
+6
+3
+0
+2
+0
+2
+0
+1
+0
+0
+3
+0
+0
+0
+3.16
+% 17.6 14.3 14.3 11.0 7.7 9.9 6.6 6.6 3.3 0.0 2.2 0.0 2.2 0.0 1.1 0.0 0.0 3.3 0.0 0.0 0.0
+GLG 111 D Widom Elisabeth The Dynamic Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+11
+18
+27
+21
+29
+16
+10
+14
+9
+7
+6
+3
+7
+1
+0
+0
+0
+4
+1
+0
+0
+2.80
+% 6.0 9.8 14.7 11.4 15.8 8.7 5.4 7.6 4.9 3.8 3.3 1.6 3.8 0.5 0.0 0.0 0.0 2.2 0.5 0.0 0.0
+Course Total GLG 111
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+58
+59
+84
+58
+50
+33
+23
+24
+13
+10
+9
+7
+12
+1
+1
+0
+0
+19
+2
+0
+0
+3.09
+% 12.5 12.7 18.1 12.5 10.8 7.1 5.0 5.2 2.8 2.2 1.9 1.5 2.6 0.2 0.2 0.0 0.0 4.1 0.4 0.0 0.0
+GLG 115L 1 O'Grady Leanna E. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+2
+3
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+3.41
+% 0.0 16.7 22.2 11.1 16.7 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 22.2 0.0 0.0 0.0
+GLG 115L 2 Losey Arthur B. Understanding The Earth
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+5
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+3.40
+% 0.0 25.0 6.3 31.3 12.5 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 12.5 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

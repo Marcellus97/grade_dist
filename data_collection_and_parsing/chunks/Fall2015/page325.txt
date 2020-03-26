@@ -1,0 +1,297 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 321 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total GLG 211
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+10
+4
+3
+0
+1
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.63
+% 0.0 33.3 33.3 13.3 10.0 0.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 244 A Boardman Mark R. Oceanography
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+52
+0
+0
+39
+0
+0
+11
+0
+0
+1
+0
+2
+3
+0
+0
+0
+5
+1
+0
+0
+3.31
+% 0.0 45.6 0.0 0.0 34.2 0.0 0.0 9.6 0.0 0.0 0.9 0.0 1.8 2.6 0.0 0.0 0.0 4.4 0.9 0.0 0.0
+Course Total GLG 244
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+52
+0
+0
+39
+0
+0
+11
+0
+0
+1
+0
+2
+3
+0
+0
+0
+5
+1
+0
+0
+3.31
+% 0.0 45.6 0.0 0.0 34.2 0.0 0.0 9.6 0.0 0.0 0.9 0.0 1.8 2.6 0.0 0.0 0.0 4.4 0.9 0.0 0.0
+GLG 261 A Brudzinski Michael R. Geohazards & Solid Earth
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+8
+10
+3
+3
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 0.0 3.1 15.6 25.0 31.3 9.4 9.4 3.1 0.0 0.0 0.0 0.0 0.0 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total GLG 261
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+5
+8
+10
+3
+3
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.09
+% 0.0 3.1 15.6 25.0 31.3 9.4 9.4 3.1 0.0 0.0 0.0 0.0 0.0 3.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+GLG 307 A Boardman Mark R. Water and Society
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+39
+0
+0
+47
+0
+2
+7
+0
+0
+0
+0
+1
+1
+0
+0
+0
+9
+0
+0
+0
+3.29
+% 0.0 36.8 0.0 0.0 44.3 0.0 1.9 6.6 0.0 0.0 0.0 0.0 0.9 0.9 0.0 0.0 0.0 8.5 0.0 0.0 0.0
+Course Total GLG 307
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+39
+0
+0
+47
+0
+2
+7
+0
+0
+0
+0
+1
+1
+0
+0
+0
+9
+0
+0
+0
+3.29
+% 0.0 36.8 0.0 0.0 44.3 0.0 1.9 6.6 0.0 0.0 0.0 0.0 0.9 0.9 0.0 0.0 0.0 8.5 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,305 @@
+testRun: 06/30/04 @ 15:32 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2001-02 Middletown Campus
+Page: 637 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+ENG 131 M A Coakley Jean A. Life&Thought In English Lit
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+0
+0
+2
+0
+3
+2
+1
+0
+1
+0
+0
+0
+2
+3
+0
+0
+0
+0
+0
+2.51
+% 4.8 28.6 0.0 0.0 9.5 0.0 14.3 9.5 4.8 0.0 4.8 0.0 0.0 0.0 9.5 14.3 0.0 0.0 0.0 0.0 0.0
+ENG 131 M B Miller Corinne L. Life&Thought In English Lit
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+8
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+3.00
+% 14.3 57.1 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 21.4 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 131
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+14
+0
+0
+2
+0
+3
+3
+1
+0
+1
+0
+0
+0
+2
+6
+0
+0
+0
+0
+0
+2.72
+% 8.6 40.0 0.0 0.0 5.7 0.0 8.6 8.6 2.9 0.0 2.9 0.0 0.0 0.0 5.7 17.1 0.0 0.0 0.0 0.0 0.0
+ENG 141 M A Ganim Carole Life&Thought In American Lit
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+5
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 18.2 0.0 0.0 45.5 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 27.3 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total ENG 141
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+5
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+3.16
+% 0.0 18.2 0.0 0.0 45.5 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 27.3 0.0 0.0 0.0 0.0 0.0 0.0
+ENG 151 M A Cook Elizabeth S. Intro To Critical Reading
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+1
+2
+4
+2
+5
+1
+2
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+0
+0
+2.63
+% 0.0 9.5 4.8 9.5 19.0 9.5 23.8 4.8 9.5 0.0 0.0 0.0 0.0 4.8 0.0 4.8 0.0 0.0 0.0 0.0 0.0
+ENG 151 M B Becker Donna Intro To Critical Reading
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+2.22
+% 45.5 0.0 0.0 0.0 0.0 9.1 0.0 0.0 9.1 0.0 0.0 0.0 0.0 0.0 0.0 36.4 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

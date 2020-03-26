@@ -1,0 +1,300 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 335 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+Course Total HST 111
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+40
+53
+69
+45
+24
+16
+9
+9
+3
+1
+7
+11
+0
+0
+0
+10
+0
+0
+0
+2.83
+% 0.0 3.3 13.0 17.3 22.5 14.7 7.8 5.2 2.9 2.9 1.0 0.3 2.3 3.6 0.0 0.0 0.0 3.3 0.0 0.0 0.0
+HST 121 AA de Boer Wietse T. Western Civilization
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+2
+10
+6
+3
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.93
+% 0.0 4.0 4.0 8.0 40.0 24.0 12.0 0.0 0.0 0.0 0.0 0.0 0.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 121 BA de Boer Wietse T. Western Civilization
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+6
+1
+4
+3
+1
+6
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.64
+% 0.0 0.0 24.0 4.0 16.0 12.0 4.0 24.0 8.0 8.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total HST 121
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+7
+3
+14
+9
+4
+6
+2
+2
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.78
+% 0.0 2.0 14.0 6.0 28.0 18.0 8.0 12.0 4.0 4.0 0.0 0.0 0.0 4.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 122 A Chandler Dewitt S. Western Civilization
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+11
+18
+7
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 0.0 17.4 23.9 39.1 15.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total HST 122
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+8
+11
+18
+7
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 0.0 17.4 23.9 39.1 15.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 4.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+HST 197 AA Seijas Tatiana World History to 1500
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+12
+86
+24
+19
+30
+18
+12
+4
+4
+3
+4
+4
+6
+15
+0
+0
+0
+3
+1
+0
+0
+3.25
+% 4.9 35.1 9.8 7.8 12.2 7.3 4.9 1.6 1.6 1.2 1.6 1.6 2.4 6.1 0.0 0.0 0.0 1.2 0.4 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

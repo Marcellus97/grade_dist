@@ -1,0 +1,305 @@
+testRun: 01/25/06 @ 12:34 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+First Semester, 2005-06 Oxford Campus
+Page: 180 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+EDT 190 B Shearer Robert L. Intro To Teaching Profession
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+10
+10
+5
+4
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.65
+% 3.2 32.3 32.3 16.1 12.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 190 C Shearer Robert L. Intro To Teaching Profession
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+2
+10
+7
+5
+3
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+3.65
+% 6.7 33.3 23.3 16.7 10.0 3.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0
+Course Total EDT 190
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+3
+28
+27
+14
+12
+1
+1
+0
+0
+0
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+0
+3.62
+% 3.4 31.5 30.3 15.7 13.5 1.1 1.1 0.0 0.0 0.0 0.0 0.0 0.0 1.1 0.0 0.0 2.2 0.0 0.0 0.0 0.0
+EDT 246A A Frager Alan M. Fdtns Reading,Lang &Literature
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+0
+4
+0
+0
+1
+0
+0
+3
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 27.8 16.7 0.0 22.2 0.0 0.0 5.6 0.0 0.0 16.7 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total EDT 246A
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+0
+4
+0
+0
+1
+0
+0
+3
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.01
+% 0.0 27.8 16.7 0.0 22.2 0.0 0.0 5.6 0.0 0.0 16.7 0.0 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 246E A Kleiman Irene L. Foundtns/Reading Lang&Literacy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+5
+15
+6
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.89
+% 17.9 53.6 21.4 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+EDT 246E B Kleiman Irene L. Foundtns/Reading Lang&Literacy
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+6
+6
+6
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.85
+% 31.6 31.6 31.6 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

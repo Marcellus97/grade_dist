@@ -1,0 +1,309 @@
+testRun: 11/24/14 @ 09:11 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Term, 2013-14 Oxford Campus
+Page: 27 Sections of 10
+COM Communication
+Miami Plan
+Honors
+Cross Listing
+COM 135 TA Gennaria Janice K. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+3
+2
+2
+2
+0
+2
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.81
+% 0.0 16.7 16.7 11.1 11.1 11.1 0.0 11.1 11.1 0.0 11.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 TB Behnke Daniel G. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+6
+2
+2
+1
+0
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.50
+% 0.0 26.3 31.6 10.5 10.5 5.3 0.0 5.3 0.0 0.0 0.0 0.0 0.0 10.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 TC Hopkins Ian P. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+2
+1
+2
+1
+1
+1
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.41
+% 0.0 40.0 13.3 6.7 13.3 6.7 6.7 6.7 0.0 0.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 UA Everett Brittany E. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+2
+7
+1
+0
+1
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.00
+% 0.0 5.9 11.8 11.8 41.2 5.9 0.0 5.9 0.0 5.9 0.0 0.0 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 UB Storr Michael Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+7
+2
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3.56
+% 0.0 21.4 50.0 14.3 0.0 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 UC Gaines Rondee J. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+2
+3
+0
+2
+0
+0
+1
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.52
+% 0.0 7.7 7.7 15.4 23.1 0.0 15.4 0.0 0.0 7.7 7.7 0.0 7.7 7.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+COM 135 ZA Patrick-Gaines Jennifer L. Intro: Publ Express & Crit Inq
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+14
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+3.88
+% 0.0 77.8 5.6 5.6 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

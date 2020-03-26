@@ -1,0 +1,307 @@
+testRun: 06/13/06 @ 13:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2005-06 Oxford Campus
+Page: 375 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MKT 315 A Barr Terri F. Creating Customer Value
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+4
+4
+6
+2
+3
+4
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.84
+% 0.0 10.0 13.3 13.3 20.0 6.7 10.0 13.3 13.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 315 B Rosenthal David W. Creating Customer Value
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+2
+10
+7
+4
+3
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.79
+% 0.0 5.9 8.8 5.9 29.4 20.6 11.8 8.8 8.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 315 C Barr Terri F. Creating Customer Value
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+6
+11
+1
+3
+5
+3
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.79
+% 0.0 5.6 11.1 16.7 30.6 2.8 8.3 13.9 8.3 0.0 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 315 D Rosenthal David W. Creating Customer Value
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+3
+11
+6
+4
+1
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 3.1 6.3 9.4 34.4 18.8 12.5 3.1 12.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 315 E Rosenthal David W. Creating Customer Value
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+3
+3
+14
+5
+4
+3
+1
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.90
+% 0.0 5.6 8.3 8.3 38.9 13.9 11.1 8.3 2.8 0.0 0.0 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total MKT 315
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+10
+16
+18
+52
+21
+18
+16
+15
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+2.82
+% 0.0 6.0 9.5 10.7 31.0 12.5 10.7 9.5 8.9 0.0 0.0 0.0 0.6 0.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MKT 325 A Norris Donald G. Consumer Behavior
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+3
+1
+1
+2
+2
+9
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.52
+% 0.0 5.0 15.0 5.0 5.0 10.0 10.0 45.0 0.0 0.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

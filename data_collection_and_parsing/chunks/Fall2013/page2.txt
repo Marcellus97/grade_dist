@@ -1,0 +1,124 @@
+testMKT Marketing
+449
+MME Manufact & Mechan Engineering
+459
+MTH Mathematics
+469
+MUS Music
+489
+NSC Naval Science
+506
+PHL Philosophy
+509
+PHY Physics
+515
+PLW Pre-Law Studies
+529
+PMD Premedical Studies
+530
+POL Political Science
+531
+POR Portuguese
+543
+PSY Psychology
+544
+REL Religion, Comparative
+560
+RUS Russian
+564
+SCA School Of Creative Arts
+566
+SJS Social Justice Studies
+568
+SOC Sociology
+570
+SPA Speech Pathology & Audiology
+577
+SPN Spanish
+585
+STA Statistics
+601
+THE Theatre
+609
+WGS Women,Gender&Sexuality Studies
+617
+WST Western Program
+620
+Hamilton Campus
+624
+ACC Accountancy
+625
+AMS American Studies
+626
+ART Art
+627
+ATH Anthropology
+631
+BIO Biology
+633
+BIS Integrative Studies
+640
+BTE Business Technology
+642
+BUS Business Analysis
+651
+BWS Black World Studies
+652
+CHM Chemistry & Biochemistry
+654
+CIT Comp Information Technology
+657
+CJS Criminal Justice Studies
+661
+COM Communication
+665
+CSE Comp Sci &Software Engineering
+670
+DST Disability Studies
+673
+EAS Engineering & App Science
+674
+ECO Economics
+675
+EDL Educational Leadership
+677
+EDP Educational Psychology
+680
+EDT Teacher Education
+682
+ENG English
+687
+ENT Engineering Technology
+702
+FRE French
+706
+FST Film Studies
+707
+FSW Family Studies And Social Work
+708
+GEO Geography
+712
+GER German
+714
+GLG Geology
+715
+HON Honors
+718
+HST History
+719
+IDS Interdisciplinary
+724
+ITL Italian
+725
+ITS International Studies
+726
+JRN Journalism
+727
+KNH Kinesiology And Health
+728
+MBI Microbiology
+736
+MGT Management
+739
+MKT Marketing
+740

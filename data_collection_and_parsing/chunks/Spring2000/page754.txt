@@ -1,0 +1,217 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Hamilton Campus
+Page: 751 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+SAN 271 H A Cantonwine Paul F. Object-Oriented Programming
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+1
+5
+3
+3
+4
+0
+0
+0
+0
+2
+0
+4
+1
+0
+0
+0
+0
+0
+2.56
+% 0.0 6.9 13.8 3.4 17.2 10.3 10.3 13.8 0.0 0.0 0.0 0.0 6.9 0.0 13.8 3.4 0.0 0.0 0.0 0.0 0.0
+Course Total SAN 271
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+4
+1
+5
+3
+3
+4
+0
+0
+0
+0
+2
+0
+4
+1
+0
+0
+0
+0
+0
+2.56
+% 0.0 6.9 13.8 3.4 17.2 10.3 10.3 13.8 0.0 0.0 0.0 0.0 6.9 0.0 13.8 3.4 0.0 0.0 0.0 0.0 0.0
+SAN 276 H A Litty Robert D. Systems Analysis & Design
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+0
+4
+3
+4
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.50
+% 0.0 0.0 7.1 0.0 28.6 21.4 28.6 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0
+Course Total SAN 276
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+1
+0
+4
+3
+4
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.50
+% 0.0 0.0 7.1 0.0 28.6 21.4 28.6 7.1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0
+Systems Analysis Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 7
+27
+21
+17
+32
+18
+22
+24
+6
+10
+6
+7
+8
+27
+27
+11
+0
+45
+8
+0
+0
+2.53
+% 2.2 8.4 6.5 5.3 9.9 5.6 6.8 7.4 1.9 3.1 1.9 2.2 2.5 8.4 8.4 3.4 0.0 13.9 2.5 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

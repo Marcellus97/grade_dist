@@ -1,0 +1,298 @@
+testRun: 01/25/16 @ 10:18 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2015-16 Oxford Campus
+Page: 115 Sections of 10
+CEC Col Of Engineering & Computing
+Miami Plan
+Honors
+Cross Listing
+CEC 101 TA Setlock Robert J. Computing, Engineering &Societ
+N
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+204 0
+0
+36
+0
+0
+11
+0
+0
+13
+0
+13
+5
+0
+0
+0
+0
+0
+0
+0
+3.46
+% 0.0 72.3 0.0 0.0 12.8 0.0 0.0 3.9 0.0 0.0 4.6 0.0 4.6 1.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CEC 101 TB Setlock Robert J. Computing, Engineering &Societ
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+173 0
+0
+35
+0
+0
+21
+0
+0
+6
+0
+6
+9
+0
+0
+0
+0
+0
+0
+0
+3.51
+% 0.0 69.2 0.0 0.0 14.0 0.0 0.0 8.4 0.0 0.0 2.4 0.0 2.4 3.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CEC 101
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+377 0
+0
+71
+0
+0
+32
+0
+0
+19
+0
+19
+14
+0
+0
+0
+0
+0
+0
+0
+3.48
+% 0.0 70.9 0.0 0.0 13.3 0.0 0.0 6.0 0.0 0.0 3.6 0.0 3.6 2.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CEC 205 VA Troy Douglas A. Agile Launchpad I
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CEC 205
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+18
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4.00
+% 0.0 100.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+CEC 266 A Kirkmeyer Brian P. Engineering Global Heavy Metal
+Y
+N
+10
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+17
+14
+24
+11
+11
+6
+1
+2
+4
+0
+6
+2
+0
+0
+0
+0
+0
+0
+0
+2.86
+% 0.0 14.0 14.9 12.3 21.1 9.6 9.6 5.3 0.9 1.8 3.5 0.0 5.3 1.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total CEC 266
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+16
+17
+14
+24
+11
+11
+6
+1
+2
+4
+0
+6
+2
+0
+0
+0
+0
+0
+0
+0
+2.86
+% 0.0 14.0 14.9 12.3 21.1 9.6 9.6 5.3 0.9 1.8 3.5 0.0 5.3 1.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

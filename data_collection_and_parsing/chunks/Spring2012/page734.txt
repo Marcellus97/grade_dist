@@ -1,0 +1,174 @@
+testRun: 07/10/12 @ 10:19 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2011-12 Middletown Campus
+Page: 730 Sections of 10
+PHL Philosophy
+Miami Plan
+Honors
+Cross Listing
+PHL 273 G A Domino Brian Formal Logic
+Y
+N
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+5
+0
+0
+3
+0
+0
+0
+0
+1
+1
+0
+3
+3
+0
+0
+1
+0
+0
+0
+0
+2.52
+% 5.6 27.8 0.0 0.0 16.7 0.0 0.0 0.0 0.0 5.6 5.6 0.0 16.7 16.7 0.0 0.0 5.6 0.0 0.0 0.0 0.0
+PHL 273 M B Domino Brian Formal Logic
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+1
+5
+0
+0
+2
+0
+0
+1
+1
+1
+9
+0
+0
+0
+0
+0
+0
+0
+2.44
+% 0.0 4.5 4.5 4.5 22.7 0.0 0.0 9.1 0.0 0.0 4.5 4.5 4.5 40.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHL 273
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+6
+1
+1
+8
+0
+0
+2
+0
+1
+2
+1
+4
+12
+0
+0
+1
+0
+0
+0
+0
+2.48
+% 2.5 15.0 2.5 2.5 20.0 0.0 0.0 5.0 0.0 2.5 5.0 2.5 10.0 30.0 0.0 0.0 2.5 0.0 0.0 0.0 0.0
+Philosophy Total
+A+ A
+A-
+B+ B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 1
+6
+1
+1
+8
+0
+0
+2
+0
+1
+2
+1
+4
+12
+0
+0
+1
+0
+0
+0
+0
+2.48
+% 2.5 15.0 2.5 2.5 20.0 0.0 0.0 5.0 0.0 2.5 5.0 2.5 10.0 30.0 0.0 0.0 2.5 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

@@ -1,0 +1,309 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 323 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+MGT 302 I Luebbe Richard L. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+1
+1
+5
+1
+5
+9
+2
+9
+2
+0
+1
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.60
+% 2.7 2.7 13.5 2.7 13.5 24.3 5.4 24.3 5.4 0.0 2.7 0.0 2.7 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 J Newman William E. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+6
+0
+0
+21
+0
+0
+6
+0
+0
+2
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 16.7 0.0 0.0 58.3 0.0 0.0 16.7 0.0 0.0 5.6 0.0 0.0 0.0 2.8 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 K Fennema Dennis D. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+6
+5
+3
+5
+8
+5
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.48
+% 0.0 5.6 0.0 16.7 13.9 8.3 13.9 22.2 13.9 2.8 2.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 L Fennema Dennis D. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+2
+4
+11
+5
+4
+2
+3
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2.78
+% 0.0 5.9 5.9 11.8 32.4 14.7 11.8 5.9 8.8 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 M Fennema Dennis D. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+6
+2
+6
+5
+2
+8
+1
+0
+0
+1
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.77
+% 0.0 5.9 17.6 5.9 17.6 14.7 5.9 23.5 2.9 0.0 0.0 2.9 0.0 0.0 2.9 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 N Fennema Dennis D. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+2
+5
+9
+4
+2
+3
+4
+2
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+2.60
+% 0.0 3.0 6.1 15.2 27.3 12.1 6.1 9.1 12.1 6.1 0.0 0.0 3.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+MGT 302 O Williams Steven C. Operations Management
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+10
+3
+7
+2
+3
+1
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+3.38
+% 0.0 24.3 27.0 8.1 18.9 5.4 8.1 2.7 0.0 0.0 0.0 0.0 0.0 5.4 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

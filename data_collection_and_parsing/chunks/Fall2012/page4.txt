@@ -1,0 +1,50 @@
+testGLG Geology
+837
+HON Honors
+839
+HST History
+840
+IDS Interdisciplinary
+844
+IES Environmental Sciences
+845
+ITL Italian
+846
+JRN Journalism
+847
+KNH Kinesiology And Health
+848
+MBI Microbiology
+858
+MGT Management
+861
+MKT Marketing
+862
+MTH Mathematics
+863
+MUS Music
+873
+NSG Nursing
+875
+PHL Philosophy
+880
+PHY Physics
+881
+POL Political Science
+884
+PSY Psychology
+886
+REL Religion, Comparative
+888
+SOC Sociology
+889
+SPN Spanish
+891
+STA Statistics
+893
+THE Theatre
+894
+WGS Women,Gender&Sexuality Studies
+896
+ZOO Zoology
+897

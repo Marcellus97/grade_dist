@@ -1,0 +1,219 @@
+testRun: 02/07/05 @ 11:26 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Summer Session, 2003-04 Oxford Campus
+Page: 126 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+SPN 202 MA Tolentino Teresa Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+1
+2
+6
+1
+1
+4
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+2.83
+% 0.0 5.9 5.9 11.8 35.3 5.9 5.9 23.5 0.0 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+SPN 202 OA Tolentino Teresa Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+1
+1
+2
+2
+1
+2
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+2.91
+% 0.0 28.6 7.1 7.1 14.3 14.3 7.1 14.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 7.1 0.0 0.0 0.0 0.0 0.0
+SPN 202 OB Bauer Rachel N. Second Year Spanish
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+2
+1
+2
+0
+3
+2
+0
+2
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+2.89
+% 0.0 23.5 11.8 5.9 11.8 0.0 17.6 11.8 0.0 11.8 0.0 0.0 0.0 0.0 5.9 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total SPN 202
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+9
+4
+4
+10
+3
+5
+8
+0
+2
+0
+0
+0
+1
+1
+1
+0
+0
+0
+0
+0
+2.87
+% 0.0 18.8 8.3 8.3 20.8 6.3 10.4 16.7 0.0 4.2 0.0 0.0 0.0 2.1 2.1 2.1 0.0 0.0 0.0 0.0 0.0
+Spanish Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 0
+17
+9
+10
+17
+11
+6
+11
+2
+4
+1
+0
+0
+4
+3
+1
+0
+0
+0
+0
+0
+2.93
+% 0.0 17.7 9.4 10.4 17.7 11.5 6.3 11.5 2.1 4.2 1.0 0.0 0.0 4.2 3.1 1.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

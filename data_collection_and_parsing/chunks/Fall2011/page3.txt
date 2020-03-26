@@ -1,0 +1,124 @@
+testEAS Engineering & App Science
+693
+ECO Economics
+694
+EDL Educational Leadership
+695
+EDP Educational Psychology
+697
+EDT Teacher Education
+699
+ENG English
+703
+ENT Engineering Technology
+713
+FRE French
+716
+FST Film Studies
+717
+FSW Family Studies And Social Work
+718
+GEO Geography
+720
+GLG Geology
+721
+HON Honors
+723
+HST History
+724
+IDS Interdisciplinary
+728
+JRN Journalism
+729
+KNH Kinesiology And Health
+730
+MBI Microbiology
+735
+MGT Management
+737
+MKT Marketing
+738
+MTH Mathematics
+739
+MUS Music
+746
+NSG Nursing
+748
+PHL Philosophy
+751
+PHY Physics
+752
+POL Political Science
+755
+PSY Psychology
+756
+REL Religion, Comparative
+759
+SOC Sociology
+760
+SPN Spanish
+762
+STA Statistics
+764
+THE Theatre
+765
+WGS Women,Gender&Sexuality Studies
+766
+ZOO Zoology
+767
+Hamilton Campus
+771
+ACC Accountancy
+772
+ART Art
+773
+ATH Anthropology
+778
+BIS Integrative Studies
+780
+BOT Botany
+782
+BTE Business Technology
+784
+BUS Business Analysis
+791
+BWS Black World Studies
+792
+CHI Chinese
+794
+CHM Chemistry & Biochemistry
+795
+CIT Comp Information Technology
+798
+CJS Criminal Justice Studies
+802
+COM Communication
+804
+CSE Comp Sci &Software Engineering
+809
+DSC Decision Sciences
+812
+EAS Engineering & App Science
+813
+ECO Economics
+814
+EDL Educational Leadership
+816
+EDP Educational Psychology
+819
+EDT Teacher Education
+822
+ENG English
+827
+ENT Engineering Technology
+845
+FRE French
+849
+FST Film Studies
+850
+FSW Family Studies And Social Work
+851
+GEO Geography
+854
+GER German
+855

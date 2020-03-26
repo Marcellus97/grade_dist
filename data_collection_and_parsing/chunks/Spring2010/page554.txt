@@ -1,0 +1,62 @@
+testRun: 07/06/10 @ 14:31 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 2009-10 Oxford Campus
+Page: 550 Sections of 10
+Psychology Total
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+UG 38
+509 341 273 349 221 160 161 53
+35
+42
+17
+41
+54
+0
+0
+23
+8
+0
+0
+0
+3.07
+% 1.6 21.9 14.7 11.7 15.0 9.5 6.9 6.9 2.3 1.5 1.8 0.7 1.8 2.3 0.0 0.0 1.0 0.3 0.0 0.0 0.0
+GR 7
+17
+6
+4
+3
+1
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+1
+18
+0
+12
+0
+3.67
+% 9.9 23.9 8.5 5.6 4.2 1.4 0.0 0.0 0.0 0.0 0.0 0.0 1.4 1.4 0.0 0.0 1.4 25.4 0.0 16.9 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

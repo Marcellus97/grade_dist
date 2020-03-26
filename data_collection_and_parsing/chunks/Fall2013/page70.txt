@@ -1,0 +1,316 @@
+testRun: 01/15/14 @ 14:22 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Fall Semester, 2013-14 Oxford Campus
+Page: 66 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+BIO 115 CD Boone Michelle D. Biolog Concepts: Ecol Evol Gen
+Y
+N
+V2
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+1
+0
+0
+6
+0
+0
+6
+0
+0
+3
+0
+0
+1
+0
+0
+0
+0
+1
+0
+0
+2.31
+% 0.0 5.6 0.0 0.0 33.3 0.0 0.0 33.3 0.0 0.0 16.7 0.0 0.0 5.6 0.0 0.0 0.0 0.0 5.6 0.0 0.0
+BIO 115 CE Boone Michelle D. Biolog Concepts: Ecol Evol Gen
+Y
+N
+V3
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+5
+0
+0
+3
+0
+0
+3
+0
+1
+2
+0
+0
+0
+0
+0
+0
+0
+2.40
+% 0.0 17.6 0.0 0.0 29.4 0.0 0.0 17.6 0.0 0.0 17.6 0.0 5.9 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 115 CF Boone Michelle D. Biolog Concepts: Ecol Evol Gen
+Y
+N
+V4
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+4
+0
+0
+4
+0
+0
+5
+0
+0
+2
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+2.35
+% 0.0 22.2 0.0 0.0 22.2 0.0 0.0 27.8 0.0 0.0 11.1 0.0 11.1 5.6 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 115 CG Boone Michelle D. Biolog Concepts: Ecol Evol Gen
+Y
+N
+V5
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+5
+0
+0
+4
+0
+0
+1
+0
+1
+1
+0
+0
+0
+1
+1
+0
+0
+2.46
+% 0.0 12.5 0.0 0.0 31.3 0.0 0.0 25.0 0.0 0.0 6.3 0.0 6.3 6.3 0.0 0.0 0.0 6.3 6.3 0.0 0.0
+BIO 115 CH Boone Michelle D. Biolog Concepts: Ecol Evol Gen
+Y
+N
+V6
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+3
+0
+0
+7
+0
+0
+5
+0
+2
+1
+0
+0
+0
+0
+0
+0
+0
+1.89
+% 0.0 10.0 0.0 0.0 15.0 0.0 0.0 35.0 0.0 0.0 25.0 0.0 10.0 5.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+BIO 115 CI Boone Michelle D. Biolog Concepts: Ecol Evol Gen
+Y
+N
+V9
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+0
+0
+3
+0
+0
+3
+0
+0
+2
+0
+0
+3
+0
+0
+0
+1
+0
+0
+0
+2.64
+% 0.0 20.0 0.0 0.0 20.0 0.0 0.0 20.0 0.0 0.0 13.3 0.0 0.0 20.0 0.0 0.0 0.0 6.7 0.0 0.0 0.0
+BIO 115 CJ Boone Michelle D. Biolog Concepts: Ecol Evol Gen
+Y
+N
+JZ
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+0
+5
+0
+0
+4
+0
+0
+4
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+2.33
+% 0.0 11.8 0.0 0.0 29.4 0.0 0.0 23.5 0.0 0.0 23.5 0.0 0.0 11.8 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress

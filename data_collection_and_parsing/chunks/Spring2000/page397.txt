@@ -1,0 +1,304 @@
+testRun: 06/30/04 @ 10:53 Program: SZRGRDT.SQR Office of the Registrar
+MIAMI UNIVERSITY - OXFORD, OHIO Grade Distribution by Campus and by Department
+Second Semester, 1999-2000 Oxford Campus
+Page: 394 Sections of 10
+Miami Plan
+Honors
+Cross Listing
+PHL 131 F Friend Celeste M. Prob Of Moral & Social Values
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+5
+3
+3
+3
+2
+1
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+1
+0
+0
+0
+3.21
+% 0.0 26.3 15.8 15.8 15.8 10.5 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 5.3 0.0 0.0 0.0
+PHL 131 G Friend Celeste M. Prob Of Moral & Social Values
+Y
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+3
+5
+5
+3
+1
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+3.33
+% 0.0 15.8 26.3 26.3 15.8 5.3 0.0 0.0 0.0 5.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 5.3 0.0 0.0 0.0
+Course Total PHL 131
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+24
+21
+19
+30
+22
+10
+8
+5
+2
+1
+0
+0
+5
+3
+2
+0
+10
+2
+0
+0
+3.03
+% 0.0 14.6 12.8 11.6 18.3 13.4 6.1 4.9 3.0 1.2 0.6 0.0 0.0 3.0 1.8 1.2 0.0 6.1 1.2 0.0 0.0
+PHL 205 A Goldman Michael Science & Culture
+N
+N
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+3
+5
+7
+3
+7
+1
+0
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+2.54
+% 0.0 0.0 6.5 9.7 16.1 22.6 9.7 22.6 3.2 0.0 0.0 0.0 0.0 0.0 0.0 3.2 0.0 6.5 0.0 0.0 0.0
+Course Total PHL 205
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+0
+2
+3
+5
+7
+3
+7
+1
+0
+0
+0
+0
+0
+0
+1
+0
+2
+0
+0
+0
+2.54
+% 0.0 0.0 6.5 9.7 16.1 22.6 9.7 22.6 3.2 0.0 0.0 0.0 0.0 0.0 0.0 3.2 0.0 6.5 0.0 0.0 0.0
+PHL 255 A Zakin Emily A. Contemporary Feminism
+N
+N
+L1
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+3
+2
+3
+0
+0
+3
+0
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+2.72
+% 0.0 12.5 0.0 18.8 12.5 18.8 0.0 0.0 18.8 0.0 6.3 0.0 0.0 6.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0
+Course Total PHL 255
+A+ A
+A-
+B+
+B
+B-
+C+ C
+C-
+D+ D
+D-
+F
+W
+WP WF I
+X
+Y
+P
+S
+Avg GPA
+0
+2
+0
+3
+2
+3
+0
+0
+3
+0
+1
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+2.72
+% 0.0 12.5 0.0 18.8 12.5 18.8 0.0 0.0 18.8 0.0 6.3 0.0 0.0 6.3 6.3 0.0 0.0 0.0 0.0 0.0 0.0
+Grade key: I = Incomplete, X = Credit/No Credit, Y = Research/Credit/No, P = Pass/Fail, S = Satisfactory Progress
